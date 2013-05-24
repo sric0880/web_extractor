@@ -21,7 +21,7 @@ public:
 private:
 	int _threshold;
 	int _blocks_width;
-	regex e,e2;
+	regex e,e2,e3;
 };
 
 const int _len = 22;

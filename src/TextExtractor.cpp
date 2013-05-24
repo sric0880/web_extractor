@@ -17,7 +17,8 @@ e("(?is)(<!DOCTYPE.*?>)|(<!--.*?-->)|"
 		"(<style.*?>.*?</style>)|"
 		"(&.{2,5};|&#.{2,5};)|"
 		"(<.*?>)",regex::perl),
-e2("(?is)(\\s+)",regex::normal){
+e2("(?is)(\\s+)",regex::normal),
+e3("<title>(.*)</title>",regex::normal){
 	// TODO Auto-generated constructor stub
 }
 
@@ -28,6 +29,13 @@ TextExtractor::~TextExtractor() {
 
 string TextExtractor::extract(string html){
 //	printf("before:\n%s\n",html.c_str());
+	cmatch ma;
+	string title;
+	if(regex_search(html.c_str(),ma,e3))
+	{
+		title = ma[0];
+		title=title.substr(7,title.length()-15);//
+	}
 	html = regex_replace(html,e,"",match_default | format_all);
 //	printf("after:\n%s\n",html.c_str());
 
@@ -39,7 +47,8 @@ string TextExtractor::extract(string html){
 	int dist[num_lines];//distribution
 	for(i=0; i< num_lines; ++i)
 	{
-		lines[i] = regex_replace(lines[i],e2,"",match_default | format_all);
+		lines[i] = regex_replace(lines[i],e2," ",match_default | format_all);
+		trim(lines[i]);
 //		printf("%s\n",lines[i].c_str());
 	}
 	smatch mat;
@@ -53,10 +62,7 @@ string TextExtractor::extract(string html){
 				++count;
 		}
 		dist[i] = count*20;//一个标点符号加20个权重
-//		if(dist[i]!=0)
-//			printf("%d ",dist[i]);
 	}
-//	printf("\n");
 	for(i=0; i < num_lines-_blocks_width;++i)
 	{
 		for(int j = i; j<i+_blocks_width;++j)
@@ -67,7 +73,6 @@ string TextExtractor::extract(string html){
 	}
 	printf("\n");
 	int start_line,end_line;
-	string res;
 	int max = 0;
 	for(i=0; i<num_lines-1; ++i){//求最大行块
 		if(dist[i]>max){
@@ -75,6 +80,7 @@ string TextExtractor::extract(string html){
 			start_line = i;
 		}
 	}
+	end_line = start_line+1;
 	for (i = start_line + 1; i < num_lines; ++i) {//结束位置
 		if (dist[i] == 0) {
 			end_line = i;
@@ -88,16 +94,19 @@ string TextExtractor::extract(string html){
 		}
 	}
 
-	//开始与结束位置前后各取20行为正文
+	//开始与结束位置前后各取20/10行为正文
 	start_line-=20;
 	end_line+=10;
 	if(start_line<0) start_line=0;
 	if(end_line>num_lines) end_line=num_lines;
+	string res;
+	res.append(title);
+	res.append("\t");
 	for (i = start_line; i <= end_line; ++i) {
 		res.append(lines[i]);
-//		printf("%s\n",lines[i].c_str());
+		res.append("|");
 	}
-	//res = regex_replace(res,e2," ",match_default | format_all);
+	res = regex_replace(res,e2," ",match_default | format_all);
 	trim(res);
 	return res;
 }

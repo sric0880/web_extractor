@@ -8,8 +8,8 @@
 
 #include "HtmlProcessor.h"
 
-HtmlProcessor::HtmlProcessor():
-	queue_html(), text_ext(100, 5),flag(false) {
+HtmlProcessor::HtmlProcessor(Output* output, Template * temt):
+info_ext(output,temt),queue_html(), text_ext(100, 5),flag(false) {
 }
 
 HtmlProcessor::~HtmlProcessor() {
@@ -31,9 +31,6 @@ void HtmlProcessor::run(){
 		//正文提取
 		input = text_ext.extract(input);
 		//定义输出格式
-		OutputXml xml;
-		Output* output = &xml;
-		InfoExtractor info_ext(output);
 		info_ext.infoExtract(input);
 	}
 	pthread_exit( NULL);

@@ -12,8 +12,7 @@
 
 class OutputXml: public Output{
 public:
-	void output(Data entry){
-		printf("output xml start\n");
+	void output(const Data& entry){
 	}
 };
 

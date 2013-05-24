@@ -15,15 +15,17 @@
 #include "Thread.h"
 #include "TextExtractor.h"
 #include "InfoExtractor.h"
-#include "OutputXml.h"
+#include "Output.h"
+#include "Template.h"
 using namespace std;
 
 class HtmlProcessor:public Thread {
 public:
-	HtmlProcessor();
+	HtmlProcessor(Output* output, Template * temt);//输出格式 //网站模板
 	virtual ~HtmlProcessor();
 	void addHtml(string html);
 private:
+	InfoExtractor info_ext;
 	SafeQueue<string> queue_html;
 	TextExtractor text_ext;
 	bool flag;

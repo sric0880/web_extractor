@@ -12,12 +12,18 @@
 #include <vector>
 #include <stdlib.h>
 #include <stdio.h>
+#include "OutputXml.h"
+#include "OutputConsole.h"
+#include "TemplateHiall.h"
 #include "HtmlProcessor.h"
 using namespace std;
 
 int main() {
 
-	HtmlProcessor htmlpro;
+//	OutputXml xml;
+	OutputConsole console;
+	TemplateHiall hiall;
+	HtmlProcessor htmlpro(&console, &hiall);
 	htmlpro.start();
 	for(int i =0;i<5;++i){
 		char filename[20];

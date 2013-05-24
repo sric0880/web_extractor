@@ -11,18 +11,24 @@ O_SRCS += \
 CPP_SRCS += \
 ../src/HtmlProcessor.cpp \
 ../src/InfoExtractor.cpp \
+../src/Template.cpp \
+../src/TemplateHiall.cpp \
 ../src/TextExtractor.cpp \
 ../src/test.cpp 
 
 OBJS += \
 ./src/HtmlProcessor.o \
 ./src/InfoExtractor.o \
+./src/Template.o \
+./src/TemplateHiall.o \
 ./src/TextExtractor.o \
 ./src/test.o 
 
 CPP_DEPS += \
 ./src/HtmlProcessor.d \
 ./src/InfoExtractor.d \
+./src/Template.d \
+./src/TemplateHiall.d \
 ./src/TextExtractor.d \
 ./src/test.d 
 
