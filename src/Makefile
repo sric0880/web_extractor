@@ -1,0 +1,13 @@
+all: web_extractor
+
+web_extractor:TextExtractor.o HtmlProcessor.o test.o
+	g++ -L/usr/local/lib -o"web_extractor"  ./HtmlProcessor.o ./TextExtractor.o ./test.o   -lpthread -lboost_regex -lNLPIR
+TextExtractor.o:
+	g++ -I/usr/include/c++/4.7 -I/usr/include -I/usr/local/include -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++0x -o"TextExtractor.o" "./TextExtractor.cpp"
+HtmlProcessor.o:
+	g++ -I/usr/include/c++/4.7 -I/usr/include -I/usr/local/include -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++0x -o"HtmlProcessor.o" "./HtmlProcessor.cpp"
+test.o:
+	g++ -I/usr/include/c++/4.7 -I/usr/include -I/usr/local/include -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++0x -o"test.o" "./test.cpp"
+clean:
+	rm -rf  ./HtmlProcessor.o ./TextExtractor.o ./test.o  web_extractor
+
