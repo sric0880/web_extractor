@@ -17,7 +17,6 @@ public:
 	void match_position(Data& entry,const string& str);
 	void match_time(Data& entry,const string& str);
 	void match_workplace(Data& entry,const string& str);
-	void match_need_num(Data& entry,const string& str);
 };
 
 #endif /* TEMPLATEHIALL_H_ */

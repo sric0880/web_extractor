@@ -17,7 +17,7 @@ e("(?is)(<!DOCTYPE.*?>)|(<!--.*?-->)|"
 		"(<style.*?>.*?</style>)|"
 		"(&.{2,5};|&#.{2,5};)|"
 		"(<.*?>)",regex::perl),
-e2("(?is)(\\s+)",regex::normal),
+e2("(?is)(\\s+)|(\\/+)",regex::normal),
 e3("<title>(.*)</title>",regex::normal){
 	// TODO Auto-generated constructor stub
 }
@@ -35,6 +35,7 @@ string TextExtractor::extract(string html){
 	{
 		title = ma[0];
 		title=title.substr(7,title.length()-15);//
+		title = regex_replace(title,e2," ",match_default | format_all);
 	}
 	html = regex_replace(html,e,"",match_default | format_all);
 //	printf("after:\n%s\n",html.c_str());
@@ -101,10 +102,10 @@ string TextExtractor::extract(string html){
 	if(end_line>num_lines) end_line=num_lines;
 	string res;
 	res.append(title);
-	res.append("\t");
+	res.append("^");
 	for (i = start_line; i <= end_line; ++i) {
 		res.append(lines[i]);
-		res.append("|");
+		res.append(" ");
 	}
 	res = regex_replace(res,e2," ",match_default | format_all);
 	trim(res);

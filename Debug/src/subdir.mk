@@ -14,6 +14,7 @@ CPP_SRCS += \
 ../src/Template.cpp \
 ../src/TemplateHiall.cpp \
 ../src/TextExtractor.cpp \
+../src/UserDictforSkills.cpp \
 ../src/test.cpp 
 
 OBJS += \
@@ -22,6 +23,7 @@ OBJS += \
 ./src/Template.o \
 ./src/TemplateHiall.o \
 ./src/TextExtractor.o \
+./src/UserDictforSkills.o \
 ./src/test.o 
 
 CPP_DEPS += \
@@ -30,6 +32,7 @@ CPP_DEPS += \
 ./src/Template.d \
 ./src/TemplateHiall.d \
 ./src/TextExtractor.d \
+./src/UserDictforSkills.d \
 ./src/test.d 
 
 
