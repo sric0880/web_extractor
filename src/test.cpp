@@ -25,9 +25,9 @@ int main() {
 	TemplateHiall hiall;
 	HtmlProcessor htmlpro(&console, &hiall);
 	htmlpro.start();
-	for(int i =0;i<5;++i){
+	for(int i =0;i<150;++i){
 		char filename[20];
-		sprintf(filename,"test/%d.html",i+1);
+		sprintf(filename,"test/d00000/%d",i+1);
 		printf("%s\n",filename);
 		ifstream ifs(filename);
 		string content;

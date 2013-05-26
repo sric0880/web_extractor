@@ -1,0 +1,1081 @@
+2.pak
+4dos
+4nt
+a+
+a＋
+abc
+able
+abset
+absys
+accent
+acceptance
+action code script
+actionscript
+activex
+ada
+adl
+air
+aix
+ajax
+alan
+aleph
+algol
+alpha测试
+amigae
+amiga rexx
+ant
+apache
+apache camel
+apache::deploy
+apache harmony
+apache openoffice
+apache xml
+apl
+apl/j
+apple darwin
+applescript
+applet
+appletalk
+apr
+arcnet
+arexx
+arp
+asp
+aspectj
+asp.net
+assembly
+association rule
+atlas autocode
+atm
+autocad lisp
+autohotkey
+autoit
+autolisp
+automatic summarization
+awk
+awk
+awk
+axis2
+b
+barrier
+bash
+basic
+basic
+basica
+basic语言
+batch
+batch
+bcpl
+beanshell
+beehive
+befunge
+beta
+beta测试
+bgp
+bigtable
+bigwig
+bistro
+blas
+bliss
+blobbiescript
+blue
+boo
+borland c++
+bourne-again shell
+bourne shell
+brainfuck
+brouter
+c
+c#
+c++
+caml
+cassandra
+c++ builder
+c++/cli
+c++/cx
+c/c++语言
+ceicil
+cg
+cgi
+ch
+chill
+chinese word segmentation
+cilk
+clarion
+clean
+clipper
+clojure
+cloud computing
+cloud foundry
+cloudstack
+clu
+cmd.exe
+cobol
+cobolscript
+cocoa
+cocoon
+coldfusion
+cold fusion
+comal
+command.com
+common
+common lisp
+composer
+comsol
+concurrent clean
+coral66
+cpl
+csh
+c shell
+css
+curl
+curl语言
+c语言
+d
+dao
+darkbasic
+data clustering
+datasynapse
+db
+dbase
+dccp
+dcl
+decnet
+delphi
+delphi语言
+deltacloud
+derby
+dhcp
+dhcpv6
+dhtml	
+dialogscript
+dibol
+directory
+dmdscript
+dna序列测序
+dns
+dos
+drbd
+dtd
+dtm
+dylan
+dynamo
+e
+eclipse
+ecmascript
+egexp
+eiffel
+elastic
+elf
+emacs
+emacs lisp
+emule
+erlang
+escapade
+etbasic
+eucalyptus
+euphoria
+evdo
+excalibur
+expect
+f#
+falcon
+fastcgi
+fddi
+ferite
+filemaker
+flash
+flex
+forrest
+forth
+fortran
+foxpro
+fp
+free
+freebsd
+free java implementations
+frontier
+f-script
+ftp
+g.709
+game maker language
+gamemonkeyscript
+gamma测试
+gcc
+genie
+geronimo
+gimp
+gis
+glassfish
+glsl
+gnu
+gnu classpath
+gnu/linux
+gnu图像处理软件
+go
+godiva
+goedel
+gopher
+gprs
+gpu用着色器语言
+grid computing
+groovy
+gtp
+gui4cli
+guile
+gui设计
+gump
+gvbasic
+gw-basic
+hadoop
+handel-c
+harmony
+haskell
+hdlc
+hibernate
+hippi[1]
+hivemind
+hlsl
+hp-ux
+hspa
+html
+html5
+htmlscript
+http
+http server
+http服务器
+hugo
+hypercard
+hypertalk
+iana
+ibatis
+ici
+icmp
+icmpv6
+icon
+idl
+ieee 1394
+ieee-488
+ieee 802.11
+ieee 802.16
+igmp
+imap4
+incubator
+inform
+information extraction
+information retrieval
+interactive data language
+intercal
+interface description language
+io
+ios操作系统核心
+ip
+ipsec
+ipsec
+iptscrae
+ipv4
+ipv6
+ipx
+ip地址
+irc
+irc script
+irix
+ironpython
+ironruby
+isdn
+is-is
+j
+j#
+j＃
+jackrabbit
+jade
+jakarta
+james
+java
+java api
+java applet
+java applet
+java card
+java community process
+java desktop system  java
+java ee
+javafx
+java me
+javaone
+java rmi
+javascript
+java se
+javastation
+java virtual machine
+java平台
+java平台	
+java虚拟机
+java语言
+jazelle
+jboss
+jcl
+jdk  openjdk
+jes
+jess
+jnlp
+jovial
+joy
+jrockit
+jruby
+jscheme
+jscript
+jsp
+julia
+jvm
+jython
+kaffe
+kawa
+kid
+kixtart
+krypton
+ksh
+kvikkalkul
+l2tp
+labs
+labview
+lagoona
+lapack
+lasso
+launch language
+lazarus
+leda
+lenya
+leveldb
+limbo
+lingo
+linux
+lisp
+lisp
+llvm
+logging
+logistic regression
+logit
+logo
+logo语言
+loyalty card
+lua
+lucene
+lyapas
+m4
+machine translation
+mac os
+mac os x
+mad
+maple
+mariadb
+mary
+mathematica
+mathml
+matlab
+matlab embedded language
+maven
+maya embedded language
+mercury
+mesa
+microcode
+microsoft access
+microsoft visual c++
+midlets
+miranda
+mirc script
+miva
+ml
+mmix
+mod_perl
+modula
+modula-2
+mondrian
+moo
+moto
+mozilla firefox
+ms-dos
+msw logo
+multiphysics
+mumps
+myfaces
+myrinet
+mysql
+natural language generation
+.net
+netbeans
+.net框架平台语言
+newlisp
+nial
+nimbus
+nlp
+nntp
+ntp
+nuva
+nwscript
+oberon
+object
+objective-c
+objective caml
+object pascal
+object rexx
+obliq
+ocaml
+occam
+octave
+open64
+openbsd
+openmp
+opennebula
+openoffice.org
+openrisc
+opensparc
+openstack
+oracle
+oracle open office
+os/2
+ospf
+oz
+p2p文件交换软件
+paint.net
+parabon computation
+parsing
+part-of-speech tagging
+pascal
+perl
+php
+pike
+pilot
+plc
+pl/i
+pliant
+plone
+pl-sql
+pl/sql
+poi
+pop-11
+pop3
+poplog
+portals
+posix线程
+postgresql
+postscript
+powerbasic
+powerbuilder
+powershell
+ppp
+pptp
+pram模型
+processing
+project blackbox
+prolog
+protégé
+proteus
+psgi
+python
+qbasic
+quakec
+quake c
+quartz
+question answering
+quickbasic
+r
+rad
+rarp
+rascal
+ratfor
+rbscript
+realbasic
+rebol
+rebol
+report
+rexx
+rhino
+rigal
+rip
+rpc
+rpg
+rpm/deb
+rs-232
+rsvp
+rtcp
+rtp
+rtsp
+ruby
+r语言
+sac
+santuario
+sas
+sather
+scala
+schema
+scheme
+scilab
+scipy
+scriptbasic
+scrum
+sctp
+sdp
+sed
+sed
+seed7
+self
+servlets
+setl
+sgml
+sgml html
+sgml家族
+sh
+shale
+shell
+shorthand language
+silverlight
+simkin
+simula
+sip
+sisal
+s-lang
+sleep
+slide
+small
+small basic
+smalltalk
+sml
+smtp
+smx
+snmp
+snobol
+soap
+solaris
+solaris/opensolaris
+sonet/sdh
+spamassassin
+sparc
+sparc enterprise
+sparcstation
+spark
+speech recognition
+speech synthesis
+spice
+spitbol
+s-plus
+spring framework
+sql
+sql server
+squawk
+squeak
+squirrel
+ssdp
+ssh
+standard ml
+star logo
+steptalk
+stp
+struts
+stun
+subversion
+sun blade
+sun enterprise
+sun fire
+sun grid
+sun grid engine
+sun ray
+sun studio
+sun ultra series
+supercard
+svg
+sybase
+systemc
+systemverilog
+tads
+taglibs
+take command
+tapestry
+tcl
+tcl
+tcl/java
+tcl tk
+tcp
+tcp/ip
+tcp/ip端口列表
+tcp/ip协议
+tcp/ip协议栈
+tcsh
+teco
+telnet
+tempo
+test
+tex
+text categorization
+text-proofing
+text to speech
+textual entailment
+tls/ssl
+tom
+tomcat
+toplink
+tpu
+trac
+tru64
+true
+t-sql
+turbine
+turbo
+turbo c++
+turing
+typescript
+ubuntu
+udp
+ultrasparc t1
+ultrasparc t2
+uml
+unicon
+united devices
+unix
+unix/linux
+unlambda
+unrealscript
+uri
+url
+url重写
+usb
+vala
+var'aq
+vba
+vbscript
+velocity
+verilog
+verilog hdl
+vhdl
+virtualbox
+visit
+visual
+visual basic
+visual basic for applications
+visual basic gambas
+visual basic .net
+visual c#
+visual c++
+visual dialogscript
+visual foxpro
+vmware
+vrml
+water
+web services
+web start
+whitespace
+wi-fi
+wimax
+winbatch
+windows
+windows nt
+windows powershell
+windows script host
+windows图形界面
+wirth
+wsgi
+x.25
+x3d
+xalan
+xerces
+xforms
+xfree86、x.org服务器
+xhtml
+xml
+xmlbeans
+xml graphics
+xmlhttp
+xml schema
+xml家族
+xmpp
+xotcl
+xpath
+xsl
+xslt
+yafl
+yorick
+zigbee
+zope
+z-script
+zzt-oop
+阿帕奇
+安全测试
+安装测试
+白盒测试
+版本管理系统
+办公软件套装
+半结构化模型
+编程范型
+编程语言和编译器	
+编译器
+标识定位语言	
+标准ml
+表格模型
+并发
+并发控制
+并行
+博弈论
+操作系统
+操作系统核心
+测试
+层次模型
+产品可视化
+超纯量
+超级计算机
+超线程
+程序设计
+抽象代数
+初等代数
+除错器
+传输控制协议
+词性标注
+大型数据储存
+代数
+单元测试
+地理可视化
+地理信息系统
+递归论
+电力线通信
+电信与网络	
+调制解调器
+迭代式开发
+动力系统
+动态规划
+动态网页技术	
+对象模型
+多处理机
+多处理器
+多线程
+多种语言编译器
+范畴论
+分布式计算
+分布式系统	
+分子图形学
+符号计算
+概率
+概念模型
+高性能计算
+工业工程
+工业与辅助设计
+关系模型
+关系式规则
+关系数据库
+关系数据库管理系统
+关于并行算法
+光导纤维
+光纤传输数据接口
+广度优先搜索
+过程化编程
+哈夫曼编码
+函数式编程
+函数式编程语言
+黑盒测试
+互联网通讯协议
+化学成像
+化学计量学
+化学信息学
+环境模拟
+缓存一致性
+回归测试
+回归分析
+汇编语言
+基本算法
+机器翻译
+机器人学
+机器人运用
+机器学习
+极限编程
+集成测试
+集成开发环境
+集合论
+集线器
+几何
+技术制图
+计算
+计算地球物理学
+计算电磁学
+计算法医学
+计算复杂性理论
+计算工程学
+计算化学
+计算机代数
+计算机动画
+计算机辅助功能
+计算机集群
+计算机软件
+计算机视觉
+计算机图形学
+计算机图形学	
+计算机系统结构
+计算几何
+计算几何的算法
+计算金融学
+计算经济学
+计算理论	
+计算力学
+计算粒子物理学
+计算流体力学
+计算神经科学
+计算生物学
+计算数学
+计算统计学
+计算物理学
+计算语言学
+加密算法
+假设检验
+检测信用卡欺诈
+检索算法
+简称idl
+交互模式
+交互设计
+交互式数据语言
+交换机
+教育可视化
+脚本语言
+接口描述语言
+解释器
+金融建模
+进程
+进化计算
+句法分析
+决策树
+决策支持系统
+科学计算	
+科学建模
+科学可视化
+可穿戴计算机
+可计算性理论
+可视化
+可视化分析论
+可用性测试
+客户端交互技术	
+客户端脚本语言	
+空间分析
+蓝牙
+类型论
+立体可视化
+量子计算
+令牌环
+流场可视化
+路由
+路由器
+螺旋模型
+逻辑
+逻辑编程
+逻辑的语义
+枚举
+密码学
+面向对象程序编程
+面向对象模型
+描述统计学
+敏捷开发
+模糊逻辑
+模拟现实
+模式识别
+模型论
+脑机接口
+内存一致性
+内容管理系统
+排版软件
+排序算法
+配置管理
+匹配算法
+平面模型
+普适计算
+瀑布模型
+启发式搜索
+纤程
+桥接路由器
+桥接器
+桥径器
+人工生命
+人工智能
+人工智能	
+人机工程学
+人机交互
+人机交互	
+任务并行
+认知科学
+软件编程
+软件部署
+软件测试
+软件工程	
+软件工程工具与方法
+软件工程管理
+软件构型管理
+软件架构
+软件建构
+软件开发过程
+软件可视化
+软件设计
+软件维护
+软件维护与更新
+软件需求
+软件验证及确认
+软件质量
+三角
+商务性能管理
+商务智能
+社会网络分析与探勘
+设计模式
+深度优先搜索
+神经网络
+神经影像学
+生物特征识别
+生物信息学
+事务处理
+视知觉
+数据仓库
+数据访问协议
+数据级并行
+数据结构的算法
+数据聚类
+数据可视化
+数据库
+数据库	
+数据库管理系统
+数据库索引
+数据库相关编程语言
+数据流挖掘
+数据挖掘
+数理逻辑
+数论
+数论与代数算法
+数学基础	
+数学可视化
+数值分析
+数值分析软件
+数值计算方法
+数值算法
+数值天气预报
+树的遍历
+双绞线
+搜索
+搜索引擎
+算法分析
+算法和数据结构	
+算法设计
+随机化算法
+拓扑
+太阳微系统
+同步化
+同轴电缆
+统计
+统计计算
+统一过程
+凸包算法
+图龟语言
+图论
+图论的算法
+图像处理
+图形绘制
+图形设计
+图形用户软件
+推荐系统
+网格计算
+网络传输协议
+网络分析
+网络流算法
+网络浏览器
+网络适配器
+网络拓扑
+网络文件系统
+网状模型
+微处理器体系结构
+微积分
+位级并行
+位图编辑软件
+文本编辑软件
+文本分类
+文本朗读
+文本挖掘
+文档呈现语言	
+文档纲要语言	
+文件仓库
+文字校对
+文字蕴涵
+稳定性测试
+问答系统
+无尘室
+系统测试
+系统架构
+系统网络结构
+线程
+线性代数
+线性判断分析
+相关数据挖掘
+相继式演算
+向量处理机
+心理可视化
+信息抽取
+信息检索
+信息科学
+信息可视化
+信息论
+形式化方法
+形式语言
+性能测试
+性能分析
+虚拟社区
+虚拟实境
+虚拟现实
+需求分析
+讯息传递接口
+压力测试
+验收测试
+一阶逻辑
+医学成像
+医学诊断
+移动计算
+移植测试
+遗传算法
+以太网
+以太网路
+以用户为中心的设计
+异步传输模式
+易用性测试
+易语言
+应用服务器
+影像学
+硬件
+用户界面
+用户经验
+用户体验
+优使性
+游戏
+游戏设计
+语法分析器
+语音合成
+语音和手写识别
+语音识别
+云端运算
+云计算
+在线分析处理
+战略游戏
+帧中继
+证明论
+证券市场分析
+知识可视化
+知识可视化工具
+直觉主义逻辑
+指令级并行
+制图学
+置标语言
+中继器
+中文自动分词
+众包
+主成分分析
+专家系统
+专业工具语言
+自动机
+自动推理
+自动摘要
+自然用户界面
+自然语言处理
+自然语言生成
+组合
+最短路径算法
+最近临域
+最小生成树算法
+最小树形图
+最优化
+罪行绘图

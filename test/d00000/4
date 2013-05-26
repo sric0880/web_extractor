@@ -1,0 +1,1246 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>台州海博网络技术有限公司招聘诚聘在线兼职,网络促销员-过来人求职网</title>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta name="description" content="台州海博网络技术有限公司招聘诚聘在线兼职,网络促销员">
+<meta name="keywords" content="诚聘在线兼职,网络促销员,台州海博网络技术有限公司招聘信息">
+<link href="/templates/default/css/common.css" rel="stylesheet" type="text/css" />
+<link href="/templates/default/css/jobs.css" rel="stylesheet" type="text/css" />
+<script src="/templates/default/js/jquery.js" type='text/javascript' ></script>
+<!--[if IE 6]><script src="/templates/default/js/DD_belatedPNG_0.0.8a-min.js"></script><![endif]-->
+<script src="/templates/default/js/jquery.dialog.js" type="text/javascript"></script>
+<script src="/data/QS_classify.js" type="text/javascript"></script>
+<script src="/templates/default/js/jquery.selectlayer.js" type='text/javascript' ></script>
+<script type="text/javascript">
+$(document).ready(function()
+{
+
+		var id="1042458";
+		var company_id="54517";
+		var tsTimeStamp= new Date().getTime();
+		$.get("/plus/ajax.php", { "id": id,"time":tsTimeStamp,"act":"jobs_contact"},
+			function (data,textStatus)
+			 {			
+				$("#jobs_contact").html(data);
+			 }
+		);
+		
+	OpenCategoryLayer("#category_cn","#sel_category","#category_cn","#jobcategory",QS_jobs,21);
+	OpenCategoryLayer("#district_cn","#sel_district","#district_cn","#citycategory",QS_city,21);
+	OpenTradeLayer("#trade_cn","#trade","#sel_trade",21);
+		
+
+		//申请职位
+		$(".app_jobs").click(function(){
+			dialog("申请职位","url:get?/user/user_apply_jobs.php?id="+id+"&act=app","500","auto","");
+		});	
+		
+		//单个添加收藏
+		$(".add_favorites").click(function(){
+		dialog("加入收藏","url:get?/user/user_favorites_job.php?id="+id+"&act=add","500","auto","");
+		});		
+
+});
+</script>
+</head>
+<body>
+
+
+<div id="top">
+	<div class="wrap">
+		<div id="top-login" class="fn-left"><span id="top_loginform"></span></div><!--//top-login-->
+		<ul id="top-menu" class="fn-right">
+			<li><a href="/">网站首页</a></li>
+			<li id="top-menu-mob" class="last"><a href="/wap/">手机频道</a></li>
+		</ul><!--//top-menu-->
+		<iframe class="fn-right" style="margin-top:4px" width="73" height="24" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0" scrolling="no" border="0" src="http://widget.weibo.com/relationship/followbutton.php?language=zh_cn&width=63&height=24&uid=1644282954&style=1&btn=red&dpc=1"></iframe>
+		<iframe class="fn-right" style="margin-top:4px" src="http://follow.v.t.qq.com/index.php?c=follow&a=quick&name=guolairen&style=5&t=1337702195610&f=0" frameborder="0" scrolling="auto" width="77" height="24" marginwidth="0" marginheight="0" allowtransparency="true"></iframe>
+	</div>
+</div><!--//top-->
+<script type="text/javascript">
+	//顶部部登录
+	$.get("/plus/ajax.php", {"act":"top_loginform"},
+			function (data,textStatus)
+			 {			
+				$("#top_loginform").html(data);
+			 }
+	);
+</script>
+<div id="header">
+	<div class="wrap">
+		<a href="/" id="logo" title="过来人求职网"><img src="/templates/default/images/logo.png" alt="过来人求职网" /></a>
+		<div id="header-nav">
+			<dl id="nav-jobs">
+				<dt>找工作</dt>
+				<dd><a href="/zhaopin/">校园招聘</a></dd>
+				<dd><a href="/zhaopinhui/">招聘会</a></dd>
+				<dd><a href="/shixi/">兼职实习</a></dd>
+				<dd><a href="/xuanjianghui/">宣讲会</a></dd>
+			</dl>
+			<dl id="nav-guide">
+				<dt>求职指导</dt>
+				<dd><a href="/mianshi/">面试</a></dd>
+				<dd><a href="/jianli/">简历</a></dd>
+				<dd><a href="/bishi/">笔试</a></dd>
+				<dd><a href="/wangshen/">网申</a></dd>
+				<dd><a href="/zixun/">资讯</a></dd>
+				<dd><a href="/baodian/">求职宝典</a></dd>
+			</dl>
+			<dl id="nav-train">
+				<dt>求职培训</dt>
+				<dd><a href="http://hk.glr.cn" target="_blank">香港金融</a></dd>
+				<dd><a href="http://us.glr.cn" target="_blank">哈佛交流</a></dd>
+				<dd><a href="http://ivy.glr.cn" target="_blank">留学</a></dd>
+				<dd><a href="http://elite.glr.cn" target="_blank">500强</a></dd>
+				<dd><a href="http://summit.glr.cn" target="_blank">香港峰会</a></dd>
+				<dd><a href="http://eep.glr.cn" target="_blank">公益活动</a></dd>
+				<dd><a href="http://www.guolairen.net" target="_blank">网校</a></dd>
+				<dd><a href="http://vip.glr.cn" target="_blank"><strong>VIP</strong></a></dd>
+			</dl>
+			<dl id="nav-sns" class="last">
+				<dt>互动社区</dt>
+				<dd><a href="http://bbs.guolairen.com" target="_blank">BBS</a></dd>
+				<dd><a href="http://www.glr.cn" target="_blank">公开课</a></dd>
+			</dl>
+		</div>
+	</div><!--//header-nav-->
+</div><!--//header-->
+<div id="navarea" class="wrap">
+	<div id="nav" class="fn-clear">
+			<a href="/" target="_self" ><span>首  页</span></a>
+		<a href="/zhaopin/" target="_self" class="current"><span>校园招聘</span></a>
+		<a href="/shixi/" target="_self" ><span>兼职实习</span></a>
+		<a href="/zhaopinhui/" target="_self" ><span>招聘会</span></a>
+		<a href="/xuanjianghui/" target="_self" ><span>宣讲会</span></a>
+		<a href="/jianli/" target="_self" ><span>简历</span></a>
+		<a href="/mianshi/" target="_self" ><span>面试</span></a>
+		<a href="/bishi/" target="_self" ><span>笔试</span></a>
+		<a href="/wangshen/" target="_self" ><span>网申</span></a>
+		<a href="/zixun/" target="_self" ><span>资讯</span></a>
+		<a href="/baodian/" target="_self" ><span>求职宝典</span></a>
+		</div><!--//nav-->
+</div>
+<script type="text/javascript"> 
+$(document).ready(function()
+{
+OpenCategoryLayer("#category_cn","#sel_category","#category_cn","#jobcategory",QS_jobs,21);
+OpenCategoryLayer("#district_cn","#sel_district","#district_cn","#citycategory",QS_city,21);
+OpenTradeLayer("#trade_cn","#trade","#sel_trade",21);
+showmenu("#nature_cn","#menu1","#nature");
+//更多条件开关
+$(".moresubmit").click(function () {
+$(".jobs_search_adv").slideToggle(0);
+});
+//提交表单过滤
+$("form[name=form_1]").submit( function () {
+	if ($(".item_nature :checkbox[checked]").length==$(".item_nature :checkbox").length)//全选
+			{
+				$(".item_nature").html(" ");
+			}
+			else
+			{
+				var natureArr=new Array();
+				$(".item_nature :checkbox[checked]").each(function(index){natureArr[index]=$(this).val();});
+				$(".item_nature").html("<input name=\"nature\" id=nature type=\"hidden\" value=\""+natureArr.join("-")+"\" />");			
+			}
+});
+OpenCategoryLayer("#category_cn","#sel_category","#category_cn","#jobcategory",QS_jobs,21);
+OpenCategoryLayer("#district_cn","#sel_district","#district_cn","#citycategory",QS_city,21);
+OpenTradeLayer("#trade_cn","#trade","#sel_trade",21);
+showmenu("#wage_cn","#menu1","#wage");
+showmenu("#education_cn","#menu2","#education");
+showmenu("#experience_cn","#menu3","#experience");
+showmenu("#settr_cn","#menu4","#settr");
+showmenu("#nature_cn","#menu5","#nature");
+//更多条件开关
+	$(".moresubmit").unbind().click(function () {
+	$(".jobs_search_adv").slideToggle(0);
+	});
+	//提交表单
+	$("form[name=form_1]").submit( function () {
+  		if ($(".item_nature :checkbox[checked]").length==$(".item_nature :checkbox").length)//全选
+			{
+				$(".item_nature").html(" ");
+			}
+			else
+			{
+				var natureArr=new Array();
+				$(".item_nature :checkbox[checked]").each(function(index){natureArr[index]=$(this).val();});
+				$(".item_nature").html("<input name=\"nature\" id=nature type=\"hidden\" value=\""+natureArr.join("-")+"\" />");			
+			}	
+	});
+//从GET恢复职位分类
+var jobcategory="";
+if (jobcategory)
+{	
+	jobcategory=jobcategory.split("-");
+	for( var i=0;i<jobcategory.length;++i)
+	{
+		var catid=jobcategory[i].split(".");
+	 	var jscat=QS_jobs[catid[0]];
+		if (jscat)
+		{
+			var html=MakeLi(jscat,catid[0]);		
+			if ($("#sel_category .item[id='"+catid[0]+"'] .sitem").html()=="")
+			{
+			$("#sel_category .item[id='"+catid[0]+"'] .sitem").html(html);
+			}
+		}
+		if (catid[1]=="0")
+		{
+		$("#sel_category  :checkbox[value="+catid[0]+"]").attr("checked",true);
+		$("#sel_category .item[id='"+catid[0]+"'] .sitem :checkbox").attr("checked",true);
+		}
+		else
+		{
+		$("#sel_category  .sitem :checkbox[value='"+catid[1]+"']").attr("checked",true);
+		}
+	}
+					$("#sel_category .OpenFloatBox .item label :checkbox").parent().css("color","");
+					$("#sel_category .OpenFloatBox .item label :checkbox[checked]").parent().css("color","#FF6600");
+					$("#sel_category .OpenFloatBox .sitem :checkbox[checked]").each(function(index){
+					 	$(this).parent().parent().prev().css("color","#FF6600");
+					});
+					CopyItem("#sel_category");
+}
+//从GET恢复地区
+var citycategory="";
+if (citycategory)
+{	
+	citycategory=citycategory.split("-");
+	for( var i=0;i<citycategory.length;++i)
+	{
+		var catid=citycategory[i].split(".");
+	 	var jscat=QS_city[catid[0]];
+		if (jscat)
+		{
+			var html=MakeLi(jscat,catid[0]);		
+			if ($("#sel_district .item[id='"+catid[0]+"'] .sitem").html()=="")
+			{
+			$("#sel_district .item[id='"+catid[0]+"'] .sitem").html(html);
+			}
+		}
+		if (catid[1]=="0")
+		{
+		$("#sel_district  :checkbox[value="+catid[0]+"]").attr("checked",true);
+		$("#sel_district .item[id='"+catid[0]+"'] .sitem :checkbox").attr("checked",true);
+		}
+		else
+		{
+		$("#sel_district  .sitem :checkbox[value='"+catid[1]+"']").attr("checked",true);
+		}
+	}
+					$("#sel_district .OpenFloatBox .item label :checkbox").parent().css("color","");
+					$("#sel_district .OpenFloatBox .item label :checkbox[checked]").parent().css("color","#FF6600");
+					$("#sel_district .OpenFloatBox .sitem :checkbox[checked]").each(function(index){
+					 	$(this).parent().parent().prev().css("color","#FF6600");
+					});
+					CopyItem("#sel_district");
+}
+//从GET恢复职位性质选择状态
+var get_nature="";
+if (get_nature!="")
+{
+	get_nature=get_nature.split("-");
+	$(".item_nature :checkbox").attr("checked",false)
+	for( var i=0;i<get_nature.length;++i)
+	{
+		$(".item_nature :checkbox").each(function(index)
+			{
+				if ($(this).val()==get_nature[i]) $(this).attr("checked",true)
+		
+			});
+	}
+}
+//从GET恢复行业选择
+var get_trade="";
+if (get_trade!="")
+{
+	get_trade=get_trade.split("-");
+	for( var i=0;i<get_trade.length;++i)
+	{
+		$("#sel_trade :checkbox").each(function(index)
+			{
+				if ($(this).val()==get_trade[i]) $(this).attr("checked",true)
+		
+			});
+	}
+	$("#sel_trade  :checkbox").parent().css("color","");
+	$("#sel_trade  :checkbox[checked]").parent().css("color","#009900");
+}
+//从GET恢复更多条件的打开状态
+var get_adv="";
+if (get_adv>0)
+{
+$(".jobs_search_adv").show();
+}
+//从GET恢复搜索类型
+var get_keytype="";
+$(".item_key :input[name='keytype'][value="+get_keytype+"]").attr("checked",true); 
+//
+});
+</script>
+	<div id="searchbar" class="wrap wbox pxbd fn-clear">
+	<form id="form_1" name="form_1" method="get" action='/zhaopin/zhaopin-list.php'>
+		<div class="item">
+		<input name="district_cn"  id="district_cn" type="text" value="工作地区" readonly="true" class="sltinput"/>
+			<input name="citycategory" id="citycategory" type="hidden" value="" />	
+			
+		    <div  style="display:none" id="sel_district">
+				<div class="OpenFloatBoxBg" ></div>
+				<div class="OpenFloatBox">
+						<div class="title1"><h4>请选择工作地区</h4><div class="DialogClose" title="关闭"></div></div>
+						<div class="tip">可多选，最多选择8项</div>
+						<div class="content link_lan">					
+									<div class="txt">							
+																																	<div class="item" id="1">
+													<label title="北京" class="titem" >
+													<input  type="checkbox" value="1"  title="北京" class="b" />北京
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="2">
+													<label title="上海" class="titem" >
+													<input  type="checkbox" value="2"  title="上海" class="b" />上海
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="20">
+													<label title="广东" class="titem" >
+													<input  type="checkbox" value="20"  title="广东" class="b" />广东
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="3">
+													<label title="天津" class="titem" >
+													<input  type="checkbox" value="3"  title="天津" class="b" />天津
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="4">
+													<label title="重庆" class="titem" >
+													<input  type="checkbox" value="4"  title="重庆" class="b" />重庆
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="12">
+													<label title="浙江" class="titem" >
+													<input  type="checkbox" value="12"  title="浙江" class="b" />浙江
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="11">
+													<label title="江苏" class="titem" >
+													<input  type="checkbox" value="11"  title="江苏" class="b" />江苏
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="16">
+													<label title="山东" class="titem" >
+													<input  type="checkbox" value="16"  title="山东" class="b" />山东
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="19">
+													<label title="湖南" class="titem" >
+													<input  type="checkbox" value="19"  title="湖南" class="b" />湖南
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="18">
+													<label title="湖北" class="titem" >
+													<input  type="checkbox" value="18"  title="湖北" class="b" />湖北
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="22">
+													<label title="海南" class="titem" >
+													<input  type="checkbox" value="22"  title="海南" class="b" />海南
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="8">
+													<label title="辽宁" class="titem" >
+													<input  type="checkbox" value="8"  title="辽宁" class="b" />辽宁
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="9">
+													<label title="吉林" class="titem" >
+													<input  type="checkbox" value="9"  title="吉林" class="b" />吉林
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="27">
+													<label title="陕西" class="titem" >
+													<input  type="checkbox" value="27"  title="陕西" class="b" />陕西
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="14">
+													<label title="福建" class="titem" >
+													<input  type="checkbox" value="14"  title="福建" class="b" />福建
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="5">
+													<label title="河北" class="titem" >
+													<input  type="checkbox" value="5"  title="河北" class="b" />河北
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="6">
+													<label title="山西" class="titem" >
+													<input  type="checkbox" value="6"  title="山西" class="b" />山西
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="7">
+													<label title="内蒙" class="titem" >
+													<input  type="checkbox" value="7"  title="内蒙" class="b" />内蒙
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="10">
+													<label title="黑龙江" class="titem" >
+													<input  type="checkbox" value="10"  title="黑龙江" class="b" />黑龙江
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="13">
+													<label title="安徽" class="titem" >
+													<input  type="checkbox" value="13"  title="安徽" class="b" />安徽
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="15">
+													<label title="江西" class="titem" >
+													<input  type="checkbox" value="15"  title="江西" class="b" />江西
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="17">
+													<label title="河南" class="titem" >
+													<input  type="checkbox" value="17"  title="河南" class="b" />河南
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="21">
+													<label title="广西" class="titem" >
+													<input  type="checkbox" value="21"  title="广西" class="b" />广西
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="23">
+													<label title="四川" class="titem" >
+													<input  type="checkbox" value="23"  title="四川" class="b" />四川
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="24">
+													<label title="贵州" class="titem" >
+													<input  type="checkbox" value="24"  title="贵州" class="b" />贵州
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="25">
+													<label title="云南" class="titem" >
+													<input  type="checkbox" value="25"  title="云南" class="b" />云南
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="26">
+													<label title="西藏" class="titem" >
+													<input  type="checkbox" value="26"  title="西藏" class="b" />西藏
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="28">
+													<label title="甘肃" class="titem" >
+													<input  type="checkbox" value="28"  title="甘肃" class="b" />甘肃
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="29">
+													<label title="青海" class="titem" >
+													<input  type="checkbox" value="29"  title="青海" class="b" />青海
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="30">
+													<label title="宁夏" class="titem" >
+													<input  type="checkbox" value="30"  title="宁夏" class="b" />宁夏
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="31">
+													<label title="新疆" class="titem" >
+													<input  type="checkbox" value="31"  title="新疆" class="b" />新疆
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="32">
+													<label title="台湾" class="titem" >
+													<input  type="checkbox" value="32"  title="台湾" class="b" />台湾
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="33">
+													<label title="香港" class="titem" >
+													<input  type="checkbox" value="33"  title="香港" class="b" />香港
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="34">
+													<label title="澳门" class="titem" >
+													<input  type="checkbox" value="34"  title="澳门" class="b" />澳门
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="item" id="538">
+													<label title="全国" class="titem" >
+													<input  type="checkbox" value="538"  title="全国" class="b" />全国
+													</label>
+													<div class="sitem"></div>
+											</div>
+																						<div class="clear"></div>
+									</div>
+									<div class="txt"><div class="selecteditem"></div></div>							
+									<div class="txt">
+									<div align="center"><input type="button"  class="but80 Set" value="确定" /></div>
+									</div>			
+						</div>
+				</div>
+		    </div>	
+		</div>	
+		
+		<div class="item">
+			<div class="job-type-wraper">
+			<input type="text" value="全职"  readonly="readonly" name="nature_cn" id="nature_cn" class="input_text_105 input_text_selsect sltinput"/>
+			<input name="nature" id="nature" type="hidden" value="" />
+			<div id="menu1" class="menu">
+				<ul>
+		  							<li id="62" title="全职">全职</li>
+							<li id="63" title="兼职实习">兼职实习</li>
+							</ul>
+			</div>
+			</div>
+		</div> 
+		
+		<div class="item">
+		<input name="category_cn" id="category_cn" type="text" value="职位类别" readonly="true" class="sltinput"/>
+		   <input name="jobcategory" id="jobcategory" type="hidden" value="" />
+		   <div  style="display:none" id="sel_category">
+	 		<div class="OpenFloatBoxBg" ></div>
+			<div class="OpenFloatBox">
+					<div class="title1"><h4>请选择职位类别</h4><div class="DialogClose" title="关闭"></div></div>
+					<div class="tip">可多选，最多选择8项</div>
+					<div class="content link_lan">					
+								<div class="txt">							
+																														<div class="item" id="19">
+												<label title="计算机、互联网类" class="titem" >
+												<input  type="checkbox" value="19"  title="计算机、互联网类" class="b" />计算机、互联网类
+												</label>
+												<div class="sitem"></div>
+										</div>
+																				<div class="item" id="49">
+												<label title="市场营销、策划类" class="titem" >
+												<input  type="checkbox" value="49"  title="市场营销、策划类" class="b" />市场营销、策划类
+												</label>
+												<div class="sitem"></div>
+										</div>
+																				<div class="item" id="1">
+												<label title="经营管理类" class="titem" >
+												<input  type="checkbox" value="1"  title="经营管理类" class="b" />经营管理类
+												</label>
+												<div class="sitem"></div>
+										</div>
+																				<div class="item" id="74">
+												<label title="销售类" class="titem" >
+												<input  type="checkbox" value="74"  title="销售类" class="b" />销售类
+												</label>
+												<div class="sitem"></div>
+										</div>
+																				<div class="item" id="116">
+												<label title="电子电器、通信类" class="titem" >
+												<input  type="checkbox" value="116"  title="电子电器、通信类" class="b" />电子电器、通信类
+												</label>
+												<div class="sitem"></div>
+										</div>
+																				<div class="item" id="203">
+												<label title="行政文职、人力资源类" class="titem" >
+												<input  type="checkbox" value="203"  title="行政文职、人力资源类" class="b" />行政文职、人力资源类
+												</label>
+												<div class="sitem"></div>
+										</div>
+																				<div class="item" id="279">
+												<label title="财务、审计统计类" class="titem" >
+												<input  type="checkbox" value="279"  title="财务、审计统计类" class="b" />财务、审计统计类
+												</label>
+												<div class="sitem"></div>
+										</div>
+																				<div class="item" id="351">
+												<label title="金融证券类" class="titem" >
+												<input  type="checkbox" value="351"  title="金融证券类" class="b" />金融证券类
+												</label>
+												<div class="sitem"></div>
+										</div>
+																				<div class="item" id="96">
+												<label title="设计类" class="titem" >
+												<input  type="checkbox" value="96"  title="设计类" class="b" />设计类
+												</label>
+												<div class="sitem"></div>
+										</div>
+																				<div class="item" id="136">
+												<label title="机械、能源动力类" class="titem" >
+												<input  type="checkbox" value="136"  title="机械、能源动力类" class="b" />机械、能源动力类
+												</label>
+												<div class="sitem"></div>
+										</div>
+																				<div class="item" id="169">
+												<label title="建筑、房地产类" class="titem" >
+												<input  type="checkbox" value="169"  title="建筑、房地产类" class="b" />建筑、房地产类
+												</label>
+												<div class="sitem"></div>
+										</div>
+																				<div class="item" id="225">
+												<label title="商店零售服务类" class="titem" >
+												<input  type="checkbox" value="225"  title="商店零售服务类" class="b" />商店零售服务类
+												</label>
+												<div class="sitem"></div>
+										</div>
+																				<div class="item" id="241">
+												<label title="后勤服务类" class="titem" >
+												<input  type="checkbox" value="241"  title="后勤服务类" class="b" />后勤服务类
+												</label>
+												<div class="sitem"></div>
+										</div>
+																				<div class="item" id="258">
+												<label title="物流、贸易、采购类" class="titem" >
+												<input  type="checkbox" value="258"  title="物流、贸易、采购类" class="b" />物流、贸易、采购类
+												</label>
+												<div class="sitem"></div>
+										</div>
+																				<div class="item" id="300">
+												<label title="酒店、餐饮、旅游类" class="titem" >
+												<input  type="checkbox" value="300"  title="酒店、餐饮、旅游类" class="b" />酒店、餐饮、旅游类
+												</label>
+												<div class="sitem"></div>
+										</div>
+																				<div class="item" id="317">
+												<label title="教育培训类" class="titem" >
+												<input  type="checkbox" value="317"  title="教育培训类" class="b" />教育培训类
+												</label>
+												<div class="sitem"></div>
+										</div>
+																				<div class="item" id="333">
+												<label title="咨询顾问、法律类" class="titem" >
+												<input  type="checkbox" value="333"  title="咨询顾问、法律类" class="b" />咨询顾问、法律类
+												</label>
+												<div class="sitem"></div>
+										</div>
+																				<div class="item" id="369">
+												<label title="医疗护理、美容保健类" class="titem" >
+												<input  type="checkbox" value="369"  title="医疗护理、美容保健类" class="b" />医疗护理、美容保健类
+												</label>
+												<div class="sitem"></div>
+										</div>
+																				<div class="item" id="394">
+												<label title="生物制药、化工类" class="titem" >
+												<input  type="checkbox" value="394"  title="生物制药、化工类" class="b" />生物制药、化工类
+												</label>
+												<div class="sitem"></div>
+										</div>
+																				<div class="item" id="419">
+												<label title="工厂生产管理类" class="titem" >
+												<input  type="checkbox" value="419"  title="工厂生产管理类" class="b" />工厂生产管理类
+												</label>
+												<div class="sitem"></div>
+										</div>
+																				<div class="item" id="444">
+												<label title="影视媒体、新闻出版类" class="titem" >
+												<input  type="checkbox" value="444"  title="影视媒体、新闻出版类" class="b" />影视媒体、新闻出版类
+												</label>
+												<div class="sitem"></div>
+										</div>
+																				<div class="item" id="473">
+												<label title="翻译类" class="titem" >
+												<input  type="checkbox" value="473"  title="翻译类" class="b" />翻译类
+												</label>
+												<div class="sitem"></div>
+										</div>
+																				<div class="item" id="483">
+												<label title="技工类" class="titem" >
+												<input  type="checkbox" value="483"  title="技工类" class="b" />技工类
+												</label>
+												<div class="sitem"></div>
+										</div>
+																				<div class="item" id="500">
+												<label title="轻工纺织类" class="titem" >
+												<input  type="checkbox" value="500"  title="轻工纺织类" class="b" />轻工纺织类
+												</label>
+												<div class="sitem"></div>
+										</div>
+																				<div class="item" id="520">
+												<label title="公务员、学生类" class="titem" >
+												<input  type="checkbox" value="520"  title="公务员、学生类" class="b" />公务员、学生类
+												</label>
+												<div class="sitem"></div>
+										</div>
+																				<div class="item" id="528">
+												<label title="其它类" class="titem" >
+												<input  type="checkbox" value="528"  title="其它类" class="b" />其它类
+												</label>
+												<div class="sitem"></div>
+										</div>
+																				<div class="clear"></div>
+								</div>
+								<div class="txt"><div class="selecteditem"></div></div>							
+								<div class="txt">
+								<div align="center"><input type="button"  class="but80 Set" value="确定" /></div>
+								</div>			
+					</div>
+			</div>
+		   </div>		
+		
+		</div>
+		<div class="item">
+		<input name="trade_cn" id="trade_cn" type="text" value="行业" readonly="true" class="sltinput"/>
+		 <input name="trade" id="trade" type="hidden" value="" />
+		 <div  style="display:none;" id="sel_trade">
+	 		<div class="OpenFloatBoxBg" ></div>
+			<div class="OpenFloatBox">
+					<div class="title1"><h4>请选择行业</h4><div class="DialogClose" title="关闭"></div></div>
+					<div class="tip">可多选，最多选择8项</div>
+					<div class="content link_lan">					
+								<div class="txt">							
+																														<div class="item" id="4">
+												<label title="互联网/电子商务" class="titem" >
+												<input  type="checkbox" value="4"  title="互联网/电子商务" class="b" />互联网/电子商务
+												</label>
+										</div>
+																				<div class="item" id="10">
+												<label title="金融(银行/保险)" class="titem" >
+												<input  type="checkbox" value="10"  title="金融(银行/保险)" class="b" />金融(银行/保险)
+												</label>
+										</div>
+																				<div class="item" id="13">
+												<label title="消费品(食/饮/烟酒)" class="titem" >
+												<input  type="checkbox" value="13"  title="消费品(食/饮/烟酒)" class="b" />消费品(食/饮/烟酒)
+												</label>
+										</div>
+																				<div class="item" id="1">
+												<label title="计算机软件/硬件" class="titem" >
+												<input  type="checkbox" value="1"  title="计算机软件/硬件" class="b" />计算机软件/硬件
+												</label>
+										</div>
+																				<div class="item" id="7">
+												<label title="仪器仪表/工业自动化" class="titem" >
+												<input  type="checkbox" value="7"  title="仪器仪表/工业自动化" class="b" />仪器仪表/工业自动化
+												</label>
+										</div>
+																				<div class="item" id="8">
+												<label title="会计/审计" class="titem" >
+												<input  type="checkbox" value="8"  title="会计/审计" class="b" />会计/审计
+												</label>
+										</div>
+																				<div class="item" id="12">
+												<label title="批发/零售" class="titem" >
+												<input  type="checkbox" value="12"  title="批发/零售" class="b" />批发/零售
+												</label>
+										</div>
+																				<div class="item" id="22">
+												<label title="广告/市场推广" class="titem" >
+												<input  type="checkbox" value="22"  title="广告/市场推广" class="b" />广告/市场推广
+												</label>
+										</div>
+																				<div class="item" id="2">
+												<label title="计算机系统/维修" class="titem" >
+												<input  type="checkbox" value="2"  title="计算机系统/维修" class="b" />计算机系统/维修
+												</label>
+										</div>
+																				<div class="item" id="3">
+												<label title="通信(设备/运营/服务)" class="titem" >
+												<input  type="checkbox" value="3"  title="通信(设备/运营/服务)" class="b" />通信(设备/运营/服务)
+												</label>
+										</div>
+																				<div class="item" id="5">
+												<label title="网络游戏" class="titem" >
+												<input  type="checkbox" value="5"  title="网络游戏" class="b" />网络游戏
+												</label>
+										</div>
+																				<div class="item" id="6">
+												<label title="电子/半导体/集成电路" class="titem" >
+												<input  type="checkbox" value="6"  title="电子/半导体/集成电路" class="b" />电子/半导体/集成电路
+												</label>
+										</div>
+																				<div class="item" id="9">
+												<label title="金融(投资/证券)" class="titem" >
+												<input  type="checkbox" value="9"  title="金融(投资/证券)" class="b" />金融(投资/证券)
+												</label>
+										</div>
+																				<div class="item" id="11">
+												<label title="贸易/进出口" class="titem" >
+												<input  type="checkbox" value="11"  title="贸易/进出口" class="b" />贸易/进出口
+												</label>
+										</div>
+																				<div class="item" id="14">
+												<label title="服装/纺织/皮革" class="titem" >
+												<input  type="checkbox" value="14"  title="服装/纺织/皮革" class="b" />服装/纺织/皮革
+												</label>
+										</div>
+																				<div class="item" id="15">
+												<label title="家具/家电/工艺品/玩具" class="titem" >
+												<input  type="checkbox" value="15"  title="家具/家电/工艺品/玩具" class="b" />家具/家电/工艺品/玩具
+												</label>
+										</div>
+																				<div class="item" id="16">
+												<label title="办公用品及设备" class="titem" >
+												<input  type="checkbox" value="16"  title="办公用品及设备" class="b" />办公用品及设备
+												</label>
+										</div>
+																				<div class="item" id="17">
+												<label title="机械/设备/重工" class="titem" >
+												<input  type="checkbox" value="17"  title="机械/设备/重工" class="b" />机械/设备/重工
+												</label>
+										</div>
+																				<div class="item" id="18">
+												<label title="汽车/摩托车/零配件" class="titem" >
+												<input  type="checkbox" value="18"  title="汽车/摩托车/零配件" class="b" />汽车/摩托车/零配件
+												</label>
+										</div>
+																				<div class="item" id="19">
+												<label title="制药/生物工程" class="titem" >
+												<input  type="checkbox" value="19"  title="制药/生物工程" class="b" />制药/生物工程
+												</label>
+										</div>
+																				<div class="item" id="20">
+												<label title="医疗/美容/保健/卫生" class="titem" >
+												<input  type="checkbox" value="20"  title="医疗/美容/保健/卫生" class="b" />医疗/美容/保健/卫生
+												</label>
+										</div>
+																				<div class="item" id="21">
+												<label title="医疗设备/器械" class="titem" >
+												<input  type="checkbox" value="21"  title="医疗设备/器械" class="b" />医疗设备/器械
+												</label>
+										</div>
+																				<div class="item" id="23">
+												<label title="会展/博览" class="titem" >
+												<input  type="checkbox" value="23"  title="会展/博览" class="b" />会展/博览
+												</label>
+										</div>
+																				<div class="item" id="24">
+												<label title="影视/媒体/艺术/出版" class="titem" >
+												<input  type="checkbox" value="24"  title="影视/媒体/艺术/出版" class="b" />影视/媒体/艺术/出版
+												</label>
+										</div>
+																				<div class="item" id="25">
+												<label title="印刷/包装/造纸" class="titem" >
+												<input  type="checkbox" value="25"  title="印刷/包装/造纸" class="b" />印刷/包装/造纸
+												</label>
+										</div>
+																				<div class="item" id="26">
+												<label title="房地产开发" class="titem" >
+												<input  type="checkbox" value="26"  title="房地产开发" class="b" />房地产开发
+												</label>
+										</div>
+																				<div class="item" id="27">
+												<label title="建筑与工程" class="titem" >
+												<input  type="checkbox" value="27"  title="建筑与工程" class="b" />建筑与工程
+												</label>
+										</div>
+																				<div class="item" id="28">
+												<label title="家居/室内设计/装潢" class="titem" >
+												<input  type="checkbox" value="28"  title="家居/室内设计/装潢" class="b" />家居/室内设计/装潢
+												</label>
+										</div>
+																				<div class="item" id="29">
+												<label title="物业管理/商业中心" class="titem" >
+												<input  type="checkbox" value="29"  title="物业管理/商业中心" class="b" />物业管理/商业中心
+												</label>
+										</div>
+																				<div class="item" id="30">
+												<label title="中介服务/家政服务" class="titem" >
+												<input  type="checkbox" value="30"  title="中介服务/家政服务" class="b" />中介服务/家政服务
+												</label>
+										</div>
+																				<div class="item" id="31">
+												<label title="专业服务/财会/法律" class="titem" >
+												<input  type="checkbox" value="31"  title="专业服务/财会/法律" class="b" />专业服务/财会/法律
+												</label>
+										</div>
+																				<div class="item" id="32">
+												<label title="检测/认证" class="titem" >
+												<input  type="checkbox" value="32"  title="检测/认证" class="b" />检测/认证
+												</label>
+										</div>
+																				<div class="item" id="33">
+												<label title="教育/培训" class="titem" >
+												<input  type="checkbox" value="33"  title="教育/培训" class="b" />教育/培训
+												</label>
+										</div>
+																				<div class="item" id="34">
+												<label title="学术/科研" class="titem" >
+												<input  type="checkbox" value="34"  title="学术/科研" class="b" />学术/科研
+												</label>
+										</div>
+																				<div class="item" id="35">
+												<label title="餐饮/娱乐/休闲" class="titem" >
+												<input  type="checkbox" value="35"  title="餐饮/娱乐/休闲" class="b" />餐饮/娱乐/休闲
+												</label>
+										</div>
+																				<div class="item" id="36">
+												<label title="酒店/旅游" class="titem" >
+												<input  type="checkbox" value="36"  title="酒店/旅游" class="b" />酒店/旅游
+												</label>
+										</div>
+																				<div class="item" id="37">
+												<label title="交通/运输/物流" class="titem" >
+												<input  type="checkbox" value="37"  title="交通/运输/物流" class="b" />交通/运输/物流
+												</label>
+										</div>
+																				<div class="item" id="38">
+												<label title="航天/航空" class="titem" >
+												<input  type="checkbox" value="38"  title="航天/航空" class="b" />航天/航空
+												</label>
+										</div>
+																				<div class="item" id="39">
+												<label title="能源(石油/化工/矿产)" class="titem" >
+												<input  type="checkbox" value="39"  title="能源(石油/化工/矿产)" class="b" />能源(石油/化工/矿产)
+												</label>
+										</div>
+																				<div class="item" id="40">
+												<label title="能源(采掘/冶炼/原材料)" class="titem" >
+												<input  type="checkbox" value="40"  title="能源(采掘/冶炼/原材料)" class="b" />能源(采掘/冶炼/原材料)
+												</label>
+										</div>
+																				<div class="item" id="41">
+												<label title="电力/水利/新能源" class="titem" >
+												<input  type="checkbox" value="41"  title="电力/水利/新能源" class="b" />电力/水利/新能源
+												</label>
+										</div>
+																				<div class="item" id="42">
+												<label title="政府部门/事业单位" class="titem" >
+												<input  type="checkbox" value="42"  title="政府部门/事业单位" class="b" />政府部门/事业单位
+												</label>
+										</div>
+																				<div class="item" id="43">
+												<label title="非盈利机构/行业协会" class="titem" >
+												<input  type="checkbox" value="43"  title="非盈利机构/行业协会" class="b" />非盈利机构/行业协会
+												</label>
+										</div>
+																				<div class="item" id="44">
+												<label title="农业/渔业/林业/牧业" class="titem" >
+												<input  type="checkbox" value="44"  title="农业/渔业/林业/牧业" class="b" />农业/渔业/林业/牧业
+												</label>
+										</div>
+																				<div class="item" id="45">
+												<label title="其他行业" class="titem" >
+												<input  type="checkbox" value="45"  title="其他行业" class="b" />其他行业
+												</label>
+										</div>
+																				<div class="clear"></div>
+								</div>						
+								<div class="txt">
+								<div align="center"><input type="button"  class="but80 Set" value="确定" /></div>
+								</div>			
+					</div>
+			</div>
+	    </div>		
+		
+	  </div>
+	  
+		<div class="item keyitem">
+			<input name="key" type="text" id="key" value="" class="keyinput" />
+			<div class="key-type">
+								<input name="keytype" type="radio" value="1"><label for="keytype">职位</label>&nbsp;
+				<input name="keytype" type="radio" value="2" checked="false"><label for="keytype">公司</label>
+							</div>
+				<script src="/templates/default/js/jquery.autocomplete.js" type="text/javascript"></script>
+				<script language="javascript" type="text/javascript">
+				 $(document).ready(function()
+				{
+					  var a = $('#key').autocomplete({ 
+						serviceUrl:'/plus/ajax.php?act=hotword&type=1',
+						minChars:1, 
+						maxHeight:400,
+						width:281,
+						zIndex: 9999,
+						deferRequestBy: 0 //miliseconds
+						//params: { country:'Yes' }, //aditional parameters
+						//noCache: false, //default is false, set to true to disable caching
+						// callback function:
+						//onSelect: function(value, data){ alert('You selected: ' + value + ', ' + data); },
+						// local autosugest options:
+						//lookup: ['January', 'February', 'March', 'April', 'May'] //local lookup values 
+					  });
+				
+				});
+				  </script>			
+		</div>
+		<div class="item"><input type="submit" name="Submit" value=" " class="searcsubmit"/></div>
+	 </form> 	
+		<script type="text/javascript">
+/*960*60，创建于2012-7-5*/
+var cpro_id = "u970905";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+		</div><!--//searchbar--><div class="boxshadow wrap"></div>
+<div id="ulocation" class="wrap fn-clear">当前位置：<a href="/">求职网</a><span>&gt;&gt;</span>诚聘在线兼职,网络促销员</div><!--//ulocation-->
+<div class="subpages wrap fn-clear">
+	<div class="mainpart fn-left">
+		<div class="company-head fn-clear"><h1>诚聘在线兼职,网络促销员<span class="font-blue">【<a href="/gongsi/54517.html">台州海博网络技术有限公司</a>】</span></h1></div>
+		<div><span class="font-red"><a href="http://bbs.guolairen.com/thread-3529510-1-1.html" target="_blank" title="点击查看虚假招聘信息">过来人求职网提醒您：求职需提高谨慎，辨别信息真伪，勿上当受骗。</a></span></div>
+		<div class="company-nav fn-clear">
+	
+			<a id="cnav-intro" href="/gongsi/54517.html&act=profile">公司介绍</a>
+			<a id="cnav-allpos" href="/gongsi/54517.html">所有职位</a>
+			<a id="cnav-detail" href="" class="current">职位信息</a>
+		</div><!--//mainpart-->
+		<div class="company-content wbox pxbd fn-clear">
+			<div class="jobsshow">
+				<div class="tip font-green">
+								招聘进行中，欢迎投递简历，截止日期为：2013-10-24
+								
+				</div>
+				<ul class="pos-attribute fn-clear">
+					<li><span class="font-gray">职位类型：</span>兼职实习</li>
+					<li><span class="font-gray">薪资待遇：</span>5000~10000元/月</li>
+					<li><span class="font-gray">招聘人数：</span>100 人</li>
+					<li><span class="font-gray">工作地区：</span>全国 / 全国</li>
+					<li><span class="font-gray">工作经验：</span>不限制</li>
+					<li><span class="font-gray">更新日期：</span>2013-05-03</li>
+					<li><span class="font-gray">截止日期：</span>2013-10-24</li>
+					<li><span class="font-gray">学历要求：</span>不限制</li>
+					<li><span class="font-gray">性别要求：</span>不限</li>
+				</ul> 
+				<div class="stitle font-blue"><strong>职位描述/要求</strong></div>
+				<div class="pos-description fn-clear">
+														<div style="float:right;margin-left:10px">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-7571397138761926";
+/* 200x200 */
+google_ad_slot = "8602269569";
+google_ad_width = 200;
+google_ad_height = 200;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+												有意者可直接联系我们的QQ:813657122 王玲<br />
+---------------------------------<br />
+一，招聘对象： <br />
+1.有网络购物经验，如淘宝购物。<br />
+2.有上网条件，在家在校在公司均可。<br />
+3.职位性质：兼职，全职<br />
+4.职位名称：网络交易促销员。<br />
+《需要有一定网购经验》 <br />
+-----------------------------------<br />
+招收人数: 若干名 工作地点不限，专兼职均可！不收取任何费用！<br />
+工作内容简单易学、上手快！兼职时间自由，想做的时候再做.<br />
+待遇：多劳多得，保底80-120元/时<br />
+----------------------------------------------------<br />
+有意者可直接联系我们的QQ:813657122 王玲
+				</div><!--//pos-description-->
+														<div style="padding:5px 0">
+<center><script type="text/javascript">
+/*640*60，创建于2012-7-5*/
+var cpro_id = "u970996";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></center>
+</div>
+											<div class="stitle font-blue"><strong>联系方式</strong></div>
+				<!--AJAX 联系方式 --><div id="jobs_contact"></div>
+				
+				<div class="pos-apply ta-c">
+				<br/>
+					<a href="javascript:void(0)"><img src="/templates/default/images/apply.gif" class="app_jobs" alt="申请职位" /></a>&nbsp;&nbsp;
+					<a href="javascript:void(0)" class="add_favorites"><img src="/templates/default/images/shoucang.jpg" alt="" /></a><br />
+					<a href="/user/user_personal.php?act=report&jobs_id=1042458&jobs_name=诚聘在线兼职,网络促销员&jobs_addtime=1367047578" class="font-gray">[举报此信息]</a>
+				<div style="padding:10px 0 10px 140px;overflow:hidden;">
+				<!-- Baidu Button BEGIN -->
+				<div id="bdshare" style="float:none" class="bdshare_t bds_tools_32 get-codes-bdshare">
+					<a class="bds_qzone"></a>
+					<a class="bds_tsina"></a>
+					<a class="bds_tqq"></a>
+					<a class="bds_renren"></a>
+					<a class="bds_tqf"></a>
+					<a class="bds_douban"></a>
+					<a class="bds_qq"></a>
+					<a class="bds_tieba"></a>
+					<span class="bds_more">更多</span>
+					<a class="shareCount"></a>
+				</div>
+				<!-- Baidu Button END -->
+				</div>
+				</div><!--//pos-apply-->
+														<div style="padding:10px;text-align:center">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-7571397138761926";
+/* 468x60 */
+google_ad_slot = "5665218561";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+										</div><!--//pos-attribute-->
+
+
+			
+		</div><!--//company-content-->
+		<div class="boxshadow boxshadow-l"></div>
+	</div><!--//mainpart-->
+	<div class="sidebar fn-right">
+		<div class="wbox pxbd mb">
+			<h3 class="box-head ta-c">热门职位</h3>
+			<ul class="itemlists list-hot">
+
+						
+				<li><a href="/shixi/60114.html">校园兼职实习招聘汇总(3月2...<span class="applynum">135269</span></a></li>
+						
+				<li><a href="/shixi/60115.html">过来人高薪寻求合作伙伴<span class="applynum">12731</span></a></li>
+						
+				<li><a href="/shixi/67544.html">校园兼职实习招聘汇总(6月30...<span class="applynum">9980</span></a></li>
+						
+				<li><a href="/shixi/60420.html">过来人招聘寒假实习行业分析员<span class="applynum">5444</span></a></li>
+						
+				<li><a href="/shixi/440442.html">腾讯招聘2011暑期实习生<span class="applynum">4362</span></a></li>
+						
+				<li><a href="/shixi/718799.html">中国人民人寿保险股份有限公...<span class="applynum">2848</span></a></li>
+						
+				<li><a href="/shixi/67084.html">箭牌2010校园招聘及暑期实习...<span class="applynum">2798</span></a></li>
+						
+				<li><a href="/shixi/67165.html">&ldquo;我就是过来人&rdquo;校园实习生...<span class="applynum">2734</span></a></li>
+						
+				<li><a href="/shixi/65534.html">法国兴业银行（中国）有限公...<span class="applynum">2729</span></a></li>
+						
+				<li><a href="/shixi/436834.html">宝马(中国)招聘HR实习生<span class="applynum">2518</span></a></li>
+					</ul>
+		</div>
+		<div class="wbox pxbd mb">
+			<h3 class="box-head ta-c">推荐职位</h3>
+			<ul class="itemlists">
+					
+				<li><em>[荐]</em><a href="/shixi/763934.html">稽核风控部实习生</a></li>
+					
+				<li><em>[荐]</em><a href="/shixi/763928.html">医学事务实习生&nbsp;</a></li>
+					
+				<li><em>[荐]</em><a href="/shixi/763879.html">投资部实习生</a></li>
+					
+				<li><em>[荐]</em><a href="/shixi/763863.html">实习生</a></li>
+					
+				<li><em>[荐]</em><a href="/shixi/763860.html">实习生</a></li>
+					
+				<li><em>[荐]</em><a href="/shixi/763857.html">人力资源实习生</a></li>
+					
+				<li><em>[荐]</em><a href="/shixi/763854.html">视觉设计实习生</a></li>
+					
+				<li><em>[荐]</em><a href="/shixi/763762.html">客户经理</a></li>
+					
+				<li><em>[荐]</em><a href="/shixi/763754.html">人力资源部实习生</a></li>
+					
+				<li><em>[荐]</em><a href="/shixi/763753.html">内容编辑暑期实习生</a></li>
+					</ul>
+		</div>
+		<div class="wbox pxbd mb">
+			<h3 class="box-head ta-c">重点推荐</h3>
+			<ul class="itemlists list-tri">
+								<li><a href="http://mobile.glr.cn" target="_blank"><span style="color:#FF0000">史上最帅的公开课移动客户端上线！</span></a></li>
+								<li><a href="http://www.glr.cn/mooc/2469" target="_blank"><span style="color:#0066FF">直播预告：职业规划让您发展更科学</span></a></li>
+								<li><a href="http://www.glr.cn/mooc/2672" target="_blank"><span style="color:#0066FF">直播预告：高中毕业生留学选校指南</span></a></li>
+								<li><a href="http://www.glr.cn/mooc/2660" target="_blank"><span style="color:#0066FF">直播预告：打造公众演说力</span></a></li>
+								<li><a href="http://www.glr.cn/mooc/2643" target="_blank"><span style="color:#0066FF">直播回顾：日语语音入门</span></a></li>
+								<li><a href="http://www.glr.cn/mooc/2409" target="_blank"><span style="color:#0066FF">直播回顾：升职、加薪其实很简单</span></a></li>
+								<li><a href="http://www.glr.cn/mail/weekly.html" target="_blank"><span style="color:#FF0000">订阅求职周刊，公开课信息早知道！</span></a></li>
+								<li><a href="http://www.guolairen.com/zhiwei/1055535.html&audit=1" target="_blank"><span style="color:#FF0000">过来人代某国企招聘总裁助理</span></a></li>
+								<li><a href="http://www.guolairen.com/bishi/" target="_blank">2013名企校园招聘笔试真题汇总</a></li>
+								<li><a href="http://bbs.guolairen.com/thread-3529510-1-1.html" target="_blank">小提醒:求职须谨慎切勿上当受骗</a></li>
+							</ul>
+		</div>
+										<div class="mb">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-7571397138761926";
+/* 250x250 */
+google_ad_slot = "4578149276";
+google_ad_width = 250;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+						</div><!--//sidebar-->
+</div><!--//subpages-->
+
+<div id="footer" class="fn-clear">
+	<div class="footer-nav">
+		<a href="http://corp.guolairen.com/" target="_blank">关于我们</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="http://www.guolairen.com/about/ad.html" target="_blank">广告服务</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="http://corp.guolairen.com/news/reports.html" target="_blank">媒体报道</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="http://corp.guolairen.com/contact" target="_blank">联系我们</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="http://corp.guolairen.com/job/" target="_blank">加入我们</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="http://corp.guolairen.com/about/service.html" rel="nofollow" target="_blank">服务条款</a><!--&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="">信息删除</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="">网站地图</a>-->
+	</div>
+	<div class="sitenav">过来人旗下网站：<a href="http://www.guolairen.com/" target="_blank">过来人求职网</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="http://edu.glr.cn/" target="_blank">过来人教育</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="http://www.glr.cn/" target="_blank">过来人</a></div>
+	<div class="copyinfo">Copyright &copy; 2006 - 2012 GuoLaiRen.COM Inc. All Rights Reserved. 
+		<a href="http://www.guolairen.com" target="_blank">过来人求职网</a> 版权所有<br />
+		京ICP证090519号 京ICP备10038308号 京公网安备1101082083号 人力资源服务许可证RC1206284</div>
+</div><!--//footer-->
+<script language="javascript" type="text/javascript">
+$(document).ready(function() {
+	//if (document.readyState!="complete") return ;
+    var $backToTopTxt = "", $backToTopEle = $('<div class="backToTop"></div>').appendTo($("body"))
+        .text($backToTopTxt).attr("title", $backToTopTxt).click(function() {
+            $("html, body").animate({ scrollTop: 0 }, 300);
+    }), $backToTopFun = function() {
+        var st = $(document).scrollTop(), winh = $(window).height();
+        (st > 0)? $backToTopEle.show(): $backToTopEle.hide();    
+        //IE6下的定位
+        if (!window.XMLHttpRequest) {
+            $backToTopEle.css("top", st + winh - 60);    
+        }
+    };
+    $(window).bind("scroll", $backToTopFun);
+    $(function() { $backToTopFun(); });
+});
+</script>
+<!-- //Statistics Begin -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F6b71c628253026a0f563beb5dd759d41' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-8799787-1']);
+  _gaq.push(['_setDomainName', 'none']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- //Statistics end -->
+<!-- Baidu Button BEGIN -->
+<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=75823" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+	document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + new Date().getHours();
+</script><!-- Baidu Button END -->
+</body>
+</html>

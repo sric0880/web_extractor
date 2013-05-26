@@ -9,7 +9,7 @@
 #define TEMPLATE_H_
 #include "DataEntry.h"
 #include "NLPIR.h"
-#include "UserDictforSkills.h"
+#include "DuplicateRemoval.h"
 #include <string>
 #include <string.h>
 #include <boost/regex.hpp>
@@ -32,7 +32,7 @@ public:
 	virtual void match_tel(Data& entry,const string& str);
 private:
 	regex regex_email,regex_tel,regex_need_num;
-	UserDictforSkills usrDictforSkills;
+	DuplicateRemoval dup_removal;
 	inline bool pos_filter(int pos_id);
 };
 const int POS_LEN = 5;

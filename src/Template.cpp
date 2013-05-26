@@ -81,21 +81,22 @@ void Template::match_need_num(Data& entry,const string& str){
 }
 
 void Template::match_skills(Data& entry, const string& str) {
-	int nCount;
-	//分词的高级功能
-	//该函数功能为：输入字符串，输出分词结果的result_t结构体数组，nCout为数组大小
-	//返回的数组结果由系统自行维护，用户直接调用即可
-	const result_t *pResult = NLPIR_ParagraphProcessA(str.c_str(),&nCount,true);
-	int i = 1;
-	string sWhichDic;
-	unordered_set<string> words;
-	for (i = 0; i < nCount; ++i) {//逐个答应分词结果的内容
-		if (pos_filter(pResult[i].iPOS)) {
-			string word = str.substr(pResult[i].start, pResult[i].length);
-			words.insert(word);
-		}
-	}
-	usrDictforSkills.add_words(words);
+	//
+//	int nCount;
+//	//分词的高级功能
+//	//该函数功能为：输入字符串，输出分词结果的result_t结构体数组，nCout为数组大小
+//	//返回的数组结果由系统自行维护，用户直接调用即可
+//	const result_t *pResult = NLPIR_ParagraphProcessA(str.c_str(),&nCount,true);
+//	int i = 1;
+//	string sWhichDic;
+//	unordered_set<string> words;
+//	for (i = 0; i < nCount; ++i) {//逐个答应分词结果的内容
+//		if (pos_filter(pResult[i].iPOS)) {
+//			string word = str.substr(pResult[i].start, pResult[i].length);
+//			words.insert(word);
+//		}
+//	}
+//	dup_removal.add_words(words);
 }
 
 void Template::match_email(Data& entry, const string& str) {

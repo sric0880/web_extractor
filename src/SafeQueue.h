@@ -24,32 +24,34 @@ public:
 private:
 	int front;
 	int rear;
+	int size;
 	obj list[MAX_QUEUE_SIZE];
 	sem_t nempty, nstored;
-//	sem_t mutex;
+	sem_t mutex;
 };
 
 template<class obj>
-SafeQueue<obj>::SafeQueue():front(0),rear(0) {
+SafeQueue<obj>::SafeQueue():front(0),rear(0),size(0) {
 	sem_init(&nempty,0,MAX_QUEUE_SIZE);
 	sem_init(&nstored,0,0);
-	//sem_init(&mutex,0,1);
+	sem_init(&mutex,0,1);
 }
 
 template<class obj>
 SafeQueue<obj>::~SafeQueue() {
 	sem_destroy(&nempty);
 	sem_destroy(&nstored);
-//	sem_destroy(&mutex);
+	sem_destroy(&mutex);
 }
 
 template<class obj>
 void SafeQueue<obj>::push(const obj& o){
 	sem_wait(&nempty);
-//	sem_wait(&mutex);
+	sem_wait(&mutex);
 	list[rear] = o;
 	rear = (rear + 1)%MAX_QUEUE_SIZE;
-//	sem_post(&mutex);
+	++size;
+	sem_post(&mutex);
 	sem_post(&nstored);
 }
 
@@ -57,17 +59,18 @@ template<class obj>
 obj* SafeQueue<obj>::front_pop(){
 	obj* temp = NULL;
 	sem_wait(&nstored);
-//	sem_wait(&mutex);
+	sem_wait(&mutex);
 	temp = &list[front];
 	front = (front + 1)%MAX_QUEUE_SIZE;
-//	sem_post(&mutex);
+	--size;
+	sem_post(&mutex);
 	sem_post(&nempty);
 	return temp;
 }
 
 template<class obj>
 bool SafeQueue<obj>::isEmpty(){
-	if (rear == front)
+	if (size == 0)
 		return true;
 	else
 		return false;
@@ -75,7 +78,7 @@ bool SafeQueue<obj>::isEmpty(){
 
 template<class obj>
 void SafeQueue<obj>::clear(){
-	rear = front = 0;
+	rear = front = size = 0;
 }
 
 //template<class obj>

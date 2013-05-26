@@ -70,9 +70,9 @@ string TextExtractor::extract(string html){
 		{
 			dist[i]+=lines[j].length();
 		}
-		printf("%d\t",dist[i]);
+//		printf("%d\t",dist[i]);
 	}
-	printf("\n");
+//	printf("\n");
 	int start_line,end_line;
 	int max = 0;
 	for(i=0; i<num_lines-1; ++i){//求最大行块
