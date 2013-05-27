@@ -9,28 +9,37 @@ O_SRCS += \
 ../src/test.o 
 
 CPP_SRCS += \
+../src/Dictionary.cpp \
+../src/DuplicateRemoval.cpp \
 ../src/HtmlProcessor.cpp \
 ../src/InfoExtractor.cpp \
 ../src/Template.cpp \
 ../src/TemplateHiall.cpp \
+../src/TemplatePongo.cpp \
 ../src/TextExtractor.cpp \
 ../src/UserDictforSkills.cpp \
 ../src/test.cpp 
 
 OBJS += \
+./src/Dictionary.o \
+./src/DuplicateRemoval.o \
 ./src/HtmlProcessor.o \
 ./src/InfoExtractor.o \
 ./src/Template.o \
 ./src/TemplateHiall.o \
+./src/TemplatePongo.o \
 ./src/TextExtractor.o \
 ./src/UserDictforSkills.o \
 ./src/test.o 
 
 CPP_DEPS += \
+./src/Dictionary.d \
+./src/DuplicateRemoval.d \
 ./src/HtmlProcessor.d \
 ./src/InfoExtractor.d \
 ./src/Template.d \
 ./src/TemplateHiall.d \
+./src/TemplatePongo.d \
 ./src/TextExtractor.d \
 ./src/UserDictforSkills.d \
 ./src/test.d 

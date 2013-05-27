@@ -74,11 +74,12 @@ string TextExtractor::extract(string html){
 	}
 //	printf("\n");
 	int start_line,end_line;
-	int max = 0;
+//	int max = 0;
 	for(i=0; i<num_lines-1; ++i){//求最大行块
-		if(dist[i]>max){
-			max = dist[i];
+		if(dist[i]>_threshold){
+//			max = dist[i];
 			start_line = i;
+			break;
 		}
 	}
 	end_line = start_line+1;
@@ -89,7 +90,7 @@ string TextExtractor::extract(string html){
 		}
 	}
 	for(int i=start_line-1; i>0; --i){//开始位置
-		if(dist[i] < _threshold){
+		if(dist[i] == 0){
 			start_line = i+1;
 			break;
 		}

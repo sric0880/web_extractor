@@ -1,0 +1,452 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+<title>PHP开发工程师 - 上海瑞创网络科技股份有限公司 ----庞果网-Pongo.cn</title>
+<meta name="description" content="查看 PHP开发工程师 - 上海瑞创网络科技股份有限公司 的职位 ----庞果网-Pongo.cn"/>
+<meta name="keywords" content="PHP开发工程师  PHP研发 网站建设 B2C电商 计算机 互联网求职 IT求职 软件开发 硬件开发  程序员 工作 人才 招聘信息 人才招聘 找工作 好工作 人才市场 招聘网 求职网 职位 跳槽 高薪职位 校园招聘 大学生求职 招聘" />
+
+
+    <link type="text/css" href="http://image.pongo.com.cn/my/css/commen.css" rel="stylesheet"/>
+    <script type="text/javascript" src="/Scripts/Comm/jscommen.js"></script>
+    <script type="text/javascript" src="http://js.pongo.com.cn/common/jquery-1.4.2.js"></script>
+    <script type="text/javascript" src="http://js.pongo.com.cn/common/pop/jquery.larkyPopWindow.js"></script>
+    <script type="text/javascript" src="http://js.pongo.com.cn/common/pop/jquery.larkyPopWindow.DropList.js"></script>
+    <script type="text/javascript" src="http://js.pongo.com.cn/my/showClose.js"></script>
+    
+    <!--[if IE 6]>
+    <script src="http://js.pongo.cn/my/DD_belatedPNG.js"></script>
+    <script>
+      DD_belatedPNG.fix('img,.png');
+    </script>
+    <![endif]-->
+    
+    
+</head>
+
+<body>
+<div class="topbg">
+	<div class="warp">
+		<h1 class="MLogo"><a href="http://www.pongo.cn/"> </a></h1>
+        <script type="text/javascript" src="https://passport.csdn.net/content/loginbox/loginapi.js"></script>
+<script type="text/javascript">
+    var $logon = {
+        showname: function (name) {
+            if (name[0] != undefined) {
+                if (name[0].n != undefined && name[0].n != "") {
+                    $('#nn').html(name[0].n + " 你好");
+                }
+                else {
+                    $('#nn').html(name[0].u + " 你好");
+                }
+            }
+        }
+    }
+    function GetNickname(username) {
+        /*获取nickname*/
+        $(document).ready(function () {
+            var nickname = "";
+            $.ajax({
+                type: 'get',
+                url: 'http://api.csdn.net/service/open/nick?users=' + username + '&callback=$logon.showname',
+                async: false,
+                dataType: "jsonp",
+                jsonp: "jsonpcallback"
+            });
+        })
+    }
+</script>
+<div class="top_user">
+	<a href="https://passport.pongo.cn/user/bizlogon" class="qyyh">企业用户</a>
+    <div class="before_login" id="login">
+        <a id="_strHref10" href="javascript:show_hiddendiv10();"><span id="_strSpan10">
+        登录</span> </a>
+        <div class="pLogin png" id="hidden_div10" style="display: none;">
+            <ul>
+                <li class="pl40">
+					<span class="fw"><span>CSDN</span>会员可直接登录</span>
+				</li>
+                <li>
+                    <div class="l">
+                        帐 号</div>
+                    <div class="r">
+                        <input type="text" class="pLoginTxt" maxlength="30" name="UserName" id="usernameid" /><br />
+                        <span class="red1" style="display: none;"></span>
+                    </div>
+                </li>
+                <li>
+                    <div class="l">
+                        密 码</div>
+                    <div class="r">
+                        <input type="password" class="pLoginTxt" name="Password" maxlength="20"  id="pwdid"/>
+                        <span class="red1" style="display: none;"></span>
+                    </div>
+                </li>
+                <li class="jizhu">
+                    <span class="fl">
+                        <input type="checkbox" class="fl" maxlength="4" name="RememberMe"/>记住我
+                    </span>
+                    <span class="fr">
+                        <a href="https://passport.csdn.net/account/forgotpassword?from=http%3a%2f%2forg.pongo.cn%2fJob%2fDetails%3fID%3d74066">忘记密码</a>
+                    </span> 
+                </li>
+                <li class="pl40">
+                    <input type="button" class="pLoginBtn fl" id="btnLogin" value="登 录" />                    
+                    <input type="button" class="pLoginBtn fl" id="btnReg" onclick="javascript:location='https://passport.csdn.net/open/pongo_register?from=http%3a%2f%2forg.pongo.cn%2fJob%2fDetails%3fID%3d74066'" value="注 册" />                    
+                </li>
+            </ul>
+            <div class="jiantou png"></div>
+        </div>
+        <script type="text/javascript">
+            function RefreshCheckCode() {
+                $("#checkimg").attr("src", "https://passport.pongo.cn/getimg.aspx?small=small&r=" + Math.random());
+            }
+
+            function CsdnCheckCallback(data)
+            {
+                if(data.LoginStatus)
+                {
+                    Loginsuccess(data.UserName);
+                }
+            }
+
+            function Loginsuccess(username) {
+                //                $("#hidden_div10").hide(); 目前样式似乎不匹配
+                //                $("ul.topR").html("").addClass("slw290").append("<li>" + username + " 你好 |</li>").append("<li><a href=\"#/">我的pongo</a> |</li>").append("<li><a href=\"https://passport.pongo.cn/user/logout?backurl=http%3a%2f%2forg.pongo.cn%2fJob%2fDetails%3fID%3d74066/">退出</a></li>").append("<li class=\"r\">企业用户</li>");
+                var loginStr = "<span><a href=\"https://passport.csdn.net/account/logout?from=http%3a%2f%2forg.pongo.cn%3a80%2fJob%2fDetails%3fID%3d74066/">退出</a></span>";
+                loginStr +="<span class=\"gary\">|</span>";
+	            loginStr +="<span><a href=\"http://writeblog.csdn.net/" target=\"_blank\">我的博客</a></span>";
+	            loginStr +="<span class=\"gary\">|</span>";
+	            loginStr +="<span><a href=\"http://my.csdn.net/" target=\"_blank\">我的空间</a></span>";	           
+                loginStr += "<span class=\"gary\">|</span>";
+                
+                 loginStr += ' <span>';
+				loginStr += '<a id="_strHref18" href="javascript:showDiv("hidden_div30");">英雄会</a>';
+
+				loginStr += '<div class="p_out">';
+				loginStr += '<div class="inbox pos30" isshow="18" id="hidden_div30" style="display:none;">';
+				loginStr += '<ul class="con">';
+				loginStr += '	<li><a href="http://hero.pongo.cn/Home/Index">英雄会首页</a></li>';
+//				loginStr += '   <li><a href="http://hero.pongo.cn/hero/index">英雄榜</a></li>';
+				loginStr += '	<li><a href="http://hero.pongo.cn/Hero/Awards">获奖名单</a></li>';
+				loginStr += '	<li><a href="http://my.pongo.cn/Hero/Index">我的英雄会</a></li>';
+				loginStr += '</ul>';
+				loginStr += '	<div class="arr"></div>';
+				loginStr += '</div>';
+				loginStr += '</div>';
+					
+		        loginStr += '</span>';
+        
+                loginStr += ' <span class="gary">|</span>   ';   
+                
+                loginStr += "<span>";
+                loginStr += "<a id=\"_strHref18\" href=\"javascript:showDiv('hidden_div18');\">我的pongo</a>";
+                loginStr += "<div class=\"p_out\">";
+                loginStr += "<div class=\"inbox pos20\" isShow=\"18\" id=\"hidden_div18\" style=\"display:none;\">";               
+                loginStr += "<div class=\"m png\">"
+                loginStr += "<ul class=\"con\">";
+                loginStr += "<li><a href=\"http://my.pongo.cn/job/MyJobList/">职位</a></li>";
+                loginStr += "<li><a href=\"http://my.pongo.cn/CV/Index/">简历</a></li>";
+                //loginStr += "<li><a href=\"http://my.pongo.cn/Hero/Index/">我的英雄会</a></li>";
+                loginStr += "<li><a href=\"http://my.pongo.cn/my/Index/">设置</a></li>";
+                loginStr += "<li><a href=\"https://passport.csdn.net/security/changepwd/" target=\"_blank\">修改密码</a></li>"
+                loginStr += "</ul>";
+                loginStr += " <div class=\"arr\"></div>";
+                loginStr += "</div>";              
+                loginStr += "</div>";
+                loginStr += "</div>";
+                loginStr += "</span>";
+                loginStr += "<span class=\"gary\">|</span>";
+                loginStr += "<span id='nn'> 你好</span>";                
+                GetNickname(username);
+
+                top.$("#login").html("").removeClass("before_login").addClass("after_login").append(loginStr);
+            }
+
+            function csdnlogin() {
+                csdn.login(
+                    $("#hidden_div10 input[name='UserName']").val()
+                    , $("#hidden_div10 input[name='Password']").val()
+                    , $("#hidden_div10 input[name='RememberMe']")[0].checked
+                    , function (data) {
+                        if (data.status) {
+                            Loginsuccess(data.data.userName);
+                        }
+                        else {
+                            if (data.error == "该帐户尚未激活。") {
+                                window.location.href = "https://passport.csdn.net/account/active?from=" + encodeURIComponent(window.location.href);
+                                return;
+                            }
+                            $("#hidden_div10 input[name='UserName']").siblings("span").html(data.error).show()
+                        }
+                    });
+            }
+
+            $(document).ready(function () {
+                //document.domain = "pongo.cn";
+                RefreshCheckCode();
+                $("#btnLogin").click(function () {
+                    var username = $("#hidden_div10 input[name='UserName']").val();
+                    var password = $("#hidden_div10 input[name='Password']").val();
+
+                    $("#hidden_div10 input[name='UserName']").siblings("div").hide();
+                    $("#hidden_div10 input[name='Password']").siblings("div").hide();
+
+                    if ($.trim(username) == "") {
+                        $("#hidden_div10 input[name='UserName']").siblings("span").html("用户名为必填").show();
+                        return false;
+                    }
+
+                    if ($.trim(password) == "") {
+                        $("#hidden_div10 input[name='Password']").siblings("span").html("密码为必填").show();
+                        return false;
+                    }
+                    csdnlogin();
+                });
+
+                 $("#usernameid,#pwdid").keydown(function(e){
+                    if(e.keyCode == 13){
+                        $("#btnLogin").trigger("click");
+                    }
+                });
+            });
+        </script>
+    </div>
+</div>
+
+    <script type="text/javascript">
+        $(document).ready(function () { 
+            var script = document.createElement('script');
+            script.setAttribute('src', "http://job.csdn.net/csdn/csdncheck?jsonpcallback=CsdnCheckCallback&" + Math.random());
+            // 把script标签加入head，此时调用开始
+            document.getElementsByTagName('head')[0].appendChild(script);
+        });
+    </script>
+
+	</div>	
+</div>
+
+<div class="nav">
+		<ul class="menu">
+			<li ><span><a href="http://www.pongo.cn">首页</a></span></li>
+			<li ><span><a href="http://my.pongo.cn/CV/Index">简历</a></span></li>
+            <li ><span><a href="http://my.pongo.cn/job/MyJobList">职位</a></span></li>
+            
+		
+
+		</ul>
+</div>
+
+
+
+<link type="text/css" href="http://image.pongo.cn/my/css/commen.css" rel="stylesheet"/>
+<link type="text/css" href="http://image.pongo.cn/my/css/shi.css" rel="stylesheet"/>
+
+<style>
+/*demo css*/
+#JobRelatedList ul.line,#JobRelatedList ul.mulitline{overflow:hidden;margin-bottom:20px;border:0px solid #a40000}
+#JobRelatedList ul.mulitline{height:325px}
+
+</style>
+
+<script type="text/javascript" src="http://js.pongo.cn/common/core.js"></script>
+<script type="text/javascript" src="http://js.pongo.cn/common/client.js"></script>
+<script src="http://js.pongo.cn/common/messageboxnotitle.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://js.pongo.cn/common/drag_v1.0.js"></script>
+
+<script src="/Scripts/ViewJs/CVSnapOperation.js" type="text/javascript"></script>
+<script type="text/javascript" src="../Scripts/Job/JobApplyAlert.js"></script>
+
+<script type="text/javascript" src="../Scripts/Job/JobApply.js"></script>
+<script type="text/javascript" src="../Scripts/Job/JobRelatedList.js"></script>
+
+<script type="text/javascript" src="../Scripts/Page.js"></script>
+
+<div class="warp">
+	<div class="zhsz_l fl">
+    	<h2 class="f23 green1">PHP开发工程师 <img src="http://image.pongo.com.cn/www/dot.gif" alt="急招" title="急招" class="ico_urgent_det"></h2>
+    	<div class="consz1">
+        	<div class="left fl">
+            	    <h2 class="f18">上海瑞创网络科技股份有限公司 </h2>
+                <p>
+                     
+                	   公司规模：100 - 499人<br/>
+                     
+                     
+					公司性质：私营．民营企业<br/>
+                    
+                     
+					公司行业：互联网&#183;电子商务
+                     
+                    <span id="OrgID" style=" display:none;">116</span>
+                    <span id="JobID"style=" display:none;">65011</span>
+                </p>
+            </div>
+            <div class="com_box">
+            	    <img src="http://hire.pongo.cn/image/AttachFile?fileid=34155" alt="" class="comImgBor" width="156" height="61" />
+                <input type="button" class="btn_allp" value="该公司所有职位"  onclick="javascript:window.open('/Org/Details?ID=116&JobList=true');" src="http://image.pongo.cn/my/images/Personal_04.jpg">
+            </div>
+        	<div class="clear"></div>
+        </div>
+        <div class="consz3">
+        	<ul>
+                     
+            	        <li>职位性质：全职</li>
+                     
+                     
+                        <li> 发布日期：2013-05-27</li>
+                    
+                     
+                         <li>工作经验：2年</li>
+                    
+                     
+                <li>学历要求：大专</li>
+                 
+
+                     
+                <li>招聘人数：8 人</li>
+                 
+                     
+                <li>职位月薪：8000~10000</li>
+                 
+                     
+                <li>简历语言：中文</li>
+                 
+                     
+                <li>工作地点：上海市</li>
+                 
+            </ul>
+            <div class="clear"></div>
+        </div>
+      <div class="consz2">
+        <h3 class="f14">职位描述</h3>      
+            <div class="cl">
+                     
+                    <p>
+	1．负责千万级访问量网站2345.com的前后台程序设计、研发；</p>
+<p>
+	2．参与项目需求评审，制定产品设计文档、计划文档；</p>
+<p>
+	3．控制开发产品质量，参与制定开发规范；</p>
+<p>
+	4．改进现有JS框架、基础构架，提高产品质量。</p>
+<p>
+	任职要求：</p>
+<p>
+	1、本科及以上学历，2年以上LAMP/WAMP工作经验；</p>
+<p>
+	2、精通javascript,能够熟练利用原生javascript进行开发工作；</p>
+<p>
+	3、熟练掌握各种设计模式和设计原则,具有2个以上中大型分布式系统设计经验，至少在一个成功的中大型项目(产品)中担任主设计师；</p>
+<p>
+	4、熟悉MYSQL数据库，掌握各种调优技巧,熟悉各种nosql者优先；</p>
+<p>
+	5、熟悉memcache/redis、MVC/REST架构、模板引擎、中间件的原理与应用者优先；</p>
+<p>
+	6、熟悉TCP/IP、HTTP协议者优先；</p>
+<p>
+	7、有团队精神，能够主动和队友沟通、分享；</p>
+<p>
+	8、较强的文档撰写能力,包括需求分析、总体方案、概要设计等软件文档。</p>
+<p>
+	加分项：</p>
+<p>
+	1.具有网上支付、影视网站、CMS系统、广告系统、海量数据分析方面经验者优先；</p>
+<p>
+	2.熟悉AS、PHP的C扩展、RRDTools任一种；</p>
+<p>
+	3.精通linux服务，配置调优；</p>
+<p>
+	-</p>
+<p>
+	薪酬：</p>
+<p>
+	工资+项目奖金+年终奖</p>
+<p>
+	-</p>
+<p>
+	福利：</p>
+<p>
+	1、按照国家规定缴纳社保、公积金，并提供补充商业医疗保险；</p>
+<p>
+	2、培训机会多，公司提供人均3000元/年的培训预算；</p>
+<p>
+	3、免费早餐、员工体检、员工生日关怀、运动俱乐部、旅游、野外拓展等一系列福利；</p>
+<p>
+	4、晋升后可获得无息购房贷款、购车贷款等福利；</p>
+<p>
+	5、表现优异的员工有获得期权奖励的机会。</p>
+<p>
+	-</p>
+<p>
+	团队：</p>
+<p>
+	公司现有员工300余人，其中研发人员占比约40%，高手切磋，就等你来！</p>
+<p>
+	-</p>
+<p>
+	晋升：</p>
+<p>
+	&ldquo;技术专家+管理干部&rdquo;双通道晋升模式，公司高速发展，人员快速增长，晋升机会多！任人唯贤！</p>
+<p>
+	-</p>
+<p>
+	地点：</p>
+<p>
+	上海市浦东新区浦东软件园三期，地铁2号线金科路站步行8分钟即到。</p>
+<p>
+	&nbsp;</p>   
+                   
+            </div>            
+        <h3 class="f14">联系方式</h3>
+       <p>
+                        
+                            公司地址：上海浦东新区亮秀路112号Y2座9层<br/>
+                          
+                        
+                
+                     
+                    公司网址：http://www.ruichuang.net
+                                        
+         </p>
+        <p class="sq">
+                <input id="JobApply" type="button" class="gbtnS1 png Seaml5 fw f18" value="申请职位" />
+                <span class="spbg1"><a id="JobFavorite" href="javascript:void(0);">收藏职位</a></span>                 <DIV class=bshare-custom sizcache06457356350066583="0" sizset="0"><A class=bshare-qzone title=分享到QQ空间 href="javascript:void(0);"></A><A class=bshare-sinaminiblog title=分享到新浪微博 href="javascript:void(0);"></A><A class=bshare-renren title=分享到人人网 href="javascript:void(0);"></A><A class=bshare-qqmb title=分享到腾讯微博 href="javascript:void(0);"></A><A class=bshare-douban title=分享到豆瓣 href="javascript:void(0);"></A><A class="bshare-more bshare-more-icon more-style-sharethis" title=更多平台 buttonIndex="0"></A><SPAN class="BSHARE_COUNT bshare-share-count">0</SPAN></DIV>
+                <SCRIPT type=text/javascript charset=utf-8 src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=c67b1e48-2210-48d3-aa2c-20cd470b9d33&amp;pophcol=2&amp;lang=zh"></SCRIPT>                
+                <SCRIPT type=text/javascript charset=utf-8 src="http://static.bshare.cn/b/bshareC0.js"></SCRIPT>
+        </p>
+    	<h3 class="f14">公司介绍</h3>
+        <p>
+                     
+            2345.com&nbsp;公司简介<br><br>&nbsp;&nbsp;&nbsp;&nbsp;上海瑞创网络科技股份有限公司是上海市明星软件企业、小巨人培育企业、连续六年被评为上海市高新技术企业、2011年东方卫视《舞林大会》赞助单位；公司总裁韩猛被评为2011年“上海IT青年十大新锐”和“上海市计算机行业科技创新领军人物”。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;公司成立于2006年，是一家以互联网运营和软件开发为一体的知名互联网企业，注册资本金人民币5392万元，拥有雄厚的资本实力。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;公司拥有一支高水平的产品和运营团队，员工300余人，旗下拥有2345网址导航、2345智能浏览器、多特软件站、2345好压等知名产品，覆盖超过1.5亿用户，是国内为数不多的拥有亿万级用户平台的公司。成立七年来，每年以100%的速度增长。2011年收入超过3亿元，利润超过1亿元，纳税5000万元，跻身国内知名互联网公司行列。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;我们秉承“诚实、用心、专业”的人才理念和“坦诚、热情、共创、分享”的经营理念，目标是打造网民首选的“上网入口”平台，成为国内领先的互联网企业。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;如果您热衷于互联网行业，如果您想在拥有亿万级用户的平台上发展，那您还犹豫什么？加盟瑞创将是您最好的选择，我们将提供给您能够尽情施展才华的舞台，让您尽情的遨游与飞翔！<br><br>&nbsp;&nbsp;&nbsp;&nbsp;公司大事记：<br><br>&nbsp;&nbsp;&nbsp;&nbsp;2012年&nbsp;公司自主研发软件荣获浦东新区科技进步奖<br>&nbsp;&nbsp;&nbsp;&nbsp;2012年&nbsp;总裁韩猛荣获“上海市首届十大杰出青商”称号<br>&nbsp;&nbsp;&nbsp;&nbsp;2011年&nbsp;总裁韩猛荣获“上海市计算机行业创新领军人物十佳”称号<br>&nbsp;&nbsp;&nbsp;&nbsp;2011年&nbsp;总裁韩猛获得“上海IT青年十大新锐”称号<br>&nbsp;&nbsp;&nbsp;&nbsp;2011年&nbsp;获得2011年度上海明星软件企业称号<br>&nbsp;&nbsp;&nbsp;&nbsp;2011年&nbsp;2345网址导航全程赞助东方卫视《舞林大会》节目<br>&nbsp;&nbsp;&nbsp;&nbsp;2010年&nbsp;2345网址导航荣获中国互联网大会最具价值产品及服务奖<br>&nbsp;&nbsp;&nbsp;&nbsp;2010年&nbsp;荣获上海市科技小巨人培育企业称号<br>&nbsp;&nbsp;&nbsp;&nbsp;2009年&nbsp;获得上海市科委、国家科技部分别颁发的创新基金<br>&nbsp;&nbsp;&nbsp;&nbsp;2009年&nbsp;被选为上海市浦东新区科研机构单位<br>&nbsp;&nbsp;&nbsp;&nbsp;2007年&nbsp;获得上海市高新技术企业认定<br><br>&nbsp;&nbsp;&nbsp;&nbsp;加入我们的五大理由：<br><br>&nbsp;&nbsp;&nbsp;&nbsp;1、发展机会多，1.5亿的用户平台为您提供广阔的职业发展空间和工作成就感；<br>&nbsp;&nbsp;&nbsp;&nbsp;2、具有竞争力的薪酬待遇：工资+项目奖金+年终奖，任人唯贤，调薪机制灵活；<br>&nbsp;&nbsp;&nbsp;&nbsp;3、人性化的福利待遇：免费早餐、员工体检、员工生日关怀、运动俱乐部、旅游、野外拓展等；<br>&nbsp;&nbsp;&nbsp;&nbsp;4、公司提供无息购房贷款、购车贷款、人均3000元/年的培训基金等福利政策；<br>&nbsp;&nbsp;&nbsp;&nbsp;5、表现优异的员工有获得期权奖励的机会。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;2345.com&nbsp;旗下产品：<br><br>&nbsp;&nbsp;&nbsp;&nbsp;2345网址导航（www.2345.com）<br>&nbsp;&nbsp;&nbsp;&nbsp;国内网站排名第22位，日访问用户超过2000万，是中国互联网最大的上网入口之一。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;2345智能浏览器（ie.2345.com）<br>&nbsp;&nbsp;&nbsp;&nbsp;会拦截骚扰广告的智能浏览器，拥有智能拦截弹窗广告，智能识别欺诈网站，智能云收藏夹等六项智能技术。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;多特软件站（&nbsp;www.duote.com）<br>&nbsp;&nbsp;&nbsp;&nbsp;国国内软件站前三名，首家提出“绿色安全下载”概念的软件站。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;2345好压（www.haozip.com）<br>&nbsp;&nbsp;&nbsp;&nbsp;中国用户量最大的免费压缩软件，用户超过1.4亿。压缩和解压速度提升20%，是十大装机必备软件之一。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;招聘微博：http://e.weibo.com/2345weizhaopin<br>&nbsp;&nbsp;&nbsp;招聘QQ：1901381844<br><br>
+                                
+        </p>      		
+    </div>
+            
+    </div>
+    
+		
+<div class="clear"></div>	
+</div>
+
+
+
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ff3700fad68d63cbb9de681794ea37d6a' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<div class="footer">
+	<div class="warp">
+			<a href="http://www.pongo.cn/Official/About" target="_blank">关于我们</a> | 
+			<a href="http://www.pongo.cn/Official/Legal" target="_blank">法律声明</a> |  
+			<a href="http://www.pongo.cn/Official/Feedback" target="_blank">信息反馈</a> | 
+			<a href="http://www.pongo.cn/Official/Contact" target="_blank">联系我们</a> | 
+			<a href="http://my.pongo.cn/Org/Details?ID=1" target="_blank">加入我们</a> |
+			<a href="http://www.pongo.cn/Official/Privacy" target="_blank">隐私保护</a> | 
+			<a href="http://www.pongo.cn/Official/Copyright" target="_blank">版权所有</a> | &nbsp;<a href="http://www.miibeian.gov.cn/" target="_blank">沪ICP备11011787号-2</a>&nbsp;
+			<span class="fa">Copyright © 2012 Pongo Networks Technology Co.,ltd.  </span>
+	</div>
+</div>
+</body>
+</html>

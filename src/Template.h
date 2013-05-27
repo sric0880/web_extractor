@@ -8,8 +8,8 @@
 #ifndef TEMPLATE_H_
 #define TEMPLATE_H_
 #include "DataEntry.h"
+#include "Dictionary.h"
 #include "NLPIR.h"
-#include "DuplicateRemoval.h"
 #include <string>
 #include <string.h>
 #include <boost/regex.hpp>
@@ -32,9 +32,6 @@ public:
 	virtual void match_tel(Data& entry,const string& str);
 private:
 	regex regex_email,regex_tel,regex_need_num;
-	DuplicateRemoval dup_removal;
-	inline bool pos_filter(int pos_id);
+	Dictionary dict;
 };
-const int POS_LEN = 5;
-const int pos_ids[POS_LEN]={21,22,32,74,93};//需要保留的词性
 #endif /* TEMPLATE_H_ */

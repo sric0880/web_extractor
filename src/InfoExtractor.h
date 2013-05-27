@@ -11,6 +11,7 @@
 #include <string.h>
 #include "Output.h"
 #include "Template.h"
+#include "DuplicateRemoval.h"
 using namespace std;
 class InfoExtractor {
 public:
@@ -20,6 +21,7 @@ public:
 private:
 	Output* out;
 	Template* temt;
+	DuplicateRemoval dup_removal;
 	void release(Data &entry);
 };
 #endif /* INFOEXTRACTOR_H_ */

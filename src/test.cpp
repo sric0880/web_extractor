@@ -15,6 +15,7 @@
 #include "OutputXml.h"
 #include "OutputConsole.h"
 #include "TemplateHiall.h"
+#include "TemplatePongo.h"
 #include "HtmlProcessor.h"
 using namespace std;
 
@@ -23,9 +24,10 @@ int main() {
 //	OutputXml xml;
 	OutputConsole console;
 	TemplateHiall hiall;
+//	TemplatePongo pongo;
 	HtmlProcessor htmlpro(&console, &hiall);
 	htmlpro.start();
-	for(int i =0;i<150;++i){
+	for(int i =0;i<20;++i){
 		char filename[20];
 		sprintf(filename,"test/d00000/%d",i+1);
 		printf("%s\n",filename);

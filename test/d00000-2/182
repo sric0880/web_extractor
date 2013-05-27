@@ -1,0 +1,400 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+<title>Software Senior Architect - 北京祖睿科技有限公司 ----庞果网-Pongo.cn</title>
+<meta name="description" content="查看 Software Senior Architect - 北京祖睿科技有限公司 的职位 ----庞果网-Pongo.cn"/>
+<meta name="keywords" content="Software Senior Architect  Java研发 云存储/云计算 数据中心 计算机 互联网求职 IT求职 软件开发 硬件开发  程序员 工作 人才 招聘信息 人才招聘 找工作 好工作 人才市场 招聘网 求职网 职位 跳槽 高薪职位 校园招聘 大学生求职 招聘" />
+
+
+    <link type="text/css" href="http://image.pongo.com.cn/my/css/commen.css" rel="stylesheet"/>
+    <script type="text/javascript" src="/Scripts/Comm/jscommen.js"></script>
+    <script type="text/javascript" src="http://js.pongo.com.cn/common/jquery-1.4.2.js"></script>
+    <script type="text/javascript" src="http://js.pongo.com.cn/common/pop/jquery.larkyPopWindow.js"></script>
+    <script type="text/javascript" src="http://js.pongo.com.cn/common/pop/jquery.larkyPopWindow.DropList.js"></script>
+    <script type="text/javascript" src="http://js.pongo.com.cn/my/showClose.js"></script>
+    
+    <!--[if IE 6]>
+    <script src="http://js.pongo.cn/my/DD_belatedPNG.js"></script>
+    <script>
+      DD_belatedPNG.fix('img,.png');
+    </script>
+    <![endif]-->
+    
+    
+</head>
+
+<body>
+<div class="topbg">
+	<div class="warp">
+		<h1 class="MLogo"><a href="http://www.pongo.cn/"> </a></h1>
+        <script type="text/javascript" src="https://passport.csdn.net/content/loginbox/loginapi.js"></script>
+<script type="text/javascript">
+    var $logon = {
+        showname: function (name) {
+            if (name[0] != undefined) {
+                if (name[0].n != undefined && name[0].n != "") {
+                    $('#nn').html(name[0].n + " 你好");
+                }
+                else {
+                    $('#nn').html(name[0].u + " 你好");
+                }
+            }
+        }
+    }
+    function GetNickname(username) {
+        /*获取nickname*/
+        $(document).ready(function () {
+            var nickname = "";
+            $.ajax({
+                type: 'get',
+                url: 'http://api.csdn.net/service/open/nick?users=' + username + '&callback=$logon.showname',
+                async: false,
+                dataType: "jsonp",
+                jsonp: "jsonpcallback"
+            });
+        })
+    }
+</script>
+<div class="top_user">
+	<a href="https://passport.pongo.cn/user/bizlogon" class="qyyh">企业用户</a>
+    <div class="before_login" id="login">
+        <a id="_strHref10" href="javascript:show_hiddendiv10();"><span id="_strSpan10">
+        登录</span> </a>
+        <div class="pLogin png" id="hidden_div10" style="display: none;">
+            <ul>
+                <li class="pl40">
+					<span class="fw"><span>CSDN</span>会员可直接登录</span>
+				</li>
+                <li>
+                    <div class="l">
+                        帐 号</div>
+                    <div class="r">
+                        <input type="text" class="pLoginTxt" maxlength="30" name="UserName" id="usernameid" /><br />
+                        <span class="red1" style="display: none;"></span>
+                    </div>
+                </li>
+                <li>
+                    <div class="l">
+                        密 码</div>
+                    <div class="r">
+                        <input type="password" class="pLoginTxt" name="Password" maxlength="20"  id="pwdid"/>
+                        <span class="red1" style="display: none;"></span>
+                    </div>
+                </li>
+                <li class="jizhu">
+                    <span class="fl">
+                        <input type="checkbox" class="fl" maxlength="4" name="RememberMe"/>记住我
+                    </span>
+                    <span class="fr">
+                        <a href="https://passport.csdn.net/account/forgotpassword?from=http%3a%2f%2forg.pongo.cn%2fJob%2fDetails%3fID%3d74432">忘记密码</a>
+                    </span> 
+                </li>
+                <li class="pl40">
+                    <input type="button" class="pLoginBtn fl" id="btnLogin" value="登 录" />                    
+                    <input type="button" class="pLoginBtn fl" id="btnReg" onclick="javascript:location='https://passport.csdn.net/open/pongo_register?from=http%3a%2f%2forg.pongo.cn%2fJob%2fDetails%3fID%3d74432'" value="注 册" />                    
+                </li>
+            </ul>
+            <div class="jiantou png"></div>
+        </div>
+        <script type="text/javascript">
+            function RefreshCheckCode() {
+                $("#checkimg").attr("src", "https://passport.pongo.cn/getimg.aspx?small=small&r=" + Math.random());
+            }
+
+            function CsdnCheckCallback(data)
+            {
+                if(data.LoginStatus)
+                {
+                    Loginsuccess(data.UserName);
+                }
+            }
+
+            function Loginsuccess(username) {
+                //                $("#hidden_div10").hide(); 目前样式似乎不匹配
+                //                $("ul.topR").html("").addClass("slw290").append("<li>" + username + " 你好 |</li>").append("<li><a href=\"#/">我的pongo</a> |</li>").append("<li><a href=\"https://passport.pongo.cn/user/logout?backurl=http%3a%2f%2forg.pongo.cn%2fJob%2fDetails%3fID%3d74432/">退出</a></li>").append("<li class=\"r\">企业用户</li>");
+                var loginStr = "<span><a href=\"https://passport.csdn.net/account/logout?from=http%3a%2f%2forg.pongo.cn%3a80%2fJob%2fDetails%3fID%3d74432/">退出</a></span>";
+                loginStr +="<span class=\"gary\">|</span>";
+	            loginStr +="<span><a href=\"http://writeblog.csdn.net/" target=\"_blank\">我的博客</a></span>";
+	            loginStr +="<span class=\"gary\">|</span>";
+	            loginStr +="<span><a href=\"http://my.csdn.net/" target=\"_blank\">我的空间</a></span>";	           
+                loginStr += "<span class=\"gary\">|</span>";
+                
+                 loginStr += ' <span>';
+				loginStr += '<a id="_strHref18" href="javascript:showDiv("hidden_div30");">英雄会</a>';
+
+				loginStr += '<div class="p_out">';
+				loginStr += '<div class="inbox pos30" isshow="18" id="hidden_div30" style="display:none;">';
+				loginStr += '<ul class="con">';
+				loginStr += '	<li><a href="http://hero.pongo.cn/Home/Index">英雄会首页</a></li>';
+//				loginStr += '   <li><a href="http://hero.pongo.cn/hero/index">英雄榜</a></li>';
+				loginStr += '	<li><a href="http://hero.pongo.cn/Hero/Awards">获奖名单</a></li>';
+				loginStr += '	<li><a href="http://my.pongo.cn/Hero/Index">我的英雄会</a></li>';
+				loginStr += '</ul>';
+				loginStr += '	<div class="arr"></div>';
+				loginStr += '</div>';
+				loginStr += '</div>';
+					
+		        loginStr += '</span>';
+        
+                loginStr += ' <span class="gary">|</span>   ';   
+                
+                loginStr += "<span>";
+                loginStr += "<a id=\"_strHref18\" href=\"javascript:showDiv('hidden_div18');\">我的pongo</a>";
+                loginStr += "<div class=\"p_out\">";
+                loginStr += "<div class=\"inbox pos20\" isShow=\"18\" id=\"hidden_div18\" style=\"display:none;\">";               
+                loginStr += "<div class=\"m png\">"
+                loginStr += "<ul class=\"con\">";
+                loginStr += "<li><a href=\"http://my.pongo.cn/job/MyJobList/">职位</a></li>";
+                loginStr += "<li><a href=\"http://my.pongo.cn/CV/Index/">简历</a></li>";
+                //loginStr += "<li><a href=\"http://my.pongo.cn/Hero/Index/">我的英雄会</a></li>";
+                loginStr += "<li><a href=\"http://my.pongo.cn/my/Index/">设置</a></li>";
+                loginStr += "<li><a href=\"https://passport.csdn.net/security/changepwd/" target=\"_blank\">修改密码</a></li>"
+                loginStr += "</ul>";
+                loginStr += " <div class=\"arr\"></div>";
+                loginStr += "</div>";              
+                loginStr += "</div>";
+                loginStr += "</div>";
+                loginStr += "</span>";
+                loginStr += "<span class=\"gary\">|</span>";
+                loginStr += "<span id='nn'> 你好</span>";                
+                GetNickname(username);
+
+                top.$("#login").html("").removeClass("before_login").addClass("after_login").append(loginStr);
+            }
+
+            function csdnlogin() {
+                csdn.login(
+                    $("#hidden_div10 input[name='UserName']").val()
+                    , $("#hidden_div10 input[name='Password']").val()
+                    , $("#hidden_div10 input[name='RememberMe']")[0].checked
+                    , function (data) {
+                        if (data.status) {
+                            Loginsuccess(data.data.userName);
+                        }
+                        else {
+                            if (data.error == "该帐户尚未激活。") {
+                                window.location.href = "https://passport.csdn.net/account/active?from=" + encodeURIComponent(window.location.href);
+                                return;
+                            }
+                            $("#hidden_div10 input[name='UserName']").siblings("span").html(data.error).show()
+                        }
+                    });
+            }
+
+            $(document).ready(function () {
+                //document.domain = "pongo.cn";
+                RefreshCheckCode();
+                $("#btnLogin").click(function () {
+                    var username = $("#hidden_div10 input[name='UserName']").val();
+                    var password = $("#hidden_div10 input[name='Password']").val();
+
+                    $("#hidden_div10 input[name='UserName']").siblings("div").hide();
+                    $("#hidden_div10 input[name='Password']").siblings("div").hide();
+
+                    if ($.trim(username) == "") {
+                        $("#hidden_div10 input[name='UserName']").siblings("span").html("用户名为必填").show();
+                        return false;
+                    }
+
+                    if ($.trim(password) == "") {
+                        $("#hidden_div10 input[name='Password']").siblings("span").html("密码为必填").show();
+                        return false;
+                    }
+                    csdnlogin();
+                });
+
+                 $("#usernameid,#pwdid").keydown(function(e){
+                    if(e.keyCode == 13){
+                        $("#btnLogin").trigger("click");
+                    }
+                });
+            });
+        </script>
+    </div>
+</div>
+
+    <script type="text/javascript">
+        $(document).ready(function () { 
+            var script = document.createElement('script');
+            script.setAttribute('src', "http://job.csdn.net/csdn/csdncheck?jsonpcallback=CsdnCheckCallback&" + Math.random());
+            // 把script标签加入head，此时调用开始
+            document.getElementsByTagName('head')[0].appendChild(script);
+        });
+    </script>
+
+	</div>	
+</div>
+
+<div class="nav">
+		<ul class="menu">
+			<li ><span><a href="http://www.pongo.cn">首页</a></span></li>
+			<li ><span><a href="http://my.pongo.cn/CV/Index">简历</a></span></li>
+            <li ><span><a href="http://my.pongo.cn/job/MyJobList">职位</a></span></li>
+            
+		
+
+		</ul>
+</div>
+
+
+
+<link type="text/css" href="http://image.pongo.cn/my/css/commen.css" rel="stylesheet"/>
+<link type="text/css" href="http://image.pongo.cn/my/css/shi.css" rel="stylesheet"/>
+
+<style>
+/*demo css*/
+#JobRelatedList ul.line,#JobRelatedList ul.mulitline{overflow:hidden;margin-bottom:20px;border:0px solid #a40000}
+#JobRelatedList ul.mulitline{height:325px}
+
+</style>
+
+<script type="text/javascript" src="http://js.pongo.cn/common/core.js"></script>
+<script type="text/javascript" src="http://js.pongo.cn/common/client.js"></script>
+<script src="http://js.pongo.cn/common/messageboxnotitle.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://js.pongo.cn/common/drag_v1.0.js"></script>
+
+<script src="/Scripts/ViewJs/CVSnapOperation.js" type="text/javascript"></script>
+<script type="text/javascript" src="../Scripts/Job/JobApplyAlert.js"></script>
+
+<script type="text/javascript" src="../Scripts/Job/JobApply.js"></script>
+<script type="text/javascript" src="../Scripts/Job/JobRelatedList.js"></script>
+
+<script type="text/javascript" src="../Scripts/Page.js"></script>
+
+<div class="warp">
+	<div class="zhsz_l fl">
+    	<h2 class="f23 green1">Software Senior Architect </h2>
+    	<div class="consz1">
+        	<div class="left fl">
+            	    <h2 class="f18">北京祖睿科技有限公司 </h2>
+                <p>
+                     
+                	   公司规模：50 - 99人<br/>
+                     
+                     
+					公司性质：外商独资．外企办事处<br/>
+                    
+                     
+					公司行业：计算机软件
+                     
+                    <span id="OrgID" style=" display:none;">212164</span>
+                    <span id="JobID"style=" display:none;">67988</span>
+                </p>
+            </div>
+            <div class="com_box">
+            	    <img src="http://hire.pongo.cn/image/AttachFile?fileid=36422" alt="" class="comImgBor" width="156" height="61" />
+                <input type="button" class="btn_allp" value="该公司所有职位"  onclick="javascript:window.open('/Org/Details?ID=212164&JobList=true');" src="http://image.pongo.cn/my/images/Personal_04.jpg">
+            </div>
+        	<div class="clear"></div>
+        </div>
+        <div class="consz3">
+        	<ul>
+                     
+            	        <li>职位性质：全职</li>
+                     
+                     
+                        <li> 发布日期：2013-05-27</li>
+                    
+                     
+                         <li>工作经验：10年以上</li>
+                    
+                     
+                <li>学历要求：本科</li>
+                 
+
+                     
+                <li>招聘人数：若干 人</li>
+                 
+                     
+                <li>职位月薪：面议</li>
+                 
+                     
+                <li>简历语言：中文和英文</li>
+                 
+                     
+                <li>工作地点：北京市</li>
+                 
+            </ul>
+            <div class="clear"></div>
+        </div>
+      <div class="consz2">
+        <h3 class="f14">职位描述</h3>      
+            <div class="cl">
+                     
+                    <p>
+	Responsibilities<br />
+	<br />
+	1. Spearhead the software design and development activities of Zuora&rsquo;s SaaS Relationship Business Management application suite, in the areas of Billing, Payment and Revenue.<br />
+	2. Be innovative in using JavaEE and open source solutions to build enterprise scale SaaS application suite.&nbsp;<br />
+	3. Work closely with SaaS platform and infrastructure team to help to drive technology roadmap<br />
+	4. Work closely with other architects to ensure architectural integrity of end-to-end systems<br />
+	5. Mentoring next generation of Zuora architects and principle engineers<br />
+	6. Lead the resolution of complex customer issues and escalations<br />
+	<br />
+	<br />
+	Desired Skills and Experience<br />
+	<br />
+	1. Have broad expertise and thorough knowledge in building highly scalable SaaS applications on JavaEE technical stack, including Hibernate, Spring Framework.&nbsp;<br />
+	2. Have in-depth understanding of multi-tenant database systems; Experienced with MySQL or other Databases; Familiar with other cloud computing technologies<br />
+	3. Have thorough hands-on experience of Java, Web Technologies (JSP, HTML, XML, Ajax, CSS), Application Servers, clustering, data warehouse, Ant/Maven build system, AMQ and so on.<br />
+	4. Have in-depth understanding of application performance and scalability in large-scale online systems.<br />
+	5. Excel in an agile development environment to produce reliable and scalable product features on a consistent basis.<br />
+	6. Work great both independently and in a team, and able to deliver under tight release schedules.<br />
+	7. Great team player with leadership skills to resolve conflicts and drive consensus across teams.<br />
+	8. Experience in building large-scale Billing/Payment/Revenue products with deep domain knowledge is a plus<br />
+	9. 15+ years of software development experience with leadership role</p>   
+                   
+            </div>            
+        <h3 class="f14">联系方式</h3>
+       <p>
+                        
+                            公司地址：北京市海淀区成府路28号优盛大厦D座701<br/>
+                          
+                        
+                
+                     
+                    公司网址：http://www.zuora.com
+                                        
+         </p>
+        <p class="sq">
+                <input id="JobApply" type="button" class="gbtnS1 png Seaml5 fw f18" value="申请职位" />
+                <span class="spbg1"><a id="JobFavorite" href="javascript:void(0);">收藏职位</a></span>                 <DIV class=bshare-custom sizcache06457356350066583="0" sizset="0"><A class=bshare-qzone title=分享到QQ空间 href="javascript:void(0);"></A><A class=bshare-sinaminiblog title=分享到新浪微博 href="javascript:void(0);"></A><A class=bshare-renren title=分享到人人网 href="javascript:void(0);"></A><A class=bshare-qqmb title=分享到腾讯微博 href="javascript:void(0);"></A><A class=bshare-douban title=分享到豆瓣 href="javascript:void(0);"></A><A class="bshare-more bshare-more-icon more-style-sharethis" title=更多平台 buttonIndex="0"></A><SPAN class="BSHARE_COUNT bshare-share-count">0</SPAN></DIV>
+                <SCRIPT type=text/javascript charset=utf-8 src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=c67b1e48-2210-48d3-aa2c-20cd470b9d33&amp;pophcol=2&amp;lang=zh"></SCRIPT>                
+                <SCRIPT type=text/javascript charset=utf-8 src="http://static.bshare.cn/b/bshareC0.js"></SCRIPT>
+        </p>
+    	<h3 class="f14">公司介绍</h3>
+        <p>
+                     
+            ZUORA&nbsp;IS&nbsp;A&nbsp;NEXT-GENERATION&nbsp;SAAS&nbsp;COMPANY&nbsp;FOUNDED&nbsp;TO&nbsp;LEAD&nbsp;THE&nbsp;NEXT&nbsp;REVOLUTION&nbsp;IN&nbsp;ON&nbsp;DEMAND&nbsp;<br><br>Built&nbsp;from&nbsp;the&nbsp;ground&nbsp;up&nbsp;by&nbsp;SaaS&nbsp;industry&nbsp;visionaries&nbsp;and&nbsp;veterans&nbsp;from&nbsp;salesforce.com,&nbsp;WebEx,&nbsp;Accenture,&nbsp;Postini&nbsp;(now&nbsp;Google),&nbsp;and&nbsp;Oracle,&nbsp;Zuora&nbsp;is&nbsp;100%&nbsp;focused&nbsp;on&nbsp;building&nbsp;the&nbsp;world’s&nbsp;first&nbsp;platform&nbsp;for&nbsp;subscriptions&nbsp;businesses.&nbsp;<br><br>A&nbsp;new&nbsp;business&nbsp;model&nbsp;is&nbsp;emerging&nbsp;on&nbsp;the&nbsp;Internet,&nbsp;comparable&nbsp;to&nbsp;PayPal,&nbsp;Amazon,&nbsp;and&nbsp;Google.&nbsp;PayPal&nbsp;automated&nbsp;online&nbsp;payments,&nbsp;Amazon&nbsp;simplified&nbsp;online&nbsp;commerce,&nbsp;and&nbsp;Google&nbsp;democratized&nbsp;online&nbsp;advertisements,&nbsp;but&nbsp;the&nbsp;world&nbsp;still&nbsp;needs&nbsp;a&nbsp;way&nbsp;to&nbsp;run&nbsp;a&nbsp;subscription&nbsp;business&nbsp;online.&nbsp;Zuora’s&nbsp;vision&nbsp;is&nbsp;to&nbsp;make&nbsp;it&nbsp;easy&nbsp;for&nbsp;every&nbsp;company&nbsp;to&nbsp;run&nbsp;their&nbsp;business&nbsp;like&nbsp;salesforce.com.&nbsp;<br><br>Backed&nbsp;by&nbsp;Benchmark&nbsp;Capital,&nbsp;Zuora&nbsp;is&nbsp;well-positioned&nbsp;to&nbsp;introduce&nbsp;the&nbsp;next&nbsp;on-demand&nbsp;platform&nbsp;for&nbsp;running&nbsp;a&nbsp;subscription&nbsp;business.&nbsp;The&nbsp;Zuora&nbsp;team&nbsp;has&nbsp;grappled&nbsp;with&nbsp;the&nbsp;complex&nbsp;operational&nbsp;requirements&nbsp;of&nbsp;the&nbsp;pay-as-you-go&nbsp;model,&nbsp;and&nbsp;has&nbsp;produced&nbsp;the&nbsp;best&nbsp;practices&nbsp;that&nbsp;scaled&nbsp;from&nbsp;the&nbsp;start-up&nbsp;to&nbsp;the&nbsp;billion&nbsp;dollar&nbsp;company.&nbsp;The&nbsp;Zuora&nbsp;team&nbsp;of&nbsp;SaaS&nbsp;visionaries&nbsp;and&nbsp;leaders&nbsp;has&nbsp;experienced&nbsp;the&nbsp;pain&nbsp;and&nbsp;limitations&nbsp;of&nbsp;existing&nbsp;solutions,&nbsp;and&nbsp;has&nbsp;joined&nbsp;forces&nbsp;to&nbsp;deliver&nbsp;the&nbsp;first&nbsp;on-demand&nbsp;platform&nbsp;for&nbsp;managing&nbsp;subscriptions.&nbsp;Now&nbsp;every&nbsp;online&nbsp;subscription&nbsp;company&nbsp;can&nbsp;tap&nbsp;into&nbsp;their&nbsp;experience&nbsp;and&nbsp;achieve&nbsp;success.&nbsp;<br><br>由具有成功的创业经历的界内资深人士创建,&nbsp;美国知名的风险投资商Benchmark投资四千多万支持的祖睿科技有限公司,是第一个100%致力于互联网定购商务的公司.&nbsp;欢迎您流览公司网页&nbsp;http://www.zuora.com&nbsp;了解公司更多内容.&nbsp;
+                                
+        </p>      		
+    </div>
+            
+    </div>
+    
+		
+<div class="clear"></div>	
+</div>
+
+
+
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ff3700fad68d63cbb9de681794ea37d6a' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<div class="footer">
+	<div class="warp">
+			<a href="http://www.pongo.cn/Official/About" target="_blank">关于我们</a> | 
+			<a href="http://www.pongo.cn/Official/Legal" target="_blank">法律声明</a> |  
+			<a href="http://www.pongo.cn/Official/Feedback" target="_blank">信息反馈</a> | 
+			<a href="http://www.pongo.cn/Official/Contact" target="_blank">联系我们</a> | 
+			<a href="http://my.pongo.cn/Org/Details?ID=1" target="_blank">加入我们</a> |
+			<a href="http://www.pongo.cn/Official/Privacy" target="_blank">隐私保护</a> | 
+			<a href="http://www.pongo.cn/Official/Copyright" target="_blank">版权所有</a> | &nbsp;<a href="http://www.miibeian.gov.cn/" target="_blank">沪ICP备11011787号-2</a>&nbsp;
+			<span class="fa">Copyright © 2012 Pongo Networks Technology Co.,ltd.  </span>
+	</div>
+</div>
+</body>
+</html>

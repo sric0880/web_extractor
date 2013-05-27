@@ -1,0 +1,340 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+<title>庞果网-Pongo.cn -IT互联网计算机通信领域职位搜索引擎</title>
+<meta name="description" content="寻找IT互联网计算机领域的工作，应聘IT互联网公司的职位，尽在庞果网-Pongo.cn"/>
+<meta name="keywords" content="计算机 互联网求职 IT求职 软件开发 硬件开发  程序员 工作 人才 招聘信息 人才招聘 找工作 好工作 人才市场 招聘网 求职网 职位 跳槽 高薪职位 校园招聘 大学生求职 招聘" />
+
+
+    <script type="text/javascript" src="http://js.pongo.com.cn/common/jquery-1.4.2.js"></script>
+    <script type="text/javascript" src="/Scripts/SearchList.js"></script>
+    <script type="text/javascript" src="/Scripts/Comm/jscommen.js"></script> 
+    <link type="text/css" href="http://image.pongo.com.cn/my/css/commen.css" rel="stylesheet"/>   
+    <!--[if IE 6]>
+    <script src="http://js.pongo.cn/my/DD_belatedPNG.js"></script>
+    <script>
+      DD_belatedPNG.fix('img,.png');
+    </script>
+    <![endif]-->
+    
+    
+</head>
+
+<body>
+<div class="topbg">
+	<div class="warp">
+		<h1 class="MLogo"><a href="http://www.pongo.cn/"> </a></h1>
+        <script type="text/javascript" src="https://passport.csdn.net/content/loginbox/loginapi.js"></script>
+<script type="text/javascript">
+    var $logon = {
+        showname: function (name) {
+            if (name[0] != undefined) {
+                if (name[0].n != undefined && name[0].n != "") {
+                    $('#nn').html(name[0].n + " 你好");
+                }
+                else {
+                    $('#nn').html(name[0].u + " 你好");
+                }
+            }
+        }
+    }
+    function GetNickname(username) {
+        /*获取nickname*/
+        $(document).ready(function () {
+            var nickname = "";
+            $.ajax({
+                type: 'get',
+                url: 'http://api.csdn.net/service/open/nick?users=' + username + '&callback=$logon.showname',
+                async: false,
+                dataType: "jsonp",
+                jsonp: "jsonpcallback"
+            });
+        })
+    }
+</script>
+<div class="top_user">
+	<a href="https://passport.pongo.cn/user/bizlogon" class="qyyh">企业用户</a>
+    <div class="before_login" id="login">
+        <a id="_strHref10" href="javascript:show_hiddendiv10();"><span id="_strSpan10">
+        登录</span> </a>
+        <div class="pLogin png" id="hidden_div10" style="display: none;">
+            <ul>
+                <li class="pl40">
+					<span class="fw"><span>CSDN</span>会员可直接登录</span>
+				</li>
+                <li>
+                    <div class="l">
+                        帐 号</div>
+                    <div class="r">
+                        <input type="text" class="pLoginTxt" maxlength="30" name="UserName" id="usernameid" /><br />
+                        <span class="red1" style="display: none;"></span>
+                    </div>
+                </li>
+                <li>
+                    <div class="l">
+                        密 码</div>
+                    <div class="r">
+                        <input type="password" class="pLoginTxt" name="Password" maxlength="20"  id="pwdid"/>
+                        <span class="red1" style="display: none;"></span>
+                    </div>
+                </li>
+                <li class="jizhu">
+                    <span class="fl">
+                        <input type="checkbox" class="fl" maxlength="4" name="RememberMe"/>记住我
+                    </span>
+                    <span class="fr">
+                        <a href="https://passport.csdn.net/account/forgotpassword?from=http%3a%2f%2fso.pongo.cn%2fsearch%2fsearch%3fPageIndex%3d12">忘记密码</a>
+                    </span> 
+                </li>
+                <li class="pl40">
+                    <input type="button" class="pLoginBtn fl" id="btnLogin" value="登 录" />                    
+                    <input type="button" class="pLoginBtn fl" id="btnReg" onclick="javascript:location='https://passport.csdn.net/open/pongo_register?from=http%3a%2f%2fso.pongo.cn%2fsearch%2fsearch%3fPageIndex%3d12'" value="注 册" />                    
+                </li>
+            </ul>
+            <div class="jiantou png"></div>
+        </div>
+        <script type="text/javascript">
+            function RefreshCheckCode() {
+                $("#checkimg").attr("src", "https://passport.pongo.cn/getimg.aspx?small=small&r=" + Math.random());
+            }
+
+            function Loginsuccess(username) {
+                //                $("#hidden_div10").hide(); 目前样式似乎不匹配
+                //                $("ul.topR").html("").addClass("slw290").append("<li>" + username + " 你好 |</li>").append("<li><a href=\"#/">我的pongo</a> |</li>").append("<li><a href=\"https://passport.pongo.cn/user/logout?backurl=http%3a%2f%2fso.pongo.cn%2fsearch%2fsearch%3fPageIndex%3d12/">退出</a></li>").append("<li class=\"r\">企业用户</li>");
+                var loginStr = "<span><a href=\"https://passport.csdn.net/account/logout?from=http%3a%2f%2fso.pongo.cn%3a80%2fsearch%2fsearch%3fPageIndex%3d12/">退出</a></span>";
+                loginStr +="<span class=\"gary\">|</span>";
+	            loginStr +="<span><a href=\"http://writeblog.csdn.net/" target=\"_blank\">我的博客</a></span>";
+	            loginStr +="<span class=\"gary\">|</span>";
+	            loginStr +="<span><a href=\"http://my.csdn.net/" target=\"_blank\">我的空间</a></span>";	           
+                loginStr += "<span class=\"gary\">|</span>";
+                
+                 loginStr += ' <span>';
+				loginStr += '<a id="_strHref18" href="javascript:showDiv("hidden_div30");">英雄会</a>';
+
+				loginStr += '<div class="p_out">';
+				loginStr += '<div class="inbox pos30" isshow="18" id="hidden_div30" style="display:none;">';
+				loginStr += '<ul class="con">';
+				loginStr += '	<li><a href="http://hero.pongo.cn/Home/Index">英雄会首页</a></li>';
+//				loginStr += '   <li><a href="http://hero.pongo.cn/hero/index">英雄榜</a></li>';
+				loginStr += '	<li><a href="http://hero.pongo.cn/Hero/Awards">获奖名单</a></li>';
+				loginStr += '	<li><a href="http://my.pongo.cn/Hero/Index">我的英雄会</a></li>';
+				loginStr += '</ul>';
+				loginStr += '	<div class="arr"></div>';
+				loginStr += '</div>';
+				loginStr += '</div>';
+					
+		        loginStr += '</span>';
+        
+                loginStr += ' <span class="gary">|</span>   ';   
+                
+                loginStr += "<span>";
+                loginStr += "<a id=\"_strHref18\" href=\"javascript:showDiv('hidden_div18');\">我的pongo</a>";
+                loginStr += "<div class=\"p_out\">";
+                loginStr += "<div class=\"inbox pos20\" isShow=\"18\" id=\"hidden_div18\" style=\"display:none;\">";              
+                loginStr += "<div class=\"m png\">"
+                loginStr += "<ul class=\"con\">";
+                loginStr += "<li><a href=\"http://my.pongo.cn/job/MyJobList/">职位</a></li>";
+                loginStr += "<li><a href=\"http://my.pongo.cn/CV/Index/">简历</a></li>";
+               // loginStr += "<li><a href=\"http://my.pongo.cn/Hero/Index/">我的英雄会</a></li>";
+                loginStr += "<li><a href=\"http://my.pongo.cn/my/Index/">设置</a></li>";
+                loginStr += "<li><a href=\"https://passport.csdn.net/security/changepwd/" target=\"_blank\">修改密码</a></li>"
+                loginStr += "</ul>";
+                loginStr += " <div class=\"arr\"></div>";
+                loginStr += "</div>";             
+                loginStr += "</div>";
+                loginStr += "</div>";
+                loginStr += "</span>";
+                loginStr += "<span class=\"gary\">|</span>";
+                loginStr += "<span id='nn'> 你好</span>";                
+                GetNickname(username);
+
+                top.$("#login").html("").removeClass("before_login").addClass("after_login").append(loginStr);
+            }
+
+            function CsdnCheckCallback(data)
+            {
+                if(data.LoginStatus)
+                {
+                    Loginsuccess(data.UserName);
+                }
+            }
+
+            function csdnlogin() {
+                csdn.login(
+                    $("#hidden_div10 input[name='UserName']").val()
+                    , $("#hidden_div10 input[name='Password']").val()
+                    , $("#hidden_div10 input[name='RememberMe']")[0].checked
+                    , function (data) {
+                        if (data.status) {
+                            Loginsuccess(data.data.userName);
+                        }
+                        else {
+                            if (data.error == "该帐户尚未激活。") {
+                                window.location.href = "https://passport.csdn.net/account/active?from=" + encodeURIComponent(window.location.href);
+                                return;
+                            }
+                            $("#hidden_div10 input[name='UserName']").siblings("span").html(data.error).show()
+                        }
+                    });
+            }
+
+            $(document).ready(function () {
+                //document.domain = "pongo.cn";
+                RefreshCheckCode();
+                $("#btnLogin").click(function () {
+                    var username = $("#hidden_div10 input[name='UserName']").val();
+                    var password = $("#hidden_div10 input[name='Password']").val();
+
+                    $("#hidden_div10 input[name='UserName']").siblings("span").hide();
+                    $("#hidden_div10 input[name='Password']").siblings("span").hide();
+
+                    if ($.trim(username) == "") {
+                        $("#hidden_div10 input[name='UserName']").siblings("span").html("用户名为必填").show();
+                        return false;
+                    }
+
+                    if ($.trim(password) == "") {
+                        $("#hidden_div10 input[name='Password']").siblings("span").html("密码为必填").show();
+                        return false;
+                    }
+                    csdnlogin();
+                });
+
+               $("#usernameid,#pwdid").keydown(function(e){
+                    if(e.keyCode == 13){
+                        $("#btnLogin").trigger("click");
+                    }
+                });
+            });
+        </script>
+    </div>
+</div>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var script = document.createElement('script');
+            script.setAttribute('src', "http://job.csdn.net/csdn/csdncheck?jsonpcallback=CsdnCheckCallback&" + Math.random());
+            // 把script标签加入head，此时调用开始
+            document.getElementsByTagName('head')[0].appendChild(script);
+        });
+    </script>
+
+	</div>	
+</div>
+
+<div class="nav">
+		<ul class="menu">
+			<li ><span><a href="http://www.pongo.cn">首页</a></span></li>
+			<li ><span><a href="http://my.pongo.cn/CV/Index">简历</a></span></li>
+            <li ><span><a href="http://my.pongo.cn/job/MyJobList">职位</a></span></li>
+            
+		
+
+		</ul>
+</div>
+
+<script type="text/javascript" src="http://js.pongo.cn/common/core.js"></script>
+<script type="text/javascript" src="http://js.pongo.cn/common/client.js"></script>
+<script src="http://js.pongo.cn/common/messageboxnotitle.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://js.pongo.cn/common/drag_v1.0.js"></script>
+<link type="text/css" href="http://image.pongo.cn/my/css/shi.css" rel="stylesheet"/>
+
+<script type="text/javascript" src="../Scripts/Login/Login.js"></script>
+<script type="text/javascript" src="/Scripts/Page.js"></script>
+
+
+
+
+<div class="warp">
+	<div class="pos_libox">
+		<div class="listbox_t">
+		<div class="page green2">
+               <a class="l" href="/search/search?PageIndex=11"  title="上一页"></a><div class="m"><a href="/search/search?PageIndex=3">3</a><a href="/search/search?PageIndex=4">4</a><a href="/search/search?PageIndex=5">5</a><a href="/search/search?PageIndex=6">6</a><a href="/search/search?PageIndex=7">7</a><a href="/search/search?PageIndex=8">8</a><a href="/search/search?PageIndex=9">9</a><a href="/search/search?PageIndex=10">10</a><a href="/search/search?PageIndex=11">11</a><a href="#" class="on" >12</a><a href="/search/search?PageIndex=13">13</a></div><a class="r" href="/search/search?PageIndex=13" title="下一页"></a>
+		</div>
+		</div>
+	</div>
+	<div class="pos_bor_t"></div>
+	<ul class="position_li">        
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=72115" target="_blank">资深售前工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=357472" target="_blank">厦门佰俊人力资源服务有限公司</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=72114" target="_blank">浙江分公司总经理</a></span> <a href="http://org.pongo.cn/Org/Details?ID=357472" target="_blank">厦门佰俊人力资源服务有限公司</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=72050" target="_blank">JAVA系统架构师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=214301" target="_blank">九州瑞研(北京)科技有限公司</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71985" target="_blank">页游as前端程开发工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=369755" target="_blank">简历捕快</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71984" target="_blank">游戏主程序设计师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=369755" target="_blank">简历捕快</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71983" target="_blank">C#工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=369755" target="_blank">简历捕快</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71938" target="_blank">技术总监</a></span> <a href="http://org.pongo.cn/Org/Details?ID=370347" target="_blank">爱思奇奥网络信息技术（北京）有限公司</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71183" target="_blank">Android高级开发工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=346309" target="_blank">奇虎360</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71182" target="_blank">搜索引擎研发工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=346309" target="_blank">奇虎360</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71181" target="_blank">产品经理（搜索引擎）</a></span> <a href="http://org.pongo.cn/Org/Details?ID=346309" target="_blank">奇虎360</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71178" target="_blank">spider开发工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=346309" target="_blank">奇虎360</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71168" target="_blank">PHP开发工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=346309" target="_blank">奇虎360</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71167" target="_blank">产品经理（安全卫士）</a></span> <a href="http://org.pongo.cn/Org/Details?ID=346309" target="_blank">奇虎360</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71166" target="_blank">PHP开发工程师（彩票）</a></span> <a href="http://org.pongo.cn/Org/Details?ID=346309" target="_blank">奇虎360</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71193" target="_blank">PHP高级软件工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=346309" target="_blank">奇虎360</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71191" target="_blank">网站产品经理</a></span> <a href="http://org.pongo.cn/Org/Details?ID=346309" target="_blank">奇虎360</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71189" target="_blank">手机自动化测试工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=346309" target="_blank">奇虎360</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71874" target="_blank">WEB前端高级开发工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=369755" target="_blank">简历捕快</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71859" target="_blank">高级运维工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=369755" target="_blank">简历捕快</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71858" target="_blank">高级PHP开发工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=369755" target="_blank">简历捕快</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71857" target="_blank">高级Java开发工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=369755" target="_blank">简历捕快</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71855" target="_blank">高级QA工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=369755" target="_blank">简历捕快</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71852" target="_blank">测试工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=372326" target="_blank">山东爱书人教育软件有限公司</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71851" target="_blank">delphi工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=372326" target="_blank">山东爱书人教育软件有限公司</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71850" target="_blank">C#工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=372326" target="_blank">山东爱书人教育软件有限公司</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71667" target="_blank">资深C++程序员</a></span> <a href="http://org.pongo.cn/Org/Details?ID=290022" target="_blank">上海维塔士电脑软件有限公司</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71562" target="_blank">高级软件测试工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=369755" target="_blank">简历捕快</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71561" target="_blank">JAVA游戏服务器工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=369755" target="_blank">简历捕快</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71556" target="_blank">高级软件工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=369755" target="_blank">简历捕快</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71537" target="_blank">数据仓库开发工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=369755" target="_blank">简历捕快</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71532" target="_blank">后端开发工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=369755" target="_blank">简历捕快</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71455" target="_blank">显示引擎图形技术研究院</a></span> <a href="http://org.pongo.cn/Org/Details?ID=306959" target="_blank">广联达软件股份有限公司</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71416" target="_blank">Java高级软件工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=306959" target="_blank">广联达软件股份有限公司</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71415" target="_blank">结构软件高级开发工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=306959" target="_blank">广联达软件股份有限公司</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71414" target="_blank">用户交互设计师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=306959" target="_blank">广联达软件股份有限公司</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71413" target="_blank">C++高级工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=306959" target="_blank">广联达软件股份有限公司</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71412" target="_blank">高级视觉设计师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=306959" target="_blank">广联达软件股份有限公司</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71411" target="_blank">自动化测试高级工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=306959" target="_blank">广联达软件股份有限公司</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71410" target="_blank">高级需求工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=306959" target="_blank">广联达软件股份有限公司</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71409" target="_blank">ITeye网站诚聘Ruby工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=211614" target="_blank">ITeye高级人才推荐服务</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71408" target="_blank">诚聘Java高级搜索工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=211614" target="_blank">ITeye高级人才推荐服务</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71407" target="_blank">【上海】外资企业高薪诚聘web开发工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=211614" target="_blank">ITeye高级人才推荐服务</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71405" target="_blank">资深架构师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=211614" target="_blank">ITeye高级人才推荐服务</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71404" target="_blank">上海 手机开发工程师（Windows Phone）</a></span> <a href="http://org.pongo.cn/Org/Details?ID=211614" target="_blank">ITeye高级人才推荐服务</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71403" target="_blank">Android开发工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=211614" target="_blank">ITeye高级人才推荐服务</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71401" target="_blank">上海 ETL开发员</a></span> <a href="http://org.pongo.cn/Org/Details?ID=211614" target="_blank">ITeye高级人才推荐服务</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71400" target="_blank">上海 Senior Test Engineer</a></span> <a href="http://org.pongo.cn/Org/Details?ID=211614" target="_blank">ITeye高级人才推荐服务</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71395" target="_blank">C++技术架构师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=306959" target="_blank">广联达软件股份有限公司</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71394" target="_blank">C++高级开发工程师</a></span> <a href="http://org.pongo.cn/Org/Details?ID=306959" target="_blank">广联达软件股份有限公司</a></li>		
+		    <li><span class="green1"><a href="http://org.pongo.cn/Job/Details?ID=71385" target="_blank">技术总监（互联网）</a></span> <a href="http://org.pongo.cn/Org/Details?ID=306959" target="_blank">广联达软件股份有限公司</a></li>		
+	</ul>
+	<div class="pos_bor_b"></div>
+	<div class="pos_libox">
+		<div class="listbox_t">
+		<div class="page green2">				
+				 <a class="l" href="/search/search?PageIndex=11"  title="上一页"></a><div class="m"><a href="/search/search?PageIndex=3">3</a><a href="/search/search?PageIndex=4">4</a><a href="/search/search?PageIndex=5">5</a><a href="/search/search?PageIndex=6">6</a><a href="/search/search?PageIndex=7">7</a><a href="/search/search?PageIndex=8">8</a><a href="/search/search?PageIndex=9">9</a><a href="/search/search?PageIndex=10">10</a><a href="/search/search?PageIndex=11">11</a><a href="#" class="on" >12</a><a href="/search/search?PageIndex=13">13</a></div><a class="r" href="/search/search?PageIndex=13" title="下一页"></a>
+		</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ff3700fad68d63cbb9de681794ea37d6a' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<div class="footer">
+	<div class="warp">
+			<a href="http://www.pongo.cn/Official/About">关于我们</a> | 
+			<a href="http://www.pongo.cn/Official/Legal">法律声明</a> |  
+			<a href="http://www.pongo.cn/Official/Feedback">信息反馈</a> | 
+			<a href="http://www.pongo.cn/Official/Contact">联系我们</a> | 
+			<a href="http://my.pongo.cn/Org/Details?ID=1">加入我们</a> |
+			<a href="http://www.pongo.cn/Official/Privacy">隐私保护</a> | 
+			<a href="http://www.pongo.cn/Official/Copyright">版权所有</a> | &nbsp;<a href="http://www.miibeian.gov.cn/" target="_blank">沪ICP备11011787号-2</a>&nbsp;<br/>
+			<span class="fa">Copyright © 2012 Pongo Networks Technology Co.,ltd. 
+	</div>
+</div>
+</body>
+</html>   
+<script type="text/javascript" src="http://js.pongo.com.cn/common/pop/jquery.larkyPopWindow.js"></script>
+<script type="text/javascript" src="http://js.pongo.com.cn/common/pop/jquery.larkyPopWindow.DropList.js"></script>
+<script type="text/javascript" src="http://js.pongo.com.cn/my/showClose.js"></script> 

@@ -17,6 +17,7 @@
 #include "InfoExtractor.h"
 #include "Output.h"
 #include "Template.h"
+#include "NLPIR.h"
 using namespace std;
 
 class HtmlProcessor:public Thread {
