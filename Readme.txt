@@ -2,5 +2,7 @@
 将libNLPIR.so 放入/usr/lib文件夹下或者/usr/local/lib下
 	如果放在/usr/local/lib下，可能无法搜索到
 	需要创建或打开etc/id.so.conf 添加/usr/local/lib 保存 然后运行ldconfig
-安装mysql
+安装mysql并启动mysql service
 	/lib所有文件加入到/usr/local/lib下 /include下的h文件remove到/usr/local/include下
+编译：make
+清理：make clean
