@@ -70,7 +70,7 @@ bool DuplicateRemoval::is_duplicate(string str){
 		}
 	}
 	//计算最小海明距离
-	if(_hamming_distance(fp)>3){
+	if(_hamming_distance(fp)>2){
 		int docid = fingerprint.size();
 		fingerprint[fp] = docid;
 		return false;
@@ -156,6 +156,7 @@ int DuplicateRemoval::_hamming_distance(size_m &hash){
 		}
 		if(min_dis>tot) min_dis = tot;
 	}
+	printf("distance: %d\n", min_dis);
 	return min_dis;
 }
 

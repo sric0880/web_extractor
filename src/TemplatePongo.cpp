@@ -41,13 +41,13 @@ void TemplatePongo::match_workplace(Data& entry,const string& str){
 	}
 }
 void TemplatePongo::match_company(Data& entry,const string& str){
-	size_t found;
+	size_t found,end;
 	string r;
 	string logo("庞果网-Pongo.cn");
 	std::size_t i = str.find(logo);
-	if ((found = str.find_first_of("-"))!=string::npos&&found<i) {
-		int end = str.find_first_of("-",found+1);
-		int len = end-found-1;
+	if ((found = str.find_first_of("-"))!=string::npos&&found<i
+			&&(end = str.find_first_of("-",found+1))!=string::npos) {
+		size_t len = end-found-1;
 		r = str.substr(found+1, len);
 		trim(r);
 		len = r.length();

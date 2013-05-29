@@ -14,6 +14,7 @@
 #include <stdio.h>
 #include "OutputXml.h"
 #include "OutputConsole.h"
+#include "OutputMysql.h"
 #include "TemplateHiall.h"
 #include "TemplatePongo.h"
 #include "HtmlProcessor.h"
@@ -22,14 +23,15 @@ using namespace std;
 int main() {
 
 //	OutputXml xml;
-	OutputConsole console;
+//	OutputConsole console;
+	OutputMysql mysql;
 	TemplateHiall hiall;
-//	TemplatePongo pongo;
-	HtmlProcessor htmlpro(&console, &hiall);
+	TemplatePongo pongo;
+	HtmlProcessor htmlpro(&mysql, &hiall);
 	htmlpro.start();
-	for(int i =0;i<20;++i){
+	for(int i =0;i<150;++i){
 		char filename[20];
-		sprintf(filename,"test/d00000/%d",i+1);
+		sprintf(filename,"test/00/%d",i);
 		printf("%s\n",filename);
 		ifstream ifs(filename);
 		string content;

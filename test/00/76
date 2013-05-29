@@ -1,0 +1,714 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<title>北京神舟航天软件技术有限公司招聘 北京交通大学专场 宣讲会-全职推荐</title>
+<head>
+<meta property="qc:admins" content="35413136776011446375636" />
+<meta http-equiv="keywords" content="2013校园招聘,HiAll,招聘,校园招聘,全职职位,实习职位,大学生求职,应届生求职"/>
+<meta http-equiv="description" content="HiAll，为应届毕业生或在校生提供最新、最全、最可靠的全职、实习招聘信息、宣讲会信息与各种求职资讯与资料，成为联动学生与雇主的纽带，覆盖北京、上海、广州、海外等地区。" />
+<meta name="generator" content="HiAll2.0" />
+<meta name="author" content="HiAll" />
+<meta name="copyright" content="2004-2012 HiAll." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<script src="http://file.hiall.com.cn/newhiall/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/jquery.validate.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/utils.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/u1.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frame/page.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/main.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frontpage/frontpage.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/manage.css" />
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2560481-2']);
+  _gaq.push(['_setDomainName', '.hiall.com.cn']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Google Analytics -->
+</head>
+<body>
+<div id="head">
+	<div id="headbody">
+		<div class="top">
+			<a href="/" class="head_logo floatleft"></a>
+			<div class="mid floatleft">
+			<form method="post" action="/search/infos.php">
+				<input type="text" class="head_search_input gray floatleft" maxlength="10" value="职位信息 如：管理培训生" id="searchkey" name="searchkey" onclick="if(this.value == '职位信息 如：管理培训生') this.value='';" onblur="if(this.value=='') this.value='职位信息 如：管理培训生';"/>
+				<div class="head_search_select gray pointer floatleft">
+					<div class="floatleft">
+						<div class="absolute">
+							<div class="relative head_search_select_optionbox" style="display:none; z-index:10;">
+								<ul class="head_search_select_option" id="choosecity-list">
+																<li id="r0">全部</li>
+																<li id="r1">北京</li>
+																<li id="r2">上海</li>
+																<li id="r40">广州</li>
+																<li id="r41">深圳</li>
+															</ul>
+							</div>
+						</div>
+					</div>
+					<span id="choosecity">全部</span>
+				</div>
+				<input type="hidden" name="regionid" id="regionid" value="0">
+				<input type="hidden" name="op" id="op" value="headersearch">
+				<input  type="button" class="button_head_search pointer floatleft" onclick="javascript:headerSearch(this);" />
+			</div>
+			</form>
+			<div class="right floatright">
+				<div class="head_greenicon_box floatleft">
+											<p><span class="white">个人用户</span></p>
+						<p><a href="/collect/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="http://bbs.hiall.com.cn/register_hiall.php" class="white">注册</a></p>		
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="head_blueicon_box floatleft">
+										<p><a class="white">企业用户</a></p>
+					<p><a href="/users/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="/users/register.php" class="white">注册</a></p>
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="vspacer floatleft"></div>
+				<div class="floatleft">
+					<p><a href="/info/about.php#t2" class="white">查看企业</p><p>服务项目</a></p>
+				</div>
+				<div class="vspacer floatleft"></div>
+			</div>
+		</div>
+		<div class="clear"></div>
+		<div class="bottom">
+
+<!--<div style="position:relative;">-->
+<ul class="head_nav floatleft">
+	<li hidefocus="true" ><a href="/" hidefocus="true">首页</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://bbs.hiall.com.cn" target="_blank" hidefocus="true">BBS</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true"  class="active"><a href="/info/" hidefocus="true">全职推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/part.php" hidefocus="true">实习推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/" hidefocus="true" target="_blank">宣讲会</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://www.hiall.com.cn/2011" hidefocus="true" target="_blank" class="menu_red">HiAll雇主专区</a></li>
+	<li hidefocus="true" class="fg"></li>
+    <!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/calendar/" hidefocus="true" target="_blank">2012校招日程</a></li>-->
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/special.php" hidefocus="true">专业招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/company/" hidefocus="true">名企招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/expire.php" hidefocus="true">申请截止</a></li>
+	<li hidefocus="true" class="fg"></li>
+    <li hidefocus="true"  style='padding-left:0px;'><a href="http://bbs.hiall.com.cn/forum-1054-1.html" hidefocus="true" target="_blank" style="color:red">2013名企求职礼包</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://wenda.hiall.com.cn/" hidefocus="true" target="_blank">HiAll一问一答</a></li>
+	<!--<li hidefocus="true" ><a href="http://edu.hiall.com.cn/" hidefocus="true" target="_blank">求职指导</a></li>-->
+	<!--<li hidefocus="true" ><a href="http://miaosha.hiall.com.cn/" hidefocus="true" target="_blank">职业秒杀</a></li>
+	<li hidefocus="true" class="fg"></li>-->
+	<!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/yinhang/" hidefocus="true" target="_blank" style="color:red">2012银行校园招聘</a></li>-->
+</ul>
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>
+<div id="loginfloat" style="background:red;psotion:absolute;display:none;">
+	<div class="fav_topbox floatleft">
+		<p class="h22"><span class="or b">登录后可以个性化你的收藏哦！</span><span class="gray">（用HiAll bbs账号直接登录）</span><span class="gray"><a href="javascript:;" onclick="closeCollect();">关闭</a></span></p>
+		<div class="spacer"></div>
+		<form method="post" accept-charset="GB2312" name="login" id="loginform1" class="gateform" action="http://bbs.hiall.com.cn/logging.php?action=login&amp;loginsubmit=yes">
+		<input type="hidden" name="formhash" value="e9f7b113" />
+		<input type="hidden" name="referer" id="referer" value="http://www.hiall.com.cn/collect/index.php" />
+		<div>
+			<p class="h22"><span>用户名：</span><span><input type="text" class="required normalinput grayborder" size="14" name="username" id="username1" title="用户名称不能为空！" /></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/register_hiall.php" class="gray underline">新用户注册</a></span><h3 id="returnmessage"></h3></p>
+			<div class="spacer"></div>
+			<p class="h22"><span>密&nbsp;&nbsp;码：</span><span><input type="password" class="required normalinput grayborder" size="14"  id="password4" name="password" title="密码不能为空！"/></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/logging.php?action=login" class="gray underline">忘记密码?</a></span></p>
+			<div class="spacer"></div>
+			<p class="fav_login_button h22"><input type="button" onclick="return ajaxpost('username1', 'password4', 'loginform1', 'returnmessage', 'returnmessage', 'onerror');" value="登  录"  class="button_or_2c white"/><span class="pdlr4"></span><a href="http://bbs.hiall.com.cn/register_hiall.php"><button class="button_or_5c white">新用户注册</button></a></p>
+		</div>
+		</form>
+	</div>
+</div>
+<div id="body">
+	<p class="h22 txtindent1 gray">当前位置：<a href='/'>首页</a> &gt; <a href='/info/'>全职推荐</a> &gt; 北京神舟航天软件技术有限公司招聘 北京交通大学专场 宣讲会</p>
+	<!--<div class="bigbg reborder">-->
+    <div class="bigbg reborder" style="overflow:auto; _height:1%;">
+		<div id="leftcolumn" class="floatleft">
+            <div class="leftcolumn">
+				<p class="leftcolumn_title font14 b deepblack">行业分类</p>
+<ul class="left_nav">
+		<li><a href="/info/?businesses=1" >计算机•互联网•通信</a></li>
+		<li><a href="/info/?businesses=2" >电器•电子•家电</a></li>
+		<li><a href="/info/?businesses=3" >金融•投资•证券</a></li>
+		<li><a href="/info/?businesses=4" >咨询•财会•法律</a></li>
+		<li><a href="/info/?businesses=5" >贸易•消费•进出口</a></li>
+		<li><a href="/info/?businesses=6" >制药•生物•医疗</a></li>
+		<li><a href="/info/?businesses=7" >工业制造•能源•原材料</a></li>
+		<li><a href="/info/?businesses=8" >房地产•建筑•工程建设</a></li>
+		<li><a href="/info/?businesses=9" >广告•会展•公关</a></li>
+		<li><a href="/info/?businesses=10" >物流•仓储•运输</a></li>
+		<li><a href="/info/?businesses=11" >教育•培训•科研•院校</a></li>
+		<li><a href="/info/?businesses=12" >政府•公共事业•非盈利机构</a></li>
+		<li><a href="/info/?businesses=13" >服务业</a></li>
+		<li><a href="/info/?businesses=14" >农林牧渔•环保</a></li>
+		<li><a href="/info/?businesses=15" >跨领域经营 </a></li>
+		<li><a href="/info/?businesses=16" >其他</a></li>
+		<li><a href="/info/?businesses=17" >机械•自动化•仪器仪表行•重工业</a></li>
+		<li><a href="/info/?businesses=18" >汽车•摩托车行业 </a></li>
+		<li><a href="/info/?businesses=19" >旅游•酒店•餐饮服务</a></li>
+		<li><a href="/info/?businesses=20" >物业管理•商业中心</a></li>
+		<li><a href="/info/?businesses=21" >快速消费品(食品•饮料•日化•烟酒等)</a></li>
+		<li><a href="/info/?businesses=22" >家居•室内设计•装潢</a></li>
+		<li><a href="/info/?businesses=23" >石油•化工•采掘•冶炼</a></li>
+		<li><a href="/info/?businesses=24" >耐用消费品(服饰•纺织•家具）</a></li>
+		<li><a href="/info/?businesses=25" >媒体•文化传播•出版•影视</a></li>
+		<li><a href="/info/?businesses=26" >芯片•电子技术•半导体</a></li>
+		<li><a href="/info/?businesses=27" >批发•零售</a></li>
+	</ul>
+
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<p class="leftcolumn_title font14 b deepblack">热门公司推荐</p>
+<ul class="left_topcompany">
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1033-1.html">中国石化集团公司</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-212-1.html">中金(CICC)</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-183-1.html">英特尔（intel）</a></h1></li>
+	<li><h1><a href="http://www.hiall.com.cn/bbs/forum-188-1.html">联合利华Unilever</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-249-1.html">箭牌中国</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1241-1.html">完美时空</a></h1></li>
+</ul>			</div>
+			
+			
+		</div>
+		<div id="midcolumn" class="floatleft">
+			<div class="topnews">	
+	<div class="left floatleft lightblue">站内新闻</div>
+	<div class="right floatleft ">
+		<div class="floatleft">
+			<div class="absolute zindex200">
+				<a href="javascript:preMsg();" class="icon_arrow_blue_up relative floatleft" id="icon_arrow_blue_up"></a>
+			</div>
+		</div>
+		<div class="floatright">
+			<div class="absolute zindex200">
+				<a href="javascript:nextMsg();" class="icon_arrow_blue_down relative floatleft" id="icon_arrow_blue_down"></a>
+			</div>
+		</div>
+		<ul class="topnews_list" id="topnews_list" style="top:0px;">
+		<li id="msg_show"><a href="http://e.weibo.com/1801762575/zh96Xguz8" target="_blank" class="lightgray">关注HiAll校园招聘微信公众号：HiAllxyzhaopin，二维码在此，快来拍我！</a></li>					
+		</ul>
+		<ul style="display:none;">
+					<li id="msg_0"><a href="http://e.weibo.com/1801762575/zh96Xguz8" target="_blank" class="lightgray">关注HiAll校园招聘微信公众号：HiAllxyzhaopin，二维码在此，快来拍我！</a></li>			
+				</ul>
+		<input type="hidden" id="msg_count" value="1" />
+	</div>
+	<div class="clear"></div>
+</div>
+			<div class="clear spacer"></div>
+<div style="margin:5px 0px 0px 25px;">
+
+<script type="text/javascript"> var cpro_id = 'u249066'; </script>
+<script type="text/javascript" src="http://cpro.baidu.com/cpro/ui/c.js"></script>
+</div>
+			<div class="jobbox">
+				<div class="spacer"></div>
+				<div class="job_maininfo">
+					<h1 class="b font14">
+											北京神舟航天软件技术有限公司  
+													<span class="pdlr"><img src="http://www.hiall.com.cn/images/icon/icon_top_default.gif" /></span>
+						</h1>
+					<h1>所属行业：计算机•互联网•通信</h1>
+					<div class="spacer"></div>
+                    <div>
+                       	<div class="button_job floatleft">
+							<div class="button_right"><a href="/company/cid-27647.html" class="icon_jobbutton_ck blue">查看公司详情</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+																		<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn">信息修改/删除</a></div>
+						</div>
+                        <div class="clear"></div>
+                            
+                    </div>
+                    <div class="spacer"></div>
+                    <div class="spacer"></div>
+                    <div>
+                        <div class="floatleft">
+                        <!-- Baidu Button BEGIN -->
+                        <div id="bdshare" class="bdshare_b" style="line-height: 12px;"><img src="http://bdimg.share.baidu.com/static/images/type-button-1.jpg" />
+                            <a class="shareCount"></a>
+                        </div>
+                        <script type="text/javascript" id="bdshare_js" data="type=button" ></script>
+                        <script type="text/javascript" id="bdshell_js"></script>
+                        <script type="text/javascript">
+                            document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+                        </script>
+                        <!-- Baidu Button END -->
+                        </div>
+                    </div>
+                    				</div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<p>
+								</p>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="job_detail">
+					<h1 class="positiontitle">北京神舟航天软件技术有限公司招聘 北京交通大学专场 宣讲会</h1>
+					<div class="spacer"></div>
+					<div class="spacer4"></div>
+						<p>
+该职位已发布超过<span class="pdlr or">400</span>天
+
+						<span class="pdlr"></span><span>编号：203758</span>
+						<span class="pdlr"></span></p>
+					<div class="spacer"></div>
+					<p>						
+						<span>工作地区：北京</span>
+						<span class="pdlr"></span>
+						<span>更新时间：2012-06-17</span>
+					</p>
+<div style="border-top:1px solid #C3DBE8; margin-top: 8px;"></div>
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<div style="overflow:auto;">
+						<p>招聘企业： 北京神舟航天软件技术有限公司 <br />
+举办时间： 12.04.17 13:30-16:00 <br />
+举办地点： YF310 <br />
+&mdash;&mdash;2012年嵌入式技术研究部招聘需求<br />
+中国航天科技集团公司软件研发中心，是中国航天科技集团公司针对航天关键、共性和重大基础软件的应用需求，开展航天软件新技术与新产品自主创新研究的航天专业软件研发机构。航天软件研发中心成立于2006年8月28日，以北京神舟航天软件技术有限公司为依托实体。<br />
+中国航天科技集团公司软件研发中心以基础软件技术研究部、PLM技术研究部、嵌入式软件技术研究部为核心，在共性基础软件技术、数字化设计、制造与管理技术和嵌入式软件技术三大领域开展了深入研究。航天软件研发中心广泛联合航天内外的优势资源，与浙江大学合作成立航天/浙大基础软件研发中心，共同开展具有探索性、创新性、实用性和重大关键技术及软件产品的研究，拓展并形成完整的航天软件产业链，建立起了&ldquo;以企业为主体、产学研相结合&rdquo;的航天软件创新体系。航天软件研发中心立足型号应用需求，解决工程化技术问题，聘请多位在航天型号研制中具有丰富经验的技术专家，使研发中心的科研成果为型号工程服务。<br />
+中国航天科技集团公司软件研发中心借助航天高科技优势，进行军民两用软件成果的培育与孵化，培养与锻炼高水平的软件人才，开展对外技术交流与合作，进行软件先进技术与解决方案的引进、消化、集成和再创新等方面工作，加速航天软件产品化、系列化、商业化进程，为推进&ldquo;数字航天&rdquo;工程，提高集团公司的信息化建设水平提供支撑，为振兴民族软件产业，提高国产软件的创新能力贡献力量。航天软件研发中心将逐步发展成为航天软件新技术与新产品的研发基地，航天军民两用软件成果孵化与转化基地，对外技术引进与合作基地和航天软件人才的培育基地。<br />
+嵌入式技术研究部是中国航天科技集团公司软件研发中心的核心产品部门，部门专注于嵌入式基础软件、嵌入式开发工具、嵌入式解决方案、嵌入式软件验证与确认等航天嵌入式共性技术和产品的研发工作。部门拥有一支高水平、高素质、励精图治、敢于拼搏的嵌入式技术研发团队，目前有专业技术人才100多人。 <br />
+嵌入式技术研究部先后承担了总装921办&ldquo;921工程C语言编译器安全性验证及嵌入式集成开 发环境&rdquo;、航天支撑计划&ldquo;嵌入式实时操作系统关键技术研究&rdquo;等项目，并取得了丰硕的成果。目前正承担国家核高基重大专项&ldquo;星弹载嵌入式实时操作系统&rdquo;等&ldquo;十一五&rdquo;、&ldquo;十二五&rdquo;重大研发任务。部门先后研发完成了神舟嵌入式软件集成开发环境（神舟IDE）V2.0、神舟嵌入式实时操作系统（神舟OS）V1.0等嵌入式共性软件产品。</p>
+<p>&nbsp;</p>
+<p>2012年度嵌入式产品事业部招聘需求<br />
+1. 嵌入式系统架构设计师 <br />
+1) 具有良好的架构设计基础和较强的总体规划论证、总体设计、分析及协调能力；<br />
+2) 熟悉嵌入式技术，掌握嵌入式实时操作系统及开发环境原理，熟悉通用处理器内核的编程方法；<br />
+3) 优秀的C 、C、汇编语言编程能力，能够快速地、高质量地按要求完成工作；<br />
+4) 具备嵌入式实时操作系统或开发环境开发经验，熟悉VxWorks、RTEMS、ucosII等操作系统优先；<br />
+5) 硕士需具备3年的操作系统及开发环境产品技术研究经验、博士不限。 <br />
+2. 嵌入式操作系统研发工程师 <br />
+1) 良好的C、汇编语言编程能力；<br />
+2) 计算机体系结构基础扎实，对嵌入式操作系统有深厚的理解；<br />
+3) 良好的中文写作和英文听说读写能力；<br />
+4) 善于学习，具备高度的工作责任心，良好的团队协作和交流能力；<br />
+5) 计算机、通讯、自动化及电子相关专业本科以上学历；<br />
+6) 如下经验者优先：<br />
+l 基于嵌入式实时操作系统（VxWorks/RTEMS等）的应用研发经验；<br />
+l VxWorks等嵌入式操作系统外围驱动程序研发经验；<br />
+l 有嵌入式系统GUI研发经验。<br />
+3. Java研发工程师 <br />
+1) 熟悉Java编程，熟悉常用数据结构；<br />
+2) 熟练掌握Eclipse原理、架构、插件技术，SWT技术等；<br />
+3) 良好的中文写作和英文听说读写能力；<br />
+4) 善于学习，具备高度的工作责任心，良好的团队协作和沟通能力；<br />
+5) 具有Java编程经验者优先。<br />
+6) 计算机、通讯、自动化及电子相关专业本科以上学历。<br />
+4. C/C 研发工程师<br />
+1) 熟练掌握C/C 及汇编语言开发；<br />
+2) 对计算机系统结构具有清晰的认识；<br />
+3) 至少熟悉一种处理器体系结构（X86, MIPS，SPARC，ALPHA，TI DSP等）；<br />
+4) 良好的中文写作和英文听说读写能力；<br />
+5) 善于学习，具备高度的工作责任心，良好的团队协作和交流能力；<br />
+6) 具有VC/gcc/gdb等开发经验者优先；<br />
+7) 熟悉操作系统或编译器基本原理者优先；<br />
+8) 计算机、通讯、自动化及电子相关专业本科以上学历。<br />
+5. 编译器研发工程师 <br />
+1) 熟练掌握C/C 及汇编语言开发；<br />
+2) 对编译原理以及程序优化技术有比较深入了解；<br />
+3) 熟悉 x86/sparc/c51至少一个体系结构；<br />
+4) 对程序底层实现机制有强烈兴趣；<br />
+5) 良好的中文写作和英文听说读写能力；<br />
+6) 善于学习，具备高度的工作责任心，良好的团队协作和交流能力；<br />
+7) 计算机，电子相关专业，本科以上学历；<br />
+8) 如下经验者优先：<br />
+l 编译器/工具链/调试器研发工作经验<br />
+l gcc后端扩展经验(retarget到新的指令集)，深入了解gcc实现<br />
+l c51平台上的底层应用研发经验，熟悉调试文件omf格式和仿真器使用以及实现<br />
+6. 虚拟机研发工程师 <br />
+1) 熟练掌握C/C 及汇编语言开发，对计算机系统结构具有清晰的认识<br />
+2) 熟悉操作系统或编译器基本原理<br />
+3) 至少熟悉一种处理器体系结构（X86, MIPS，SPARC，ALPHA，TI DSP等）<br />
+4) 良好的中文写作和英文听说读写能力；<br />
+5) 善于学习，具备高度的工作责任心，良好的团队协作和交流能力；<br />
+6) 计算机，电子相关专业，本科以上学历；<br />
+7) 如下经验者优先<br />
+l 具有计算机系统虚拟机开发经验，熟悉VMware，QEMU，Bochs，Simics等虚拟机平台<br />
+l 具有软件性能优化经验，熟悉Gprof/Oprofile/Vtune等工具使用<br />
+l 具有嵌入式系统硬件开发经验，熟悉SDRAM，DMA，串口等设备原理<br />
+l 具有多线程软件开发经验，熟悉Pthread，Windows Thread，OpenMP等并行软件开发<br />
+7. 电子产品工程师<br />
+1) 扎实的数字/模拟电子技术、微型计算机原理、C/C 语言等专业基础理论知识；<br />
+2) 熟悉目前主流处理器芯片的架构及外围电路设计，如x86、ARM、DSP、PowerPC等；了解SOPC原理；<br />
+3) 熟悉VHDL或Verilog编程语言，了解Modelsim或ActiveHDL；<br />
+4) 熟悉Altera、Xilinx中至少一种FPGA开发及测试流程；<br />
+5) 熟练使用AD6、Cadence至少一种EDA设计工具； <br />
+6) 良好的中文写作和英文听说读写能力；<br />
+7) 计算机、电子、自动化、通讯等相关专业，硕士以上学历；<br />
+8) 如下经验者优先： <br />
+l 有使用FPGA做IP移植并对移植进行测试验证的经验； <br />
+l 有Linux移植和驱动开发经验；<br />
+l 有PCI/PCI Express总线开发和驱动编写调试经验；<br />
+l 熟悉6层以上PCB设计，有高速电路设计和调试经验；<br />
+l 熟悉嵌入式操作系统移植、应用程序和驱动开发经验。<br />
+8. 高级测试工程师<br />
+1) 具有较强的软件测试理论知识，精通C、java语言，熟悉C 、汇编语言；<br />
+2) 精通各种测试方法，具有较强编程能力和脚本编写能力；<br />
+3) 熟练并掌握一种软件测试工具；<br />
+4) 优秀的测试用例设计及测试相关文档编写能力；<br />
+5) 具有高度的责任心，热情敬业、不畏艰难，良好团队合作精神；<br />
+6) 3年以上测试工作经验，有团队管理经验者优先；<br />
+7) 计算机及相关专业本科及以上学历。<br />
+9. 测试工程师<br />
+1) 熟悉软件测试流程，至少掌握C、java或C 一种编程语言；<br />
+2) 熟悉各种测试方法，具有一定的编程能力和脚本编写能力；<br />
+3) 能很好完成各阶段测试工作（测试用例设计及执行）及测试相关文档的编写工作。<br />
+4) 具有高度的责任心，热情敬业、不畏艰难，良好团队合作精神；<br />
+5) 接受过软件测试相关培训或有软件测试相关工作经验者优先；<br />
+6) 计算机及相关专业专科以上学历。 <br />
+10. 界面工程师<br />
+1) 对用户体验方面的理论有较深的了解和认识，并具备一定视觉设计技术和技能；<br />
+2) 熟悉网页界面设计，精通HTML、CSS语言，灵活使用DHTML、XHTML、JavaScript、Ajax 等技术；<br />
+3) 熟练使用Dreamweaver、Flash、Fireworks、Photoshop、Illustrator/Freehand等网页编辑及图像处理工具；<br />
+4) 能够用概念图、流程图来表达自己的思想，文字和口头表达能力较强，能够很好地将自己的观察和研究结果表达和传递给技术人员；<br />
+5) 有很强的美术功底和设计能力，出色的视觉创作能力、审美意识，敏锐的用户体验洞察力，眼界开阔、有创新精神，对商业需求有非常敏感的把握和表现能力；<br />
+6) 有互联网产品的界面设计和交互设计的经验和能力；<br />
+7) 具有高度的责任心，热情敬业、不畏艰难，良好团队合作精神。<br />
+8) 计算机及相关专业本科以上学历，接受过专业的美工培训，具有2年以上的web页面设计经验；<br />
+&nbsp;</p>
+<p>本研发中心提供实习机会。优秀应聘者解决北京户口，待遇从优，热诚期待优秀毕业生加盟，请将电子简历发送至邮箱zhaopin_embed@bjsasc.com，邮件标题格式：学校名称--姓名--生源地--应聘职位--专业名称，请将电子版简历附于附件。<br />
+&nbsp;</p>					</div>
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<p ><a href="http://wenda60.com" target="_blank" style="font-size:14px; color:#2B68E9">>>练练该公司的招聘笔试题 </a><script type="text/javascript"><!--
+google_ad_client = "ca-pub-9486753476951928";
+/* 底部广告 */
+google_ad_slot = "1009061790";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p> 					
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<div>
+						<div class="floatleft">
+                        <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_b" style="line-height: 12px;"><img src="http://bdimg.share.baidu.com/static/images/type-button-1.jpg" />
+                                <a class="shareCount"></a>
+                           
+						  </div>
+                        <script type="text/javascript" id="bdshare_js" data="type=button" ></script>
+                        <script type="text/javascript" id="bdshell_js"></script>
+                        <script type="text/javascript">
+                            document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+                        </script>
+                        <!-- Baidu Button END -->
+						</div>
+						<div class="button_job_or floatleft">
+							<!--<div class="button_right"><a href="javascript:;" onclick="collect(2, 203758);" class="icon_jobbutton_sc white">我要收藏</a></div>-->
+				  </div>
+                            <div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+						<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn" class="icon_jobbutton_p">举报错误信息</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+						<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn">信息修改/删除</a></div>
+						</div>
+						<div class="clear"></div>
+			  </div>
+		  </div>
+				<div class="spacer"></div>
+				<div class="spacer">
+</div>
+<!--
+				<div class="grayline"></div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="pdlr">
+					<div>
+						<span class="floatleft font14  b">同行业的职位</span>
+						<span class="floatright pdlr"></span>
+					</div>
+					<div class="clear spacer"></div>
+					<ul class="ul_bluedisc underline">
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277293.html" class="blue" title="高薪诚聘销售精英" target="_blank">高薪诚聘销售精英</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277084.html" class="blue" title="网络兼职" target="_blank">网络兼职</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277049.html" class="blue" title="行政助理兼前台" target="_blank">行政助理兼前台</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277038.html" class="blue" title="肇庆市华盈信息科技有限公司招聘网站编辑（网页设计）" target="_blank">肇庆市华盈信息科技有限公司招聘网站编辑（网页设计）</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276955.html" class="blue" title="医生管理" target="_blank">医生管理</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276954.html" class="blue" title="医学编辑/医药编辑" target="_blank">医学编辑/医药编辑</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276953.html" class="blue" title="销售代表" target="_blank">销售代表</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276952.html" class="blue" title="平面设计师" target="_blank">平面设计师</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276951.html" class="blue" title="儿童插画师" target="_blank">儿童插画师</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276648.html" class="blue" title="向自由想象致敬，小米2013春季校招（全职&实习）霸气启动！" target="_blank">向自由想象致敬，小米2013春季校招（全职&实习）霸气</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											
+					</ul>
+				</div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="grayline"></div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+								<div class="pdlr">
+					<div>
+						<span class="floatleft font14  b">相同公司职位</span>
+						<span class="floatright pdlr"></span>
+					</div>
+					<div class="clear spacer"></div>
+					<ul class="ul_bluedisc underline">
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_275979.html" class="blue" title="北京神舟航天软件技术有限公司2013招聘" target="_blank">北京神舟航天软件技术有限公司2013招聘</a></div>
+							<span class="floatright gray pdlr">05-09</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_274502.html" class="blue" title="北京神舟航天软件技术有限公司2013招聘" target="_blank">北京神舟航天软件技术有限公司2013招聘</a></div>
+							<span class="floatright gray pdlr">04-19</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_208843.html" class="blue" title="神舟航天软件技术有限公司2012招聘" target="_blank">神舟航天软件技术有限公司2012招聘</a></div>
+							<span class="floatright gray pdlr">07-23</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_203758.html" class="blue" title="北京神舟航天软件技术有限公司招聘 北京交通大学专场 宣讲会" target="_blank">北京神舟航天软件技术有限公司招聘 北京交通大学专场 </a></div>
+							<span class="floatright gray pdlr">06-17</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_105189.html" class="blue" title="北京神舟航天软件技术有限公司2011招聘" target="_blank">北京神舟航天软件技术有限公司2011招聘</a></div>
+							<span class="floatright gray pdlr">01-18</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_105060.html" class="blue" title="[北京]北京神舟航天软件技术有限公司2011招聘" target="_blank">[北京]北京神舟航天软件技术有限公司2011招聘</a></div>
+							<span class="floatright gray pdlr">01-18</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_87165.html" class="blue" title="北京神舟航天软件技术有限公司数据库部门2011校园招聘" target="_blank">北京神舟航天软件技术有限公司数据库部门2011校园招聘</a></div>
+							<span class="floatright gray pdlr">11-17</span>
+							<div class="clear"></div>
+						</li>
+											
+					</ul>
+				</div>
+							</div>
+			<div class="clear spacer"></div>
+			<div class="spacer"></div>
+			<div class="spacer"></div>
+-->
+			<div class="spacer"></div>
+		</div>
+        
+		<div class="clear"></div>
+	</div>
+    
+    <div id="rightcolumn" class="floatleft">
+            <div class="rightcolumn" style="padding:0px;">
+                <div>
+			 <script type="text/javascript"><!--
+            google_ad_client = "ca-pub-9486753476951928";
+            /* 职位广告 */
+            google_ad_slot = "3598731756";
+            google_ad_width = 200;
+            google_ad_height = 200;
+            //-->
+            </script>
+            <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+				
+				    <div class="rightcolumn_title font14 b deepblack">该公司最新招聘信息</div>
+                    <div class="rightcolumn_title font14 b deepblack"><a href="/company/cid-27647.html ">点击查看全部</a></div>
+					<div class="spacer"></div>
+					<ul class="ul_bluedisc right_ul_bluedisc underline">
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_275979.html" class="blue">北京神舟航天软件技术有限公司2013招聘</a></div>
+						<span class="pdlr4 floatright">05-08</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_274502.html" class="blue">北京神舟航天软件技术有限公司2013招聘</a></div>
+						<span class="pdlr4 floatright">04-19</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_208843.html" class="blue">神舟航天软件技术有限公司2012招聘</a></div>
+						<span class="pdlr4 floatright">05-23</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_203758.html" class="blue">北京神舟航天软件技术有限公司招聘 北京交通大学专场 宣讲会</a></div>
+						<span class="pdlr4 floatright">04-17</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_105189.html" class="blue">北京神舟航天软件技术有限公司2011招聘</a></div>
+						<span class="pdlr4 floatright">11-18</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_105060.html" class="blue">[北京]北京神舟航天软件技术有限公司2011招聘</a></div>
+						<span class="pdlr4 floatright">11-18</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_87165.html" class="blue">北京神舟航天软件技术有限公司数据库部门2011校园招聘</a></div>
+						<span class="pdlr4 floatright">09-17</span>
+						<div class="clear"></div>
+						</li>							
+										</ul>
+				</div>
+		   </div>
+           <div class="rightcolumn" style="padding:0px;">
+                <div>
+				
+				    <div class="rightcolumn_title font14 b deepblack">同行业最新招聘信息</div>
+                    
+					<div class="spacer"></div>
+					<ul class="ul_bluedisc right_ul_bluedisc underline">
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277293.html" class="blue" title="高薪诚聘销售精英" target="_blank">高薪诚聘销售精英</a></div>
+							<span class="floatright gray pdlr">05-22</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277084.html" class="blue" title="网络兼职" target="_blank">网络兼职</a></div>
+							<span class="floatright gray pdlr">05-20</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277049.html" class="blue" title="行政助理兼前台" target="_blank">行政助理兼前台</a></div>
+							<span class="floatright gray pdlr">05-20</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277038.html" class="blue" title="肇庆市华盈信息科技有限公司招聘网站编辑（网页设计）" target="_blank">肇庆市华盈信息科技有限公司招聘网站编辑（网页设计）</a></div>
+							<span class="floatright gray pdlr">05-18</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276955.html" class="blue" title="医生管理" target="_blank">医生管理</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276954.html" class="blue" title="医学编辑/医药编辑" target="_blank">医学编辑/医药编辑</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276953.html" class="blue" title="销售代表" target="_blank">销售代表</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276952.html" class="blue" title="平面设计师" target="_blank">平面设计师</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276951.html" class="blue" title="儿童插画师" target="_blank">儿童插画师</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276648.html" class="blue" title="向自由想象致敬，小米2013春季校招（全职&实习）霸气启动！" target="_blank">向自由想象致敬，小米2013春季校招（全职&实习）霸气</a></div>
+							<span class="floatright gray pdlr">05-14</span>
+							<div class="clear"></div>
+						</li>							
+										</ul>
+				</div>
+		   </div>
+           <div class="rightcolumn">
+				<div class="spacer"></div>
+	
+								
+		   </div>
+		   <div class="spacer"></div>
+				
+    </div>
+</div>
+<iframe id="collection" name="collection" style="width:0px;height:0px;"></iframe>
+<div id="foot">
+	<div class="footbody">
+		<div class="foot_top aligncenter white"> <a href="http://www.hiall.com.cn/" class="white">HiAll校园招聘</a> <span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/" class="white">HiAll论坛</a> 
+
+<span class="pdlr4">|</span> <a href="http://wenda.hiall.com.cn/" class="white">HiAll一问一答</a>
+
+<span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/forum-744-1.html" class="white">校园招聘求职大礼包</a> <span class="pdlr4">|</span> <a href="http://hr.hiall.com.cn/" class="white">加入HiAll</a>
+<span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/thread-150495-1-1.html" class="white">广告合作</a> <span class="pdlr4">|</span> <a href="/info/about.php" class="white">关于我们</a> <span class="pdlr4">|</span> <a href="/info/sitemap.php" class="white">网站地图</a></div>		<div class="foot_mid aligncenter white"> 网站相关问题请联系：010-82601802 || 企业服务请联系：010-82600684</div>
+		<div class="foot_bot aligncenter white">Copyright HiAll
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP备10021013号
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP证090110号
+			<span class="pdlr"></span><span class="pdlr"></span>京公网安备11010802010560号
+		</div>
+	</div>
+</div>
+<!-- Baidu Analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F56dda118cbb3220435957635a699495b' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- Baidu Analytics -->
+</body>
+</html>
+

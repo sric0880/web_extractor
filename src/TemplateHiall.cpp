@@ -60,13 +60,14 @@ void TemplateHiall::match_company(Data& entry,const string& str){
 }
 void TemplateHiall::match_position(Data& entry,const string& str){
 	size_t title_tail = str.find_first_of('^');
+	size_t end;
 	size_t found;
 	if(((found = str.find("招聘"))!=string::npos||
 			(found = str.find("诚招"))!=string::npos||
 			(found = str.find("诚聘"))!=string::npos)&&
-			found<title_tail){
-		int end = str.find_first_of("-",found);
-		int len = end-found-6;
+			found<title_tail&&
+			(end = str.find_first_of("-",found))!=string::npos){
+		size_t len = end-found-6;
 		string r = str.substr(found+6,len);
 		trim(r);
 		len = r.length();

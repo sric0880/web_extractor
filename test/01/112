@@ -1,0 +1,410 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+<title>行业市场研究员 - 中国移动通信有限公司研究院 ----庞果网-Pongo.cn</title>
+<meta name="description" content="查看 行业市场研究员 - 中国移动通信有限公司研究院 的职位 ----庞果网-Pongo.cn"/>
+<meta name="keywords" content="行业市场研究员  研究员  计算机 互联网求职 IT求职 软件开发 硬件开发  程序员 工作 人才 招聘信息 人才招聘 找工作 好工作 人才市场 招聘网 求职网 职位 跳槽 高薪职位 校园招聘 大学生求职 招聘" />
+
+
+    <link type="text/css" href="http://image.pongo.com.cn/my/css/commen.css" rel="stylesheet"/>
+    <script type="text/javascript" src="/Scripts/Comm/jscommen.js"></script>
+    <script type="text/javascript" src="http://js.pongo.com.cn/common/jquery-1.4.2.js"></script>
+    <script type="text/javascript" src="http://js.pongo.com.cn/common/pop/jquery.larkyPopWindow.js"></script>
+    <script type="text/javascript" src="http://js.pongo.com.cn/common/pop/jquery.larkyPopWindow.DropList.js"></script>
+    <script type="text/javascript" src="http://js.pongo.com.cn/my/showClose.js"></script>
+    
+    <!--[if IE 6]>
+    <script src="http://js.pongo.cn/my/DD_belatedPNG.js"></script>
+    <script>
+      DD_belatedPNG.fix('img,.png');
+    </script>
+    <![endif]-->
+    
+    
+</head>
+
+<body>
+<div class="topbg">
+	<div class="warp">
+		<h1 class="MLogo"><a href="http://www.pongo.cn/"> </a></h1>
+        <script type="text/javascript" src="https://passport.csdn.net/content/loginbox/loginapi.js"></script>
+<script type="text/javascript">
+    var $logon = {
+        showname: function (name) {
+            if (name[0] != undefined) {
+                if (name[0].n != undefined && name[0].n != "") {
+                    $('#nn').html(name[0].n + " 你好");
+                }
+                else {
+                    $('#nn').html(name[0].u + " 你好");
+                }
+            }
+        }
+    }
+    function GetNickname(username) {
+        /*获取nickname*/
+        $(document).ready(function () {
+            var nickname = "";
+            $.ajax({
+                type: 'get',
+                url: 'http://api.csdn.net/service/open/nick?users=' + username + '&callback=$logon.showname',
+                async: false,
+                dataType: "jsonp",
+                jsonp: "jsonpcallback"
+            });
+        })
+    }
+</script>
+<div class="top_user">
+	<a href="https://passport.pongo.cn/user/bizlogon" class="qyyh">企业用户</a>
+    <div class="before_login" id="login">
+        <a id="_strHref10" href="javascript:show_hiddendiv10();"><span id="_strSpan10">
+        登录</span> </a>
+        <div class="pLogin png" id="hidden_div10" style="display: none;">
+            <ul>
+                <li class="pl40">
+					<span class="fw"><span>CSDN</span>会员可直接登录</span>
+				</li>
+                <li>
+                    <div class="l">
+                        帐 号</div>
+                    <div class="r">
+                        <input type="text" class="pLoginTxt" maxlength="30" name="UserName" id="usernameid" /><br />
+                        <span class="red1" style="display: none;"></span>
+                    </div>
+                </li>
+                <li>
+                    <div class="l">
+                        密 码</div>
+                    <div class="r">
+                        <input type="password" class="pLoginTxt" name="Password" maxlength="20"  id="pwdid"/>
+                        <span class="red1" style="display: none;"></span>
+                    </div>
+                </li>
+                <li class="jizhu">
+                    <span class="fl">
+                        <input type="checkbox" class="fl" maxlength="4" name="RememberMe"/>记住我
+                    </span>
+                    <span class="fr">
+                        <a href="https://passport.csdn.net/account/forgotpassword?from=http%3a%2f%2forg.pongo.cn%2fJob%2fDetails%3fID%3d74063">忘记密码</a>
+                    </span> 
+                </li>
+                <li class="pl40">
+                    <input type="button" class="pLoginBtn fl" id="btnLogin" value="登 录" />                    
+                    <input type="button" class="pLoginBtn fl" id="btnReg" onclick="javascript:location='https://passport.csdn.net/open/pongo_register?from=http%3a%2f%2forg.pongo.cn%2fJob%2fDetails%3fID%3d74063'" value="注 册" />                    
+                </li>
+            </ul>
+            <div class="jiantou png"></div>
+        </div>
+        <script type="text/javascript">
+            function RefreshCheckCode() {
+                $("#checkimg").attr("src", "https://passport.pongo.cn/getimg.aspx?small=small&r=" + Math.random());
+            }
+
+            function CsdnCheckCallback(data)
+            {
+                if(data.LoginStatus)
+                {
+                    Loginsuccess(data.UserName);
+                }
+            }
+
+            function Loginsuccess(username) {
+                //                $("#hidden_div10").hide(); 目前样式似乎不匹配
+                //                $("ul.topR").html("").addClass("slw290").append("<li>" + username + " 你好 |</li>").append("<li><a href=\"#/">我的pongo</a> |</li>").append("<li><a href=\"https://passport.pongo.cn/user/logout?backurl=http%3a%2f%2forg.pongo.cn%2fJob%2fDetails%3fID%3d74063/">退出</a></li>").append("<li class=\"r\">企业用户</li>");
+                var loginStr = "<span><a href=\"https://passport.csdn.net/account/logout?from=http%3a%2f%2forg.pongo.cn%3a80%2fJob%2fDetails%3fID%3d74063/">退出</a></span>";
+                loginStr +="<span class=\"gary\">|</span>";
+	            loginStr +="<span><a href=\"http://writeblog.csdn.net/" target=\"_blank\">我的博客</a></span>";
+	            loginStr +="<span class=\"gary\">|</span>";
+	            loginStr +="<span><a href=\"http://my.csdn.net/" target=\"_blank\">我的空间</a></span>";	           
+                loginStr += "<span class=\"gary\">|</span>";
+                
+                 loginStr += ' <span>';
+				loginStr += '<a id="_strHref18" href="javascript:showDiv("hidden_div30");">英雄会</a>';
+
+				loginStr += '<div class="p_out">';
+				loginStr += '<div class="inbox pos30" isshow="18" id="hidden_div30" style="display:none;">';
+				loginStr += '<ul class="con">';
+				loginStr += '	<li><a href="http://hero.pongo.cn/Home/Index">英雄会首页</a></li>';
+//				loginStr += '   <li><a href="http://hero.pongo.cn/hero/index">英雄榜</a></li>';
+				loginStr += '	<li><a href="http://hero.pongo.cn/Hero/Awards">获奖名单</a></li>';
+				loginStr += '	<li><a href="http://my.pongo.cn/Hero/Index">我的英雄会</a></li>';
+				loginStr += '</ul>';
+				loginStr += '	<div class="arr"></div>';
+				loginStr += '</div>';
+				loginStr += '</div>';
+					
+		        loginStr += '</span>';
+        
+                loginStr += ' <span class="gary">|</span>   ';   
+                
+                loginStr += "<span>";
+                loginStr += "<a id=\"_strHref18\" href=\"javascript:showDiv('hidden_div18');\">我的pongo</a>";
+                loginStr += "<div class=\"p_out\">";
+                loginStr += "<div class=\"inbox pos20\" isShow=\"18\" id=\"hidden_div18\" style=\"display:none;\">";               
+                loginStr += "<div class=\"m png\">"
+                loginStr += "<ul class=\"con\">";
+                loginStr += "<li><a href=\"http://my.pongo.cn/job/MyJobList/">职位</a></li>";
+                loginStr += "<li><a href=\"http://my.pongo.cn/CV/Index/">简历</a></li>";
+                //loginStr += "<li><a href=\"http://my.pongo.cn/Hero/Index/">我的英雄会</a></li>";
+                loginStr += "<li><a href=\"http://my.pongo.cn/my/Index/">设置</a></li>";
+                loginStr += "<li><a href=\"https://passport.csdn.net/security/changepwd/" target=\"_blank\">修改密码</a></li>"
+                loginStr += "</ul>";
+                loginStr += " <div class=\"arr\"></div>";
+                loginStr += "</div>";              
+                loginStr += "</div>";
+                loginStr += "</div>";
+                loginStr += "</span>";
+                loginStr += "<span class=\"gary\">|</span>";
+                loginStr += "<span id='nn'> 你好</span>";                
+                GetNickname(username);
+
+                top.$("#login").html("").removeClass("before_login").addClass("after_login").append(loginStr);
+            }
+
+            function csdnlogin() {
+                csdn.login(
+                    $("#hidden_div10 input[name='UserName']").val()
+                    , $("#hidden_div10 input[name='Password']").val()
+                    , $("#hidden_div10 input[name='RememberMe']")[0].checked
+                    , function (data) {
+                        if (data.status) {
+                            Loginsuccess(data.data.userName);
+                        }
+                        else {
+                            if (data.error == "该帐户尚未激活。") {
+                                window.location.href = "https://passport.csdn.net/account/active?from=" + encodeURIComponent(window.location.href);
+                                return;
+                            }
+                            $("#hidden_div10 input[name='UserName']").siblings("span").html(data.error).show()
+                        }
+                    });
+            }
+
+            $(document).ready(function () {
+                //document.domain = "pongo.cn";
+                RefreshCheckCode();
+                $("#btnLogin").click(function () {
+                    var username = $("#hidden_div10 input[name='UserName']").val();
+                    var password = $("#hidden_div10 input[name='Password']").val();
+
+                    $("#hidden_div10 input[name='UserName']").siblings("div").hide();
+                    $("#hidden_div10 input[name='Password']").siblings("div").hide();
+
+                    if ($.trim(username) == "") {
+                        $("#hidden_div10 input[name='UserName']").siblings("span").html("用户名为必填").show();
+                        return false;
+                    }
+
+                    if ($.trim(password) == "") {
+                        $("#hidden_div10 input[name='Password']").siblings("span").html("密码为必填").show();
+                        return false;
+                    }
+                    csdnlogin();
+                });
+
+                 $("#usernameid,#pwdid").keydown(function(e){
+                    if(e.keyCode == 13){
+                        $("#btnLogin").trigger("click");
+                    }
+                });
+            });
+        </script>
+    </div>
+</div>
+
+    <script type="text/javascript">
+        $(document).ready(function () { 
+            var script = document.createElement('script');
+            script.setAttribute('src', "http://job.csdn.net/csdn/csdncheck?jsonpcallback=CsdnCheckCallback&" + Math.random());
+            // 把script标签加入head，此时调用开始
+            document.getElementsByTagName('head')[0].appendChild(script);
+        });
+    </script>
+
+	</div>	
+</div>
+
+<div class="nav">
+		<ul class="menu">
+			<li ><span><a href="http://www.pongo.cn">首页</a></span></li>
+			<li ><span><a href="http://my.pongo.cn/CV/Index">简历</a></span></li>
+            <li ><span><a href="http://my.pongo.cn/job/MyJobList">职位</a></span></li>
+            
+		
+
+		</ul>
+</div>
+
+
+
+<link type="text/css" href="http://image.pongo.cn/my/css/commen.css" rel="stylesheet"/>
+<link type="text/css" href="http://image.pongo.cn/my/css/shi.css" rel="stylesheet"/>
+
+<style>
+/*demo css*/
+#JobRelatedList ul.line,#JobRelatedList ul.mulitline{overflow:hidden;margin-bottom:20px;border:0px solid #a40000}
+#JobRelatedList ul.mulitline{height:325px}
+
+</style>
+
+<script type="text/javascript" src="http://js.pongo.cn/common/core.js"></script>
+<script type="text/javascript" src="http://js.pongo.cn/common/client.js"></script>
+<script src="http://js.pongo.cn/common/messageboxnotitle.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://js.pongo.cn/common/drag_v1.0.js"></script>
+
+<script src="/Scripts/ViewJs/CVSnapOperation.js" type="text/javascript"></script>
+<script type="text/javascript" src="../Scripts/Job/JobApplyAlert.js"></script>
+
+<script type="text/javascript" src="../Scripts/Job/JobApply.js"></script>
+<script type="text/javascript" src="../Scripts/Job/JobRelatedList.js"></script>
+
+<script type="text/javascript" src="../Scripts/Page.js"></script>
+
+<div class="warp">
+	<div class="zhsz_l fl">
+    	<h2 class="f23 green1">行业市场研究员 <img src="http://image.pongo.com.cn/www/dot.gif" alt="急招" title="急招" class="ico_urgent_det"></h2>
+    	<div class="consz1">
+        	<div class="left fl">
+            	    <h2 class="f18">中国移动通信有限公司研究院 <img src="http://image.pongo.com.cn/www/dot.gif" alt="知名企业" title="知名企业" class="ico_famous_det"></h2>
+                <p>
+                     
+                	   公司规模：500 - 999人<br/>
+                     
+                     
+					公司性质：国有企业<br/>
+                    
+                     
+					公司行业：通信(设备&#183;运营&#183;增值服务)
+                     
+                    <span id="OrgID" style=" display:none;">369363</span>
+                    <span id="JobID"style=" display:none;">67916</span>
+                </p>
+            </div>
+            <div class="com_box">
+                <input type="button" class="btn_allp" value="该公司所有职位"  onclick="javascript:window.open('/Org/Details?ID=369363&JobList=true');" src="http://image.pongo.cn/my/images/Personal_04.jpg">
+            </div>
+        	<div class="clear"></div>
+        </div>
+        <div class="consz3">
+        	<ul>
+                     
+            	        <li>职位性质：全职</li>
+                     
+                     
+                        <li> 发布日期：2013-05-27</li>
+                    
+                     
+                         <li>工作经验：3年</li>
+                    
+                     
+                <li>学历要求：硕士</li>
+                 
+
+                     
+                <li>招聘人数：1 人</li>
+                 
+                     
+                <li>职位月薪：面议</li>
+                 
+                     
+                <li>简历语言：中文和英文</li>
+                 
+                     
+                <li>工作地点：北京市</li>
+                 
+            </ul>
+            <div class="clear"></div>
+        </div>
+      <div class="consz2">
+        <h3 class="f14">职位描述</h3>      
+            <div class="cl">
+                     
+                    <p>
+	岗位职责：</p>
+<p>
+	<br />
+	1. 研究国内外电信行业集团客户市场发展情况，能够独立承担市场信息情报类、发展规划类等课题研究，提出有效性建议；<br />
+	2. 研究国内外电信行业集团客户产品发展情况，能够独立承担产品规划、竞品分析等类型课题研究，提出有效性建议；<br />
+	3. 研究国内外电信行业监管政策，能够独立承担政策分析、对策建议等类型课题研究；<br />
+	4. 与行业主管部门、行业协会以及行业同类型企业建立联络，开展外联工作，及时了解相关行业或企业信息。</p>
+<p>
+	&nbsp;</p>
+<p>
+	<br />
+	任职要求：</p>
+<p>
+	<br />
+	学历及专业 硕士以上学历<br />
+	通信或计算机、管理、产业经济学等专业</p>
+<p>
+	<br />
+	专业技能：</p>
+<p>
+	1. 具有产业市场研究能力，具备行业市场调研或用户研究经验；<br />
+	2. 熟悉ICT行业集团客户市场。</p>
+<p>
+	<br />
+	素质：</p>
+<p>
+	热爱本职工作，工作细心，责任心强，吃苦耐劳；<br />
+	具有较强的创造性思维能力，逻辑清晰，良好的计划、组织、沟通能力和团队合作精神；<br />
+	良好的发现问题解决问题的能力、良好的沟通能力和协调能力、良好的应变能力；<br />
+	优秀的计划能力和执行能力，良好的组织和协调能力。</p>
+<p>
+	<br />
+	经验：</p>
+<p>
+	1. 3年以上工作经验<br />
+	2. 具有产业研究，行业市场研究经验或者市场咨询经验优先。</p>   
+                   
+            </div>            
+        <h3 class="f14">联系方式</h3>
+       <p>
+                
+                     
+                    公司网址：http://labs.chinamobile.com
+                                        
+         </p>
+        <p class="sq">
+                <input id="JobApply" type="button" class="gbtnS1 png Seaml5 fw f18" value="申请职位" />
+                <span class="spbg1"><a id="JobFavorite" href="javascript:void(0);">收藏职位</a></span>                 <DIV class=bshare-custom sizcache06457356350066583="0" sizset="0"><A class=bshare-qzone title=分享到QQ空间 href="javascript:void(0);"></A><A class=bshare-sinaminiblog title=分享到新浪微博 href="javascript:void(0);"></A><A class=bshare-renren title=分享到人人网 href="javascript:void(0);"></A><A class=bshare-qqmb title=分享到腾讯微博 href="javascript:void(0);"></A><A class=bshare-douban title=分享到豆瓣 href="javascript:void(0);"></A><A class="bshare-more bshare-more-icon more-style-sharethis" title=更多平台 buttonIndex="0"></A><SPAN class="BSHARE_COUNT bshare-share-count">0</SPAN></DIV>
+                <SCRIPT type=text/javascript charset=utf-8 src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=c67b1e48-2210-48d3-aa2c-20cd470b9d33&amp;pophcol=2&amp;lang=zh"></SCRIPT>                
+                <SCRIPT type=text/javascript charset=utf-8 src="http://static.bshare.cn/b/bshareC0.js"></SCRIPT>
+        </p>
+    	<h3 class="f14">公司介绍</h3>
+        <p>
+                     
+            建世界一流研发机构、推动自主创新、发挥在国际标准和产业中的影响力，是中国移动科技研发的重要发展战略。作为中国移动的核心研发及技术支撑中心，中国移动研究院以做“中国移动技术创新的引擎”为愿景，聚集了优秀的国际化人才，着力于在基础研究、产品研发、技术服务等三大领域积极开展研发和创新工作，努力打造世界一流的研发机构。目前研究院现有员工500名，70%都是来自国家著名院校优秀毕业生，87%是硕士以上学历，人才结构高素质、年轻化、国际化。研究院现有研究领域覆盖了无线、网络、业务、终端、IT信息化、市场研究、运营支撑等多个领域，具有很强的研究实力，每年为中国移动开发出几十项新业务和创新原型产品，并做大量的前瞻性技术研究和现网技术支撑。<br><br>近几年来，中国移动研究院大力推进行业发展，创新性地开展了LTE(包括TD-LTE和LTE&nbsp;Advance等3G演进技术)、WiiSE（下一代移动互联网体系架构）、云计算、手机电视、移动电子商务、mSpaces（个性化内容服务）、OMS(智能终端开放系统)等重大研究项目，成为引领行业的重要力量。中国移动研究院积极进行IT信息化建设，组建了多媒体、大规模运算、无线接入、网络架构以及用户行为研究等基础研究实验室，圆满完成了CNGI等近20余个国家级专项的研究，有力提高了我公司在业界的影响力。<br><br>不仅如此，中国移动研究院广泛参与国际标准化工作，是中国移动技术标准化工作的主要承担者，每年向国际标准化组织输出300多篇文稿，已有多名员工在八个重要的标准化组织中担任领导职务，使中国移动一跃成为国际重要标准化组织的主导力量，为中国知识产权融入国际标准、提升我国产业的国际竞争力奠定了坚实的基础。目前，中国移动研究院是国家级移动电子商务研发中心，国际标准组织OMA的金牌永久测试基地。<br>
+                                
+        </p>      		
+    </div>
+            
+    </div>
+    
+		
+<div class="clear"></div>	
+</div>
+
+
+
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ff3700fad68d63cbb9de681794ea37d6a' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<div class="footer">
+	<div class="warp">
+			<a href="http://www.pongo.cn/Official/About" target="_blank">关于我们</a> | 
+			<a href="http://www.pongo.cn/Official/Legal" target="_blank">法律声明</a> |  
+			<a href="http://www.pongo.cn/Official/Feedback" target="_blank">信息反馈</a> | 
+			<a href="http://www.pongo.cn/Official/Contact" target="_blank">联系我们</a> | 
+			<a href="http://my.pongo.cn/Org/Details?ID=1" target="_blank">加入我们</a> |
+			<a href="http://www.pongo.cn/Official/Privacy" target="_blank">隐私保护</a> | 
+			<a href="http://www.pongo.cn/Official/Copyright" target="_blank">版权所有</a> | &nbsp;<a href="http://www.miibeian.gov.cn/" target="_blank">沪ICP备11011787号-2</a>&nbsp;
+			<span class="fa">Copyright © 2012 Pongo Networks Technology Co.,ltd.  </span>
+	</div>
+</div>
+</body>
+</html>

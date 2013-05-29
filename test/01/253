@@ -1,0 +1,383 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+<title>C++开发工程师 - 上海半丁数码科技有限公司 ----庞果网-Pongo.cn</title>
+<meta name="description" content="查看 C++开发工程师 - 上海半丁数码科技有限公司 的职位 ----庞果网-Pongo.cn"/>
+<meta name="keywords" content="C++开发工程师  c/c++研发 游戏（网游、页游、TVgame） 计算机 互联网求职 IT求职 软件开发 硬件开发  程序员 工作 人才 招聘信息 人才招聘 找工作 好工作 人才市场 招聘网 求职网 职位 跳槽 高薪职位 校园招聘 大学生求职 招聘" />
+
+
+    <link type="text/css" href="http://image.pongo.com.cn/my/css/commen.css" rel="stylesheet"/>
+    <script type="text/javascript" src="/Scripts/Comm/jscommen.js"></script>
+    <script type="text/javascript" src="http://js.pongo.com.cn/common/jquery-1.4.2.js"></script>
+    <script type="text/javascript" src="http://js.pongo.com.cn/common/pop/jquery.larkyPopWindow.js"></script>
+    <script type="text/javascript" src="http://js.pongo.com.cn/common/pop/jquery.larkyPopWindow.DropList.js"></script>
+    <script type="text/javascript" src="http://js.pongo.com.cn/my/showClose.js"></script>
+    
+    <!--[if IE 6]>
+    <script src="http://js.pongo.cn/my/DD_belatedPNG.js"></script>
+    <script>
+      DD_belatedPNG.fix('img,.png');
+    </script>
+    <![endif]-->
+    
+    
+</head>
+
+<body>
+<div class="topbg">
+	<div class="warp">
+		<h1 class="MLogo"><a href="http://www.pongo.cn/"> </a></h1>
+        <script type="text/javascript" src="https://passport.csdn.net/content/loginbox/loginapi.js"></script>
+<script type="text/javascript">
+    var $logon = {
+        showname: function (name) {
+            if (name[0] != undefined) {
+                if (name[0].n != undefined && name[0].n != "") {
+                    $('#nn').html(name[0].n + " 你好");
+                }
+                else {
+                    $('#nn').html(name[0].u + " 你好");
+                }
+            }
+        }
+    }
+    function GetNickname(username) {
+        /*获取nickname*/
+        $(document).ready(function () {
+            var nickname = "";
+            $.ajax({
+                type: 'get',
+                url: 'http://api.csdn.net/service/open/nick?users=' + username + '&callback=$logon.showname',
+                async: false,
+                dataType: "jsonp",
+                jsonp: "jsonpcallback"
+            });
+        })
+    }
+</script>
+<div class="top_user">
+	<a href="https://passport.pongo.cn/user/bizlogon" class="qyyh">企业用户</a>
+    <div class="before_login" id="login">
+        <a id="_strHref10" href="javascript:show_hiddendiv10();"><span id="_strSpan10">
+        登录</span> </a>
+        <div class="pLogin png" id="hidden_div10" style="display: none;">
+            <ul>
+                <li class="pl40">
+					<span class="fw"><span>CSDN</span>会员可直接登录</span>
+				</li>
+                <li>
+                    <div class="l">
+                        帐 号</div>
+                    <div class="r">
+                        <input type="text" class="pLoginTxt" maxlength="30" name="UserName" id="usernameid" /><br />
+                        <span class="red1" style="display: none;"></span>
+                    </div>
+                </li>
+                <li>
+                    <div class="l">
+                        密 码</div>
+                    <div class="r">
+                        <input type="password" class="pLoginTxt" name="Password" maxlength="20"  id="pwdid"/>
+                        <span class="red1" style="display: none;"></span>
+                    </div>
+                </li>
+                <li class="jizhu">
+                    <span class="fl">
+                        <input type="checkbox" class="fl" maxlength="4" name="RememberMe"/>记住我
+                    </span>
+                    <span class="fr">
+                        <a href="https://passport.csdn.net/account/forgotpassword?from=http%3a%2f%2forg.pongo.cn%2fJob%2fDetails%3fID%3d73666">忘记密码</a>
+                    </span> 
+                </li>
+                <li class="pl40">
+                    <input type="button" class="pLoginBtn fl" id="btnLogin" value="登 录" />                    
+                    <input type="button" class="pLoginBtn fl" id="btnReg" onclick="javascript:location='https://passport.csdn.net/open/pongo_register?from=http%3a%2f%2forg.pongo.cn%2fJob%2fDetails%3fID%3d73666'" value="注 册" />                    
+                </li>
+            </ul>
+            <div class="jiantou png"></div>
+        </div>
+        <script type="text/javascript">
+            function RefreshCheckCode() {
+                $("#checkimg").attr("src", "https://passport.pongo.cn/getimg.aspx?small=small&r=" + Math.random());
+            }
+
+            function CsdnCheckCallback(data)
+            {
+                if(data.LoginStatus)
+                {
+                    Loginsuccess(data.UserName);
+                }
+            }
+
+            function Loginsuccess(username) {
+                //                $("#hidden_div10").hide(); 目前样式似乎不匹配
+                //                $("ul.topR").html("").addClass("slw290").append("<li>" + username + " 你好 |</li>").append("<li><a href=\"#/">我的pongo</a> |</li>").append("<li><a href=\"https://passport.pongo.cn/user/logout?backurl=http%3a%2f%2forg.pongo.cn%2fJob%2fDetails%3fID%3d73666/">退出</a></li>").append("<li class=\"r\">企业用户</li>");
+                var loginStr = "<span><a href=\"https://passport.csdn.net/account/logout?from=http%3a%2f%2forg.pongo.cn%3a80%2fJob%2fDetails%3fID%3d73666/">退出</a></span>";
+                loginStr +="<span class=\"gary\">|</span>";
+	            loginStr +="<span><a href=\"http://writeblog.csdn.net/" target=\"_blank\">我的博客</a></span>";
+	            loginStr +="<span class=\"gary\">|</span>";
+	            loginStr +="<span><a href=\"http://my.csdn.net/" target=\"_blank\">我的空间</a></span>";	           
+                loginStr += "<span class=\"gary\">|</span>";
+                
+                 loginStr += ' <span>';
+				loginStr += '<a id="_strHref18" href="javascript:showDiv("hidden_div30");">英雄会</a>';
+
+				loginStr += '<div class="p_out">';
+				loginStr += '<div class="inbox pos30" isshow="18" id="hidden_div30" style="display:none;">';
+				loginStr += '<ul class="con">';
+				loginStr += '	<li><a href="http://hero.pongo.cn/Home/Index">英雄会首页</a></li>';
+//				loginStr += '   <li><a href="http://hero.pongo.cn/hero/index">英雄榜</a></li>';
+				loginStr += '	<li><a href="http://hero.pongo.cn/Hero/Awards">获奖名单</a></li>';
+				loginStr += '	<li><a href="http://my.pongo.cn/Hero/Index">我的英雄会</a></li>';
+				loginStr += '</ul>';
+				loginStr += '	<div class="arr"></div>';
+				loginStr += '</div>';
+				loginStr += '</div>';
+					
+		        loginStr += '</span>';
+        
+                loginStr += ' <span class="gary">|</span>   ';   
+                
+                loginStr += "<span>";
+                loginStr += "<a id=\"_strHref18\" href=\"javascript:showDiv('hidden_div18');\">我的pongo</a>";
+                loginStr += "<div class=\"p_out\">";
+                loginStr += "<div class=\"inbox pos20\" isShow=\"18\" id=\"hidden_div18\" style=\"display:none;\">";               
+                loginStr += "<div class=\"m png\">"
+                loginStr += "<ul class=\"con\">";
+                loginStr += "<li><a href=\"http://my.pongo.cn/job/MyJobList/">职位</a></li>";
+                loginStr += "<li><a href=\"http://my.pongo.cn/CV/Index/">简历</a></li>";
+                //loginStr += "<li><a href=\"http://my.pongo.cn/Hero/Index/">我的英雄会</a></li>";
+                loginStr += "<li><a href=\"http://my.pongo.cn/my/Index/">设置</a></li>";
+                loginStr += "<li><a href=\"https://passport.csdn.net/security/changepwd/" target=\"_blank\">修改密码</a></li>"
+                loginStr += "</ul>";
+                loginStr += " <div class=\"arr\"></div>";
+                loginStr += "</div>";              
+                loginStr += "</div>";
+                loginStr += "</div>";
+                loginStr += "</span>";
+                loginStr += "<span class=\"gary\">|</span>";
+                loginStr += "<span id='nn'> 你好</span>";                
+                GetNickname(username);
+
+                top.$("#login").html("").removeClass("before_login").addClass("after_login").append(loginStr);
+            }
+
+            function csdnlogin() {
+                csdn.login(
+                    $("#hidden_div10 input[name='UserName']").val()
+                    , $("#hidden_div10 input[name='Password']").val()
+                    , $("#hidden_div10 input[name='RememberMe']")[0].checked
+                    , function (data) {
+                        if (data.status) {
+                            Loginsuccess(data.data.userName);
+                        }
+                        else {
+                            if (data.error == "该帐户尚未激活。") {
+                                window.location.href = "https://passport.csdn.net/account/active?from=" + encodeURIComponent(window.location.href);
+                                return;
+                            }
+                            $("#hidden_div10 input[name='UserName']").siblings("span").html(data.error).show()
+                        }
+                    });
+            }
+
+            $(document).ready(function () {
+                //document.domain = "pongo.cn";
+                RefreshCheckCode();
+                $("#btnLogin").click(function () {
+                    var username = $("#hidden_div10 input[name='UserName']").val();
+                    var password = $("#hidden_div10 input[name='Password']").val();
+
+                    $("#hidden_div10 input[name='UserName']").siblings("div").hide();
+                    $("#hidden_div10 input[name='Password']").siblings("div").hide();
+
+                    if ($.trim(username) == "") {
+                        $("#hidden_div10 input[name='UserName']").siblings("span").html("用户名为必填").show();
+                        return false;
+                    }
+
+                    if ($.trim(password) == "") {
+                        $("#hidden_div10 input[name='Password']").siblings("span").html("密码为必填").show();
+                        return false;
+                    }
+                    csdnlogin();
+                });
+
+                 $("#usernameid,#pwdid").keydown(function(e){
+                    if(e.keyCode == 13){
+                        $("#btnLogin").trigger("click");
+                    }
+                });
+            });
+        </script>
+    </div>
+</div>
+
+    <script type="text/javascript">
+        $(document).ready(function () { 
+            var script = document.createElement('script');
+            script.setAttribute('src', "http://job.csdn.net/csdn/csdncheck?jsonpcallback=CsdnCheckCallback&" + Math.random());
+            // 把script标签加入head，此时调用开始
+            document.getElementsByTagName('head')[0].appendChild(script);
+        });
+    </script>
+
+	</div>	
+</div>
+
+<div class="nav">
+		<ul class="menu">
+			<li ><span><a href="http://www.pongo.cn">首页</a></span></li>
+			<li ><span><a href="http://my.pongo.cn/CV/Index">简历</a></span></li>
+            <li ><span><a href="http://my.pongo.cn/job/MyJobList">职位</a></span></li>
+            
+		
+
+		</ul>
+</div>
+
+
+
+<link type="text/css" href="http://image.pongo.cn/my/css/commen.css" rel="stylesheet"/>
+<link type="text/css" href="http://image.pongo.cn/my/css/shi.css" rel="stylesheet"/>
+
+<style>
+/*demo css*/
+#JobRelatedList ul.line,#JobRelatedList ul.mulitline{overflow:hidden;margin-bottom:20px;border:0px solid #a40000}
+#JobRelatedList ul.mulitline{height:325px}
+
+</style>
+
+<script type="text/javascript" src="http://js.pongo.cn/common/core.js"></script>
+<script type="text/javascript" src="http://js.pongo.cn/common/client.js"></script>
+<script src="http://js.pongo.cn/common/messageboxnotitle.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://js.pongo.cn/common/drag_v1.0.js"></script>
+
+<script src="/Scripts/ViewJs/CVSnapOperation.js" type="text/javascript"></script>
+<script type="text/javascript" src="../Scripts/Job/JobApplyAlert.js"></script>
+
+<script type="text/javascript" src="../Scripts/Job/JobApply.js"></script>
+<script type="text/javascript" src="../Scripts/Job/JobRelatedList.js"></script>
+
+<script type="text/javascript" src="../Scripts/Page.js"></script>
+
+<div class="warp">
+	<div class="zhsz_l fl">
+    	<h2 class="f23 green1">C++开发工程师 <img src="http://image.pongo.com.cn/www/dot.gif" alt="急招" title="急招" class="ico_urgent_det"></h2>
+    	<div class="consz1">
+        	<div class="left fl">
+            	    <h2 class="f18">上海半丁数码科技有限公司 </h2>
+                <p>
+                    <span id="OrgID" style=" display:none;">213400</span>
+                    <span id="JobID"style=" display:none;">66843</span>
+                </p>
+            </div>
+            <div class="com_box">
+                <input type="button" class="btn_allp" value="该公司所有职位"  onclick="javascript:window.open('/Org/Details?ID=213400&JobList=true');" src="http://image.pongo.cn/my/images/Personal_04.jpg">
+            </div>
+        	<div class="clear"></div>
+        </div>
+        <div class="consz3">
+        	<ul>
+                     
+            	        <li>职位性质：全职</li>
+                     
+                     
+                        <li> 发布日期：2013-05-13</li>
+                    
+                     
+                         <li>工作经验：1年</li>
+                    
+                     
+                <li>学历要求：本科</li>
+                 
+
+                     
+                <li>招聘人数：5 人</li>
+                 
+                     
+                <li>职位月薪：面议</li>
+                 
+                     
+                <li>简历语言：中文</li>
+                 
+                     
+                <li>工作地点：上海市</li>
+                 
+            </ul>
+            <div class="clear"></div>
+        </div>
+      <div class="consz2">
+        <h3 class="f14">职位描述</h3>      
+            <div class="cl">
+                     
+                    <p>
+	【岗位职责】：<br />
+	1.利用游戏引擎开发棋牌类游戏；<br />
+	2.基于Linux系统开发游戏服务器程序；<br />
+	3.游戏相关辅助工具开发;<br />
+	4.根据技术文档采用C++编码实现功能点；<br />
+	5.和项目相关人员配合测试自己的代码。</p>
+<p>
+	【岗位要求】：<br />
+	1.精通Visual C++ 6.0；<br />
+	2.熟悉socket网络编程；<br />
+	3.熟悉2D图形处理算法；<br />
+	4.熟悉各种棋牌类游戏规则及算法；<br />
+	5.熟悉Linux编程或者Windows编程；<br />
+	6.性格平和，能和团队成员很好地合作，工作细致，认真负责。</p>   
+                   
+            </div>            
+        <h3 class="f14">联系方式</h3>
+       <p>
+                        
+                            公司地址：<br/>
+                          
+                        
+                
+                     
+                    公司网址：http://www.banding.com.cn
+                                        
+         </p>
+        <p class="sq">
+                <input id="JobApply" type="button" class="gbtnS1 png Seaml5 fw f18" value="申请职位" />
+                <span class="spbg1"><a id="JobFavorite" href="javascript:void(0);">收藏职位</a></span>                 <DIV class=bshare-custom sizcache06457356350066583="0" sizset="0"><A class=bshare-qzone title=分享到QQ空间 href="javascript:void(0);"></A><A class=bshare-sinaminiblog title=分享到新浪微博 href="javascript:void(0);"></A><A class=bshare-renren title=分享到人人网 href="javascript:void(0);"></A><A class=bshare-qqmb title=分享到腾讯微博 href="javascript:void(0);"></A><A class=bshare-douban title=分享到豆瓣 href="javascript:void(0);"></A><A class="bshare-more bshare-more-icon more-style-sharethis" title=更多平台 buttonIndex="0"></A><SPAN class="BSHARE_COUNT bshare-share-count">0</SPAN></DIV>
+                <SCRIPT type=text/javascript charset=utf-8 src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=c67b1e48-2210-48d3-aa2c-20cd470b9d33&amp;pophcol=2&amp;lang=zh"></SCRIPT>                
+                <SCRIPT type=text/javascript charset=utf-8 src="http://static.bshare.cn/b/bshareC0.js"></SCRIPT>
+        </p>
+    	<h3 class="f14">公司介绍</h3>
+        <p>
+                     
+            上海半丁数码科技有限公司坐落于上海市卢湾区智造局创意园区内，定位于专业的数字娱乐内容提供商和服务商，为数字娱乐方向十一五规划重点发展企业。公司目前主要致力于大型互动娱乐平台、大型3D网络游戏、手机游戏、新派休闲类网络游戏的开发运营及引擎授权工作。<br><br>公司前身为加拿大知名游戏开发团队X-DIGITAL工作室，集聚了业内高端且经验丰富的策划、程序、美术人才。<br><br>2009年3月，半丁与共青团上海市委员会合作设立《青年就业创业见习基地》<br><br>2011年1月，半丁成为《上海信息化》理事会理事单位<br><br><br>研发实力：<br><br>多年的游戏开发累积，让我们现在已经拥有四款自主知识产权的大型3D网络游戏引擎。我们参考国外大型游戏开发公司经验，结合实际情况，在内部建立了严格的“XelDepll”项目管理制度、“XelStr”游戏流程体系、“&nbsp;XelQA”软件质量保证体系。<br><br>广泛深入的国际技术交流，保持技术在同行业中永远走在最前沿。受邀参加了中国最大的游戏展CHINAJOY高峰技术论坛，技术思路获得同行企业的一致认可；作为中国唯一一家代表，受邀参加了，新加坡CRESITA公司举办的全球数字娱乐技术与发展研讨会。<br><br><br>产品线：<br><br>对游戏的完美追求，雄厚的研发实力打造了以下八大产品线：<br><br>—	四大3D游戏引擎<br><br>—	数字娱乐互动平台“乐悠游”<br><br>—	大型休闲网络游戏“魔法坦克”<br><br>—	大型3D休闲网络游戏“爆爆Online”<br><br>—	国内首款3D飞行网络游戏“Sky&nbsp;online”<br><br>—	Webgame“寻秦”、“回到明朝做皇帝”、“七侠五义”<br><br>—	电子竞技平台<br><br>—	手机游戏引擎及应用<br><br><br>薪酬福利：<br><br>—	薪资<br><br>一经录取，公司将为您提供具有竞争力的薪水<br><br>—	福利<br><br>年底奖金+项目奖金+社保公积金+补充商业医疗保险（国家规定以外）+带薪年休假+带薪病假+年度旅游+年度健康体检+节日福利+生日福利等<br><br>—	培训与发展<br><br>提供良好和系统的培训，助力能力的提升，并提供广阔的发展空间<br><br><br><br>关于招聘：<br><br>公司因企业发展和业务拓展需要，上海总部及南京研发中心面向社会诚聘各路精英加盟。请将个人简历(附期望薪资)E-mail至zhuliling@banding.com.cn或邮寄至本公司。(请在E-mail主题上或信封上注明应聘职位)。<br><br>
+                                
+        </p>      		
+    </div>
+            
+    </div>
+    
+		
+<div class="clear"></div>	
+</div>
+
+
+
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ff3700fad68d63cbb9de681794ea37d6a' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<div class="footer">
+	<div class="warp">
+			<a href="http://www.pongo.cn/Official/About" target="_blank">关于我们</a> | 
+			<a href="http://www.pongo.cn/Official/Legal" target="_blank">法律声明</a> |  
+			<a href="http://www.pongo.cn/Official/Feedback" target="_blank">信息反馈</a> | 
+			<a href="http://www.pongo.cn/Official/Contact" target="_blank">联系我们</a> | 
+			<a href="http://my.pongo.cn/Org/Details?ID=1" target="_blank">加入我们</a> |
+			<a href="http://www.pongo.cn/Official/Privacy" target="_blank">隐私保护</a> | 
+			<a href="http://www.pongo.cn/Official/Copyright" target="_blank">版权所有</a> | &nbsp;<a href="http://www.miibeian.gov.cn/" target="_blank">沪ICP备11011787号-2</a>&nbsp;
+			<span class="fa">Copyright © 2012 Pongo Networks Technology Co.,ltd.  </span>
+	</div>
+</div>
+</body>
+</html>

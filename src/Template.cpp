@@ -32,7 +32,7 @@ void Template::match_position(Data& entry,const string& str){
 	for (i = 0; i < nCount; ++i) {//逐个答应分词结果的内容
 		if(pResult[i].word_type==1){
 			string p = str.substr(pResult[i].start, pResult[i].length);
-			if(pResult[i-1].iPOS==21||pResult[i-1].iPOS==93){
+			if((i-1)>=0&&(pResult[i-1].iPOS==21||pResult[i-1].iPOS==93)){
 				string pre = str.substr(pResult[i-1].start, pResult[i-1].length);
 				pre.append(p);
 				pset.insert(pre);
@@ -87,26 +87,28 @@ void Template::match_skills(Data& entry, const string& str) {
 	unordered_set<string> pset;
 	int j=0;
 	while(j<nCount){
-		int i =0;
-		int s,pre_s;
+		int s,pre_s=0;
 		string w,pre_w;
-		w = str.substr(pResult[j+i].start, pResult[j+i].length);
+		if(str.length()<(size_t)(pResult[j].start+pResult[j].length))
+			break;
+		w = str.substr(pResult[j].start, pResult[j].length);
 		algorithm::to_lower(w);
-		while((s=dict.da_find((const unsigned char*)w.c_str()))>=0&&(j+i)<nCount){
-			++i;
+		while((s=dict.da_find((const unsigned char*)w.c_str()))>=0&&(j+1)<nCount){
+			++j;
 			pre_w = w;
 			pre_s = s;
-			if(pResult[j+i-1].iPOS==93&&pResult[j+i].iPOS==93)//english
+			if(pResult[j-1].iPOS==93&&pResult[j].iPOS==93)//english
 			{
 				w.append(" ");
 			}
-			w.append(str.substr(pResult[j+i].start,pResult[j+i].length));
+			string temp = str.substr(pResult[j].start,pResult[j].length);
+			w.append(temp);
 			algorithm::to_lower(w);
 		}
-		if(i>0&&pre_s>0){
+		if(pre_s>0){
 			pset.insert(pre_w);
 		}
-		j+=(i+1);
+		++j;
 	}
 	string r;
 	for(auto& s : pset) {
