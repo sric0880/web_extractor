@@ -1,0 +1,781 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<title>西藏移动2009校园招聘-全职推荐</title>
+<head>
+<meta property="qc:admins" content="35413136776011446375636" />
+<meta http-equiv="keywords" content="2013校园招聘,HiAll,招聘,校园招聘,全职职位,实习职位,大学生求职,应届生求职"/>
+<meta http-equiv="description" content="HiAll，为应届毕业生或在校生提供最新、最全、最可靠的全职、实习招聘信息、宣讲会信息与各种求职资讯与资料，成为联动学生与雇主的纽带，覆盖北京、上海、广州、海外等地区。" />
+<meta name="generator" content="HiAll2.0" />
+<meta name="author" content="HiAll" />
+<meta name="copyright" content="2004-2012 HiAll." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<script src="http://file.hiall.com.cn/newhiall/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/jquery.validate.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/utils.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/u1.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frame/page.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/main.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frontpage/frontpage.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/manage.css" />
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2560481-2']);
+  _gaq.push(['_setDomainName', '.hiall.com.cn']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Google Analytics -->
+</head>
+<body>
+<div id="head">
+	<div id="headbody">
+		<div class="top">
+			<a href="/" class="head_logo floatleft"></a>
+			<div class="mid floatleft">
+			<form method="post" action="/search/infos.php">
+				<input type="text" class="head_search_input gray floatleft" maxlength="10" value="职位信息 如：管理培训生" id="searchkey" name="searchkey" onclick="if(this.value == '职位信息 如：管理培训生') this.value='';" onblur="if(this.value=='') this.value='职位信息 如：管理培训生';"/>
+				<div class="head_search_select gray pointer floatleft">
+					<div class="floatleft">
+						<div class="absolute">
+							<div class="relative head_search_select_optionbox" style="display:none; z-index:10;">
+								<ul class="head_search_select_option" id="choosecity-list">
+																<li id="r0">全部</li>
+																<li id="r1">北京</li>
+																<li id="r2">上海</li>
+																<li id="r40">广州</li>
+																<li id="r41">深圳</li>
+															</ul>
+							</div>
+						</div>
+					</div>
+					<span id="choosecity">全部</span>
+				</div>
+				<input type="hidden" name="regionid" id="regionid" value="0">
+				<input type="hidden" name="op" id="op" value="headersearch">
+				<input  type="button" class="button_head_search pointer floatleft" onclick="javascript:headerSearch(this);" />
+			</div>
+			</form>
+			<div class="right floatright">
+				<div class="head_greenicon_box floatleft">
+											<p><span class="white">个人用户</span></p>
+						<p><a href="/collect/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="http://bbs.hiall.com.cn/register_hiall.php" class="white">注册</a></p>		
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="head_blueicon_box floatleft">
+										<p><a class="white">企业用户</a></p>
+					<p><a href="/users/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="/users/register.php" class="white">注册</a></p>
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="vspacer floatleft"></div>
+				<div class="floatleft">
+					<p><a href="/info/about.php#t2" class="white">查看企业</p><p>服务项目</a></p>
+				</div>
+				<div class="vspacer floatleft"></div>
+			</div>
+		</div>
+		<div class="clear"></div>
+		<div class="bottom">
+
+<!--<div style="position:relative;">-->
+<ul class="head_nav floatleft">
+	<li hidefocus="true" ><a href="/" hidefocus="true">首页</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://bbs.hiall.com.cn" target="_blank" hidefocus="true">BBS</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true"  class="active"><a href="/info/" hidefocus="true">全职推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/part.php" hidefocus="true">实习推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/" hidefocus="true" target="_blank">宣讲会</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://www.hiall.com.cn/2011" hidefocus="true" target="_blank" class="menu_red">HiAll雇主专区</a></li>
+	<li hidefocus="true" class="fg"></li>
+    <!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/calendar/" hidefocus="true" target="_blank">2012校招日程</a></li>-->
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/special.php" hidefocus="true">专业招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/company/" hidefocus="true">名企招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/expire.php" hidefocus="true">申请截止</a></li>
+	<li hidefocus="true" class="fg"></li>
+    <li hidefocus="true"  style='padding-left:0px;'><a href="http://bbs.hiall.com.cn/forum-1054-1.html" hidefocus="true" target="_blank" style="color:red">2013名企求职礼包</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://wenda.hiall.com.cn/" hidefocus="true" target="_blank">HiAll一问一答</a></li>
+	<!--<li hidefocus="true" ><a href="http://edu.hiall.com.cn/" hidefocus="true" target="_blank">求职指导</a></li>-->
+	<!--<li hidefocus="true" ><a href="http://miaosha.hiall.com.cn/" hidefocus="true" target="_blank">职业秒杀</a></li>
+	<li hidefocus="true" class="fg"></li>-->
+	<!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/yinhang/" hidefocus="true" target="_blank" style="color:red">2012银行校园招聘</a></li>-->
+</ul>
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>
+<div id="loginfloat" style="background:red;psotion:absolute;display:none;">
+	<div class="fav_topbox floatleft">
+		<p class="h22"><span class="or b">登录后可以个性化你的收藏哦！</span><span class="gray">（用HiAll bbs账号直接登录）</span><span class="gray"><a href="javascript:;" onclick="closeCollect();">关闭</a></span></p>
+		<div class="spacer"></div>
+		<form method="post" accept-charset="GB2312" name="login" id="loginform1" class="gateform" action="http://bbs.hiall.com.cn/logging.php?action=login&amp;loginsubmit=yes">
+		<input type="hidden" name="formhash" value="e9f7b113" />
+		<input type="hidden" name="referer" id="referer" value="http://www.hiall.com.cn/collect/index.php" />
+		<div>
+			<p class="h22"><span>用户名：</span><span><input type="text" class="required normalinput grayborder" size="14" name="username" id="username1" title="用户名称不能为空！" /></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/register_hiall.php" class="gray underline">新用户注册</a></span><h3 id="returnmessage"></h3></p>
+			<div class="spacer"></div>
+			<p class="h22"><span>密&nbsp;&nbsp;码：</span><span><input type="password" class="required normalinput grayborder" size="14"  id="password4" name="password" title="密码不能为空！"/></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/logging.php?action=login" class="gray underline">忘记密码?</a></span></p>
+			<div class="spacer"></div>
+			<p class="fav_login_button h22"><input type="button" onclick="return ajaxpost('username1', 'password4', 'loginform1', 'returnmessage', 'returnmessage', 'onerror');" value="登  录"  class="button_or_2c white"/><span class="pdlr4"></span><a href="http://bbs.hiall.com.cn/register_hiall.php"><button class="button_or_5c white">新用户注册</button></a></p>
+		</div>
+		</form>
+	</div>
+</div>
+<div id="body">
+	<p class="h22 txtindent1 gray">当前位置：<a href='/'>首页</a> &gt; <a href='/info/'>全职推荐</a> &gt; 西藏移动2009校园招聘</p>
+	<!--<div class="bigbg reborder">-->
+    <div class="bigbg reborder" style="overflow:auto; _height:1%;">
+		<div id="leftcolumn" class="floatleft">
+            <div class="leftcolumn">
+				<p class="leftcolumn_title font14 b deepblack">行业分类</p>
+<ul class="left_nav">
+		<li><a href="/info/?businesses=1" >计算机•互联网•通信</a></li>
+		<li><a href="/info/?businesses=2" >电器•电子•家电</a></li>
+		<li><a href="/info/?businesses=3" >金融•投资•证券</a></li>
+		<li><a href="/info/?businesses=4" >咨询•财会•法律</a></li>
+		<li><a href="/info/?businesses=5" >贸易•消费•进出口</a></li>
+		<li><a href="/info/?businesses=6" >制药•生物•医疗</a></li>
+		<li><a href="/info/?businesses=7" >工业制造•能源•原材料</a></li>
+		<li><a href="/info/?businesses=8" >房地产•建筑•工程建设</a></li>
+		<li><a href="/info/?businesses=9" >广告•会展•公关</a></li>
+		<li><a href="/info/?businesses=10" >物流•仓储•运输</a></li>
+		<li><a href="/info/?businesses=11" >教育•培训•科研•院校</a></li>
+		<li><a href="/info/?businesses=12" >政府•公共事业•非盈利机构</a></li>
+		<li><a href="/info/?businesses=13" >服务业</a></li>
+		<li><a href="/info/?businesses=14" >农林牧渔•环保</a></li>
+		<li><a href="/info/?businesses=15" >跨领域经营 </a></li>
+		<li><a href="/info/?businesses=16" >其他</a></li>
+		<li><a href="/info/?businesses=17" >机械•自动化•仪器仪表行•重工业</a></li>
+		<li><a href="/info/?businesses=18" >汽车•摩托车行业 </a></li>
+		<li><a href="/info/?businesses=19" >旅游•酒店•餐饮服务</a></li>
+		<li><a href="/info/?businesses=20" >物业管理•商业中心</a></li>
+		<li><a href="/info/?businesses=21" >快速消费品(食品•饮料•日化•烟酒等)</a></li>
+		<li><a href="/info/?businesses=22" >家居•室内设计•装潢</a></li>
+		<li><a href="/info/?businesses=23" >石油•化工•采掘•冶炼</a></li>
+		<li><a href="/info/?businesses=24" >耐用消费品(服饰•纺织•家具）</a></li>
+		<li><a href="/info/?businesses=25" >媒体•文化传播•出版•影视</a></li>
+		<li><a href="/info/?businesses=26" >芯片•电子技术•半导体</a></li>
+		<li><a href="/info/?businesses=27" >批发•零售</a></li>
+	</ul>
+
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<p class="leftcolumn_title font14 b deepblack">热门公司推荐</p>
+<ul class="left_topcompany">
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1033-1.html">中国石化集团公司</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-212-1.html">中金(CICC)</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-183-1.html">英特尔（intel）</a></h1></li>
+	<li><h1><a href="http://www.hiall.com.cn/bbs/forum-188-1.html">联合利华Unilever</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-249-1.html">箭牌中国</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1241-1.html">完美时空</a></h1></li>
+</ul>			</div>
+			
+			
+		</div>
+		<div id="midcolumn" class="floatleft">
+			<div class="topnews">	
+	<div class="left floatleft lightblue">站内新闻</div>
+	<div class="right floatleft ">
+		<div class="floatleft">
+			<div class="absolute zindex200">
+				<a href="javascript:preMsg();" class="icon_arrow_blue_up relative floatleft" id="icon_arrow_blue_up"></a>
+			</div>
+		</div>
+		<div class="floatright">
+			<div class="absolute zindex200">
+				<a href="javascript:nextMsg();" class="icon_arrow_blue_down relative floatleft" id="icon_arrow_blue_down"></a>
+			</div>
+		</div>
+		<ul class="topnews_list" id="topnews_list" style="top:0px;">
+		<li id="msg_show"><a href="http://e.weibo.com/1801762575/zh96Xguz8" target="_blank" class="lightgray">关注HiAll校园招聘微信公众号：HiAllxyzhaopin，二维码在此，快来拍我！</a></li>					
+		</ul>
+		<ul style="display:none;">
+					<li id="msg_0"><a href="http://e.weibo.com/1801762575/zh96Xguz8" target="_blank" class="lightgray">关注HiAll校园招聘微信公众号：HiAllxyzhaopin，二维码在此，快来拍我！</a></li>			
+				</ul>
+		<input type="hidden" id="msg_count" value="1" />
+	</div>
+	<div class="clear"></div>
+</div>
+			<div class="clear spacer"></div>
+<div style="margin:5px 0px 0px 25px;">
+
+<script type="text/javascript"> var cpro_id = 'u249066'; </script>
+<script type="text/javascript" src="http://cpro.baidu.com/cpro/ui/c.js"></script>
+</div>
+			<div class="jobbox">
+				<div class="spacer"></div>
+				<div class="job_maininfo">
+					<h1 class="b font14">
+											中国移动(CHINA MOBILE)  
+													<span class="pdlr"><img src="http://www.hiall.com.cn/images/icon/icon_top500_g.gif" /></span>
+						</h1>
+					<h1>所属行业：计算机•互联网•通信</h1>
+					<div class="spacer"></div>
+                    <div>
+                       	<div class="button_job floatleft">
+							<div class="button_right"><a href="/company/cid-38.html" class="icon_jobbutton_ck blue">查看公司详情</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+												<div class="button_job floatleft">
+							<div class="button_right"><a href="http://bbs.hiall.com.cn/thread-256445-1-1.html" class="icon_jobbutton_down blue">下载大礼包</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+																		<div class="button_job floatleft">
+							<div class="button_right"><a href="javascript:;" class="icon_jobbutton_gz blue">企业雇主专区</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+												<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn">信息修改/删除</a></div>
+						</div>
+                        <div class="clear"></div>
+                            
+                    </div>
+                    <div class="spacer"></div>
+                    <div class="spacer"></div>
+                    <div>
+                        <div class="floatleft">
+                        <!-- Baidu Button BEGIN -->
+                        <div id="bdshare" class="bdshare_b" style="line-height: 12px;"><img src="http://bdimg.share.baidu.com/static/images/type-button-1.jpg" />
+                            <a class="shareCount"></a>
+                        </div>
+                        <script type="text/javascript" id="bdshare_js" data="type=button" ></script>
+                        <script type="text/javascript" id="bdshell_js"></script>
+                        <script type="text/javascript">
+                            document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+                        </script>
+                        <!-- Baidu Button END -->
+                        </div>
+                    </div>
+                    				</div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<p>
+								</p>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="job_detail">
+					<h1 class="positiontitle">西藏移动2009校园招聘</h1>
+					<div class="spacer"></div>
+					<div class="spacer4"></div>
+						<p>
+该职位已发布超过<span class="pdlr or">1448</span>天
+
+						<span class="pdlr"></span><span>编号：26122</span>
+						<span class="pdlr"></span></p>
+					<div class="spacer"></div>
+					<p>						
+						<span>工作地区：西藏</span>
+						<span class="pdlr"></span>
+						<span>更新时间：2013-04-24</span>
+					</p>
+<div style="border-top:1px solid #C3DBE8; margin-top: 8px;"></div>
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<div style="overflow:auto;">
+						<p>职位信息及网申地址（中华英才网）：</p>
+<p><a href="http://campus.chinahr.com/2009/pages/xmcc/jobs.asp">http://campus.chinahr.com/2009/pages/xmcc/jobs.asp</a></p>
+<p>西藏移动2009求职讨论区：</p>
+<p><a href="http://bbs.hiall.com.cn/forum-509-1.html">http://bbs.hiall.com.cn/forum-509-1.html</a></p>
+<p>中国移动通信集团西藏有限公司（以下简称中国移动西藏公司），于2000年6月9日挂牌成立，下辖七个地市分公司。2002年，在西藏通信行业率先实现赢利，改变了西藏通信行业不赢利的历史。2004年6月，在国务院统一部署下，根据中国移动集团公司&quot;整体上市、分步实施&quot;的思路，中国移动西藏公司在海外成功上市。</p>
+<p>　　中国移动西藏公司主要经营移动话音、数据等业务，拥有&quot;全球通&quot;、&quot;神州行&quot;、 &quot;动感地带&quot;等知名品牌。公司秉承&quot;沟通从心开始&quot;的企业服务理念、努力为客户提供一体化的优质服务，极大地满足了客户多样化的通信需求。目前，中国移动西藏公司已基本形成适合高原特点的、完善的渠道体系，以自办营业厅为主，合作营业厅、授权销售点、特约卡类销售点等为补充的销售服务网络遍布雪域高原。</p>
+<p>　　作为区内最大的移动通信企业，中国移动西藏公司坚持&quot;服务西藏、服务全网、立足长远、兼顾效益&quot;的企业定位，加快企业建设与发展，增强核心竞争力，取得了较好的运营业绩和社会效益。在企业健康发展的同时，中国移动西藏公司牢记企业的社会责任，把服务于中国移动通信全网畅通和服务于西藏地方经济社会发展作为企业的最大和最高目标。2006年启动的青藏铁路沿线移动网络覆盖工程，使青藏铁路西藏境内铁路线移动网络覆盖率达到85％以上，为青藏铁路正常运营、乘火车进出藏的旅客以及铁路沿线的农牧民群众提供便捷和畅通的通信保障，被人们亲切地称为&quot;天网&quot;。2007年，在中国移动集团公司和自治区党委、政府的支持下，中国移动西藏公司全力打造拉萨至珠峰大本营沿线这一世界上最高海拔的移动网络覆盖工程，使沿途信号覆盖率达到90%以上，将为2008 年北京奥运圣火珠峰传递活动提高通信保障。2008年底，按照集团公司的部署，中国移动西藏公司启动了拉萨的TD-SCDMA建设，2009年5月9日，拉萨的 3G（TD-SCDMA）正式商用。目前，中国移动西藏公司移动网络已覆盖全区七地市、74县(市、区)政府、1个县级口岸所在地和主要交通干线、重要集镇、边防要地以及旅游景点(包括珠峰大本营、纳木措、羊湖等)。</p>
+<p>　　与此同时，中国移动西藏公司还不断深化改革，创新机制，逐步建立了现代企业制度；狠抓企业文化建设，以优秀的企业文化增加员工的凝聚力和向心力，促进企业的可持续发展。截止到目前，西藏公司收入超过9亿人民币，员工超过了1400人。</p>
+<p>　　面向未来，中国移动西藏公司将秉承&quot;正德厚生，臻于至善&quot;的核心价值观，牢记&quot;创无限通信世界，做信息社会栋梁&quot;的企业使命，围绕&quot;成为卓越品质的创造者&quot;的企业愿景，以科学发展观统揽全局，为西藏的经济社会发展作出新的贡献。</p>
+<p>招聘专线：<br />
+028-86203585　联系人：张先生<br />
+15089048904　 联系人：石先生</p>
+<p>应聘须知：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>1、请将简历填写完整在线投递。<br />
+2、请勿重复投递简历。<br />
+3、应届本科及以下学历的与第三方签定劳务合同。<br />
+4、有2年工作经验的本科毕业生直接和公司签定合同。&nbsp;</p>
+<p>中国移动西藏公司<br />
+&nbsp;动力维护员（3人）<br />
+执行维护作业计划；维护局房所有配套设备，承担紧急情况下两路高压的倒换及油机对设备的正常供电；按规章制度对机房进行巡检并作好值班记录与故障记录；监督代维厂家对局房相关配套设备的日常巡检及故障处理工作；执行机房的出入制度及交接班制度；承担市区基站及边际网基站、村通基站、深度覆盖点、营业网点配套设备的维护；协同其他部门做好基站其它通信设备的电源接入工作；</p>
+<p>&nbsp;卫星维护员（6人）<br />
+公司全区卫星地球站新建、扩容、整改工程的配合；做好全区卫星地球站的维护工作；做好卫星网络的调整、扩容、升级和割接等工作卫星维护工作中对内、外的联系和协调及故障的处理工作；全区卫星地球站故障处理及时率；监督配合卫星公司安全生产操作规程及消防安全规章制度执行情况，对故障隐患严肃处理；做好对卫星固定资产的统计管理工作；对卫星地球站维护及卫星地球站建设的全面工作，保证全区卫星地球站运行正常等工作；</p>
+<p>&nbsp;传输维护员（6人）<br />
+对全区传输设备了解，对拉萨传输设备进行定期巡检，排除存在的安全隐患；接到工单后，按工单的要求及时限内完成；在传输网络发生故障时，与线路组、支撑组共同协作处理，缩短故障时间，保证网络安全；在各网元间发生传输故障时，与线路组等相关部门共同协作处理，缩短故障时间，保证各网元通信正常；执行设备维护工作计划；</p>
+<p>&nbsp;信息安全管理（2人）<br />
+贯彻落实集团公司关于网络安全管理的制度规定，组织制定网络和信息安全的管理体系、规章制度和管理流程；开展各种网元的信息安全管理和应急预案；参与重大故障的处理，总结经验教训，制订防范措施；指导、监督和考核各单位网络安全工作开展情况；</p>
+<p>&nbsp;终端管理（3人）<br />
+负责定制终端客户需求调查及市场调研；负责定制终端销售管理系统业务需求管理、系统日常运营管理工作；负责定制终端营销培训与经验交流管理；负责制订全网定制终端营销整体规划目标；负责制订定制终端总体营销战略研究与策略；负责定制终端营销的规划管理；负责组织定制终端营销管理模式研究；负责定制终端日常营销活动策划与组织管理；</p>
+<p>&nbsp;营销管理（3人）<br />
+基于市场营销策略，制定家庭和个人业务年度市场营销计划及预算使用计划；指导监督预算的使用，并根据实际情况予以及时调整；为各地市分公司家庭及个人业务部门的市场营销及宣传活动的开展提供相应的物资支持，并予以指导、监督活动的开展；根据营销计划和品牌策略，制定家庭和个人业务宣传方案；检测、分析家庭和个人业务的市场营销及宣传活动的效果，提交分析报告；</p>
+<p>&nbsp;市场研究（1人）<br />
+根据公司发展战略规划及策略，组织进行市场信息调研分析；收集、汇总和分析各分公司及全省市场经营业务数据，对业务发展数据进行动态分析，为领导及各部门经营决策提供参考依据；根据市场经营需求，进行专项调研分析，定期编写市场经营分析报告，提出营销推广建议；组织制定并完善全区市场研究与规划、营销推广、品牌管理，及各类业务系统运行的管理办法、流程、应用制度等，并组织实施；</p>
+<p>&nbsp;经营分析（1人）<br />
+进行每季度、半年、全年市场经营分析；为公司年度经营计划提供参考信息及预测；根据基础分析，对存在的问题提出相关的解决意见和建议，为后期经营工作积累经验并提出发展预测建议；对公司的欠费进行分析，提出欠费控制方案，并跟踪欠费控制的情况；配合相关部门完成业务发展规划、市场业务预算等；收集、下达分公司年度市场经营绩效指标，组织、制定相应市场类绩效考核办法；对全省的市场经营绩效进行统计分析，对各分公司的市场经营绩效进行指导；根据需要不定期调整考核指标；</p>
+<p>&nbsp;营销推广（1人）<br />
+贯彻落实集团公司营销策略及宣传政策、规定，组织全区落实集团公司全国统一的营销方案；提供方案落实的资源支持和协调问题的解决，并监督评估各地市公司活动计划具体落实情况；根据全区市场发展规划及营销策略，结合全区各类业务发展情况，适时组织制定全区营销活动方案及市场宣传计划；指导监督各地市的市场营销活动及市场宣传执行情况，及时作出方案调整；根据业务发展计划及预算使用情况，实时监控营销成本开支，组织各类业务营销计划及营销方案审批，适时调整营销资源配置；根据业务发展计划及预算使用情况，实时监控营销成本开支，组织各类业务营销计划及营销方案审批，适时调整营销资源配置；指导监督各相关部门针对各类营销推广方案或活动，组织进行全面考核评估，并提交综合评估报告；建立营销推广评估体系；</p>
+<p>&nbsp;产品经理（2人）<br />
+组织各类业务产品的市场调研分析；收集公司各业务部门及各地市公司的产品需求；汇总、分析产品需求信息，定期提供产品需求分析报告；对公司各业务部门及各地市公司提出的产品需求予以反馈处理情况；根据全区产品规划和策略，结合产品需求分析情况，制定产品开发、优化方案和引进计划；推动落实产品开发、优化及引进计划；实施新产品培训等工作；协调解决在产品推广中出现的产品性能相关问题；贯彻落实集团产品管理制度及办法，制定公司产品开发、引进、本地化等产品发展管理制度及流程；</p>
+<p>&nbsp;统计报表（1人）<br />
+统计并上报集团公司各项报表与生产经营分析报告；对异常上报的数据做数据分析和调查；统计上报区公司各项固定月报表；提供各项临时统计综合数据，配合提供各项调研综合数据；对全区各类报表数据准确性进行核查；按时下发全区各类报表；对各地市分公司相关人员提供技术支持；完成对财务收入数据和欠费数据，以及现金收入数据等月趋势分析报告；完成呆帐、坏帐的统计、上报和处理； &sup2;完成新报表开发前的验证测试，配合业务部门进行展现前的报表验收测试；督导并协助集成商及时准确完成各项报表的升级改造和验证工作；提出统计模块优化建议,保证新需求报表及时能够满足市场的需求；负责分析临时报表统计，结合相关部门的需求，将临时报表开发改造成固定模式；</p>
+<p>&nbsp;营销策划（5人）<br />
+制定营销工作的各项规章制度、业务流程、考核办法；收集集团客户市场信息和客户数据，分析、跟踪竞争对手动态，并分析集团客户的需求；制定集团客户业务资费标准，审批各地市提交的营销方案及活动计划；制定行业客户发展策略、规划、商务模式办法，以及集团行业产品年度发展策略和推广计划，牵头组织相关部门进行行业推广；根据全区营销策略规划制定营销活动，下发考核指标，并组织实施；指导、监督各地市公司的集团客户部执行营销推广；跟踪营销活动执行效果，并作出针对性调整；评估营销活动，并总推广营销活动实施经验；（工作地点：拉萨）<br />
+组织落实集团客户市场研究、经营分析工作，制定集团客户业务发展推广方案；负责评估、分析各项营销活动效果，为公司的集团市场决策提供依据；收集、汇总集团竞争对手的相关营销活动；为集团客户营销服务策略的制定提供决策依据和策略建议；负责集团客户市场发展、营销服务的运营数据分析、策略研究和评估工作；（工作地点：日喀则）</p>
+<p>&nbsp;合作管理（1人）<br />
+组织制定集团业务数据和集团客户信息保密制度，并组织实施；根据全区集团客户战略规划，制定全区集团客户行业应用合作伙伴计划和管理办法，完成合作伙伴的管理工作；根据集团公司合作伙伴管理流程完成合作伙伴管理平台的管理和完善工作；及时引进适应集团业务发展的合作伙伴，负责对合作伙伴管理，督促、考核；根据合作伙伴管理相关规定和流程，组织完成合作伙伴考核工作；监督涉及合作伙伴的商务流程和业务合规性，根据相关管理规定完成合作伙伴的引进和退出工作；每月对合作伙伴进行相应的考核管理工作，及时开展合作伙伴的退出和引进工作；</p>
+<p>&nbsp;行业经理（1人）<br />
+制定行业应用全年推广计划和策略，定期跟进相应行业应用产品的推广和客户反映，及时调整推广和营销计划；对全区集团客户服务质量问题进行调研和分析，提出改进意见并督促整改；汇总、挖掘行业集团产品市场信息；分析产品需求，提供产品开发可行性及收益评估意见；收集、分析和研究各类集团产品需求信息，建立全区集团系统集成产品库和全区行业信息化解决方案模板体系；制定系统集成产品和行业信息化解决方案和相关资费标准；审批地市公司上报的方案报价；负责集团客户业务行业应用运行管理流程，并监督实施；及时引进适应集团行业应用合作伙伴，负责对合作伙伴管理，督促、考核；</p>
+<p>&nbsp;集团客户经理（2人）<br />
+负责区内重要集团客户的发展与服务工作，提升重要集团客户区内市场占有率，确保重要集团客户规模性扩张；负责跨区域集团客户的客户发展推广与服务工作；集中受理全区重要集团客户有关集团业务的各类咨询、投诉等问题，做好重要集团客户的维系工作；对重要集团客户进行预警管理； 收集竞争对手动态，并及时上报；收集重要集团客户信息，并按照要求录入管理系统；</p>
+<p>&nbsp;系统集成支撑（2人）<br />
+承担或组织系统集成商进行系统集成业务设计、设备安装工作；负责或组织系统集成商进行软、硬件设备调测、开通、初验、终验及交付准备工作；负责或组织系统集成商整理全套工程实施及软、硬件技术业务管理资料，并作为工程交付，负责客户培训；建立快速响应的故障处理、技术支持及应急处理工作体系，并提供良好的服务；承担客户系统集成的保修及根据客户合同的保修期外服务；负责或组织系统集成商向客户提供售后服务工作报告和故障分析处理报告；<br />
+工作经验要求：<br />
+1. 至少两年以上系统集成项目经验；<br />
+2. 有大型系统集成项目管理经验者优先；<br />
+3. 有移动相关工作经验者优先；</p>
+<p>&nbsp;业务平台管理（3人）<br />
+制定企业信息化系统作业计划；企业管理信息化系统维护；执行系统作业计划，进行系统维护与管理；指导全公司管理信息化应用与规划工作的开展；参与制定公司管理信息系统建设方案；开展管理信息系统的应用支持工作，及时解决应用中存在的问题；制订管理信息系统应用规范和推广方案，进行培训推广，对各单位应用情况进行考核；<br />
+工作经验：<br />
+1. 主机和网络相关的技术维护工作1年以上（针对专做主机、网络维护的人员要求）；<br />
+2. 数据库及安全相关的技术维护工作1年以上（针对专做主机、数据库的人员要求）；<br />
+3、有通信行业相关经验者（尤其是了解中国移动集团客户业务的）优先。</p>
+<p>&nbsp;人员招聘与配置管理（1人）<br />
+根据区公司人员数量结构发展规划，核定各部门及地市公司人员需求；统筹制定区公司年度招聘计划，并组织实施；根据区公司年度招聘计划，制定针对不同人员（校园招聘、社会招聘，系统内调入）的招聘方案，建立健全信息发布平台、招聘渠道、招聘题库、招聘流程等；在区公司层面，跟进实施集团总部牵头的全国各类招聘活动，组织本区的个性化招聘活动，并对招聘效果进行评估；处理区公司本部员工的调动、任免、晋升、退出等具体工作；指导、监督地市公司员工招聘的操作情况；</p>
+<p>&nbsp;能力管理（1人）<br />
+根据集团总部给定的通用素质模型框架，建立区公司适用的通用素质模型和能力层级体系；制定区公司通用素质模型的使用手册；实施区公司员工专业技术职务评聘工作；建立区公司层面的能力测评小组；；建立分职业序列的专业能力模型，培训、指导区公司各部门对员工进行专业能力测评及测评结果应用； 审批地市公司需要借助省公司测评小组的能力测评项目需求，制定相关的能力测评计划并组织实施；</p>
+<p>&nbsp;员工关系管理（1人）<br />
+归口管理员工考勤；办理区公司本部员工的各类工作手续；负责人事档案管理；执行区公司员工的出国（境）审查管理；管理区公司本部员工的出差、请假等日常人事工作；根据国家新《劳动合同法》及集团总部用工管理办法和劳动合同范本，管理区公司员工的劳动合同；制定区公司劳务用工管理办法，负责劳务用工的审报、服务合同谈判及日常管理工作；参与解决区公司劳动纠纷和劳动争议事宜；组织全区员工归属及满意度调查，分析员工满意度现状及主要问题；负责向区公司内各级员工解释人力资源管理相关的规章制度、年度调整措施等相关事宜；</p>
+<p>&nbsp;会计核算（1人）<br />
+审核原始单据，录入、审核记帐凭证，按时清理往来款项，对缴拨款及时对账；处理区公司、各地市公司各项内外部（含SP）结算、清缴工作；协助市场经营部处理互联互通结算工作；配合市场经营部处理全区地市公司的用户的欠费管理工作；及时核对应收/应付帐款额度，定期进行帐龄和清收情况的分析，跟踪款项到帐/支付情况，避免形成坏帐；</p>
+<p>&nbsp;资产管理（1人）<br />
+对转固资产进行管理；处理区公司固定资产增减变动的记录、分类核对及上报集团总部工作； 牵头办理固定资产的盘盈、盘亏、报废、毁损、转移等资产处置工作；对固定资产现值进行评估，综合分析固定资产的经济效益；牵头组织固定资产清查盘点；</p>
+<p>&nbsp;公共关系（1人）<br />
+区公司来信来访的接待工作；区公司及分支机构工商登记、注册、变更、年检等相关工作；办理员工外事出国相关手续；组织集团总部及各地市公司过往人员的服务接待工作； 办理员工外事出国相关手续；</p>
+<p>&nbsp;综合秘书（2人）<br />
+起草、修改区公司召开的各种会议材料及集团上报材料；组织实施区公司综合调研；秘书的队伍建设和业务培训，处理区公司各类电子和书面公文；协调组织总经理办公会、全区工作会议等重大会议、会议管理及记录，并检查督促会议决议执行情况；管理区公司及部门印章，开具介绍信、证明信等；（工作地点：拉萨）<br />
+推行企业档案、保密工作目标管理，进行档案、保密工作的考核；执行文书档案的整理、归档、管理工作，确保档案完整、有序；&sup2;负责筹办各类会议，做好会议记录及纪要的编写，督促会议决定的贯彻执行；起草公司综合性文件和领导宣讲材料；执行发文草拟、核稿，收文批办、复核和相关文件、传真电报的传阅工作；<br />
+负责工作信息的审核、分析和调用，做好综合调研工作，及时向上级公司提供有效的信息，为公司领导提供决策依据；（工作地点：阿里）</p>
+<p>&nbsp;市场调研与策划（2人）<br />
+协助市场部经理策划分公司的营销活动方案，并组织实施；指导地区各县营销活动的开展；对公司推出的各项业务、资费进行宣传推广；负责及时上报市场经营分析、数据业务、广告进度、市场信息动态以及终端使用情况报表；负责在地区开展市场调研工作，收集相关信息；负责评估、分析各项营销活动效果，为公司的市场决策提供依据；收集、汇总地区竞争对手的相关营销活动；<br />
+工作地点：山南、那曲</p>
+<p>&nbsp;设备维护员（5人）<br />
+对设备和系统进行日常维护，定期返修模块和故障处理，保证设备完好；监控和维护本地 OMC-R操作终端，及时发现告警派发工单；分析设备和基站存在的问题，并提出合理化的建议；分析各站数据,并准确﹑及时上报各个每月月报及季报；按操作规程，及时﹑准确﹑清楚地填写原始资料记录；参与网络优化方案的具体实施，提高网络运行质量；<br />
+工作地点：山南、那曲、林芝、日喀则</p>
+<p>&nbsp;纪检干事（1人）<br />
+完成工程项目决策监督、商务谈判监督和招投标、验收工作的监督，对合同进行审签；通过调研对公司薄弱环节协助公司领导开展效能监察、行政监察工作；及时向领导反馈效能监察、行政监察工作情况；&sup2;负责群众信访案件的受理工作；参与调查处理各级党组织、党员以及监察对象违纪违法案件；及时更新和录入领导干部电子、纸制廉政档案，使廉政档案完整有效；<br />
+工作地点：山南<br />
+职位要求：党员</p>
+<p>&nbsp;渠道管理员（1人）<br />
+制定营销渠道发展策略，建立和完善营销渠道，细化代办管理，保证业务推广的渠道畅通；指导、规范各级营销渠道的形象建设和服务工作，根据营销渠道考评体系，对代销、代办等行为实施监督控制，促进营销渠道的规范化建设；完善社会营销渠道等级激励政策，实现营销渠道等级差异化管理，提高渠道销售力；跟踪了解竞争对手的渠道政策和相关信息，结合公司现状提出渠道改进建议并组织落实，推动营销活动的顺利开展。根据营销渠道考评体系，对代销、代办等行为实施监督控制，促进营销渠道的规范化建设；监督管理营业厅软硬件，确保营业厅报务质量；对渠道建设工程进度及工程质量进行监督，保证工程质量和如期完工；</p>
+<p>&nbsp;家庭及个人客户管理（1人）<br />
+负责研究分公司家庭及个人客户市场特征和消费者需求，组织开展市场调查；负责和衔接好区公司市场经营部家庭和个人客户室的工作；针对区公司家庭和个人的市场方案进行本地化处理，随时向区公司市场经营部反应本地化情况；</p>
+<p>&nbsp;</p>
+<p>西藏移动2009求职讨论区：</p>
+<p><a href="http://bbs.hiall.com.cn/forum-509-1.html">http://bbs.hiall.com.cn/forum-509-1.html</a></p>					</div>
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<p ><a href="http://wenda60.com" target="_blank" style="font-size:14px; color:#2B68E9">>>练练该公司的招聘笔试题 </a><script type="text/javascript"><!--
+google_ad_client = "ca-pub-9486753476951928";
+/* 底部广告 */
+google_ad_slot = "1009061790";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p> 					
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<div>
+						<div class="floatleft">
+                        <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_b" style="line-height: 12px;"><img src="http://bdimg.share.baidu.com/static/images/type-button-1.jpg" />
+                                <a class="shareCount"></a>
+                           
+						  </div>
+                        <script type="text/javascript" id="bdshare_js" data="type=button" ></script>
+                        <script type="text/javascript" id="bdshell_js"></script>
+                        <script type="text/javascript">
+                            document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+                        </script>
+                        <!-- Baidu Button END -->
+						</div>
+						<div class="button_job_or floatleft">
+							<!--<div class="button_right"><a href="javascript:;" onclick="collect(2, 26122);" class="icon_jobbutton_sc white">我要收藏</a></div>-->
+				  </div>
+                            <div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+						<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn" class="icon_jobbutton_p">举报错误信息</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+						<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn">信息修改/删除</a></div>
+						</div>
+						<div class="clear"></div>
+			  </div>
+		  </div>
+				<div class="spacer"></div>
+				<div class="spacer">
+</div>
+<!--
+				<div class="grayline"></div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="pdlr">
+					<div>
+						<span class="floatleft font14  b">同行业的职位</span>
+						<span class="floatright pdlr"></span>
+					</div>
+					<div class="clear spacer"></div>
+					<ul class="ul_bluedisc underline">
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277055.html" class="blue" title="诚聘银行理财经理" target="_blank">诚聘银行理财经理</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277034.html" class="blue" title="中国银联北京信息中心2013招聘" target="_blank">中国银联北京信息中心2013招聘</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276949.html" class="blue" title="电子商务部-营销策划经理助理/网页设计师（表现优秀者可转正）" target="_blank">电子商务部-营销策划经理助理/网页设计师（表现优秀者</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276945.html" class="blue" title="中国建设银行上海分行2013暑期实习生招聘" target="_blank">中国建设银行上海分行2013暑期实习生招聘</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276939.html" class="blue" title="华商银行2013年IT类校园招聘(广东总部，华商银行)" target="_blank">华商银行2013年IT类校园招聘(广东总部，华商银行)</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276937.html" class="blue" title="法律事务岗" target="_blank">法律事务岗</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276745.html" class="blue" title="上饶银行婺源支行柜员招聘" target="_blank">上饶银行婺源支行柜员招聘</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276644.html" class="blue" title="贵州省农村信用社2013校园招聘营业网点柜员1680人" target="_blank">贵州省农村信用社2013校园招聘营业网点柜员1680人</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276643.html" class="blue" title="农业银行贵州省分行2013年合同制柜员招聘" target="_blank">农业银行贵州省分行2013年合同制柜员招聘</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276396.html" class="blue" title="广东久强实业投资有限公司广州分公司 综合理财管理员(技术类)" target="_blank">广东久强实业投资有限公司广州分公司 综合理财管理员(</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											
+					</ul>
+				</div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="grayline"></div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+								<div class="pdlr">
+					<div>
+						<span class="floatleft font14  b">相同公司职位</span>
+						<span class="floatright pdlr"></span>
+					</div>
+					<div class="clear spacer"></div>
+					<ul class="ul_bluedisc underline">
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276946.html" class="blue" title="中国移动总部2013实习生招聘" target="_blank">中国移动总部2013实习生招聘</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_272518.html" class="blue" title="[山东]中国移动通信集团终端有限公司山东分公司2013实习生招聘 " target="_blank">[山东]中国移动通信集团终端有限公司山东分公司2013实</a></div>
+							<span class="floatright gray pdlr">03-26</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_270848.html" class="blue" title="中国移动广东公司江门分公司2013招聘" target="_blank">中国移动广东公司江门分公司2013招聘</a></div>
+							<span class="floatright gray pdlr">05-14</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_269554.html" class="blue" title="中国移动金华分公司2013春季校园招聘" target="_blank">中国移动金华分公司2013春季校园招聘</a></div>
+							<span class="floatright gray pdlr">04-21</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_267859.html" class="blue" title="中国移动广州分公司招聘实习生" target="_blank">中国移动广州分公司招聘实习生</a></div>
+							<span class="floatright gray pdlr">03-17</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_258841.html" class="blue" title="中国移动总部2013校园招聘" target="_blank">中国移动总部2013校园招聘</a></div>
+							<span class="floatright gray pdlr">02-13</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_253310.html" class="blue" title="中国移动辽宁公司2013校园招聘" target="_blank">中国移动辽宁公司2013校园招聘</a></div>
+							<span class="floatright gray pdlr">01-22</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_251067.html" class="blue" title="中国移动福建公司2013年应届毕业生招聘" target="_blank">中国移动福建公司2013年应届毕业生招聘</a></div>
+							<span class="floatright gray pdlr">01-14</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_250136.html" class="blue" title="中国移动设计院2013校园招聘" target="_blank">中国移动设计院2013校园招聘</a></div>
+							<span class="floatright gray pdlr">01-11</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_249873.html" class="blue" title="中国移动-四川分公司招聘 北京邮电大学专场 宣讲会" target="_blank">中国移动-四川分公司招聘 北京邮电大学专场 宣讲会</a></div>
+							<span class="floatright gray pdlr">01-09</span>
+							<div class="clear"></div>
+						</li>
+											
+					</ul>
+				</div>
+							</div>
+			<div class="clear spacer"></div>
+			<div class="spacer"></div>
+			<div class="spacer"></div>
+-->
+			<div class="spacer"></div>
+		</div>
+        
+		<div class="clear"></div>
+	</div>
+    
+    <div id="rightcolumn" class="floatleft">
+            <div class="rightcolumn" style="padding:0px;">
+                <div>
+			 <script type="text/javascript"><!--
+            google_ad_client = "ca-pub-9486753476951928";
+            /* 职位广告 */
+            google_ad_slot = "3598731756";
+            google_ad_width = 200;
+            google_ad_height = 200;
+            //-->
+            </script>
+            <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+				
+				    <div class="rightcolumn_title font14 b deepblack">该公司最新招聘信息</div>
+                    <div class="rightcolumn_title font14 b deepblack"><a href="/company/cid-38.html ">点击查看全部</a></div>
+					<div class="spacer"></div>
+					<ul class="ul_bluedisc right_ul_bluedisc underline">
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_276946.html" class="blue">中国移动总部2013实习生招聘</a></div>
+						<span class="pdlr4 floatright">05-17</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_272518.html" class="blue">[山东]中国移动通信集团终端有限公司山东分公司2013实习生招聘 </a></div>
+						<span class="pdlr4 floatright">03-26</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_270848.html" class="blue">中国移动广东公司江门分公司2013招聘</a></div>
+						<span class="pdlr4 floatright">03-14</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_269554.html" class="blue">中国移动金华分公司2013春季校园招聘</a></div>
+						<span class="pdlr4 floatright">02-21</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_267859.html" class="blue">中国移动广州分公司招聘实习生</a></div>
+						<span class="pdlr4 floatright">01-17</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_258841.html" class="blue">中国移动总部2013校园招聘</a></div>
+						<span class="pdlr4 floatright">12-13</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_253310.html" class="blue">中国移动辽宁公司2013校园招聘</a></div>
+						<span class="pdlr4 floatright">11-22</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_251067.html" class="blue">中国移动福建公司2013年应届毕业生招聘</a></div>
+						<span class="pdlr4 floatright">11-14</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_250136.html" class="blue">中国移动设计院2013校园招聘</a></div>
+						<span class="pdlr4 floatright">11-11</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_249873.html" class="blue">中国移动-四川分公司招聘 北京邮电大学专场 宣讲会</a></div>
+						<span class="pdlr4 floatright">11-09</span>
+						<div class="clear"></div>
+						</li>							
+										</ul>
+				</div>
+		   </div>
+           <div class="rightcolumn" style="padding:0px;">
+                <div>
+				
+				    <div class="rightcolumn_title font14 b deepblack">同行业最新招聘信息</div>
+                    
+					<div class="spacer"></div>
+					<ul class="ul_bluedisc right_ul_bluedisc underline">
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277055.html" class="blue" title="诚聘银行理财经理" target="_blank">诚聘银行理财经理</a></div>
+							<span class="floatright gray pdlr">05-20</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277034.html" class="blue" title="中国银联北京信息中心2013招聘" target="_blank">中国银联北京信息中心2013招聘</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276949.html" class="blue" title="电子商务部-营销策划经理助理/网页设计师（表现优秀者可转正）" target="_blank">电子商务部-营销策划经理助理/网页设计师（表现优秀者</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276945.html" class="blue" title="中国建设银行上海分行2013暑期实习生招聘" target="_blank">中国建设银行上海分行2013暑期实习生招聘</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276939.html" class="blue" title="华商银行2013年IT类校园招聘(广东总部，华商银行)" target="_blank">华商银行2013年IT类校园招聘(广东总部，华商银行)</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276937.html" class="blue" title="法律事务岗" target="_blank">法律事务岗</a></div>
+							<span class="floatright gray pdlr">05-16</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276745.html" class="blue" title="上饶银行婺源支行柜员招聘" target="_blank">上饶银行婺源支行柜员招聘</a></div>
+							<span class="floatright gray pdlr">05-14</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276644.html" class="blue" title="贵州省农村信用社2013校园招聘营业网点柜员1680人" target="_blank">贵州省农村信用社2013校园招聘营业网点柜员1680人</a></div>
+							<span class="floatright gray pdlr">05-14</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276643.html" class="blue" title="农业银行贵州省分行2013年合同制柜员招聘" target="_blank">农业银行贵州省分行2013年合同制柜员招聘</a></div>
+							<span class="floatright gray pdlr">05-14</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276396.html" class="blue" title="广东久强实业投资有限公司广州分公司 综合理财管理员(技术类)" target="_blank">广东久强实业投资有限公司广州分公司 综合理财管理员(</a></div>
+							<span class="floatright gray pdlr">05-11</span>
+							<div class="clear"></div>
+						</li>							
+										</ul>
+				</div>
+		   </div>
+           <div class="rightcolumn">
+				<div class="spacer"></div>
+	
+				<div>
+	<div class="rightcolumn_title font14 b deepblack">相关讨论区</div>
+	<div class="spacer"></div>
+	<ul class="ul_bluedisc right_ul_bluedisc underline">
+				<li>
+			<div class="floatleft list_lefttxt"><a href="http://bbs.hiall.com.cn/thread-792113-1-1.html" title="中国移动通信集团终端有限公司2013校园招聘" target="_blank">中国移动通信集团终端有限公司2013校园</a></div>
+			<span class="pdlr4 floatright">09-07</span>
+			<div class="clear"></div>
+		</li>
+				<li>
+			<div class="floatleft list_lefttxt"><a href="http://bbs.hiall.com.cn/thread-403113-1-1.html" title="求福建移动面经。" target="_blank">求福建移动面经。</a></div>
+			<span class="pdlr4 floatright">01-04</span>
+			<div class="clear"></div>
+		</li>
+				<li>
+			<div class="floatleft list_lefttxt"><a href="http://bbs.hiall.com.cn/thread-395559-1-1.html" title="浙江移动什么时候出二面" target="_blank">浙江移动什么时候出二面</a></div>
+			<span class="pdlr4 floatright">12-13</span>
+			<div class="clear"></div>
+		</li>
+				<li>
+			<div class="floatleft list_lefttxt"><a href="http://bbs.hiall.com.cn/thread-395406-1-1.html" title="中移动研究院2011校园招聘" target="_blank">中移动研究院2011校园招聘</a></div>
+			<span class="pdlr4 floatright">12-13</span>
+			<div class="clear"></div>
+		</li>
+				<li>
+			<div class="floatleft list_lefttxt"><a href="http://bbs.hiall.com.cn/thread-387842-1-1.html" title="浙江移动接到面试了么？" target="_blank">浙江移动接到面试了么？</a></div>
+			<span class="pdlr4 floatright">11-28</span>
+			<div class="clear"></div>
+		</li>
+				<li>
+			<div class="floatleft list_lefttxt"><a href="http://bbs.hiall.com.cn/thread-387622-1-1.html" title="关于【辽宁移动】的问题，求助一下" target="_blank">关于【辽宁移动】的问题，求助一下</a></div>
+			<span class="pdlr4 floatright">11-27</span>
+			<div class="clear"></div>
+		</li>
+				<li>
+			<div class="floatleft list_lefttxt"><a href="http://bbs.hiall.com.cn/thread-378019-1-1.html" title="在大街网网申遇到的问题" target="_blank">在大街网网申遇到的问题</a></div>
+			<span class="pdlr4 floatright">11-11</span>
+			<div class="clear"></div>
+		</li>
+				<li>
+			<div class="floatleft list_lefttxt"><a href="http://bbs.hiall.com.cn/thread-365108-1-1.html" title="【求助】三类地市的移动2.5类工与电信正式工哪个有发展？" target="_blank">【求助】三类地市的移动2.5类工与电信</a></div>
+			<span class="pdlr4 floatright">10-20</span>
+			<div class="clear"></div>
+		</li>
+		</ul>
+</div>
+				
+		   </div>
+		   <div class="spacer"></div>
+				
+    </div>
+</div>
+<iframe id="collection" name="collection" style="width:0px;height:0px;"></iframe>
+<div id="foot">
+	<div class="footbody">
+				<div class="foot_mid aligncenter white"> 网站相关问题请联系：010-82601802 || 企业服务请联系：010-82600684</div>
+		<div class="foot_bot aligncenter white">Copyright HiAll
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP备10021013号
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP证090110号
+			<span class="pdlr"></span><span class="pdlr"></span>京公网安备11010802010560号
+		</div>
+	</div>
+</div>
+<!-- Baidu Analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F56dda118cbb3220435957635a699495b' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- Baidu Analytics -->
+</body>
+</html>
+

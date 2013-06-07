@@ -17,7 +17,7 @@ public:
 	SafeQueue();
 	virtual ~SafeQueue();
 	void push(const obj& o);//push
-	obj* front_pop();//front
+	obj front_pop();//front
 	bool isEmpty();//
 	//int length();
 	void clear();//clear the queue
@@ -56,11 +56,11 @@ void SafeQueue<obj>::push(const obj& o){
 }
 
 template<class obj>
-obj* SafeQueue<obj>::front_pop(){
-	obj* temp = NULL;
+obj SafeQueue<obj>::front_pop(){
+	obj temp;
 	sem_wait(&nstored);
 	sem_wait(&mutex);
-	temp = &list[front];
+	temp = list[front];
 	front = (front + 1)%MAX_QUEUE_SIZE;
 	--size;
 	sem_post(&mutex);

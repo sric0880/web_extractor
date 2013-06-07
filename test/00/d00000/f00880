@@ -1,0 +1,797 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<title>IBM 2013春季校园招聘-全职推荐</title>
+<head>
+<meta property="qc:admins" content="35413136776011446375636" />
+<meta http-equiv="keywords" content="2013校园招聘,HiAll,招聘,校园招聘,全职职位,实习职位,大学生求职,应届生求职"/>
+<meta http-equiv="description" content="HiAll，为应届毕业生或在校生提供最新、最全、最可靠的全职、实习招聘信息、宣讲会信息与各种求职资讯与资料，成为联动学生与雇主的纽带，覆盖北京、上海、广州、海外等地区。" />
+<meta name="generator" content="HiAll2.0" />
+<meta name="author" content="HiAll" />
+<meta name="copyright" content="2004-2012 HiAll." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<script src="http://file.hiall.com.cn/newhiall/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/jquery.validate.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/utils.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/u1.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frame/page.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/main.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frontpage/frontpage.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/manage.css" />
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2560481-2']);
+  _gaq.push(['_setDomainName', '.hiall.com.cn']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Google Analytics -->
+</head>
+<body>
+<div id="head">
+	<div id="headbody">
+		<div class="top">
+			<a href="/" class="head_logo floatleft"></a>
+			<div class="mid floatleft">
+			<form method="post" action="/search/infos.php">
+				<input type="text" class="head_search_input gray floatleft" maxlength="10" value="职位信息 如：管理培训生" id="searchkey" name="searchkey" onclick="if(this.value == '职位信息 如：管理培训生') this.value='';" onblur="if(this.value=='') this.value='职位信息 如：管理培训生';"/>
+				<div class="head_search_select gray pointer floatleft">
+					<div class="floatleft">
+						<div class="absolute">
+							<div class="relative head_search_select_optionbox" style="display:none; z-index:10;">
+								<ul class="head_search_select_option" id="choosecity-list">
+																<li id="r0">全部</li>
+																<li id="r1">北京</li>
+																<li id="r2">上海</li>
+																<li id="r40">广州</li>
+																<li id="r41">深圳</li>
+															</ul>
+							</div>
+						</div>
+					</div>
+					<span id="choosecity">全部</span>
+				</div>
+				<input type="hidden" name="regionid" id="regionid" value="0">
+				<input type="hidden" name="op" id="op" value="headersearch">
+				<input  type="button" class="button_head_search pointer floatleft" onclick="javascript:headerSearch(this);" />
+			</div>
+			</form>
+			<div class="right floatright">
+				<div class="head_greenicon_box floatleft">
+											<p><span class="white">个人用户</span></p>
+						<p><a href="/collect/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="http://bbs.hiall.com.cn/register_hiall.php" class="white">注册</a></p>		
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="head_blueicon_box floatleft">
+										<p><a class="white">企业用户</a></p>
+					<p><a href="/users/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="/users/register.php" class="white">注册</a></p>
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="vspacer floatleft"></div>
+				<div class="floatleft">
+					<p><a href="/info/about.php#t2" class="white">查看企业</p><p>服务项目</a></p>
+				</div>
+				<div class="vspacer floatleft"></div>
+			</div>
+		</div>
+		<div class="clear"></div>
+		<div class="bottom">
+
+<!--<div style="position:relative;">-->
+<ul class="head_nav floatleft">
+	<li hidefocus="true" ><a href="/" hidefocus="true">首页</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://bbs.hiall.com.cn" target="_blank" hidefocus="true">BBS</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true"  class="active"><a href="/info/" hidefocus="true">全职推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/part.php" hidefocus="true">实习推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/" hidefocus="true" target="_blank">宣讲会</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://www.hiall.com.cn/2011" hidefocus="true" target="_blank" class="menu_red">HiAll雇主专区</a></li>
+	<li hidefocus="true" class="fg"></li>
+    <!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/calendar/" hidefocus="true" target="_blank">2012校招日程</a></li>-->
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/special.php" hidefocus="true">专业招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/company/" hidefocus="true">名企招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/expire.php" hidefocus="true">申请截止</a></li>
+	<li hidefocus="true" class="fg"></li>
+    <li hidefocus="true"  style='padding-left:0px;'><a href="http://bbs.hiall.com.cn/forum-1054-1.html" hidefocus="true" target="_blank" style="color:red">2013名企求职礼包</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://wenda.hiall.com.cn/" hidefocus="true" target="_blank">HiAll一问一答</a></li>
+	<!--<li hidefocus="true" ><a href="http://edu.hiall.com.cn/" hidefocus="true" target="_blank">求职指导</a></li>-->
+	<!--<li hidefocus="true" ><a href="http://miaosha.hiall.com.cn/" hidefocus="true" target="_blank">职业秒杀</a></li>
+	<li hidefocus="true" class="fg"></li>-->
+	<!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/yinhang/" hidefocus="true" target="_blank" style="color:red">2012银行校园招聘</a></li>-->
+</ul>
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>
+<div id="loginfloat" style="background:red;psotion:absolute;display:none;">
+	<div class="fav_topbox floatleft">
+		<p class="h22"><span class="or b">登录后可以个性化你的收藏哦！</span><span class="gray">（用HiAll bbs账号直接登录）</span><span class="gray"><a href="javascript:;" onclick="closeCollect();">关闭</a></span></p>
+		<div class="spacer"></div>
+		<form method="post" accept-charset="GB2312" name="login" id="loginform1" class="gateform" action="http://bbs.hiall.com.cn/logging.php?action=login&amp;loginsubmit=yes">
+		<input type="hidden" name="formhash" value="e9f7b113" />
+		<input type="hidden" name="referer" id="referer" value="http://www.hiall.com.cn/collect/index.php" />
+		<div>
+			<p class="h22"><span>用户名：</span><span><input type="text" class="required normalinput grayborder" size="14" name="username" id="username1" title="用户名称不能为空！" /></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/register_hiall.php" class="gray underline">新用户注册</a></span><h3 id="returnmessage"></h3></p>
+			<div class="spacer"></div>
+			<p class="h22"><span>密&nbsp;&nbsp;码：</span><span><input type="password" class="required normalinput grayborder" size="14"  id="password4" name="password" title="密码不能为空！"/></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/logging.php?action=login" class="gray underline">忘记密码?</a></span></p>
+			<div class="spacer"></div>
+			<p class="fav_login_button h22"><input type="button" onclick="return ajaxpost('username1', 'password4', 'loginform1', 'returnmessage', 'returnmessage', 'onerror');" value="登  录"  class="button_or_2c white"/><span class="pdlr4"></span><a href="http://bbs.hiall.com.cn/register_hiall.php"><button class="button_or_5c white">新用户注册</button></a></p>
+		</div>
+		</form>
+	</div>
+</div>
+<div id="body">
+	<p class="h22 txtindent1 gray">当前位置：<a href='/'>首页</a> &gt; <a href='/info/'>全职推荐</a> &gt; IBM 2013春季校园招聘</p>
+	<!--<div class="bigbg reborder">-->
+    <div class="bigbg reborder" style="overflow:auto; _height:1%;">
+		<div id="leftcolumn" class="floatleft">
+            <div class="leftcolumn">
+				<p class="leftcolumn_title font14 b deepblack">行业分类</p>
+<ul class="left_nav">
+		<li><a href="/info/?businesses=1" >计算机•互联网•通信</a></li>
+		<li><a href="/info/?businesses=2" >电器•电子•家电</a></li>
+		<li><a href="/info/?businesses=3" >金融•投资•证券</a></li>
+		<li><a href="/info/?businesses=4" >咨询•财会•法律</a></li>
+		<li><a href="/info/?businesses=5" >贸易•消费•进出口</a></li>
+		<li><a href="/info/?businesses=6" >制药•生物•医疗</a></li>
+		<li><a href="/info/?businesses=7" >工业制造•能源•原材料</a></li>
+		<li><a href="/info/?businesses=8" >房地产•建筑•工程建设</a></li>
+		<li><a href="/info/?businesses=9" >广告•会展•公关</a></li>
+		<li><a href="/info/?businesses=10" >物流•仓储•运输</a></li>
+		<li><a href="/info/?businesses=11" >教育•培训•科研•院校</a></li>
+		<li><a href="/info/?businesses=12" >政府•公共事业•非盈利机构</a></li>
+		<li><a href="/info/?businesses=13" >服务业</a></li>
+		<li><a href="/info/?businesses=14" >农林牧渔•环保</a></li>
+		<li><a href="/info/?businesses=15" >跨领域经营 </a></li>
+		<li><a href="/info/?businesses=16" >其他</a></li>
+		<li><a href="/info/?businesses=17" >机械•自动化•仪器仪表行•重工业</a></li>
+		<li><a href="/info/?businesses=18" >汽车•摩托车行业 </a></li>
+		<li><a href="/info/?businesses=19" >旅游•酒店•餐饮服务</a></li>
+		<li><a href="/info/?businesses=20" >物业管理•商业中心</a></li>
+		<li><a href="/info/?businesses=21" >快速消费品(食品•饮料•日化•烟酒等)</a></li>
+		<li><a href="/info/?businesses=22" >家居•室内设计•装潢</a></li>
+		<li><a href="/info/?businesses=23" >石油•化工•采掘•冶炼</a></li>
+		<li><a href="/info/?businesses=24" >耐用消费品(服饰•纺织•家具）</a></li>
+		<li><a href="/info/?businesses=25" >媒体•文化传播•出版•影视</a></li>
+		<li><a href="/info/?businesses=26" >芯片•电子技术•半导体</a></li>
+		<li><a href="/info/?businesses=27" >批发•零售</a></li>
+	</ul>
+
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<p class="leftcolumn_title font14 b deepblack">热门公司推荐</p>
+<ul class="left_topcompany">
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1033-1.html">中国石化集团公司</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-212-1.html">中金(CICC)</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-183-1.html">英特尔（intel）</a></h1></li>
+	<li><h1><a href="http://www.hiall.com.cn/bbs/forum-188-1.html">联合利华Unilever</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-249-1.html">箭牌中国</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1241-1.html">完美时空</a></h1></li>
+</ul>			</div>
+			
+			
+		</div>
+		<div id="midcolumn" class="floatleft">
+			<div class="topnews">	
+	<div class="left floatleft lightblue">站内新闻</div>
+	<div class="right floatleft ">
+		<div class="floatleft">
+			<div class="absolute zindex200">
+				<a href="javascript:preMsg();" class="icon_arrow_blue_up relative floatleft" id="icon_arrow_blue_up"></a>
+			</div>
+		</div>
+		<div class="floatright">
+			<div class="absolute zindex200">
+				<a href="javascript:nextMsg();" class="icon_arrow_blue_down relative floatleft" id="icon_arrow_blue_down"></a>
+			</div>
+		</div>
+		<ul class="topnews_list" id="topnews_list" style="top:0px;">
+		<li id="msg_show"><a href="http://e.weibo.com/1801762575/zh96Xguz8" target="_blank" class="lightgray">关注HiAll校园招聘微信公众号：HiAllxyzhaopin，二维码在此，快来拍我！</a></li>					
+		</ul>
+		<ul style="display:none;">
+					<li id="msg_0"><a href="http://e.weibo.com/1801762575/zh96Xguz8" target="_blank" class="lightgray">关注HiAll校园招聘微信公众号：HiAllxyzhaopin，二维码在此，快来拍我！</a></li>			
+				</ul>
+		<input type="hidden" id="msg_count" value="1" />
+	</div>
+	<div class="clear"></div>
+</div>
+			<div class="clear spacer"></div>
+<div style="margin:5px 0px 0px 25px;">
+
+<script type="text/javascript"> var cpro_id = 'u249066'; </script>
+<script type="text/javascript" src="http://cpro.baidu.com/cpro/ui/c.js"></script>
+</div>
+			<div class="jobbox">
+				<div class="spacer"></div>
+				<div class="job_maininfo">
+					<h1 class="b font14">
+											IBM  
+													<span class="pdlr"><img src="http://www.hiall.com.cn/images/icon/icon_top_default.gif" /></span>
+						</h1>
+					<h1>所属行业：计算机•互联网•通信</h1>
+					<div class="spacer"></div>
+                    <div>
+                       	<div class="button_job floatleft">
+							<div class="button_right"><a href="/company/cid-2.html" class="icon_jobbutton_ck blue">查看公司详情</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+												<div class="button_job floatleft">
+							<div class="button_right"><a href="http://bbs.hiall.com.cn/thread-263187-1-1.html" class="icon_jobbutton_down blue">下载大礼包</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+																		<div class="button_job floatleft">
+							<div class="button_right"><a href="javascript:;" class="icon_jobbutton_gz blue">企业雇主专区</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+												<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn">信息修改/删除</a></div>
+						</div>
+                        <div class="clear"></div>
+                            
+                    </div>
+                    <div class="spacer"></div>
+                    <div class="spacer"></div>
+                    <div>
+                        <div class="floatleft">
+                        <!-- Baidu Button BEGIN -->
+                        <div id="bdshare" class="bdshare_b" style="line-height: 12px;"><img src="http://bdimg.share.baidu.com/static/images/type-button-1.jpg" />
+                            <a class="shareCount"></a>
+                        </div>
+                        <script type="text/javascript" id="bdshare_js" data="type=button" ></script>
+                        <script type="text/javascript" id="bdshell_js"></script>
+                        <script type="text/javascript">
+                            document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+                        </script>
+                        <!-- Baidu Button END -->
+                        </div>
+                    </div>
+                    				</div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<p>
+								</p>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="job_detail">
+					<h1 class="positiontitle">IBM 2013春季校园招聘</h1>
+					<div class="spacer"></div>
+					<div class="spacer4"></div>
+						<p>
+该职位已发布超过<span class="pdlr or">63</span>天
+
+						<span class="pdlr"></span><span>编号：272314</span>
+						<span class="pdlr"></span></p>
+					<div class="spacer"></div>
+					<p>						
+						<span>工作地区：全国</span>
+						<span class="pdlr"></span>
+						<span>更新时间：2013-03-25</span>
+					</p>
+<div style="border-top:1px solid #C3DBE8; margin-top: 8px;"></div>
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<div style="overflow:auto;">
+						<p>来自前程无忧的消息：<br />
+http://2013ibmcampus.51job.com/21.htm <br />
+&nbsp;</p>
+<p>&nbsp;</p>
+<p>China Systems &amp; Technology Lab<br />
+IBM中国系统与科技开发中心简介</p>
+<p>　　IBM中国系统与科技开发中心（GCG STG Labs）成立于2004年，是IBM系统科技集团（STG）位于中国的唯一开发机构，也是IBM全球系统科技开发体系的重要组成。经过多年的成长和近两年的飞速发展，IBM中国系统与科技开发中心目前拥有2000多名员工，分布于上海、北京、台北、西安和无锡。IBM中国系统与科技开发中心借助全球资源和视野，凭借立足本土、持续创新、服务全球的精神，如今已形成了完整的开发体系，在计算机系统硬件、系统软件、半导体设计和存储系统等领域拥有卓越的开发能力，参与并负责多项全球重要的开发项目。<br />
+　　作为IBM系统与科技事业部在中国的重要战略部署，IBM中国系统与科技开发中心承担了IBM核心硬件平台System z、Power Systems、System x和存储产品Systems Storage的重要开发工作。其中参与开发了新一代高端存储DS8800、中端存储Storwize V7000和新一代x系列服务器及系统管理软件，以及各种磁盘磁带存储阵列、光纤网络存储产品的开发与测试，还负责建立大型主机软件开发团队及zEnterprise的开发工作，同时以世界一流的半导体开发力量为全球信息技术产业提供有力的技术支撑，建立智慧网络。<br />
+　　IBM中国系统与科技开发中心在系统软件（System Software）方面同样拥有领先的开发能力，软件方面覆盖操作系统层、固件层、跨平台系统管理软件、存储系统管理软件、集成在操作系统里的IBM中间件软件等。另外在云计算、高性能计算等核心领域同样具有深厚洞见与卓越开发能力。今年4月，中心宣布在西安成立IBM中国系统与科技（西安）开发中心，通过收购 Platform Computing 在高速增长的科学计算领域推广HPC的战略举措，帮助 IBM 加速在&quot;智慧的运算&quot;领域的业务增长。<br />
+　　为了向大中华区、新兴市场以及全球客户提供及时和高质量的服务，开发中心建立了产品现场支持与基于开发中心的产品服务部门，该团队将拥有多年先进服务经验、每年向全世界数千家客户提供服务的团队带给中国，为客户提供高可用性、灾备、节能IT、高性能计算、数据加密处理、IT虚拟化与IT优化等解决方案的专业化服务。<br />
+&gt;&gt; More<br />
+CSTL JD<br />
+　●　Chip Design Engineer</p>
+<p>　●　Cloud Solution Software Engineer</p>
+<p>　●　IBM i Software Engineer（北京）</p>
+<p>　●　Networking Software Engineer - Embedded Switch(无锡)</p>
+<p>　●　Linux/Rational System Software Engineer</p>
+<p>　●　Storage Software Engineer</p>
+<p>　●　System x Software Engineer</p>
+<p>　●　System z Software Engineer（北京）</p>
+<p>　●　IBM Technical Computing Software Engineer</p>
+<p>&nbsp;</p>
+<p>China Research Lab<br />
+IBM中国研究院简介</p>
+<p>　　IBM中国研究院1995年9月成立于中国北京，是IBM在全球设立的11大研究机构之一。2008年10月，IBM中国研究院上海分院成立，便于当地合作伙伴更好地了解IBM 技术和研究能力以加强合作。多年来IBM中国研究院一直稳步成长，已成为中国最具声望及被广泛认可的研究机构之一。<br />
+　　IBM中国研究院的研究领域横跨多个学科，研究内容涵盖计算机科学、以人为中心的计算、管理科学与运筹学等，目前的重点研究课题包括业务分析与优化、云计算和物联网的技术创新及在商业和社会上的应用，包括智慧的城市、智慧的供应链和智慧的公共设施管理等方面，以科技助力&quot;智慧的地球&quot;的建设。作为领先的行业研究实验室，IBM中国研究院通过与IBM的其他业务部门及政府、大学、客户和商业伙伴的合作，已成功创造了多项技术。2008年IBM中国研究院被全球供应链管理委员会授予&quot;供应链卓越学术奖&quot;和&quot;全球供应链奖&quot;，以表彰和鼓励IBM中国研究院在该领域的创新和贡献。<br />
+　　展望未来，IBM中国研究院将继续为未来的商业模式提供更多的科技突破和创新，致力于推进商业社会的不断发展与革新。<br />
+&gt;&gt; More<br />
+CRL JD<br />
+　●　Research in Information Intelligence and Interaction 信息分析与人机交互技术&nbsp; <br />
+　●　Distributed Computing 分布式计算&nbsp; <br />
+　●　Data Management 数据管理&nbsp; <br />
+　●　Analytics and optimization research in innovational industry applications<br />
+　 　分析优化及行业创新应用&nbsp; <br />
+　●　Research in Computer Architecture and System Software<br />
+　 　计算机体系结构与系统软件&nbsp; <br />
+　●　Research in Networking and Wireless 网络与无线系统研究&nbsp;</p>
+<p>China Development Lab (SW)<br />
+IBM China Development Labs，CDL</p>
+<p>　　IBM中国开发中心（IBM China Development Labs，CDL），成立于1999年，分别在北京、上海、西安、宁波、香港和台北设址。CDL是跨国公司在中国最大的软件开发中心之一。</p>
+<p>　　拥有广阔的中国市场，凭借雄厚的技术实力，并于全球80多个实验室紧密合作，经过10多年的蓬勃发展，CDL已经成为IBM新兴市场最重要的软件开发中心，更是IBM众多软件开发中心中唯一同时进行IBM所有核心品牌软件（WebSphere、Information Management、Tivoli、Rational and Security）以及行业产品与解决方案（Lotus, Business Analytics, ECM, Industry Solutions, etc.）开发的中心。除了软件开发，CDL还凭借雄厚的技术和人才实力，包括由众多技术专家和软件工程师组成的技术服务团队，面向多层次的客户需求，提供专业的核心技术支持与服务。CDL以人才、创新和客户为核心，致力于培养出色的本土技术创新人才，交付优质的产品研发和软件服务，鼓励新兴技术市场的应用和发展，推动包括独立软件开发商、系统集成商、学术界、政府、企业、和软件开发者在内的本土创新生态系统的长足发展。CDL具有以下特点：<br />
+&gt;&gt; More<br />
+CDL JD<br />
+　●　Software Lab Services Consultant Qualifications</p>
+<p>　●　Tester</p>
+<p>　●　Developer</p>
+<p>　●　Software Product Remote Global L2 Support</p>
+<p>&nbsp;</p>
+<p><br />
+Global Delivery Center<br />
+IBM中国全球服务执行中心</p>
+<p>　　IBM的服务业务部门是全球最大的信息科技及咨询服务供应商。为了满足全球客户对 IT 服务业务不断增长的需求，IBM 于1999 年开始在中国建立了全球服务执行中心网络，为全世界的客户提供广泛的服务，包括业务咨询、系统集成、应用软件服务、维护、测试、解决方案管理、业务转型外包服务和 IT 基础架构外包服务等。该中心还支持包括 SAP、Oracle、Siebel等在内的整体解决方案，大型机以及电子商务应用等。</p>
+<p>　　IBM中国全球服务执行中心通过位于上海、深圳、大连、成都、武汉、佛山、北京和苏州等地的运营中心以及在客户现场为全球客户提供服务。IBM在全球所有的服务执行中心都遵循相同的服务标准、并采用统一的开发流程和方法。目前，中国全球服务执行中心已成为 IBM 在全球第二大的全球服务执行网络。</p>
+<p>IBM China Global Delivery Center</p>
+<p>IBM/s services arm is the world/s largest information technology and consulting service provider. To drive higher value for clients and address the growing demand for global delivery of IT services, IBM opened its Global Delivery Center (GDC) in China in 1999 in Shanghai; it provides a broad spectrum of services, including consulting, systems integration, application services, maintenance, testing, solution management, business transformation outsourcing services and IT infrastructure services. It also supports leading package solutions, such as SAP, Oracle, Siebel, mainframe and e-business applications.</p>
+<p>China GDC provides services to clients worldwide across the locations of Beijing, Chengdu, Dalian, Foshan, Shanghai, Shenzhen, Suzhou and Wuhan and on the client sites. All the Global Delivery Centers located around the world comply with IBM/s global practices, processes and methodologies. Over the past decade, it has become IBM/s second largest Global Delivery Center worldwide.</p>
+<p>2013 China GDC Campus Recruitment JD<br />
+　●　Application Developer</p>
+<p>&nbsp;</p>
+<p><br />
+Global Business Services, GBS<br />
+IBM 全球企业咨询服务部</p>
+<p>　　IBM全球企业咨询服务部在全球160多个国家拥有专业的管理咨询顾问，是世界上最大的咨询服务组织之一。IBM全球企业咨询服务部于2002年11月在中国成立，它是前普华永道咨询公司（PwC Consulting）与IBM全球服务部下属的业务创新服务部合并之后成立的部门。目前，IBM全球企业咨询服务部在遍布大中华地区的16个城市，拥有2,000多名专业顾问，并在北京、上海、广州、南京、西安、成都、香港和台北等主要城市设立了办事处。我们致力于为客户提供业务转型和行业专家咨询服务，并通过整合、快速、创新的业务解决方案实现客户价值。IBM全球企业咨询服务部提供的咨询服务涵盖战略变革、应用科技服务、财务管理服务、人力资源管理服务、客户关系管理服务、供应链管理及采购服务，业务分析及优化服务等领域。我们的客户横跨六大行业：通信、零售、金融服务、制造业、政府及公众事业、中小企业。我们可以为客户提供全面的、从战略转型到运营的端到端解决方案。我们的跨国公司、国有企业及其它本土客户都是中国重要的行业领袖。IBM全球企业咨询服务部是通过商业洞察力和技术帮助客户实现其业务价值的新模式。我们资深的商业及技术专家拥有广泛的行业经验，不但能够帮助客户完成短期的目标，并且能够引领客户在未来取得成功。</p>
+<p>Global Business Services, GBS</p>
+<p>As the world/s largest consulting services organization, IBM Global Business Services has experienced professionals working in 160 countries and in 16 cities across China. IBM Global Business Services offices in main cities such as Beijing, Shanghai, Guangzhou, Nanjing, Xian, Chengdu, Hong Kong and Taipei in Greater China. Combining world-class industry and business process insight with leading technology expertise, IBM Global Business Services provides clients with broad set of solutions spanning strategic and change, customer relationship management, supply chain management, financial management, human capital, IT, business analytics &amp; optimization and business-process outsourcing. With decades of deep business process knowledge and industry-specific expertise, IBM Global Business Services consultants can pinpoint the answers that have the most impact for your business. IBM Global Business Services consultants pride themselves in their ability to implement innovative enterprise solutions that deliver a rapid return on investment and tangible, long-term benefits.</p>
+<p>2013 Global Business Services Consultant Trainee JD<br />
+(Consulting by Degrees program)<br />
+　●　Entry Level Consultant</p>
+<p>&nbsp;</p>
+<p><br />
+&nbsp;</p>
+<p>请点击<a href="http://2013ibmcampus.51job.com">http://2013ibmcampus.51job.com</a>查看职位并提交申请。<br />
+简历接收时间：即日起--4月30日。<br />
+请在2013 Positions中查看部门介绍和职位信息，并结合自身能力和兴趣，选择志愿岗位，您的志愿顺序将影响录取决定。</p>
+<p>&nbsp;<br />
+&nbsp;</p>
+<p>&nbsp;</p>
+<p>--------------------------------------------------------------------------------</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><br />
+问题：请公司给出一个固定的答疑方式，以便咨询。<br />
+Q　Q： 2507958857<br />
+MSN： <a href="mailto:ibmcampus_2013@hotmail.com">ibmcampus_2013@hotmail.com</a><br />
+电 话： 010-52832630<br />
+对于网上申请、面试中的任何问题，请联系我们进行咨询，我们会7&times;24小时的给您提供解答。</p>
+<p><br />
+--------------------------------------------------------------------------------</p>
+<p>&nbsp;</p>
+<p>问题：在哪里提交应聘申请和简历？<br />
+请通过我们的简历申请平台申请： <a href="http://2013ibmcampus.51job.com">http://2013ibmcampus.51job.com</a></p>
+<p>&nbsp;</p>
+<p><br />
+--------------------------------------------------------------------------------</p>
+<p>&nbsp;</p>
+<p>问题：请问今年的校园招聘在全国招聘的规模（人数）和地点？<br />
+此次IBM秋季招聘将在北京，上海，合肥，武汉，西安，杭州，南京，大连等城市提供大量招聘职位。欢迎于2013年毕业的计算机及其相关专业学生申请。 录用的学生将作为正式员工于毕业后正式加入IBM。</p>
+<p>&nbsp;</p>
+<p><br />
+--------------------------------------------------------------------------------</p>
+<p>&nbsp;</p>
+<p>问题：请介绍一下IBM在业界的地位和领先的领域？<br />
+欢迎您登录<a href="http://www.ibm.com">www.ibm.com</a>或者<a href="http://www.ibm.com/cn">www.ibm.com/cn</a>了解IBM的信息。</p>
+<p>&nbsp;</p>
+<p><br />
+--------------------------------------------------------------------------------</p>
+<p>&nbsp;</p>
+<p>问题：本次招聘对于部分学生有无特殊的限定或者政策倾斜？如女性学生，残疾学生。<br />
+IBM历来非常重视多元化建设，非常欢迎女性学生和残疾学生申请我们的职位。</p>
+<p>&nbsp;</p>					</div>
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<p ><a href="http://wenda60.com" target="_blank" style="font-size:14px; color:#2B68E9">>>练练该公司的招聘笔试题 </a><script type="text/javascript"><!--
+google_ad_client = "ca-pub-9486753476951928";
+/* 底部广告 */
+google_ad_slot = "1009061790";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p> 					
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<div>
+						<div class="floatleft">
+                        <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_b" style="line-height: 12px;"><img src="http://bdimg.share.baidu.com/static/images/type-button-1.jpg" />
+                                <a class="shareCount"></a>
+                           
+						  </div>
+                        <script type="text/javascript" id="bdshare_js" data="type=button" ></script>
+                        <script type="text/javascript" id="bdshell_js"></script>
+                        <script type="text/javascript">
+                            document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+                        </script>
+                        <!-- Baidu Button END -->
+						</div>
+						<div class="button_job_or floatleft">
+							<!--<div class="button_right"><a href="javascript:;" onclick="collect(2, 272314);" class="icon_jobbutton_sc white">我要收藏</a></div>-->
+				  </div>
+                            <div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+						<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn" class="icon_jobbutton_p">举报错误信息</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+						<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn">信息修改/删除</a></div>
+						</div>
+						<div class="clear"></div>
+			  </div>
+		  </div>
+				<div class="spacer"></div>
+				<div class="spacer">
+</div>
+<!--
+				<div class="grayline"></div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="pdlr">
+					<div>
+						<span class="floatleft font14  b">同行业的职位</span>
+						<span class="floatright pdlr"></span>
+					</div>
+					<div class="clear spacer"></div>
+					<ul class="ul_bluedisc underline">
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277293.html" class="blue" title="高薪诚聘销售精英" target="_blank">高薪诚聘销售精英</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277084.html" class="blue" title="网络兼职" target="_blank">网络兼职</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277049.html" class="blue" title="行政助理兼前台" target="_blank">行政助理兼前台</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277038.html" class="blue" title="肇庆市华盈信息科技有限公司招聘网站编辑（网页设计）" target="_blank">肇庆市华盈信息科技有限公司招聘网站编辑（网页设计）</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276955.html" class="blue" title="医生管理" target="_blank">医生管理</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276954.html" class="blue" title="医学编辑/医药编辑" target="_blank">医学编辑/医药编辑</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276953.html" class="blue" title="销售代表" target="_blank">销售代表</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276952.html" class="blue" title="平面设计师" target="_blank">平面设计师</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276951.html" class="blue" title="儿童插画师" target="_blank">儿童插画师</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276648.html" class="blue" title="向自由想象致敬，小米2013春季校招（全职&实习）霸气启动！" target="_blank">向自由想象致敬，小米2013春季校招（全职&实习）霸气</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											
+					</ul>
+				</div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="grayline"></div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+								<div class="pdlr">
+					<div>
+						<span class="floatleft font14  b">相同公司职位</span>
+						<span class="floatright pdlr"></span>
+					</div>
+					<div class="clear spacer"></div>
+					<ul class="ul_bluedisc underline">
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277580.html" class="blue" title="IBM CSTL招web前端开发Intern" target="_blank">IBM CSTL招web前端开发Intern</a></div>
+							<span class="floatright gray pdlr">05-24</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276118.html" class="blue" title="IBM宁波用户技术部招聘文档开发工程师" target="_blank">IBM宁波用户技术部招聘文档开发工程师</a></div>
+							<span class="floatright gray pdlr">05-10</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_274997.html" class="blue" title="IBM CDL Beijing招聘云平台开发实习生" target="_blank">IBM CDL Beijing招聘云平台开发实习生</a></div>
+							<span class="floatright gray pdlr">04-26</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_274894.html" class="blue" title="IBM宁波用户技术部招聘文档开发工程师" target="_blank">IBM宁波用户技术部招聘文档开发工程师</a></div>
+							<span class="floatright gray pdlr">04-25</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_274690.html" class="blue" title="IBM 2013暑期实习生招聘" target="_blank">IBM 2013暑期实习生招聘</a></div>
+							<span class="floatright gray pdlr">04-22</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_272778.html" class="blue" title="[北京]IBM中国研究院招聘实习生" target="_blank">[北京]IBM中国研究院招聘实习生</a></div>
+							<span class="floatright gray pdlr">03-29</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_272698.html" class="blue" title="[北京]IBM CDL ICS招聘实习生 " target="_blank">[北京]IBM CDL ICS招聘实习生 </a></div>
+							<span class="floatright gray pdlr">03-28</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_272563.html" class="blue" title="[北京]IBM CSTL Platform Computing招收Support intern " target="_blank">[北京]IBM CSTL Platform Computing招收Support inter</a></div>
+							<span class="floatright gray pdlr">03-27</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_272511.html" class="blue" title="[北京]北京IBM公司招聘前台实习生 " target="_blank">[北京]北京IBM公司招聘前台实习生 </a></div>
+							<span class="floatright gray pdlr">03-26</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_272424.html" class="blue" title="[北京]IBM招聘UI designer 实习生 " target="_blank">[北京]IBM招聘UI designer 实习生 </a></div>
+							<span class="floatright gray pdlr">03-26</span>
+							<div class="clear"></div>
+						</li>
+											
+					</ul>
+				</div>
+							</div>
+			<div class="clear spacer"></div>
+			<div class="spacer"></div>
+			<div class="spacer"></div>
+-->
+			<div class="spacer"></div>
+		</div>
+        
+		<div class="clear"></div>
+	</div>
+    
+    <div id="rightcolumn" class="floatleft">
+            <div class="rightcolumn" style="padding:0px;">
+                <div>
+			 <script type="text/javascript"><!--
+            google_ad_client = "ca-pub-9486753476951928";
+            /* 职位广告 */
+            google_ad_slot = "3598731756";
+            google_ad_width = 200;
+            google_ad_height = 200;
+            //-->
+            </script>
+            <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+				
+				    <div class="rightcolumn_title font14 b deepblack">该公司最新招聘信息</div>
+                    <div class="rightcolumn_title font14 b deepblack"><a href="/company/cid-2.html ">点击查看全部</a></div>
+					<div class="spacer"></div>
+					<ul class="ul_bluedisc right_ul_bluedisc underline">
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_277580.html" class="blue">IBM CSTL招web前端开发Intern</a></div>
+						<span class="pdlr4 floatright">05-23</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_276118.html" class="blue">IBM宁波用户技术部招聘文档开发工程师</a></div>
+						<span class="pdlr4 floatright">05-09</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_274997.html" class="blue">IBM CDL Beijing招聘云平台开发实习生</a></div>
+						<span class="pdlr4 floatright">04-25</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_274894.html" class="blue">IBM宁波用户技术部招聘文档开发工程师</a></div>
+						<span class="pdlr4 floatright">04-25</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_274690.html" class="blue">IBM 2013暑期实习生招聘</a></div>
+						<span class="pdlr4 floatright">04-22</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_272778.html" class="blue">[北京]IBM中国研究院招聘实习生</a></div>
+						<span class="pdlr4 floatright">03-29</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_272698.html" class="blue">[北京]IBM CDL ICS招聘实习生 </a></div>
+						<span class="pdlr4 floatright">03-28</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_272563.html" class="blue">[北京]IBM CSTL Platform Computing招收Support intern </a></div>
+						<span class="pdlr4 floatright">03-27</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_272511.html" class="blue">[北京]北京IBM公司招聘前台实习生 </a></div>
+						<span class="pdlr4 floatright">03-26</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_272424.html" class="blue">[北京]IBM招聘UI designer 实习生 </a></div>
+						<span class="pdlr4 floatright">03-26</span>
+						<div class="clear"></div>
+						</li>							
+										</ul>
+				</div>
+		   </div>
+           <div class="rightcolumn" style="padding:0px;">
+                <div>
+				
+				    <div class="rightcolumn_title font14 b deepblack">同行业最新招聘信息</div>
+                    
+					<div class="spacer"></div>
+					<ul class="ul_bluedisc right_ul_bluedisc underline">
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277293.html" class="blue" title="高薪诚聘销售精英" target="_blank">高薪诚聘销售精英</a></div>
+							<span class="floatright gray pdlr">05-22</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277084.html" class="blue" title="网络兼职" target="_blank">网络兼职</a></div>
+							<span class="floatright gray pdlr">05-20</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277049.html" class="blue" title="行政助理兼前台" target="_blank">行政助理兼前台</a></div>
+							<span class="floatright gray pdlr">05-20</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277038.html" class="blue" title="肇庆市华盈信息科技有限公司招聘网站编辑（网页设计）" target="_blank">肇庆市华盈信息科技有限公司招聘网站编辑（网页设计）</a></div>
+							<span class="floatright gray pdlr">05-18</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276955.html" class="blue" title="医生管理" target="_blank">医生管理</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276954.html" class="blue" title="医学编辑/医药编辑" target="_blank">医学编辑/医药编辑</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276953.html" class="blue" title="销售代表" target="_blank">销售代表</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276952.html" class="blue" title="平面设计师" target="_blank">平面设计师</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276951.html" class="blue" title="儿童插画师" target="_blank">儿童插画师</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276648.html" class="blue" title="向自由想象致敬，小米2013春季校招（全职&实习）霸气启动！" target="_blank">向自由想象致敬，小米2013春季校招（全职&实习）霸气</a></div>
+							<span class="floatright gray pdlr">05-14</span>
+							<div class="clear"></div>
+						</li>							
+										</ul>
+				</div>
+		   </div>
+           <div class="rightcolumn">
+				<div class="spacer"></div>
+	
+				<div>
+	<div class="rightcolumn_title font14 b deepblack">相关讨论区</div>
+	<div class="spacer"></div>
+	<ul class="ul_bluedisc right_ul_bluedisc underline">
+				<li>
+			<div class="floatleft list_lefttxt"><a href="http://bbs.hiall.com.cn/thread-648073-1-1.html" title="IBM 蓝色之路 2012讨论话题" target="_blank">IBM 蓝色之路 2012讨论话题</a></div>
+			<span class="pdlr4 floatright">06-13</span>
+			<div class="clear"></div>
+		</li>
+				<li>
+			<div class="floatleft list_lefttxt"><a href="http://bbs.hiall.com.cn/thread-418760-1-1.html" title="有没有IBM做过财务的啊？" target="_blank">有没有IBM做过财务的啊？</a></div>
+			<span class="pdlr4 floatright">03-24</span>
+			<div class="clear"></div>
+		</li>
+				<li>
+			<div class="floatleft list_lefttxt"><a href="http://bbs.hiall.com.cn/thread-376459-1-1.html" title="IBM集成供应链&#8226;深圳2011校园招聘" target="_blank">IBM集成供应链&#8226;深圳2011校园招聘</a></div>
+			<span class="pdlr4 floatright">11-09</span>
+			<div class="clear"></div>
+		</li>
+				<li>
+			<div class="floatleft list_lefttxt"><a href="http://bbs.hiall.com.cn/thread-364901-1-1.html" title="今天接到ibm的一通电话" target="_blank">今天接到ibm的一通电话</a></div>
+			<span class="pdlr4 floatright">10-19</span>
+			<div class="clear"></div>
+		</li>
+				<li>
+			<div class="floatleft list_lefttxt"><a href="http://bbs.hiall.com.cn/thread-325367-1-1.html" title="有人收到短期实习的面试通知么？整理合同之类的工作。" target="_blank">有人收到短期实习的面试通知么？整理合</a></div>
+			<span class="pdlr4 floatright">06-14</span>
+			<div class="clear"></div>
+		</li>
+				<li>
+			<div class="floatleft list_lefttxt"><a href="http://bbs.hiall.com.cn/thread-325337-1-1.html" title="还有这两天收到二面通知的么？" target="_blank">还有这两天收到二面通知的么？</a></div>
+			<span class="pdlr4 floatright">06-14</span>
+			<div class="clear"></div>
+		</li>
+				<li>
+			<div class="floatleft list_lefttxt"><a href="http://bbs.hiall.com.cn/thread-325256-1-1.html" title="北京 finance and planning 有收到二面通知的吗？" target="_blank">北京 finance and planning 有收到二面</a></div>
+			<span class="pdlr4 floatright">06-14</span>
+			<div class="clear"></div>
+		</li>
+				<li>
+			<div class="floatleft list_lefttxt"><a href="http://bbs.hiall.com.cn/thread-325233-1-1.html" title="面了三个部门收到两个offer,还有一个二面刚完（蓝色之路）" target="_blank">面了三个部门收到两个offer,还有一个二</a></div>
+			<span class="pdlr4 floatright">06-13</span>
+			<div class="clear"></div>
+		</li>
+		</ul>
+</div>
+				
+		   </div>
+		   <div class="spacer"></div>
+				
+    </div>
+</div>
+<iframe id="collection" name="collection" style="width:0px;height:0px;"></iframe>
+<div id="foot">
+	<div class="footbody">
+				<div class="foot_mid aligncenter white"> 网站相关问题请联系：010-82601802 || 企业服务请联系：010-82600684</div>
+		<div class="foot_bot aligncenter white">Copyright HiAll
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP备10021013号
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP证090110号
+			<span class="pdlr"></span><span class="pdlr"></span>京公网安备11010802010560号
+		</div>
+	</div>
+</div>
+<!-- Baidu Analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F56dda118cbb3220435957635a699495b' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- Baidu Analytics -->
+</body>
+</html>
+

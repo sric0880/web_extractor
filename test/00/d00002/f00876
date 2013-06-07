@@ -1,0 +1,696 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<title>盐城市委宣传部招聘事业单位工作人员-全职推荐</title>
+<head>
+<meta property="qc:admins" content="35413136776011446375636" />
+<meta http-equiv="keywords" content="2013校园招聘,HiAll,招聘,校园招聘,全职职位,实习职位,大学生求职,应届生求职"/>
+<meta http-equiv="description" content="HiAll，为应届毕业生或在校生提供最新、最全、最可靠的全职、实习招聘信息、宣讲会信息与各种求职资讯与资料，成为联动学生与雇主的纽带，覆盖北京、上海、广州、海外等地区。" />
+<meta name="generator" content="HiAll2.0" />
+<meta name="author" content="HiAll" />
+<meta name="copyright" content="2004-2012 HiAll." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<script src="http://file.hiall.com.cn/newhiall/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/jquery.validate.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/utils.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/u1.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frame/page.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/main.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frontpage/frontpage.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/manage.css" />
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2560481-2']);
+  _gaq.push(['_setDomainName', '.hiall.com.cn']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Google Analytics -->
+</head>
+<body>
+<div id="head">
+	<div id="headbody">
+		<div class="top">
+			<a href="/" class="head_logo floatleft"></a>
+			<div class="mid floatleft">
+			<form method="post" action="/search/infos.php">
+				<input type="text" class="head_search_input gray floatleft" maxlength="10" value="职位信息 如：管理培训生" id="searchkey" name="searchkey" onclick="if(this.value == '职位信息 如：管理培训生') this.value='';" onblur="if(this.value=='') this.value='职位信息 如：管理培训生';"/>
+				<div class="head_search_select gray pointer floatleft">
+					<div class="floatleft">
+						<div class="absolute">
+							<div class="relative head_search_select_optionbox" style="display:none; z-index:10;">
+								<ul class="head_search_select_option" id="choosecity-list">
+																<li id="r0">全部</li>
+																<li id="r1">北京</li>
+																<li id="r2">上海</li>
+																<li id="r40">广州</li>
+																<li id="r41">深圳</li>
+															</ul>
+							</div>
+						</div>
+					</div>
+					<span id="choosecity">全部</span>
+				</div>
+				<input type="hidden" name="regionid" id="regionid" value="0">
+				<input type="hidden" name="op" id="op" value="headersearch">
+				<input  type="button" class="button_head_search pointer floatleft" onclick="javascript:headerSearch(this);" />
+			</div>
+			</form>
+			<div class="right floatright">
+				<div class="head_greenicon_box floatleft">
+											<p><span class="white">个人用户</span></p>
+						<p><a href="/collect/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="http://bbs.hiall.com.cn/register_hiall.php" class="white">注册</a></p>		
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="head_blueicon_box floatleft">
+										<p><a class="white">企业用户</a></p>
+					<p><a href="/users/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="/users/register.php" class="white">注册</a></p>
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="vspacer floatleft"></div>
+				<div class="floatleft">
+					<p><a href="/info/about.php#t2" class="white">查看企业</p><p>服务项目</a></p>
+				</div>
+				<div class="vspacer floatleft"></div>
+			</div>
+		</div>
+		<div class="clear"></div>
+		<div class="bottom">
+
+<!--<div style="position:relative;">-->
+<ul class="head_nav floatleft">
+	<li hidefocus="true" ><a href="/" hidefocus="true">首页</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://bbs.hiall.com.cn" target="_blank" hidefocus="true">BBS</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true"  class="active"><a href="/info/" hidefocus="true">全职推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/part.php" hidefocus="true">实习推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/" hidefocus="true" target="_blank">宣讲会</a></li>
+	<li hidefocus="true" class="fg"></li>
+
+    <!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/calendar/" hidefocus="true" target="_blank">2012校招日程</a></li>-->
+	<li hidefocus="true" ><a href="/info/special.php" hidefocus="true">专业招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/company/" hidefocus="true">名企招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/expire.php" hidefocus="true">申请截止</a></li>
+	<li hidefocus="true" class="fg"></li>
+    <li hidefocus="true"  style='padding-left:0px;'><a href="http://bbs.hiall.com.cn/forum-1054-1.html" hidefocus="true" target="_blank" >2013名企求职礼包</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://wenda.hiall.com.cn/" hidefocus="true" target="_blank">HiAll一问一答</a></li>
+		<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://maker.wenda60.com/" hidefocus="true" target="_blank" style="color:red" class="menu_red">KnewMaker</a></li>
+	<!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/2011/" hidefocus="true" target="_blank" class="menu_red">KnewMaker</a></li>-->
+	<!--<li hidefocus="true" ><a href="http://edu.hiall.com.cn/" hidefocus="true" target="_blank">求职指导</a></li>-->
+	<!--<li hidefocus="true" ><a href="http://miaosha.hiall.com.cn/" hidefocus="true" target="_blank">职业秒杀</a></li>
+	<li hidefocus="true" class="fg"></li>-->
+	<!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/yinhang/" hidefocus="true" target="_blank" style="color:red">2012银行校园招聘</a></li>-->
+</ul>
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>
+<div id="loginfloat" style="background:red;psotion:absolute;display:none;">
+	<div class="fav_topbox floatleft">
+		<p class="h22"><span class="or b">登录后可以个性化你的收藏哦！</span><span class="gray">（用HiAll bbs账号直接登录）</span><span class="gray"><a href="javascript:;" onclick="closeCollect();">关闭</a></span></p>
+		<div class="spacer"></div>
+		<form method="post" accept-charset="GB2312" name="login" id="loginform1" class="gateform" action="http://bbs.hiall.com.cn/logging.php?action=login&amp;loginsubmit=yes">
+		<input type="hidden" name="formhash" value="e9f7b113" />
+		<input type="hidden" name="referer" id="referer" value="http://www.hiall.com.cn/collect/index.php" />
+		<div>
+			<p class="h22"><span>用户名：</span><span><input type="text" class="required normalinput grayborder" size="14" name="username" id="username1" title="用户名称不能为空！" /></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/register_hiall.php" class="gray underline">新用户注册</a></span><h3 id="returnmessage"></h3></p>
+			<div class="spacer"></div>
+			<p class="h22"><span>密&nbsp;&nbsp;码：</span><span><input type="password" class="required normalinput grayborder" size="14"  id="password4" name="password" title="密码不能为空！"/></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/logging.php?action=login" class="gray underline">忘记密码?</a></span></p>
+			<div class="spacer"></div>
+			<p class="fav_login_button h22"><input type="button" onclick="return ajaxpost('username1', 'password4', 'loginform1', 'returnmessage', 'returnmessage', 'onerror');" value="登  录"  class="button_or_2c white"/><span class="pdlr4"></span><a href="http://bbs.hiall.com.cn/register_hiall.php"><button class="button_or_5c white">新用户注册</button></a></p>
+		</div>
+		</form>
+	</div>
+</div>
+<div id="body">
+	<p class="h22 txtindent1 gray">当前位置：<a href='/'>首页</a> &gt; <a href='/info/'>全职推荐</a> &gt; 盐城市委宣传部招聘事业单位工作人员</p>
+	<!--<div class="bigbg reborder">-->
+    <div class="bigbg reborder" style="overflow:auto; _height:1%;">
+		<div id="leftcolumn" class="floatleft">
+            <div class="leftcolumn">
+				<p class="leftcolumn_title font14 b deepblack">行业分类</p>
+<ul class="left_nav">
+		<li><a href="/info/?businesses=1" >计算机•互联网•通信</a></li>
+		<li><a href="/info/?businesses=2" >电器•电子•家电</a></li>
+		<li><a href="/info/?businesses=3" >金融•投资•证券</a></li>
+		<li><a href="/info/?businesses=4" >咨询•财会•法律</a></li>
+		<li><a href="/info/?businesses=5" >贸易•消费•进出口</a></li>
+		<li><a href="/info/?businesses=6" >制药•生物•医疗</a></li>
+		<li><a href="/info/?businesses=7" >工业制造•能源•原材料</a></li>
+		<li><a href="/info/?businesses=8" >房地产•建筑•工程建设</a></li>
+		<li><a href="/info/?businesses=9" >广告•会展•公关</a></li>
+		<li><a href="/info/?businesses=10" >物流•仓储•运输</a></li>
+		<li><a href="/info/?businesses=11" >教育•培训•科研•院校</a></li>
+		<li><a href="/info/?businesses=12" >政府•公共事业•非盈利机构</a></li>
+		<li><a href="/info/?businesses=13" >服务业</a></li>
+		<li><a href="/info/?businesses=14" >农林牧渔•环保</a></li>
+		<li><a href="/info/?businesses=15" >跨领域经营 </a></li>
+		<li><a href="/info/?businesses=16" >其他</a></li>
+		<li><a href="/info/?businesses=17" >机械•自动化•仪器仪表行•重工业</a></li>
+		<li><a href="/info/?businesses=18" >汽车•摩托车行业 </a></li>
+		<li><a href="/info/?businesses=19" >旅游•酒店•餐饮服务</a></li>
+		<li><a href="/info/?businesses=20" >物业管理•商业中心</a></li>
+		<li><a href="/info/?businesses=21" >快速消费品(食品•饮料•日化•烟酒等)</a></li>
+		<li><a href="/info/?businesses=22" >家居•室内设计•装潢</a></li>
+		<li><a href="/info/?businesses=23" >石油•化工•采掘•冶炼</a></li>
+		<li><a href="/info/?businesses=24" >耐用消费品(服饰•纺织•家具）</a></li>
+		<li><a href="/info/?businesses=25" >媒体•文化传播•出版•影视</a></li>
+		<li><a href="/info/?businesses=26" >芯片•电子技术•半导体</a></li>
+		<li><a href="/info/?businesses=27" >批发•零售</a></li>
+	</ul>
+
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<p class="leftcolumn_title font14 b deepblack">热门公司推荐</p>
+<ul class="left_topcompany">
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1033-1.html">中国石化集团公司</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-212-1.html">中金(CICC)</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-183-1.html">英特尔（intel）</a></h1></li>
+	<li><h1><a href="http://www.hiall.com.cn/bbs/forum-188-1.html">联合利华Unilever</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-249-1.html">箭牌中国</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1241-1.html">完美时空</a></h1></li>
+</ul>			</div>
+			
+			
+		</div>
+		<div id="midcolumn" class="floatleft">
+			<div class="topnews">	
+	<div class="left floatleft lightblue">站内新闻</div>
+	<div class="right floatleft ">
+		<div class="floatleft">
+			<div class="absolute zindex200">
+				<a href="javascript:preMsg();" class="icon_arrow_blue_up relative floatleft" id="icon_arrow_blue_up"></a>
+			</div>
+		</div>
+		<div class="floatright">
+			<div class="absolute zindex200">
+				<a href="javascript:nextMsg();" class="icon_arrow_blue_down relative floatleft" id="icon_arrow_blue_down"></a>
+			</div>
+		</div>
+		<ul class="topnews_list" id="topnews_list" style="top:0px;">
+		<li id="msg_show"><a href="" target="_blank" class="lightgray">【KnewMaker推荐】加入“创客”一族，感受电子DIY的魅力</a></li>					
+		</ul>
+		<ul style="display:none;">
+					<li id="msg_0"><a href="" target="_blank" class="lightgray">【KnewMaker推荐】加入“创客”一族，感受电子DIY的魅力</a></li>			
+				</ul>
+		<input type="hidden" id="msg_count" value="1" />
+	</div>
+	<div class="clear"></div>
+</div>
+			<div class="clear spacer"></div>
+<div style="margin:5px 0px 0px 25px;">
+
+<script type="text/javascript"> var cpro_id = 'u249066'; </script>
+<script type="text/javascript" src="http://cpro.baidu.com/cpro/ui/c.js"></script>
+</div>
+			<div class="jobbox">
+				<div class="spacer"></div>
+				<div class="job_maininfo">
+					<h1 class="b font14">
+											江苏省盐城市  
+													<span class="pdlr"><img src="http://www.hiall.com.cn/images/icon/icon_top_default.gif" /></span>
+						</h1>
+					<h1>所属行业：政府•公共事业•非盈利机构</h1>
+					<div class="spacer"></div>
+                    <div>
+                       	<div class="button_job floatleft">
+							<div class="button_right"><a href="/company/cid-28326.html" class="icon_jobbutton_ck blue">查看公司详情</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+																		<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn">信息修改/删除</a></div>
+						</div>
+                        <div class="clear"></div>
+                            
+                    </div>
+                    <div class="spacer"></div>
+                    <div class="spacer"></div>
+                    <div>
+                        <div class="floatleft">
+                        <!-- Baidu Button BEGIN -->
+                        <div id="bdshare" class="bdshare_b" style="line-height: 12px;"><img src="http://bdimg.share.baidu.com/static/images/type-button-1.jpg" />
+                            <a class="shareCount"></a>
+                        </div>
+                        <script type="text/javascript" id="bdshare_js" data="type=button" ></script>
+                        <script type="text/javascript" id="bdshell_js"></script>
+                        <script type="text/javascript">
+                            document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+                        </script>
+                        <!-- Baidu Button END -->
+                        </div>
+                    </div>
+                    				</div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<p>
+								</p>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="job_detail">
+					<h1 class="positiontitle">盐城市委宣传部招聘事业单位工作人员</h1>
+					<div class="spacer"></div>
+					<div class="spacer4"></div>
+						<p>
+该职位已发布超过<span class="pdlr or">19</span>天
+
+						<span class="pdlr"></span><span>编号：276160</span>
+						<span class="pdlr"></span></p>
+					<div class="spacer"></div>
+					<p>						
+						<span>工作地区：其他</span>
+						<span class="pdlr"></span>
+						<span>更新时间：2013-05-10</span>
+					</p>
+<div style="border-top:1px solid #C3DBE8; margin-top: 8px;"></div>
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<div style="overflow:auto;">
+						<p>发信人: qiangwei06 (zimo), 应届生求职网andwork<br />
+标 题: 盐城市委宣传部公开招聘事业单位工作人员公告<br />
+发信站: 南京大学小百合站 (wed may 8 18:50:10 2013)<br />
+盐城市互联网信息研究中心、盐城市<br />
+新闻应急协调中心为隶属盐城市委宣传部管理的全额<br />
+拨款事业单位。因工作需要，拟面向江苏省内&ldquo;211工程&rdquo;类高等院校2013年应届毕业生公<br />
+开招聘事业单位工作人员。<br />
+一、招聘岗位、人数及相关要求<br />
+二、招聘条件<br />
+1、具有中华人民共和国国籍；<br />
+2、坚持四项基本原则，拥护党的路线、方针、政策，政治素质好，有一定的政策理论水平<br />
+；<br />
+3、遵纪守法，品行端正，身体健康，爱岗敬业；<br />
+4、江苏省&ldquo;211工程&rdquo;高等院校全日制本科或研究生及以上学历（具有相应学位）的2013<br />
+年应届毕业生。各招聘岗位对学历要求见《招聘岗位、人数及相关要求》表；<br />
+5、所学专业为中文、<br />
+文秘类，新闻传播学类，计算机（大类）类，计算机（网络管理）类<br />
+。各招聘岗位对专业要求见《招聘岗位、人数及相关要求》表，具体专业范围见附件二；<br />
+6、参照《公务员法》规定，与市委宣传部现有工作人员无《公务员法》第六十八条所列亲<br />
+属关系。<br />
+三、报名及资格审核<br />
+1、报名办法<br />
+报名时间：2013年5月6日&mdash; 5月15日，上午8：30-11：30，下午2：30-5：30；报名<br />
+地点：盐城市委宣传部干部处（盐城市世纪大道21号市<br />
+行政中心大楼20楼2003室）；联系<br />
+人：赵先生 电话：0515-86662003。<br />
+2、报名注意事项<br />
+报名人员需携带①《盐城市委宣传部公开招聘事业单位工作人员报名表》一式两份；<br />
+②本人身份证、学生证原件及复印件；③毕业证书及学位证书原件（暂未取得证书的须由<br />
+所在高校出具学历学位证明、双向就业推荐表，在办理正式录用手续前须提供毕业证书及<br />
+学位证书原件）及复印件；④提供近期1寸免冠正面照片3张。有计算机等级证书及在公开<br />
+刊物发表专业文章的可提供原件及复印件。在规定时间内到报名地点报名，由盐城市委宣<br />
+传部负责资格审核。如发现有弄虚作假行为，随时终止其报考或聘用资格。<br />
+3、本次公开招聘收取100元/人考试费。通过报名资格审查的考生，请听候通知，领取准考<br />
+证。<br />
+四、考试方式<br />
+经资格审查符合条件的，研究生报名人数须达到拟招聘人数的1：4比例，本科生报名<br />
+人数须达到拟招聘人数的1：6比例，组织考试。如达不到开考比例 ，减少招聘人数或取消<br />
+该招聘岗位。 考试采取笔试和<br />
+面试相结合的方式进行。<br />
+笔试以公共基础知识、岗位必备的专业知识及公文写作能力测试为主。面试采用结构<br />
+化面试方式进行。笔试结束后，从高分到低分按不超过招聘岗位1：3的比例确定参加面试<br />
+人员，并在盐城市委组织部《红色盐阜网》网站上公示拟进入面试人员名单。<br />
+对进入面试程序人员按笔试成绩60%、面试成绩40%进行汇总合分，计算最后总成绩。<br />
+笔试、面试时间及地点另行通知。<br />
+五、体检、考察、公示及办理聘用手续<br />
+按拟招聘人数1：1的比例从高分到低分确定参加体检人员（最终成绩总分相同，取面<br />
+试成绩高者）。体检标准参照《国家公务员录用体检通用标准（试行）》执行。体检不合<br />
+格或考察不合适或弃权出现缺额的，按照总成绩从高分到低分依次递补。对体检合格人员<br />
+进行组织考察，根据体检和考察结果，研究确定拟聘用人员名单。<br />
+对拟聘用人员在盐城市委组织部《红色盐阜网》网站上进行公示，公示无异议后办理<br />
+调动相关聘用手续。<br />
+中共盐城市委宣传部<br />
+二○一三年四月二十三日<br />
+--<br />
+[1;36m※ 来源:．南京大学小百合站 http://bbs.nju.edu.cn [from: 117.88.232.200][m</p>					</div>
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<p ><a href="http://wenda60.com" target="_blank" style="font-size:14px; color:#2B68E9">>>练练该公司的招聘笔试题 </a><script type="text/javascript"><!--
+google_ad_client = "ca-pub-9486753476951928";
+/* 底部广告 */
+google_ad_slot = "1009061790";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p> 					
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<div>
+						<div class="floatleft">
+                        <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_b" style="line-height: 12px;"><img src="http://bdimg.share.baidu.com/static/images/type-button-1.jpg" />
+                                <a class="shareCount"></a>
+                           
+						  </div>
+                        <script type="text/javascript" id="bdshare_js" data="type=button" ></script>
+                        <script type="text/javascript" id="bdshell_js"></script>
+                        <script type="text/javascript">
+                            document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+                        </script>
+                        <!-- Baidu Button END -->
+						</div>
+						<div class="button_job_or floatleft">
+							<!--<div class="button_right"><a href="javascript:;" onclick="collect(2, 276160);" class="icon_jobbutton_sc white">我要收藏</a></div>-->
+				  </div>
+                            <div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+						<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn" class="icon_jobbutton_p">举报错误信息</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+						<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn">信息修改/删除</a></div>
+						</div>
+						<div class="clear"></div>
+			  </div>
+		  </div>
+				<div class="spacer"></div>
+				<div class="spacer">
+</div>
+<!--
+				<div class="grayline"></div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="pdlr">
+					<div>
+						<span class="floatleft font14  b">同行业的职位</span>
+						<span class="floatright pdlr"></span>
+					</div>
+					<div class="clear spacer"></div>
+					<ul class="ul_bluedisc underline">
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277122.html" class="blue" title="最高人民检察院直属事业单位2013招聘17名工作人员" target="_blank">最高人民检察院直属事业单位2013招聘17名工作人员</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276645.html" class="blue" title="国家电网平高集团2013校园招聘第三批" target="_blank">国家电网平高集团2013校园招聘第三批</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276340.html" class="blue" title="新疆维吾尔自治区2013考试录用公务员、工作人员招聘" target="_blank">新疆维吾尔自治区2013考试录用公务员、工作人员招聘</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276160.html" class="blue" title="盐城市委宣传部招聘事业单位工作人员" target="_blank">盐城市委宣传部招聘事业单位工作人员</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276158.html" class="blue" title="昆明市规划编制与信息中心2013年公开招聘人员" target="_blank">昆明市规划编制与信息中心2013年公开招聘人员</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276152.html" class="blue" title="云南省测绘地理信息局直属事业单位2013年公开招聘工作人员" target="_blank">云南省测绘地理信息局直属事业单位2013年公开招聘工作</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276151.html" class="blue" title="常德市鼎城区2013年公开招聘教师" target="_blank">常德市鼎城区2013年公开招聘教师</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276149.html" class="blue" title="上海市绿化和市容管理局2013公开招聘" target="_blank">上海市绿化和市容管理局2013公开招聘</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276130.html" class="blue" title="江苏省东海县2013招聘新教师" target="_blank">江苏省东海县2013招聘新教师</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276101.html" class="blue" title="湘潭市2013年市直卫生系统公开招聘人员" target="_blank">湘潭市2013年市直卫生系统公开招聘人员</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											
+					</ul>
+				</div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="grayline"></div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+								<div class="pdlr">
+					<div>
+						<span class="floatleft font14  b">相同公司职位</span>
+						<span class="floatright pdlr"></span>
+					</div>
+					<div class="clear spacer"></div>
+					<ul class="ul_bluedisc underline">
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276160.html" class="blue" title="盐城市委宣传部招聘事业单位工作人员" target="_blank">盐城市委宣传部招聘事业单位工作人员</a></div>
+							<span class="floatright gray pdlr">05-10</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_268646.html" class="blue" title="江苏省盐城市环境保护局直属事业单位2013招聘劳动合同制专业技术人员" target="_blank">江苏省盐城市环境保护局直属事业单位2013招聘劳动合同</a></div>
+							<span class="floatright gray pdlr">03-22</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_265196.html" class="blue" title="盐城市哲学社会科学联合会2013招聘所属事业单位《黄海学坛》编辑部工作人员" target="_blank">盐城市哲学社会科学联合会2013招聘所属事业单位《黄海</a></div>
+							<span class="floatright gray pdlr">03-15</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_263853.html" class="blue" title="盐城市市直部分事业单位2013公开招聘工作人员" target="_blank">盐城市市直部分事业单位2013公开招聘工作人员</a></div>
+							<span class="floatright gray pdlr">03-05</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_263335.html" class="blue" title="盐城市劳动就业中心2013年公开招聘硕士研究生" target="_blank">盐城市劳动就业中心2013年公开招聘硕士研究生</a></div>
+							<span class="floatright gray pdlr">02-28</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_262397.html" class="blue" title="江苏盐城市米奇幼儿园2013年招聘教师" target="_blank">江苏盐城市米奇幼儿园2013年招聘教师</a></div>
+							<span class="floatright gray pdlr">02-26</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_256119.html" class="blue" title="江苏省盐城市中医院2013年招聘" target="_blank">江苏省盐城市中医院2013年招聘</a></div>
+							<span class="floatright gray pdlr">02-04</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_255952.html" class="blue" title="江苏省盐城市中医院2013招聘" target="_blank">江苏省盐城市中医院2013招聘</a></div>
+							<span class="floatright gray pdlr">02-03</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_255354.html" class="blue" title="中共盐城市委党校招聘博士" target="_blank">中共盐城市委党校招聘博士</a></div>
+							<span class="floatright gray pdlr">01-29</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_252867.html" class="blue" title="盐城海特机械科技有限公司2013招聘" target="_blank">盐城海特机械科技有限公司2013招聘</a></div>
+							<span class="floatright gray pdlr">01-21</span>
+							<div class="clear"></div>
+						</li>
+											
+					</ul>
+				</div>
+							</div>
+			<div class="clear spacer"></div>
+			<div class="spacer"></div>
+			<div class="spacer"></div>
+-->
+			<div class="spacer"></div>
+		</div>
+        
+		<div class="clear"></div>
+	</div>
+    
+    <div id="rightcolumn" class="floatleft">
+            <div class="rightcolumn" style="padding:0px;">
+                <div>
+			 <script type="text/javascript"><!--
+            google_ad_client = "ca-pub-9486753476951928";
+            /* 职位广告 */
+            google_ad_slot = "3598731756";
+            google_ad_width = 200;
+            google_ad_height = 200;
+            //-->
+            </script>
+            <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+				
+				    <div class="rightcolumn_title font14 b deepblack">该公司最新招聘信息</div>
+                    <div class="rightcolumn_title font14 b deepblack"><a href="/company/cid-28326.html ">点击查看全部</a></div>
+					<div class="spacer"></div>
+					<ul class="ul_bluedisc right_ul_bluedisc underline">
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_276160.html" class="blue">盐城市委宣传部招聘事业单位工作人员</a></div>
+						<span class="pdlr4 floatright">05-09</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_268646.html" class="blue">江苏省盐城市环境保护局直属事业单位2013招聘劳动合同制专业技术人员</a></div>
+						<span class="pdlr4 floatright">01-22</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_265196.html" class="blue">盐城市哲学社会科学联合会2013招聘所属事业单位《黄海学坛》编辑部工作人员</a></div>
+						<span class="pdlr4 floatright">01-08</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_263853.html" class="blue">盐城市市直部分事业单位2013公开招聘工作人员</a></div>
+						<span class="pdlr4 floatright">01-04</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_263335.html" class="blue">盐城市劳动就业中心2013年公开招聘硕士研究生</a></div>
+						<span class="pdlr4 floatright">12-28</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_262397.html" class="blue">江苏盐城市米奇幼儿园2013年招聘教师</a></div>
+						<span class="pdlr4 floatright">12-26</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_256119.html" class="blue">江苏省盐城市中医院2013年招聘</a></div>
+						<span class="pdlr4 floatright">12-04</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_255952.html" class="blue">江苏省盐城市中医院2013招聘</a></div>
+						<span class="pdlr4 floatright">12-03</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_255354.html" class="blue">中共盐城市委党校招聘博士</a></div>
+						<span class="pdlr4 floatright">11-29</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_252867.html" class="blue">盐城海特机械科技有限公司2013招聘</a></div>
+						<span class="pdlr4 floatright">11-21</span>
+						<div class="clear"></div>
+						</li>							
+										</ul>
+				</div>
+		   </div>
+           <div class="rightcolumn" style="padding:0px;">
+                <div>
+				
+				    <div class="rightcolumn_title font14 b deepblack">同行业最新招聘信息</div>
+                    
+					<div class="spacer"></div>
+					<ul class="ul_bluedisc right_ul_bluedisc underline">
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277122.html" class="blue" title="最高人民检察院直属事业单位2013招聘17名工作人员" target="_blank">最高人民检察院直属事业单位2013招聘17名工作人员</a></div>
+							<span class="floatright gray pdlr">05-21</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276645.html" class="blue" title="国家电网平高集团2013校园招聘第三批" target="_blank">国家电网平高集团2013校园招聘第三批</a></div>
+							<span class="floatright gray pdlr">05-14</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276340.html" class="blue" title="新疆维吾尔自治区2013考试录用公务员、工作人员招聘" target="_blank">新疆维吾尔自治区2013考试录用公务员、工作人员招聘</a></div>
+							<span class="floatright gray pdlr">05-10</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276160.html" class="blue" title="盐城市委宣传部招聘事业单位工作人员" target="_blank">盐城市委宣传部招聘事业单位工作人员</a></div>
+							<span class="floatright gray pdlr">05-09</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276158.html" class="blue" title="昆明市规划编制与信息中心2013年公开招聘人员" target="_blank">昆明市规划编制与信息中心2013年公开招聘人员</a></div>
+							<span class="floatright gray pdlr">05-09</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276152.html" class="blue" title="云南省测绘地理信息局直属事业单位2013年公开招聘工作人员" target="_blank">云南省测绘地理信息局直属事业单位2013年公开招聘工作</a></div>
+							<span class="floatright gray pdlr">05-09</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276151.html" class="blue" title="常德市鼎城区2013年公开招聘教师" target="_blank">常德市鼎城区2013年公开招聘教师</a></div>
+							<span class="floatright gray pdlr">05-09</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276149.html" class="blue" title="上海市绿化和市容管理局2013公开招聘" target="_blank">上海市绿化和市容管理局2013公开招聘</a></div>
+							<span class="floatright gray pdlr">05-09</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276130.html" class="blue" title="江苏省东海县2013招聘新教师" target="_blank">江苏省东海县2013招聘新教师</a></div>
+							<span class="floatright gray pdlr">05-09</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276101.html" class="blue" title="湘潭市2013年市直卫生系统公开招聘人员" target="_blank">湘潭市2013年市直卫生系统公开招聘人员</a></div>
+							<span class="floatright gray pdlr">05-09</span>
+							<div class="clear"></div>
+						</li>							
+										</ul>
+				</div>
+		   </div>
+           <div class="rightcolumn">
+				<div class="spacer"></div>
+	
+								
+		   </div>
+		   <div class="spacer"></div>
+				
+    </div>
+</div>
+<iframe id="collection" name="collection" style="width:0px;height:0px;"></iframe>
+<div id="foot">
+	<div class="footbody">
+		<div class="foot_top aligncenter white"> <a href="http://www.hiall.com.cn/" class="white">HiAll校园招聘</a> <span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/" class="white">HiAll论坛</a> 
+
+<span class="pdlr4">|</span> <a href="http://wenda.hiall.com.cn/" class="white">HiAll一问一答</a>
+
+<span class="pdlr4">|</span> <a href="http://maker.wenda60.com/" class="white">KnewMaker</a>
+
+
+<span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/forum-744-1.html" class="white">校园招聘求职大礼包</a> <span class="pdlr4">|</span> <a href="http://hr.hiall.com.cn/" class="white">加入HiAll</a>
+<span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/thread-150495-1-1.html" class="white">广告合作</a> <span class="pdlr4">|</span> <a href="/info/about.php" class="white">关于我们</a> <span class="pdlr4">|</span> <a href="/info/sitemap.php" class="white">网站地图</a></div>		<div class="foot_mid aligncenter white"> 网站相关问题请联系：010-82601802 || 企业服务请联系：010-82600684</div>
+		<div class="foot_bot aligncenter white">Copyright HiAll
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP备10021013号
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP证090110号
+			<span class="pdlr"></span><span class="pdlr"></span>京公网安备11010802010560号
+		</div>
+	</div>
+</div>
+<!-- Baidu Analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F56dda118cbb3220435957635a699495b' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- Baidu Analytics -->
+</body>
+</html>
+

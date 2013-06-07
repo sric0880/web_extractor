@@ -1,0 +1,986 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<title>山东滨农科技有限公司2013招聘-全职推荐</title>
+<head>
+<meta property="qc:admins" content="35413136776011446375636" />
+<meta http-equiv="keywords" content="2013校园招聘,HiAll,招聘,校园招聘,全职职位,实习职位,大学生求职,应届生求职"/>
+<meta http-equiv="description" content="HiAll，为应届毕业生或在校生提供最新、最全、最可靠的全职、实习招聘信息、宣讲会信息与各种求职资讯与资料，成为联动学生与雇主的纽带，覆盖北京、上海、广州、海外等地区。" />
+<meta name="generator" content="HiAll2.0" />
+<meta name="author" content="HiAll" />
+<meta name="copyright" content="2004-2012 HiAll." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<script src="http://file.hiall.com.cn/newhiall/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/jquery.validate.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/utils.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/u1.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frame/page.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/main.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frontpage/frontpage.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/manage.css" />
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2560481-2']);
+  _gaq.push(['_setDomainName', '.hiall.com.cn']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Google Analytics -->
+</head>
+<body>
+<div id="head">
+	<div id="headbody">
+		<div class="top">
+			<a href="/" class="head_logo floatleft"></a>
+			<div class="mid floatleft">
+			<form method="post" action="/search/infos.php">
+				<input type="text" class="head_search_input gray floatleft" maxlength="10" value="职位信息 如：管理培训生" id="searchkey" name="searchkey" onclick="if(this.value == '职位信息 如：管理培训生') this.value='';" onblur="if(this.value=='') this.value='职位信息 如：管理培训生';"/>
+				<div class="head_search_select gray pointer floatleft">
+					<div class="floatleft">
+						<div class="absolute">
+							<div class="relative head_search_select_optionbox" style="display:none; z-index:10;">
+								<ul class="head_search_select_option" id="choosecity-list">
+																<li id="r0">全部</li>
+																<li id="r1">北京</li>
+																<li id="r2">上海</li>
+																<li id="r40">广州</li>
+																<li id="r41">深圳</li>
+															</ul>
+							</div>
+						</div>
+					</div>
+					<span id="choosecity">全部</span>
+				</div>
+				<input type="hidden" name="regionid" id="regionid" value="0">
+				<input type="hidden" name="op" id="op" value="headersearch">
+				<input  type="button" class="button_head_search pointer floatleft" onclick="javascript:headerSearch(this);" />
+			</div>
+			</form>
+			<div class="right floatright">
+				<div class="head_greenicon_box floatleft">
+											<p><span class="white">个人用户</span></p>
+						<p><a href="/collect/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="http://bbs.hiall.com.cn/register_hiall.php" class="white">注册</a></p>		
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="head_blueicon_box floatleft">
+										<p><a class="white">企业用户</a></p>
+					<p><a href="/users/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="/users/register.php" class="white">注册</a></p>
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="vspacer floatleft"></div>
+				<div class="floatleft">
+					<p><a href="/info/about.php#t2" class="white">查看企业</p><p>服务项目</a></p>
+				</div>
+				<div class="vspacer floatleft"></div>
+			</div>
+		</div>
+		<div class="clear"></div>
+		<div class="bottom">
+
+<!--<div style="position:relative;">-->
+<ul class="head_nav floatleft">
+	<li hidefocus="true" ><a href="/" hidefocus="true">首页</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://bbs.hiall.com.cn" target="_blank" hidefocus="true">BBS</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true"  class="active"><a href="/info/" hidefocus="true">全职推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/part.php" hidefocus="true">实习推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/" hidefocus="true" target="_blank">宣讲会</a></li>
+	<li hidefocus="true" class="fg"></li>
+
+    <!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/calendar/" hidefocus="true" target="_blank">2012校招日程</a></li>-->
+	<li hidefocus="true" ><a href="/info/special.php" hidefocus="true">专业招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/company/" hidefocus="true">名企招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/expire.php" hidefocus="true">申请截止</a></li>
+	<li hidefocus="true" class="fg"></li>
+    <li hidefocus="true"  style='padding-left:0px;'><a href="http://bbs.hiall.com.cn/forum-1054-1.html" hidefocus="true" target="_blank" >2013名企求职礼包</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://wenda.hiall.com.cn/" hidefocus="true" target="_blank">HiAll一问一答</a></li>
+		<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://maker.wenda60.com/" hidefocus="true" target="_blank" style="color:red" class="menu_red">KnewMaker</a></li>
+	<!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/2011/" hidefocus="true" target="_blank" class="menu_red">KnewMaker</a></li>-->
+	<!--<li hidefocus="true" ><a href="http://edu.hiall.com.cn/" hidefocus="true" target="_blank">求职指导</a></li>-->
+	<!--<li hidefocus="true" ><a href="http://miaosha.hiall.com.cn/" hidefocus="true" target="_blank">职业秒杀</a></li>
+	<li hidefocus="true" class="fg"></li>-->
+	<!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/yinhang/" hidefocus="true" target="_blank" style="color:red">2012银行校园招聘</a></li>-->
+</ul>
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>
+<div id="loginfloat" style="background:red;psotion:absolute;display:none;">
+	<div class="fav_topbox floatleft">
+		<p class="h22"><span class="or b">登录后可以个性化你的收藏哦！</span><span class="gray">（用HiAll bbs账号直接登录）</span><span class="gray"><a href="javascript:;" onclick="closeCollect();">关闭</a></span></p>
+		<div class="spacer"></div>
+		<form method="post" accept-charset="GB2312" name="login" id="loginform1" class="gateform" action="http://bbs.hiall.com.cn/logging.php?action=login&amp;loginsubmit=yes">
+		<input type="hidden" name="formhash" value="e9f7b113" />
+		<input type="hidden" name="referer" id="referer" value="http://www.hiall.com.cn/collect/index.php" />
+		<div>
+			<p class="h22"><span>用户名：</span><span><input type="text" class="required normalinput grayborder" size="14" name="username" id="username1" title="用户名称不能为空！" /></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/register_hiall.php" class="gray underline">新用户注册</a></span><h3 id="returnmessage"></h3></p>
+			<div class="spacer"></div>
+			<p class="h22"><span>密&nbsp;&nbsp;码：</span><span><input type="password" class="required normalinput grayborder" size="14"  id="password4" name="password" title="密码不能为空！"/></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/logging.php?action=login" class="gray underline">忘记密码?</a></span></p>
+			<div class="spacer"></div>
+			<p class="fav_login_button h22"><input type="button" onclick="return ajaxpost('username1', 'password4', 'loginform1', 'returnmessage', 'returnmessage', 'onerror');" value="登  录"  class="button_or_2c white"/><span class="pdlr4"></span><a href="http://bbs.hiall.com.cn/register_hiall.php"><button class="button_or_5c white">新用户注册</button></a></p>
+		</div>
+		</form>
+	</div>
+</div>
+<div id="body">
+	<p class="h22 txtindent1 gray">当前位置：<a href='/'>首页</a> &gt; <a href='/info/'>全职推荐</a> &gt; 山东滨农科技有限公司2013招聘</p>
+	<!--<div class="bigbg reborder">-->
+    <div class="bigbg reborder" style="overflow:auto; _height:1%;">
+		<div id="leftcolumn" class="floatleft">
+            <div class="leftcolumn">
+				<p class="leftcolumn_title font14 b deepblack">行业分类</p>
+<ul class="left_nav">
+		<li><a href="/info/?businesses=1" >计算机•互联网•通信</a></li>
+		<li><a href="/info/?businesses=2" >电器•电子•家电</a></li>
+		<li><a href="/info/?businesses=3" >金融•投资•证券</a></li>
+		<li><a href="/info/?businesses=4" >咨询•财会•法律</a></li>
+		<li><a href="/info/?businesses=5" >贸易•消费•进出口</a></li>
+		<li><a href="/info/?businesses=6" >制药•生物•医疗</a></li>
+		<li><a href="/info/?businesses=7" >工业制造•能源•原材料</a></li>
+		<li><a href="/info/?businesses=8" >房地产•建筑•工程建设</a></li>
+		<li><a href="/info/?businesses=9" >广告•会展•公关</a></li>
+		<li><a href="/info/?businesses=10" >物流•仓储•运输</a></li>
+		<li><a href="/info/?businesses=11" >教育•培训•科研•院校</a></li>
+		<li><a href="/info/?businesses=12" >政府•公共事业•非盈利机构</a></li>
+		<li><a href="/info/?businesses=13" >服务业</a></li>
+		<li><a href="/info/?businesses=14" >农林牧渔•环保</a></li>
+		<li><a href="/info/?businesses=15" >跨领域经营 </a></li>
+		<li><a href="/info/?businesses=16" >其他</a></li>
+		<li><a href="/info/?businesses=17" >机械•自动化•仪器仪表行•重工业</a></li>
+		<li><a href="/info/?businesses=18" >汽车•摩托车行业 </a></li>
+		<li><a href="/info/?businesses=19" >旅游•酒店•餐饮服务</a></li>
+		<li><a href="/info/?businesses=20" >物业管理•商业中心</a></li>
+		<li><a href="/info/?businesses=21" >快速消费品(食品•饮料•日化•烟酒等)</a></li>
+		<li><a href="/info/?businesses=22" >家居•室内设计•装潢</a></li>
+		<li><a href="/info/?businesses=23" >石油•化工•采掘•冶炼</a></li>
+		<li><a href="/info/?businesses=24" >耐用消费品(服饰•纺织•家具）</a></li>
+		<li><a href="/info/?businesses=25" >媒体•文化传播•出版•影视</a></li>
+		<li><a href="/info/?businesses=26" >芯片•电子技术•半导体</a></li>
+		<li><a href="/info/?businesses=27" >批发•零售</a></li>
+	</ul>
+
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<p class="leftcolumn_title font14 b deepblack">热门公司推荐</p>
+<ul class="left_topcompany">
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1033-1.html">中国石化集团公司</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-212-1.html">中金(CICC)</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-183-1.html">英特尔（intel）</a></h1></li>
+	<li><h1><a href="http://www.hiall.com.cn/bbs/forum-188-1.html">联合利华Unilever</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-249-1.html">箭牌中国</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1241-1.html">完美时空</a></h1></li>
+</ul>			</div>
+			
+			
+		</div>
+		<div id="midcolumn" class="floatleft">
+			<div class="topnews">	
+	<div class="left floatleft lightblue">站内新闻</div>
+	<div class="right floatleft ">
+		<div class="floatleft">
+			<div class="absolute zindex200">
+				<a href="javascript:preMsg();" class="icon_arrow_blue_up relative floatleft" id="icon_arrow_blue_up"></a>
+			</div>
+		</div>
+		<div class="floatright">
+			<div class="absolute zindex200">
+				<a href="javascript:nextMsg();" class="icon_arrow_blue_down relative floatleft" id="icon_arrow_blue_down"></a>
+			</div>
+		</div>
+		<ul class="topnews_list" id="topnews_list" style="top:0px;">
+		<li id="msg_show"><a href="" target="_blank" class="lightgray">【KnewMaker推荐】加入“创客”一族，感受电子DIY的魅力</a></li>					
+		</ul>
+		<ul style="display:none;">
+					<li id="msg_0"><a href="" target="_blank" class="lightgray">【KnewMaker推荐】加入“创客”一族，感受电子DIY的魅力</a></li>			
+				</ul>
+		<input type="hidden" id="msg_count" value="1" />
+	</div>
+	<div class="clear"></div>
+</div>
+			<div class="clear spacer"></div>
+<div style="margin:5px 0px 0px 25px;">
+
+<script type="text/javascript"> var cpro_id = 'u249066'; </script>
+<script type="text/javascript" src="http://cpro.baidu.com/cpro/ui/c.js"></script>
+</div>
+			<div class="jobbox">
+				<div class="spacer"></div>
+				<div class="job_maininfo">
+					<h1 class="b font14">
+											山东滨农科技有限公司  
+													<span class="pdlr"><img src="http://www.hiall.com.cn/images/icon/icon_top_default.gif" /></span>
+						</h1>
+					<h1>所属行业：农林牧渔•环保</h1>
+					<div class="spacer"></div>
+                    <div>
+                       	<div class="button_job floatleft">
+							<div class="button_right"><a href="/company/cid-28726.html" class="icon_jobbutton_ck blue">查看公司详情</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+																		<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn">信息修改/删除</a></div>
+						</div>
+                        <div class="clear"></div>
+                            
+                    </div>
+                    <div class="spacer"></div>
+                    <div class="spacer"></div>
+                    <div>
+                        <div class="floatleft">
+                        <!-- Baidu Button BEGIN -->
+                        <div id="bdshare" class="bdshare_b" style="line-height: 12px;"><img src="http://bdimg.share.baidu.com/static/images/type-button-1.jpg" />
+                            <a class="shareCount"></a>
+                        </div>
+                        <script type="text/javascript" id="bdshare_js" data="type=button" ></script>
+                        <script type="text/javascript" id="bdshell_js"></script>
+                        <script type="text/javascript">
+                            document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+                        </script>
+                        <!-- Baidu Button END -->
+                        </div>
+                    </div>
+                    				</div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<p>
+								</p>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="job_detail">
+					<h1 class="positiontitle">山东滨农科技有限公司2013招聘</h1>
+					<div class="spacer"></div>
+					<div class="spacer4"></div>
+						<p>
+该职位已发布超过<span class="pdlr or">36</span>天
+
+						<span class="pdlr"></span><span>编号：274597</span>
+						<span class="pdlr"></span></p>
+					<div class="spacer"></div>
+					<p>						
+						<span>工作地区：山东</span>
+						<span class="pdlr"></span>
+						<span>更新时间：2013-04-22</span>
+					</p>
+<div style="border-top:1px solid #C3DBE8; margin-top: 8px;"></div>
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<div style="overflow:auto;">
+						<p>&nbsp;</p>
+<div align="left"><span style="color: black; font-size: 12pt">★公司简介</span></div>
+<div style="text-align: left; text-indent: 24.6pt" align="left"><span style="color: black; font-size: 12pt">山东滨农科技有限公司创建于2003年，是集研发、生产、销售于一体的专业植保产品制造供应商。公司系国家高新技术企业，拥有省级技术中心，是中国最大的选择性除草剂生产企业，国内除草剂制剂市场占有率居第一位。</span></div>
+<div style="text-align: left; text-indent: 24.6pt" align="left"><span style="color: black; font-size: 12pt">公司现拥有除草剂、杀虫剂、杀菌剂三大农药类别，能够合成原药品种30个，制剂加工品种多达100多个。公司的酰胺类、均三氮苯类、二硝基苯胺类、有机磷类、苯氧羧酸类除草剂原药均已规模化和系列化生产，年合成能力在9万吨以上。</span></div>
+<div style="text-align: left; text-indent: 24.6pt" align="left"><span style="color: black; font-size: 12pt">公司以品质、健康、安全、环保为指导，以持续改进和稳定的质量观为保证，先后通过IS09001质量管理体系认证、IS014001环境管理体系认证、GB/T28001职业健康安全管理体系认证和SA8000社会责任管理体系认证、导入CIS企业整体形象工程，全面提升企业整体形象。实施ERP，建设现代化管理信息系统，不断完善企业管理。建设鲜明企业文化，打造自身品牌。我们将与您一道致力于全球植保事业，为促进农业丰收和社会进</span><span style="font-size: 12pt">步而不懈努力。</span></div>
+<div style="text-align: left; text-indent: 18pt" align="left"><span style="font-size: 12pt">&ldquo;构建和谐企业，创建百年滨农&rdquo;是滨农人永恒不变的追求。</span></div>
+<div style="text-align: left; text-indent: 21.75pt" align="left"><span style="font-size: 12pt">我们将为您提供&mdash;&mdash;</span></div>
+<div style="text-align: left; text-indent: 12pt" align="left"><span style="font-size: 12pt">广阔的事业平台 良好的成长空间有竞争力的动态薪酬</span></div>
+<div align="center">
+<table border="1" cellspacing="0" cellpadding="0" width="624" style="width: 467.8pt; border-collapse: collapse">
+    <tbody>
+        <tr style="height: 20.25pt">
+            <td width="114" style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 85.5pt; padding-right: 5.4pt; height: 20.25pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm">
+            <div align="center"><span style="font-size: 12pt">招聘岗位</span></div>
+            </td>
+            <td width="359" style="border-bottom: 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 269.1pt; padding-right: 5.4pt; height: 20.25pt; border-top: 1pt solid; border-right: 1pt solid; padding-top: 0cm">
+            <div align="center"><span style="font-size: 12pt">岗位要求</span></div>
+            </td>
+            <td width="55" style="border-bottom: 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 40.9pt; padding-right: 5.4pt; height: 20.25pt; border-top: 1pt solid; border-right: 1pt solid; padding-top: 0cm">
+            <div align="center"><span style="font-size: 12pt">人数</span></div>
+            </td>
+            <td width="96" style="border-bottom: 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 72.3pt; padding-right: 5.4pt; height: 20.25pt; border-top: 1pt solid; border-right: 1pt solid; padding-top: 0cm">
+            <div align="center"><span style="font-size: 12pt">学历要求</span></div>
+            </td>
+        </tr>
+        <tr style="height: 20.25pt">
+            <td valign="top" width="114" style="border-bottom: 1pt solid; border-left: 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 85.5pt; padding-right: 5.4pt; height: 20.25pt; border-top: medium none; border-right: 1pt solid; padding-top: 0cm">
+            <div style="text-align: center; layout-grid-mode: char" align="center"><span style="font-size: 12pt">出口部业务员</span></div>
+            </td>
+            <td valign="top" width="359" style="border-bottom: 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 269.1pt; padding-right: 5.4pt; height: 20.25pt; border-top: medium none; border-right: 1pt solid; padding-top: 0cm">
+            <div style="text-align: left; layout-grid-mode: char" align="left"><span style="font-size: 12pt">化学工程与工艺、应用化学、化学</span></div>
+            </td>
+            <td valign="top" width="55" style="border-bottom: 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 40.9pt; padding-right: 5.4pt; height: 20.25pt; border-top: medium none; border-right: 1pt solid; padding-top: 0cm">
+            <div style="text-align: center; layout-grid-mode: char" align="center"><span style="font-size: 12pt">6</span></div>
+            </td>
+            <td valign="top" width="96" style="border-bottom: 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 72.3pt; padding-right: 5.4pt; height: 20.25pt; border-top: medium none; border-right: 1pt solid; padding-top: 0cm">
+            <div style="text-align: center; layout-grid-mode: char" align="center"><span style="font-size: 12pt">本科及以上</span></div>
+            </td>
+        </tr>
+        <tr style="height: 20.25pt">
+            <td width="114" style="border-bottom: 1pt solid; border-left: 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 85.5pt; padding-right: 5.4pt; height: 20.25pt; border-top: medium none; border-right: 1pt solid; padding-top: 0cm">
+            <div align="center"><span style="font-size: 12pt">推广员</span></div>
+            </td>
+            <td width="359" style="border-bottom: 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 269.1pt; padding-right: 5.4pt; height: 20.25pt; border-top: medium none; border-right: 1pt solid; padding-top: 0cm">
+            <div align="left"><span style="font-size: 12pt">农学、化工等相关专业</span></div>
+            </td>
+            <td valign="top" width="55" style="border-bottom: 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 40.9pt; padding-right: 5.4pt; height: 20.25pt; border-top: medium none; border-right: 1pt solid; padding-top: 0cm">
+            <div style="text-align: center; layout-grid-mode: char" align="center"><span style="font-size: 12pt">20</span></div>
+            </td>
+            <td valign="top" width="96" style="border-bottom: 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 72.3pt; padding-right: 5.4pt; height: 20.25pt; border-top: medium none; border-right: 1pt solid; padding-top: 0cm">
+            <div style="text-align: center; layout-grid-mode: char" align="center"><span style="font-size: 12pt">大专及以上</span></div>
+            </td>
+        </tr>
+        <tr style="height: 20.25pt">
+            <td width="114" style="border-bottom: 1pt solid; border-left: 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 85.5pt; padding-right: 5.4pt; height: 20.25pt; border-top: medium none; border-right: 1pt solid; padding-top: 0cm">
+            <div align="center"><span style="font-size: 12pt">生产操作骨干</span></div>
+            </td>
+            <td width="359" style="border-bottom: 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 269.1pt; padding-right: 5.4pt; height: 20.25pt; border-top: medium none; border-right: 1pt solid; padding-top: 0cm">
+            <div align="left"><span style="font-size: 12pt">化工、机械、自动化等相关专业</span></div>
+            </td>
+            <td width="55" style="border-bottom: 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 40.9pt; padding-right: 5.4pt; height: 20.25pt; border-top: medium none; border-right: 1pt solid; padding-top: 0cm">
+            <div align="center"><span style="font-size: 12pt">50</span></div>
+            </td>
+            <td width="96" style="border-bottom: 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 72.3pt; padding-right: 5.4pt; height: 20.25pt; border-top: medium none; border-right: 1pt solid; padding-top: 0cm">
+            <div align="center"><span style="font-size: 12pt">大专及以上</span></div>
+            </td>
+        </tr>
+        <tr style="height: 20.25pt">
+            <td width="114" style="border-bottom: 1pt solid; border-left: 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 85.5pt; padding-right: 5.4pt; height: 20.25pt; border-top: medium none; border-right: 1pt solid; padding-top: 0cm">
+            <div align="center"><span style="font-size: 12pt">生产调度</span></div>
+            </td>
+            <td width="359" style="border-bottom: 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 269.1pt; padding-right: 5.4pt; height: 20.25pt; border-top: medium none; border-right: 1pt solid; padding-top: 0cm">
+            <div align="left"><span style="font-size: 12pt">化工类专业</span></div>
+            </td>
+            <td width="55" style="border-bottom: 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 40.9pt; padding-right: 5.4pt; height: 20.25pt; border-top: medium none; border-right: 1pt solid; padding-top: 0cm">
+            <div align="center"><span style="font-size: 12pt">2</span></div>
+            </td>
+            <td width="96" style="border-bottom: 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 72.3pt; padding-right: 5.4pt; height: 20.25pt; border-top: medium none; border-right: 1pt solid; padding-top: 0cm">
+            <div align="center"><span style="font-size: 12pt">本科及以上</span></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div style="text-align: left; text-indent: -18pt; margin-left: 18pt" align="left"><span style="font-size: 12pt">★</span><span style="font-size: 12pt">招聘条件</span></div>
+<ol type="1" style="margin-top: 0cm">
+    <li style="text-align: left"><span style="font-size: 12pt">专业知识扎实，品德高尚，有科学奉献的敬业精神，团队协作，遵守职业道德。愿意从事农资化工生产工作。 </span></li>
+</ol>
+<div style="text-align: left; text-indent: -18pt; margin-left: 18pt" align="left"><span style="font-size: 12pt">★</span><span style="font-size: 12pt">公司福利待遇 </span></div>
+<div style="text-align: left; text-indent: 24pt" align="left"><span style="font-size: 12pt">1.</span><span style="font-size: 12pt">试用期1&mdash;3个月，试用期工资1600-1800元，试用期后因岗定薪，工资2500元以上，缴纳五项社会保险。</span></div>
+<div align="left"><span style="font-size: 12pt">2.</span><span style="font-size: 12pt">免费提供住宿，上下班通班车，设有大型福利补贴性员工餐厅，集体公寓配备有线电视、网络专线、暖气等设施，公司建有经济适用房可供员工购买。</span></div>
+<div style="text-align: left; text-indent: 21pt" align="left"><span style="font-size: 12pt">3.</span><span style="font-size: 12pt">享有带薪年假、探亲假、婚假，国家法定节假日安排放假，如有加班按国家法定加班工资支付。</span></div>
+<div align="left"><span style="font-size: 12pt">★ 联系方式</span></div>
+<div style="text-align: left; text-indent: 11.65pt" align="left"><span style="font-size: 12pt">联系人：林先生、于先生电 话：0543-3557757/5087757</span></div>
+<div style="text-align: left; text-indent: 11.75pt" align="left"><span style="font-size: 12pt">邮 箱：<a href="mailto:bnkjrl@163.com">bnkjrl@163.com</a>网 址：<a href="http://www.binnong.com/">http://www.binnong.com/</a><span> http://www.goalsun.cn</span></span></div>
+<div style="text-align: left; text-indent: 11.75pt" align="left"><span style="font-size: 12pt">公司地址：滨州市滨北经济开发区永莘路518号</span></div>
+<div align="center"><strong><span style="color: black; font-size: 12pt">潍坊中商网络科技有限公司招聘简章</span></strong></div>
+<div style="text-align: left; text-indent: 24pt" align="left"><span style="font-size: 12pt">潍坊中商网络科技有限公司，是阿里巴巴授权的青岛、潍坊、烟台、威海、东营核心运营服务机构，也是开眼数据（北京）授权的青岛、潍坊核心运营服务机构。</span></div>
+<div align="left"><span style="font-size: 12pt">公司主要为当地企业提供以下服务：</span></div>
+<div align="left"><span style="font-size: 12pt">第一：阿里巴巴诚信通、网销宝、精准营销，让您在互联网时代拥有自己的电子商务；</span></div>
+<div align="left"><span style="font-size: 12pt">第二：服务宝、重发软件，让您公司的电子商务成为同行业的佼佼者；</span></div>
+<div align="left"><span style="font-size: 12pt">第三：开眼数据，中国领先的专业SEM投放操作软件，帮助进行搜索推广的企业提供专业推广，让您公司的电子商务更加智能、省钱、高效，让更多的企业享受数据服务。</span></div>
+<div style="text-align: left; text-indent: 24pt" align="left"><span style="font-size: 12pt">公司现有员工一百多人，市场涵盖青岛、潍坊、东营、烟台、威海等区域，拥有企业合作客户10000多家，现已成为阿里巴巴、开眼数据山东区域重点合作企业。</span></div>
+<div align="left"><span style="font-size: 12pt">作为一个技术创新、管理严谨的高科技公司，聚集了众多优秀的有志人士，我们拥有最专业的服务团队、最新的开发技术、以及丰富的建设经验和有效的管理方法，我们致力于为企业提供性价比最好的电子商务服务为服务宗旨，公司采用先进的网络技术和严谨的管理制度，为帮助当地企业发展做着不懈的努力，我们运用先进的信息技术搭建起一个适合企业业务发展和管理需要的应用服务平台；我们通过专业化的服务团队面对面的向当地企业提供全方位的电子商务服务；我们提供一系列的后续培训服务，帮助企业通过一系列认证推广服务，帮助客户带来订单。用我们的力量促进企业更加快速的发展，为客户提供最佳的电子商务解决方案，创造更高的价值。让天下的生意动起来！</span></div>
+<div style="text-align: left; background: white" align="left"><span style="background: white; font-size: 12pt">阿里巴巴（山东）诚聘如下岗位：</span></div>
+<div style="text-align: left; background: white" align="left"><span style="background: white; font-size: 12pt">一、销售主管</span><span style="background: white; font-size: 12pt">：5名</span></div>
+<div style="text-align: left; background: white" align="left"><span style="background: white; font-size: 12pt">待遇：底薪 （2000-5000元） 高额提成 岗位补助 奖金 保险 福利 提供住宿</span></div>
+<div style="text-align: left; background: white" align="left"><span style="background: white; font-size: 12pt">岗位职责：</span></div>
+<div style="text-align: left; background: white" align="left"><span style="background: white; font-size: 12pt">1</span><span style="background: white; font-size: 12pt">、负责贯彻执行公司的销售政策，严格执行销售计划，完成区域分配的销售任务。</span></div>
+<div style="text-align: left; background: white" align="left"><span style="letter-spacing: -0.3pt; background: white; font-size: 12pt">2</span><span style="letter-spacing: -0.3pt; background: white; font-size: 12pt">、负责部门的日常工作管理，优化本部门产品和人员销售结构，增强团队凝聚力，带动团队积极有效的拓展业务。</span></div>
+<div style="text-align: left; background: white" align="left"><span style="background: white; font-size: 12pt">3</span><span style="background: white; font-size: 12pt">、提升销售人员的专业水平和综合素质，日常有效辅导和定时培训，规范销售行为，提升团队战斗力。</span></div>
+<div style="text-align: left; background: white" align="left"><span style="background: white; font-size: 12pt">4</span><span style="background: white; font-size: 12pt">、目标管理、人才培养、承上启下、保持同其他部门的有效沟通与协作.</span></div>
+<div style="text-align: left; background: white" align="left"><span style="background: white; font-size: 12pt">职位要求：</span></div>
+<div style="text-align: left; background: white" align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、<span style="background: white">大专以上学历，有相关工作经验的优先</span></span></div>
+<div style="text-align: left; background: white" align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、<span style="background: white">认同公司的文化和价值观，诚实守信，责任心强，有强烈的成功欲望和创新精神</span></span></div>
+<div style="text-align: left; background: white" align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、<span style="background: white">具有良好的抗压性和处理问题的应变性，有较强的沟通、组织、协调和团队管理能力和事业心。</span></span></div>
+<div style="text-align: left; background: white" align="left"><span style="font-size: 12pt">二、销售代表：15名</span></div>
+<div style="text-align: left; background: white" align="left"><span style="font-size: 12pt">待遇：</span><span style="font-size: 12pt">底薪（1200-1500） 高额提成 奖金 保险 福利 提供住宿=3000-10000元<br />
+岗位职责：</span></div>
+<div style="text-align: left; background: white" align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、指导客户熟练掌握阿里巴巴网站使用，解答客户常见问题；<br />
+2、协助客户分析行业动向和网站使用情况等信息，确保客户问题第一时间得到有效解决；</span></div>
+<div style="text-align: left; background: white" align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、开发新客户并为老客户提供续签方案。<br />
+4、和客户建立长期良好的合作关系，保持密切沟通联系。</span></div>
+<div style="text-align: left; background: white" align="left"><span style="font-size: 12pt">岗位要求：</span></div>
+<div style="text-align: left; background: white" align="left"><span style="background: white; font-size: 12pt">1</span><span style="background: white; font-size: 12pt">、认同公司的文化和价值观，诚实守信，责任心强，有强烈的成功欲望和创新精神。</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、热爱销售行业，能吃苦耐劳，自信有责任心，有业务经验者优先！</span></div>
+<div align="left"><span style="color: black; font-size: 12pt">3</span><span style="color: black; font-size: 12pt">、</span><span style="font-size: 12pt">普通话标准，<span style="color: black">具备良好的销售服务意识和谈判能力，</span>工作积极主动，具有良好学习能力。</span></div>
+<div style="text-align: left; background: white" align="left"><span style="font-size: 12pt">4</span><span style="font-size: 12pt">、思维敏捷，适应能力强;工作态度端正，富有工作热情，具有良好的沟通能力和团队合作精神;</span></div>
+<div style="text-align: left; background: white" align="left"><span style="font-size: 12pt">5</span><span style="font-size: 12pt">、性格开朗、乐观向上，拥有较强的组织能力和适应能力，并具有良好的身体素质。 <br />
+三、续签专员<span>(5名）</span></span></div>
+<div style="text-align: left; background: white" align="left"><span style="font-size: 12pt">待遇：</span><span style="font-size: 12pt">底薪（1000/1200） 高额提成 奖金 保险 福利 提供住宿=2000-8000元</span></div>
+<div style="text-align: left; background: white" align="left"><span style="font-size: 12pt">岗位职责：</span><span style="font-size: 12pt"><br />
+1</span><span style="font-size: 12pt">、通过电话，上门拜访等方式向客户提供相关辅导，定期回访，帮助客户充分使用平台、创造价值最大化。提升客户满意度，保持良好的客情关系。</span></div>
+<div style="text-align: left; background: white" align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、根据老客户的现状，以提高客户的使用效果为最终目的，追加增值服务和多元化产品，提升客户效果指数。3、及时和其他部门保持有效沟通，保证老客户的续签。</span></div>
+<div style="text-align: left; background: white" align="left"><span style="font-size: 12pt">岗位要求：</span></div>
+<div style="text-align: left; background: white" align="left"><span style="background: white; font-size: 12pt">1</span><span style="background: white; font-size: 12pt">、认同公司的文化和价值观，诚实守信，责任心强，有强烈的成功欲望和创新精神。</span></div>
+<div style="text-align: left; background: white" align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、具备很强的学习能力、亲和力，良好的口头表达能力和沟通技巧。</span></div>
+<div style="text-align: left; background: white" align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、有良好的客户服务意识，有耐心、有较强的适应能力、应变能力及承受压力的能力，敢于挑战高薪。<br />
+4、了解互联网产品,熟悉电子商务，并认同互联网对商业和企业的深刻影响及价值。</span></div>
+<div style="text-align: left; background: white" align="left"><span style="font-size: 12pt">5</span><span style="font-size: 12pt">、工作可分配区域为：青岛市区、诸城、寿光、临朐、高密、即墨、胶南。</span></div>
+<div style="text-align: left; background: white" align="left"><span style="color: black; font-size: 12pt">加盟我们的5大理由<br />
+a、延续102年的企业高速成长的愿景、使命及独特的&ldquo;六脉神剑&rdquo;价值观和文化；<br />
+b、与极具风格与魅力的卓越领导团队及行业内第一流精英人才共同创造历史的机遇；<br />
+c、关注员工的学习和发展，完善的内部晋升体系，广阔的职业发展空间；<br />
+d、接受来自马云团队的专业化，系统化的岗位培训与技能培训； <br />
+e、行业内极具竞争力的薪酬福利体系（福利、保险、节假日，团队旅游）。</span></div>
+<div align="center"><strong><span style="font-size: 12pt">北京中公未来教育咨询有限公司潍坊分公司招聘简章</span></strong></div>
+<div align="left"><span style="font-size: 12pt">一、公司简介</span></div>
+<div style="text-align: left; text-indent: 24pt" align="left"><span style="font-size: 12pt">中公教育（<a href="http://www.offcn.com">www.offcn.com</a>）创建于1999年，是领军目前国内公职类考试考前培训行业综合性教育集团。其前身是一家由北京大学毕业生李永新领衔创办的学生资助创业企业。集团多年来一直服务于各类考生的教育培训需求，帮助大批有志青年圆了公考梦。<br />
+集团总部设在北京，在全国30个省、自治区和直辖市建立了200多个标准化、规范化直营分校，集团全国办公面积合计15万多平方米，拥有独立权威师资、研发团队近2000人，集团同仁总计近5000人。<br />
+&ldquo;打造百年学府，建设世界性的教育品牌&rdquo;是中公教育一直以来的目标，千百名中公人正朝着这个目标不懈奋斗，我们期待你成为我们中公教育的一员，实现共同的目标。</span></div>
+<div align="left"><span style="font-size: 12pt">二、总裁介绍</span></div>
+<div style="text-align: left; text-indent: 24pt" align="left"><span style="font-size: 12pt">中公教育创始人、现任CEO、首席研究与辅导专家。<br />
+1999年毕业于北京大学政府管理学院，曾获&ldquo;九十年代中国优秀大学生代表&rdquo;、&ldquo;北京市高校毕业生&rdquo;、&ldquo;北大十佳青年志愿者标兵&rdquo;等众多荣誉；<br />
+1999年带领一批应届毕业生，以学生服务体系为目标，创建了北京象牙塔信息技术中心，成为国内实践素质教育的先行者；<br />
+2001年开始从事公务员培训工作，开创了公务员培训的新领域；<br />
+2003年正式创立&ldquo;中公教育&rdquo;集团，一个集公职人员考试教育教学研究、考前培训、图书、音像、网络、教材等产品编辑、出版、发行于一体的只是产业实体。<br />
+李永新是我国民办教育行业最早响应和实践素质教育理念的创业者，在方向调整后，他主导构建的公考前培训体系，成为整个行业学习和模仿的标本，成为考生和公众心目中公考培训行业最具影响力的人物。他为中国公考培训行业的起步和发展做出的贡献，具有里程碑的意义。</span></div>
+<div align="left"><span style="font-size: 12pt">三、招聘职位介绍</span></div>
+<div align="left"><span style="font-size: 12pt">会计助理</span></div>
+<div align="left"><span style="font-size: 12pt">岗位职责： </span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、协助主管完成日常事务性工作，协助处理帐务； </span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、现金及银行收付处理，制作记帐凭证，银行对帐，单据审核，开具与保管发票； </span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、协助财会文件的准备、归档和保管； </span></div>
+<div align="left"><span style="font-size: 12pt">4</span><span style="font-size: 12pt">、固定资产和低值易耗品的登记和管理； </span></div>
+<div align="left"><span style="font-size: 12pt">5</span><span style="font-size: 12pt">、负责与银行、税务等部门的对外联络。 </span></div>
+<div align="left"><span style="font-size: 12pt">任职要求： </span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、财务，会计，相关专业，大专以上学历，1980年以后出生； </span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、较好的会计基础知识，有财会工作经验者优先； </span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、熟悉现金管理及银行结算，财务软件操作； </span></div>
+<div align="left"><span style="font-size: 12pt">4</span><span style="font-size: 12pt">、良好的职业操守及团队合作精神，较强的沟通、理解和分析能力； </span></div>
+<div align="left"><span style="font-size: 12pt">5</span><span style="font-size: 12pt">、具有独立工作和学习的能力，工作认真细心。</span></div>
+<div align="left"><span style="font-size: 12pt">薪资福利：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、试用期3个月，转正后提供五险一金；</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、工资构成由基本工资 绩效奖金 出差补助 工龄奖金等若干项组成；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、经培训考核合格，评定职级，2000&mdash;4000元，具体待遇面议。</span></div>
+<div align="left"><span style="font-size: 12pt">工作地点：济南</span></div>
+<div align="left"><span style="font-size: 12pt">教务管理</span></div>
+<div align="left"><span style="font-size: 12pt">岗位职责： </span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、负责来电来访课程咨询工作； </span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、负责信息录入，短信编辑，开课通知等工作； </span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、负责学生课堂上学习质量反馈及分析； </span></div>
+<div align="left"><span style="font-size: 12pt">4</span><span style="font-size: 12pt">、负责学员答疑、补课、学习计划制定； </span></div>
+<div align="left"><span style="font-size: 12pt">5</span><span style="font-size: 12pt">、维持正常的教学秩序，以及教务相关事宜的统筹执行。</span></div>
+<div align="left"><span style="font-size: 12pt">任职要求： </span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、形象气质良好；擅长office软件的应用； </span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、具有良好的沟通表达能力并具有较强亲和力； </span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、热爱教育事业，工作积极主动、踏实、责任心强。</span></div>
+<div align="left"><span style="font-size: 12pt">薪资福利：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、试用期3个月，转正后提供五险一金；</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、工资构成由基本工资 绩效奖金 出差补助 工龄奖金等若干项组成；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、经培训考核合格，评定职级，2000&mdash;4000元，具体待遇面议。</span></div>
+<div align="left"><span style="font-size: 12pt">工作地点：济南、滨州、济宁、淄博、枣庄、聊城、烟台、泰安、临沂</span></div>
+<div align="left"><span style="font-size: 12pt">咨询顾问</span></div>
+<div align="left"><span style="font-size: 12pt">岗位职责：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、负责接听学员热线，为学员提供满意的课程服务，提高学员满意度； </span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、处理学员提出的问题并回复，为学员在学习过程中提供良好的服务；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、接待学员报名，记录学员咨询、投诉内容，按照相应流程给予学员反馈；</span></div>
+<div align="left"><span style="font-size: 12pt">4</span><span style="font-size: 12pt">、能及时发现学员的需求及意见，并记录整理及汇报； 　　</span></div>
+<div align="left"><span style="font-size: 12pt">5</span><span style="font-size: 12pt">、为学员提供完整准确的学习方案及信息，解决学员问题，提供高质量服务；　　</span></div>
+<div align="left"><span style="font-size: 12pt">6</span><span style="font-size: 12pt">、良好的工作执行力，严格按规范及流程进行工作或相关操作； 　　</span></div>
+<div align="left"><span style="font-size: 12pt">7</span><span style="font-size: 12pt">、与同事或主管共享信息，进行知识积累，提供流程改善依据。</span></div>
+<div align="left"><span style="font-size: 12pt">任职要求： </span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、形象气质良好；言语表达能力突出，电话与现场沟通能力强；</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、有服务意识，具有较强的亲和力，愿为客户提供高品质的教育咨询服务；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、能够迅速掌握与教育咨询服务有关的各种知识 ，擅长office软件的应用。</span></div>
+<div align="left"><span style="font-size: 12pt">薪资福利：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、试用期3个月，转正后提供五险一金；</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、工资构成由基本工资 绩效奖金 出差补助 工龄奖金等若干项组成；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、经培训考核合格，评定职级，2000&mdash;4000元，具体待遇面议。</span></div>
+<div align="left"><span style="font-size: 12pt">工作地点：济南、滨州、济宁、淄博、枣庄、聊城、烟台、泰安、临沂</span></div>
+<div align="left"><span style="font-size: 12pt">客服专员</span></div>
+<div align="left"><span style="font-size: 12pt">岗位职责：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、负责接听学员热线，为学员提供满意的课程服务，提高学员满意度； </span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、处理学员提出的问题并回复，为学员在学习过程中提供良好的服务；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、接待学员报名，记录学员咨询、投诉内容，按照相应流程给予学员反馈；</span></div>
+<div align="left"><span style="font-size: 12pt">4</span><span style="font-size: 12pt">、能及时发现学员的需求及意见，并记录整理及汇报；</span></div>
+<div align="left"><span style="font-size: 12pt">5</span><span style="font-size: 12pt">、为学员提供完整准确的学习方案及信息，解决学员问题，提供高质量服务；</span></div>
+<div align="left"><span style="font-size: 12pt">6</span><span style="font-size: 12pt">、良好的工作执行力，严格按规范及流程进行工作或相关操作；</span></div>
+<div align="left"><span style="font-size: 12pt">7</span><span style="font-size: 12pt">、与同事或主管共享信息，进行知识积累，提供流程改善依据；</span></div>
+<div align="left"><span style="font-size: 12pt">任职要求：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、女性、专科以上学历；专业不限，有相关经验者优先；</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、体貌端正，普通话标准，口齿伶俐，思维敏捷，表达能力强；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、有较强的沟通和协调能力，熟练使用办公软件；</span></div>
+<div align="left"><span style="font-size: 12pt">4</span><span style="font-size: 12pt">、性格开朗，为人踏实稳重踏实、热情耐心、有团队合作精神；</span></div>
+<div align="left"><span style="font-size: 12pt">5</span><span style="font-size: 12pt">、个性成熟，乐观进取；吃苦耐劳，能承受一定的工作压力；</span></div>
+<div align="left"><span style="font-size: 12pt">薪资福利：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、试用期3个月，转正后提供五险一金；</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、工资构成由基本工资 绩效奖金 出差补助 工龄奖金等若干项组成；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、经培训考核合格，评定职级，2000&mdash;4000元，具体待遇面议。</span></div>
+<div align="left"><span style="font-size: 12pt">工作地点：济南、滨州、济宁、淄博、枣庄、聊城、烟台、泰安、临沂</span></div>
+<div align="left"><span style="font-size: 12pt">平面设计师</span></div>
+<div align="left"><span style="font-size: 12pt">岗位职责：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、维护、监督公司品牌形象设计执行，并按需求完成相关形象推广的设计； </span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、独立完成公司品牌广告设计需求及市场活动推广的整体宣传设计；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、监督、指导分公司相应的品牌设计应用和执行情况。 </span></div>
+<div align="left"><span style="font-size: 12pt">任职要求：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、本科以上学历，平面设计、广告或相关专业；</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、1年以上平面美工、设计相关工作经验，有成熟作品、有创新能力和较高审美能力；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、 熟练掌握和操作相关平面设计软件，比如Photoshop、Illstrution、Indesign等；</span></div>
+<div align="left"><span style="font-size: 12pt">4</span><span style="font-size: 12pt">、较强的视觉审美能力，扎实的平面设计功底；</span></div>
+<div align="left"><span style="font-size: 12pt">5</span><span style="font-size: 12pt">、具有良好的沟通和团队合作精神；</span></div>
+<div align="left"><span style="font-size: 12pt">6</span><span style="font-size: 12pt">、面试时需携带个人作品。</span></div>
+<div align="left"><span style="font-size: 12pt">薪资福利：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、试用期3个月，转正后提供五险一金；</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、工资构成由基本工资 绩效奖金 出差补助 工龄奖金等若干项组成；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、经培训考核合格，评定职级，2000&mdash;4000元，具体待遇面议。</span></div>
+<div align="left"><span style="font-size: 12pt">工作地点：济南</span></div>
+<div align="left"><span style="font-size: 12pt">市场策划</span></div>
+<div align="left"><span style="font-size: 12pt">岗位职责：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、熟悉教育培训行业市场动态，具备良好的策划思维能力和文字能力，能够策划及组织实施线上及线下市场活动；</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、负责前期市场调研以及后期市场策划推广工作；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、有较强的市场营销策划能力、组织能力和执行能力；可独立组织、完成整体策划项目，包括撰写完整的营销策划方案、项目策略方案等；</span></div>
+<div align="left"><span style="font-size: 12pt">4</span><span style="font-size: 12pt">、协助上级主管，为完成市场战略战术等计划的制定与实施提供合理化建议。</span></div>
+<div align="left"><span style="font-size: 12pt">任职要求：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、中文专业、新闻传播专业、广告、市场营销等相关专业背景者优先考虑；</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、有广告策划、媒体宣传、企业宣传等相关岗位1年以上工作经验，优秀者可适当放宽；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、能够独立组织制定相关市场活动的组织策划、销售策略、产品拓展等工作；</span></div>
+<div align="left"><span style="font-size: 12pt">4</span><span style="font-size: 12pt">、具备敏锐的洞察与分析能力、新闻敏感力；</span></div>
+<div align="left"><span style="font-size: 12pt">5</span><span style="font-size: 12pt">、有网络媒体及教育平面媒体资源者优先。</span></div>
+<div align="left"><span style="font-size: 12pt">薪资福利：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、试用期3个月，转正后提供五险一金；</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、工资构成由基本工资 绩效奖金 出差补助 工龄奖金等若干项组成；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、经培训考核合格，评定职级，3000&mdash;5000元，具体待遇面议。</span></div>
+<div align="left"><span style="font-size: 12pt">工作地点：济南</span></div>
+<div align="left"><span style="font-size: 12pt">市场专员</span></div>
+<div align="left"><span style="font-size: 12pt">岗位职责：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、负责市场的各类宣传活动的策划及实施，拓展销售渠道；</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、负责市场调查分析，收集信息，汇总《市场调研报告》；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、发展并维护各大高校相关部门、协会、书店和学生招生代理；</span></div>
+<div align="left"><span style="font-size: 12pt">4</span><span style="font-size: 12pt">、发展并维护企业图书、课程体系、各项活动的宣传广告；</span></div>
+<div align="left"><span style="font-size: 12pt">5</span><span style="font-size: 12pt">、完成领导交给的其他任务；</span></div>
+<div align="left"><span style="font-size: 12pt">6</span><span style="font-size: 12pt">、有驾照者优先。</span></div>
+<div align="left"><span style="font-size: 12pt">任职要求：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、专科以上学历；专业不限；市场营销、经管类专业优先； </span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、具备良好的沟通能力和语言表达能力，性格积极向上，团队合作意识强；工作积极主动，有耐心和责任心；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、有敏锐、独到的观察力和策划、组织能力，具有开拓创新精神；</span></div>
+<div align="left"><span style="font-size: 12pt">4</span><span style="font-size: 12pt">、有吃苦耐劳精神，可适应出差、驻外工作。</span></div>
+<div align="left"><span style="font-size: 12pt">薪资福利：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、试用期3个月，转正后提供五险一金；</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、工资构成由基本工资 绩效奖金 出差补助 工龄奖金等若干项组成；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、经培训考核合格，评定职级，3000&mdash;5000元，具体待遇面议。</span></div>
+<div align="left"><span style="font-size: 12pt">工作地点：济南、聊城、烟台、泰安、德州、临沂、青岛、菏泽、枣庄、淄博、济宁</span></div>
+<div align="left"><span style="font-size: 12pt">图书管理专员</span></div>
+<div align="left"><span style="font-size: 12pt">职位目的：根据公司业务需要，进行仓储规划与数据库管理和市场活动策划与执行。</span></div>
+<div align="left"><span style="font-size: 12pt">岗位职责：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、库房进度的计划与管理（包括库房计划任务的分解）；</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、库房基础数据库的完善与维护；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、库房计划完成情况的统计与数据汇总分析；</span></div>
+<div align="left"><span style="font-size: 12pt">4</span><span style="font-size: 12pt">、与书目、上下部门密切沟通，协调换书、调书及紧急采购图书等事宜，并将到货情况及时反馈；</span></div>
+<div align="left"><span style="font-size: 12pt">5</span><span style="font-size: 12pt">、市场活动的策划与执行。</span></div>
+<div align="left"><span style="font-size: 12pt">岗位考核指标：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、库房帐物卡一致率100%；</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、库房基础数据库数据的准确性；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、库房图书打包进度的达成率；</span></div>
+<div align="left"><span style="font-size: 12pt">4</span><span style="font-size: 12pt">、市场活动方案的可行性。</span></div>
+<div align="left"><span style="font-size: 12pt">任职要求：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、大专及以上学历，1年及以上库房管理经验；</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、专业不限；熟练的计算机操作能力</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、有良好的计划能力与沟通能力；</span></div>
+<div align="left"><span style="font-size: 12pt">4</span><span style="font-size: 12pt">、吃苦耐劳，责任心强，有良好的团队合作意识；</span></div>
+<div align="left"><span style="font-size: 12pt">5</span><span style="font-size: 12pt">、有图书行业工作经验的优先。</span></div>
+<div align="left"><span style="font-size: 12pt">薪资福利：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、试用期3个月，转正后提供五险一金；</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、工资构成由基本工资 绩效奖金 出差补助 工龄奖金等若干项组成；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、经培训考核合格，评定职级，3000&mdash;5000元，具体待遇面议。</span></div>
+<div align="left"><span style="font-size: 12pt">工作地点：济南、菏泽、烟台</span></div>
+<div align="left"><span style="font-size: 12pt">网络推广专员</span></div>
+<div align="left"><span style="font-size: 12pt">岗位职责：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、采取多种方式和渠道宣传推广网站，提升IP/PV/UV等； </span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、针对特定关键词/专题进行SEO优化，让行业关键词排名首页前5名； </span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、网络推广活动的策划、优化、实施及效果跟踪分析； </span></div>
+<div align="left"><span style="font-size: 12pt">4</span><span style="font-size: 12pt">、熟悉搜索引擎优化SEO等方式，熟练掌握软文、交换链接、邮件推广、SNS推广、论坛推广及其他特殊的推广方式，提高电子商务购买转化率的各种推广技能；策划推广主题并负责实施；</span></div>
+<div align="left"><span style="font-size: 12pt">5</span><span style="font-size: 12pt">、通过网络进行渠道/资源的开发和业务拓展； </span></div>
+<div align="left"><span style="font-size: 12pt">6</span><span style="font-size: 12pt">、优化网站，更新网站。</span></div>
+<div align="left"><span style="font-size: 12pt">任职要求：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、大专及以上学历，计算机、网络、传媒等相关专业优先考虑； </span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、1年以上网络社区或电子商务网站运营推广经验（不含付费推广），熟悉主流的网络推广手段并有成功经历； </span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、具有专研和创新精神、头脑灵活，追求效率，富有激情，执行能力强； </span></div>
+<div align="left"><span style="font-size: 12pt">4</span><span style="font-size: 12pt">、会网站设计，会程序语言者优先；</span></div>
+<div align="left"><span style="font-size: 12pt">5</span><span style="font-size: 12pt">、能全面管理网站，熟悉网络维护与宣传； </span></div>
+<div align="left"><span style="font-size: 12pt">6</span><span style="font-size: 12pt">、具备3年以上斑竹管理经验和论坛管理经验者优先，网络互动性强； </span></div>
+<div align="left"><span style="font-size: 12pt">7</span><span style="font-size: 12pt">、文笔优美,熟练使用Acesee、CorelDRAW、Photoshop、Dreamweaver等编辑软件； </span></div>
+<div align="left"><span style="font-size: 12pt">8</span><span style="font-size: 12pt">、会平面设计，FLASH网页设计。</span></div>
+<div align="left"><span style="font-size: 12pt">薪资福利：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、试用期3个月，转正后提供五险一金；</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、工资构成由基本工资 绩效奖金 出差补助 工龄奖金等若干项组成；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、经培训考核合格，评定职级，3000&mdash;5000元，具体待遇面议。</span></div>
+<div align="left"><span style="font-size: 12pt">工作地点：济南、泰安、临沂、青岛、济宁、东营</span></div>
+<div align="left"><span style="font-size: 12pt">网络营销</span></div>
+<div align="left"><span style="font-size: 12pt">任职要求：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、具有良好的表达与沟通能力；</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、负责深入分析业务、产品政策并进行网络营销创意策划，对品牌进行推广和维护；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、负责营销策划方案组织实施、协调跟踪、分析评估。完成销售业务、提高公司产品市场占有率及知名度；</span></div>
+<div align="left"><span style="font-size: 12pt">4</span><span style="font-size: 12pt">、熟悉各种网络营销传播方式，能够运用创新技术和手段进行网络营销活动的策划和实施；</span></div>
+<div align="left"><span style="font-size: 12pt">5</span><span style="font-size: 12pt">、具有较强的数据分析能力，能够运用数据分析，根据分析合理有效的对专题进行优化；</span></div>
+<div align="left"><span style="font-size: 12pt">6</span><span style="font-size: 12pt">、具有1年以上相关工作经验。</span></div>
+<div align="left"><span style="font-size: 12pt">薪资福利：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、试用期3个月，转正后提供五险一金；</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、工资构成由基本工资 绩效奖金 出差补助 工龄奖金等若干项组成；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、经培训考核合格，评定职级，3000&mdash;5000元，具体待遇面议。</span></div>
+<div align="left"><span style="font-size: 12pt">工作地点：济南</span></div>
+<div align="left"><span style="font-size: 12pt">网站编辑</span></div>
+<div align="left"><span style="font-size: 12pt">岗位职责：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、完成相关专题页面的策划及编辑设计工作；</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、根据要求做好网络线上活动策划及推广；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、配合公司日常活动做好网络宣传。 </span></div>
+<div align="left"><span style="font-size: 12pt">任职要求：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、专科及以上学历，有网站编辑或网络营销管理经验； </span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、能独立策划网络线上活动，对网络信息敏锐； </span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、熟练平面及网络编辑软件；</span></div>
+<div align="left"><span style="font-size: 12pt">4</span><span style="font-size: 12pt">、略懂seo知识和网络营销者优先考虑；</span></div>
+<div align="left"><span style="font-size: 12pt">5</span><span style="font-size: 12pt">、有独立的策划组织能力和较出色的稿件及方案撰写能力，具备良好的分析与执行能力；</span></div>
+<div align="left"><span style="font-size: 12pt">6</span><span style="font-size: 12pt">、对待工作细致，耐心，有较强的抗压能力，良好的沟通能力，具有团队合作精神。</span></div>
+<div align="left"><span style="font-size: 12pt">薪资福利：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、试用期3个月，转正后提供五险一金；</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、工资构成由基本工资 绩效奖金 出差补助 工龄奖金等若干项组成；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、经培训考核合格，评定职级，2000&mdash;3000元，具体待遇面议。</span></div>
+<div align="left"><span style="font-size: 12pt">工作地点：济南</span></div>
+<div align="left"><span style="font-size: 12pt">网站设计</span></div>
+<div align="left"><span style="font-size: 12pt">岗位职责：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、负责中公教育山东分站（http://sd.offcn.com）及二级页面等网络终端的核心页面设计； </span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、根据中公网站整体形象、风格和艺术表现形式，设计相关备考专题、广告等促销素材；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、能准确把握品牌调性、网站整体风格，辅助各网站页面进行更新和维护；</span></div>
+<div align="left"><span style="font-size: 12pt">4</span><span style="font-size: 12pt">、设计Web应用程序及网站页面的整体布局，保证应用程序具有优质的视觉外观和良好的用户体验；</span></div>
+<div align="left"><span style="font-size: 12pt">任职要求：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、1年以上互联网或广告行业相关工作经历，有丰富的网页设计经验。</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、精通Photoshop、Illustrator设计软件，有Flash制作能力者优先考虑； </span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、优秀的审美能力，敏锐的时尚触觉，独特的创意，对设计的构图、色调、质感、都有独到的见解； </span></div>
+<div align="left"><span style="font-size: 12pt">4</span><span style="font-size: 12pt">、了解W3C标准，熟悉DIV Css，对从网页设计到页面制作、程序实现工作流程熟悉； </span></div>
+<div align="left"><span style="font-size: 12pt">5</span><span style="font-size: 12pt">、熟悉用户体验，能够做出符合用户行为习惯的作品。 </span></div>
+<div align="left"><span style="font-size: 12pt">6</span><span style="font-size: 12pt">、拥有良好的沟通能力和团队协作精神，高度的责任感；具有较强学习能力、理解沟通能力。 </span></div>
+<div align="left"><span style="font-size: 12pt">7</span><span style="font-size: 12pt">、面试时请携带近期网页设计相关作品，无作品着勿扰。</span></div>
+<div align="left"><span style="font-size: 12pt">薪资福利：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、试用期3个月，转正后提供五险一金；</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、工资构成由基本工资 绩效奖金 出差补助 工龄奖金等若干项组成；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、经培训考核合格，评定职级，2000&mdash;5000元，具体待遇面议。</span></div>
+<div align="left"><span style="font-size: 12pt">工作地点：济南</span></div>
+<div align="left"><span style="font-size: 12pt">专职讲师（行测、申论、公共基础知识、面试、教师招考）</span></div>
+<div align="left"><span style="font-size: 12pt">岗位职责：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、负责教学任务的实施及相关课程的讲授；</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、负责对所授课专项课题命题及解题技巧的研究，以及新的教学方法与技巧的创新；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、负责教学课题的研究、讲义的编写和研发；</span></div>
+<div align="left"><span style="font-size: 12pt">任职要求：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、国家重点院校硕士及以上学历，具有丰富教学经验及行业背景者可适当放宽条件；</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、热爱教师职业，具有良好的道德修养和敬业精神；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、具备较强的语言表达能力、人际沟通及创新能力；</span></div>
+<div align="left"><span style="font-size: 12pt">4</span><span style="font-size: 12pt">、具备较强的学习能力和自我转化能力；</span></div>
+<div align="left"><span style="font-size: 12pt">5</span><span style="font-size: 12pt">、责任心强，热爱教育行业，认同中公文化；</span></div>
+<div align="left"><span style="font-size: 12pt">6</span><span style="font-size: 12pt">、有培训行业教师工作经验、考试命题经历及阅卷经历者优先；</span></div>
+<div align="left"><span style="font-size: 12pt">申论教师专业要求：</span></div>
+<div align="left"><span style="font-size: 12pt">汉语言文学；哲学；马克思主义学类；政法学类等</span></div>
+<div align="left"><span style="font-size: 12pt">行测教师专业要求：</span></div>
+<div align="left"><span style="font-size: 12pt">汉语言类、理科类相关专业</span></div>
+<div align="left"><span style="font-size: 12pt">公基教师专业要求：</span></div>
+<div align="left"><span style="font-size: 12pt">法学；社会学；政治学、经济学等；</span></div>
+<div align="left"><span style="font-size: 12pt">招教教师专业要求：</span></div>
+<div align="left"><span style="font-size: 12pt">教育学、心理学等</span></div>
+<div align="left"><span style="font-size: 12pt">薪资福利：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、试用期3个月，转正后，提供五险一金；</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、工资构成由岗位工资、课时绩效、出差补助、食宿补助等若干项组成；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、经培训考核合格，评定职级，师资年薪可达8&mdash;20万，具体待遇面议。</span></div>
+<div align="left"><span style="font-size: 12pt">工作地点：北京、济南等（可自由选择）</span></div>
+<div align="left"><span style="font-size: 12pt">教师招聘考试教师</span></div>
+<div align="left"><span style="font-size: 12pt">岗位职责：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、负责教师招考笔试、面试（说课、试讲、答辩）、教师资格证项目教学任务的实施及相关课程的讲授；</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、负责对所授课专项课题命题及解题技巧的研究，以及新的教学方法与技巧的创新；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、负责教学课题的研究、讲义的编写和研发；</span></div>
+<div align="left"><span style="font-size: 12pt">任职要求：</span></div>
+<div align="left"><span style="font-size: 12pt">1</span><span style="font-size: 12pt">、国家重点院校硕士及以上学历，教育学、教育心理学、汉语言、英语、数学、幼教等学科专业毕业，能够讲授教育学、教育心理学、心理学、教学技能、教师职业道德、教育法律法规、新课改、专业知识等课程；</span></div>
+<div align="left"><span style="font-size: 12pt">2</span><span style="font-size: 12pt">、热爱教师职业，具有良好的道德修养和敬业精神；</span></div>
+<div align="left"><span style="font-size: 12pt">3</span><span style="font-size: 12pt">、具备较强的语言表达能力、人际沟通及创新能力；</span></div>
+<div align="left"><span style="font-size: 12pt">4</span><span style="font-size: 12pt">、具备较强的学习能力和自我转化能力；</span></div>
+<div align="left"><span style="font-size: 12pt">5</span><span style="font-size: 12pt">、责任心强，热爱教育行业，认同中公文化；</span></div>
+<div align="left"><span style="font-size: 12pt">6</span><span style="font-size: 12pt">、具有培训行业教师工作经验、考试命题经历及阅卷经历者优先；</span></div>
+<div align="left"><span style="font-size: 12pt">7</span><span style="font-size: 12pt">、具有有丰富教学经验的学科带头人（英语、数					</div>
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<p ><a href="http://wenda60.com" target="_blank" style="font-size:14px; color:#2B68E9">>>练练该公司的招聘笔试题 </a><script type="text/javascript"><!--
+google_ad_client = "ca-pub-9486753476951928";
+/* 底部广告 */
+google_ad_slot = "1009061790";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p> 					
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<div>
+						<div class="floatleft">
+                        <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_b" style="line-height: 12px;"><img src="http://bdimg.share.baidu.com/static/images/type-button-1.jpg" />
+                                <a class="shareCount"></a>
+                           
+						  </div>
+                        <script type="text/javascript" id="bdshare_js" data="type=button" ></script>
+                        <script type="text/javascript" id="bdshell_js"></script>
+                        <script type="text/javascript">
+                            document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+                        </script>
+                        <!-- Baidu Button END -->
+						</div>
+						<div class="button_job_or floatleft">
+							<!--<div class="button_right"><a href="javascript:;" onclick="collect(2, 274597);" class="icon_jobbutton_sc white">我要收藏</a></div>-->
+				  </div>
+                            <div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+						<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn" class="icon_jobbutton_p">举报错误信息</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+						<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn">信息修改/删除</a></div>
+						</div>
+						<div class="clear"></div>
+			  </div>
+		  </div>
+				<div class="spacer"></div>
+				<div class="spacer">
+</div>
+<!--
+				<div class="grayline"></div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="pdlr">
+					<div>
+						<span class="floatleft font14  b">同行业的职位</span>
+						<span class="floatright pdlr"></span>
+					</div>
+					<div class="clear spacer"></div>
+					<ul class="ul_bluedisc underline">
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276071.html" class="blue" title="昆山市教育系统2013公开招聘第二批教师" target="_blank">昆山市教育系统2013公开招聘第二批教师</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_275933.html" class="blue" title="济南伊利乳业有限责任公司2013招聘" target="_blank">济南伊利乳业有限责任公司2013招聘</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_275591.html" class="blue" title="房山区卫生局关于所属事业单位2013招聘工作人员" target="_blank">房山区卫生局关于所属事业单位2013招聘工作人员</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_275437.html" class="blue" title="现代牧业（集团）有限公司2013招聘" target="_blank">现代牧业（集团）有限公司2013招聘</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_275436.html" class="blue" title="渤海实业集团2013招聘" target="_blank">渤海实业集团2013招聘</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_275355.html" class="blue" title="浙江大学图书与信息中心工作人员2013招聘" target="_blank">浙江大学图书与信息中心工作人员2013招聘</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_274617.html" class="blue" title="北京中安和谐文化发展集团有限公司" target="_blank">北京中安和谐文化发展集团有限公司</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_274597.html" class="blue" title="山东滨农科技有限公司2013招聘" target="_blank">山东滨农科技有限公司2013招聘</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_274598.html" class="blue" title="山东滨农科技有限公司2013招聘" target="_blank">山东滨农科技有限公司2013招聘</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_274356.html" class="blue" title="山东金正大生态工程股份有限公司2013招聘" target="_blank">山东金正大生态工程股份有限公司2013招聘</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											
+					</ul>
+				</div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="grayline"></div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+								<div class="pdlr">
+					<div>
+						<span class="floatleft font14  b">相同公司职位</span>
+						<span class="floatright pdlr"></span>
+					</div>
+					<div class="clear spacer"></div>
+					<ul class="ul_bluedisc underline">
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_274598.html" class="blue" title="山东滨农科技有限公司2013招聘" target="_blank">山东滨农科技有限公司2013招聘</a></div>
+							<span class="floatright gray pdlr">04-22</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_274597.html" class="blue" title="山东滨农科技有限公司2013招聘" target="_blank">山东滨农科技有限公司2013招聘</a></div>
+							<span class="floatright gray pdlr">04-22</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_90617.html" class="blue" title="[山东]山东滨农科技有限公司2011校园招聘" target="_blank">[山东]山东滨农科技有限公司2011校园招聘</a></div>
+							<span class="floatright gray pdlr">11-30</span>
+							<div class="clear"></div>
+						</li>
+											
+					</ul>
+				</div>
+							</div>
+			<div class="clear spacer"></div>
+			<div class="spacer"></div>
+			<div class="spacer"></div>
+-->
+			<div class="spacer"></div>
+		</div>
+        
+		<div class="clear"></div>
+	</div>
+    
+    <div id="rightcolumn" class="floatleft">
+            <div class="rightcolumn" style="padding:0px;">
+                <div>
+			 <script type="text/javascript"><!--
+            google_ad_client = "ca-pub-9486753476951928";
+            /* 职位广告 */
+            google_ad_slot = "3598731756";
+            google_ad_width = 200;
+            google_ad_height = 200;
+            //-->
+            </script>
+            <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+				
+				    <div class="rightcolumn_title font14 b deepblack">该公司最新招聘信息</div>
+                    <div class="rightcolumn_title font14 b deepblack"><a href="/company/cid-28726.html ">点击查看全部</a></div>
+					<div class="spacer"></div>
+					<ul class="ul_bluedisc right_ul_bluedisc underline">
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_274598.html" class="blue">山东滨农科技有限公司2013招聘</a></div>
+						<span class="pdlr4 floatright">04-22</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_274597.html" class="blue">山东滨农科技有限公司2013招聘</a></div>
+						<span class="pdlr4 floatright">04-22</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_90617.html" class="blue">[山东]山东滨农科技有限公司2011校园招聘</a></div>
+						<span class="pdlr4 floatright">09-28</span>
+						<div class="clear"></div>
+						</li>							
+										</ul>
+				</div>
+		   </div>
+           <div class="rightcolumn" style="padding:0px;">
+                <div>
+				
+				    <div class="rightcolumn_title font14 b deepblack">同行业最新招聘信息</div>
+                    
+					<div class="spacer"></div>
+					<ul class="ul_bluedisc right_ul_bluedisc underline">
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276071.html" class="blue" title="昆山市教育系统2013公开招聘第二批教师" target="_blank">昆山市教育系统2013公开招聘第二批教师</a></div>
+							<span class="floatright gray pdlr">05-09</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_275933.html" class="blue" title="济南伊利乳业有限责任公司2013招聘" target="_blank">济南伊利乳业有限责任公司2013招聘</a></div>
+							<span class="floatright gray pdlr">05-08</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_275591.html" class="blue" title="房山区卫生局关于所属事业单位2013招聘工作人员" target="_blank">房山区卫生局关于所属事业单位2013招聘工作人员</a></div>
+							<span class="floatright gray pdlr">05-06</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_275437.html" class="blue" title="现代牧业（集团）有限公司2013招聘" target="_blank">现代牧业（集团）有限公司2013招聘</a></div>
+							<span class="floatright gray pdlr">05-03</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_275436.html" class="blue" title="渤海实业集团2013招聘" target="_blank">渤海实业集团2013招聘</a></div>
+							<span class="floatright gray pdlr">05-03</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_275355.html" class="blue" title="浙江大学图书与信息中心工作人员2013招聘" target="_blank">浙江大学图书与信息中心工作人员2013招聘</a></div>
+							<span class="floatright gray pdlr">05-02</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_274617.html" class="blue" title="北京中安和谐文化发展集团有限公司" target="_blank">北京中安和谐文化发展集团有限公司</a></div>
+							<span class="floatright gray pdlr">04-22</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_274597.html" class="blue" title="山东滨农科技有限公司2013招聘" target="_blank">山东滨农科技有限公司2013招聘</a></div>
+							<span class="floatright gray pdlr">04-22</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_274598.html" class="blue" title="山东滨农科技有限公司2013招聘" target="_blank">山东滨农科技有限公司2013招聘</a></div>
+							<span class="floatright gray pdlr">04-22</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_274356.html" class="blue" title="山东金正大生态工程股份有限公司2013招聘" target="_blank">山东金正大生态工程股份有限公司2013招聘</a></div>
+							<span class="floatright gray pdlr">04-17</span>
+							<div class="clear"></div>
+						</li>							
+										</ul>
+				</div>
+		   </div>
+           <div class="rightcolumn">
+				<div class="spacer"></div>
+	
+								
+		   </div>
+		   <div class="spacer"></div>
+				
+    </div>
+</div>
+<iframe id="collection" name="collection" style="width:0px;height:0px;"></iframe>
+<div id="foot">
+	<div class="footbody">
+		<div class="foot_top aligncenter white"> <a href="http://www.hiall.com.cn/" class="white">HiAll校园招聘</a> <span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/" class="white">HiAll论坛</a> 
+
+<span class="pdlr4">|</span> <a href="http://wenda.hiall.com.cn/" class="white">HiAll一问一答</a>
+
+<span class="pdlr4">|</span> <a href="http://maker.wenda60.com/" class="white">KnewMaker</a>
+
+
+<span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/forum-744-1.html" class="white">校园招聘求职大礼包</a> <span class="pdlr4">|</span> <a href="http://hr.hiall.com.cn/" class="white">加入HiAll</a>
+<span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/thread-150495-1-1.html" class="white">广告合作</a> <span class="pdlr4">|</span> <a href="/info/about.php" class="white">关于我们</a> <span class="pdlr4">|</span> <a href="/info/sitemap.php" class="white">网站地图</a></div>		<div class="foot_mid aligncenter white"> 网站相关问题请联系：010-82601802 || 企业服务请联系：010-82600684</div>
+		<div class="foot_bot aligncenter white">Copyright HiAll
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP备10021013号
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP证090110号
+			<span class="pdlr"></span><span class="pdlr"></span>京公网安备11010802010560号
+		</div>
+	</div>
+</div>
+<!-- Baidu Analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F56dda118cbb3220435957635a699495b' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- Baidu Analytics -->
+</body>
+</html>
+

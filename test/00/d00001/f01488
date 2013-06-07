@@ -1,0 +1,617 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<title>TP-LINK2011暑期实习生招聘 -实习推荐</title>
+<head>
+<meta property="qc:admins" content="35413136776011446375636" />
+<meta http-equiv="keywords" content="2013校园招聘,HiAll,招聘,校园招聘,全职职位,实习职位,大学生求职,应届生求职"/>
+<meta http-equiv="description" content="HiAll，为应届毕业生或在校生提供最新、最全、最可靠的全职、实习招聘信息、宣讲会信息与各种求职资讯与资料，成为联动学生与雇主的纽带，覆盖北京、上海、广州、海外等地区。" />
+<meta name="generator" content="HiAll2.0" />
+<meta name="author" content="HiAll" />
+<meta name="copyright" content="2004-2012 HiAll." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<script src="http://file.hiall.com.cn/newhiall/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/jquery.validate.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/utils.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/u1.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frame/page.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/main.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frontpage/frontpage.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/manage.css" />
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2560481-2']);
+  _gaq.push(['_setDomainName', '.hiall.com.cn']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Google Analytics -->
+</head>
+<body>
+<div id="head">
+	<div id="headbody">
+		<div class="top">
+			<a href="/" class="head_logo floatleft"></a>
+			<div class="mid floatleft">
+			<form method="post" action="/search/infos.php">
+				<input type="text" class="head_search_input gray floatleft" maxlength="10" value="职位信息 如：管理培训生" id="searchkey" name="searchkey" onclick="if(this.value == '职位信息 如：管理培训生') this.value='';" onblur="if(this.value=='') this.value='职位信息 如：管理培训生';"/>
+				<div class="head_search_select gray pointer floatleft">
+					<div class="floatleft">
+						<div class="absolute">
+							<div class="relative head_search_select_optionbox" style="display:none; z-index:10;">
+								<ul class="head_search_select_option" id="choosecity-list">
+																<li id="r0">全部</li>
+																<li id="r1">北京</li>
+																<li id="r2">上海</li>
+																<li id="r40">广州</li>
+																<li id="r41">深圳</li>
+															</ul>
+							</div>
+						</div>
+					</div>
+					<span id="choosecity">全部</span>
+				</div>
+				<input type="hidden" name="regionid" id="regionid" value="0">
+				<input type="hidden" name="op" id="op" value="headersearch">
+				<input  type="button" class="button_head_search pointer floatleft" onclick="javascript:headerSearch(this);" />
+			</div>
+			</form>
+			<div class="right floatright">
+				<div class="head_greenicon_box floatleft">
+											<p><span class="white">个人用户</span></p>
+						<p><a href="/collect/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="http://bbs.hiall.com.cn/register_hiall.php" class="white">注册</a></p>		
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="head_blueicon_box floatleft">
+										<p><a class="white">企业用户</a></p>
+					<p><a href="/users/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="/users/register.php" class="white">注册</a></p>
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="vspacer floatleft"></div>
+				<div class="floatleft">
+					<p><a href="/info/about.php#t2" class="white">查看企业</p><p>服务项目</a></p>
+				</div>
+				<div class="vspacer floatleft"></div>
+			</div>
+		</div>
+		<div class="clear"></div>
+		<div class="bottom">
+
+<!--<div style="position:relative;">-->
+<ul class="head_nav floatleft">
+	<li hidefocus="true" ><a href="/" hidefocus="true">首页</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://bbs.hiall.com.cn" target="_blank" hidefocus="true">BBS</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/" hidefocus="true">全职推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true"  class="active"><a href="/info/part.php" hidefocus="true">实习推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/" hidefocus="true" target="_blank">宣讲会</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://www.hiall.com.cn/2011" hidefocus="true" target="_blank" class="menu_red">HiAll雇主专区</a></li>
+	<li hidefocus="true" class="fg"></li>
+    <!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/calendar/" hidefocus="true" target="_blank">2012校招日程</a></li>-->
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/special.php" hidefocus="true">专业招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/company/" hidefocus="true">名企招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/expire.php" hidefocus="true">申请截止</a></li>
+	<li hidefocus="true" class="fg"></li>
+    <li hidefocus="true"  style='padding-left:0px;'><a href="http://bbs.hiall.com.cn/forum-1054-1.html" hidefocus="true" target="_blank" style="color:red">2013名企求职礼包</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://wenda.hiall.com.cn/" hidefocus="true" target="_blank">HiAll一问一答</a></li>
+	<!--<li hidefocus="true" ><a href="http://edu.hiall.com.cn/" hidefocus="true" target="_blank">求职指导</a></li>-->
+	<!--<li hidefocus="true" ><a href="http://miaosha.hiall.com.cn/" hidefocus="true" target="_blank">职业秒杀</a></li>
+	<li hidefocus="true" class="fg"></li>-->
+	<!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/yinhang/" hidefocus="true" target="_blank" style="color:red">2012银行校园招聘</a></li>-->
+</ul>
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>
+<div id="loginfloat" style="background:red;psotion:absolute;display:none;">
+	<div class="fav_topbox floatleft">
+		<p class="h22"><span class="or b">登录后可以个性化你的收藏哦！</span><span class="gray">（用HiAll bbs账号直接登录）</span><span class="gray"><a href="javascript:;" onclick="closeCollect();">关闭</a></span></p>
+		<div class="spacer"></div>
+		<form method="post" accept-charset="GB2312" name="login" id="loginform1" class="gateform" action="http://bbs.hiall.com.cn/logging.php?action=login&amp;loginsubmit=yes">
+		<input type="hidden" name="formhash" value="e9f7b113" />
+		<input type="hidden" name="referer" id="referer" value="http://www.hiall.com.cn/collect/index.php" />
+		<div>
+			<p class="h22"><span>用户名：</span><span><input type="text" class="required normalinput grayborder" size="14" name="username" id="username1" title="用户名称不能为空！" /></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/register_hiall.php" class="gray underline">新用户注册</a></span><h3 id="returnmessage"></h3></p>
+			<div class="spacer"></div>
+			<p class="h22"><span>密&nbsp;&nbsp;码：</span><span><input type="password" class="required normalinput grayborder" size="14"  id="password4" name="password" title="密码不能为空！"/></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/logging.php?action=login" class="gray underline">忘记密码?</a></span></p>
+			<div class="spacer"></div>
+			<p class="fav_login_button h22"><input type="button" onclick="return ajaxpost('username1', 'password4', 'loginform1', 'returnmessage', 'returnmessage', 'onerror');" value="登  录"  class="button_or_2c white"/><span class="pdlr4"></span><a href="http://bbs.hiall.com.cn/register_hiall.php"><button class="button_or_5c white">新用户注册</button></a></p>
+		</div>
+		</form>
+	</div>
+</div>
+<div id="body">
+	<p class="h22 txtindent1 gray">当前位置：<a href='/'>首页</a> &gt; <a href='/info/'>实习推荐</a> &gt; TP-LINK2011暑期实习生招聘 </p>
+	<!--<div class="bigbg reborder">-->
+    <div class="bigbg reborder" style="overflow:auto; _height:1%;">
+		<div id="leftcolumn" class="floatleft">
+            <div class="leftcolumn">
+				<p class="leftcolumn_title font14 b deepblack">行业分类</p>
+<ul class="left_nav">
+		<li><a href="/info/?businesses=1" >计算机•互联网•通信</a></li>
+		<li><a href="/info/?businesses=2" >电器•电子•家电</a></li>
+		<li><a href="/info/?businesses=3" >金融•投资•证券</a></li>
+		<li><a href="/info/?businesses=4" >咨询•财会•法律</a></li>
+		<li><a href="/info/?businesses=5" >贸易•消费•进出口</a></li>
+		<li><a href="/info/?businesses=6" >制药•生物•医疗</a></li>
+		<li><a href="/info/?businesses=7" >工业制造•能源•原材料</a></li>
+		<li><a href="/info/?businesses=8" >房地产•建筑•工程建设</a></li>
+		<li><a href="/info/?businesses=9" >广告•会展•公关</a></li>
+		<li><a href="/info/?businesses=10" >物流•仓储•运输</a></li>
+		<li><a href="/info/?businesses=11" >教育•培训•科研•院校</a></li>
+		<li><a href="/info/?businesses=12" >政府•公共事业•非盈利机构</a></li>
+		<li><a href="/info/?businesses=13" >服务业</a></li>
+		<li><a href="/info/?businesses=14" >农林牧渔•环保</a></li>
+		<li><a href="/info/?businesses=15" >跨领域经营 </a></li>
+		<li><a href="/info/?businesses=16" >其他</a></li>
+		<li><a href="/info/?businesses=17" >机械•自动化•仪器仪表行•重工业</a></li>
+		<li><a href="/info/?businesses=18" >汽车•摩托车行业 </a></li>
+		<li><a href="/info/?businesses=19" >旅游•酒店•餐饮服务</a></li>
+		<li><a href="/info/?businesses=20" >物业管理•商业中心</a></li>
+		<li><a href="/info/?businesses=21" >快速消费品(食品•饮料•日化•烟酒等)</a></li>
+		<li><a href="/info/?businesses=22" >家居•室内设计•装潢</a></li>
+		<li><a href="/info/?businesses=23" >石油•化工•采掘•冶炼</a></li>
+		<li><a href="/info/?businesses=24" >耐用消费品(服饰•纺织•家具）</a></li>
+		<li><a href="/info/?businesses=25" >媒体•文化传播•出版•影视</a></li>
+		<li><a href="/info/?businesses=26" >芯片•电子技术•半导体</a></li>
+		<li><a href="/info/?businesses=27" >批发•零售</a></li>
+	</ul>
+
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<p class="leftcolumn_title font14 b deepblack">热门公司推荐</p>
+<ul class="left_topcompany">
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1033-1.html">中国石化集团公司</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-212-1.html">中金(CICC)</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-183-1.html">英特尔（intel）</a></h1></li>
+	<li><h1><a href="http://www.hiall.com.cn/bbs/forum-188-1.html">联合利华Unilever</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-249-1.html">箭牌中国</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1241-1.html">完美时空</a></h1></li>
+</ul>			</div>
+			
+			
+		</div>
+		<div id="midcolumn" class="floatleft">
+			<div class="topnews">	
+	<div class="left floatleft lightblue">站内新闻</div>
+	<div class="right floatleft ">
+		<div class="floatleft">
+			<div class="absolute zindex200">
+				<a href="javascript:preMsg();" class="icon_arrow_blue_up relative floatleft" id="icon_arrow_blue_up"></a>
+			</div>
+		</div>
+		<div class="floatright">
+			<div class="absolute zindex200">
+				<a href="javascript:nextMsg();" class="icon_arrow_blue_down relative floatleft" id="icon_arrow_blue_down"></a>
+			</div>
+		</div>
+		<ul class="topnews_list" id="topnews_list" style="top:0px;">
+		<li id="msg_show"><a href="http://e.weibo.com/1801762575/zh96Xguz8" target="_blank" class="lightgray">关注HiAll校园招聘微信公众号：HiAllxyzhaopin，二维码在此，快来拍我！</a></li>					
+		</ul>
+		<ul style="display:none;">
+					<li id="msg_0"><a href="http://e.weibo.com/1801762575/zh96Xguz8" target="_blank" class="lightgray">关注HiAll校园招聘微信公众号：HiAllxyzhaopin，二维码在此，快来拍我！</a></li>			
+				</ul>
+		<input type="hidden" id="msg_count" value="1" />
+	</div>
+	<div class="clear"></div>
+</div>
+			<div class="clear spacer"></div>
+<div style="margin:5px 0px 0px 25px;">
+
+<script type="text/javascript"> var cpro_id = 'u249066'; </script>
+<script type="text/javascript" src="http://cpro.baidu.com/cpro/ui/c.js"></script>
+</div>
+			<div class="jobbox">
+				<div class="spacer"></div>
+				<div class="job_maininfo">
+					<h1 class="b font14">
+											TP-LINK   
+													<span class="pdlr"><img src="http://www.hiall.com.cn/images/icon/icon_top500_g.gif" /></span>
+						</h1>
+					<h1>所属行业：计算机•互联网•通信</h1>
+					<div class="spacer"></div>
+                    <div>
+                       	<div class="button_job floatleft">
+							<div class="button_right"><a href="/company/cid-2956.html" class="icon_jobbutton_ck blue">查看公司详情</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+																		<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn">信息修改/删除</a></div>
+						</div>
+                        <div class="clear"></div>
+                            
+                    </div>
+                    <div class="spacer"></div>
+                    <div class="spacer"></div>
+                    <div>
+                        <div class="floatleft">
+                        <!-- Baidu Button BEGIN -->
+                        <div id="bdshare" class="bdshare_b" style="line-height: 12px;"><img src="http://bdimg.share.baidu.com/static/images/type-button-1.jpg" />
+                            <a class="shareCount"></a>
+                        </div>
+                        <script type="text/javascript" id="bdshare_js" data="type=button" ></script>
+                        <script type="text/javascript" id="bdshell_js"></script>
+                        <script type="text/javascript">
+                            document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+                        </script>
+                        <!-- Baidu Button END -->
+                        </div>
+                    </div>
+                    				</div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<p>
+								</p>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="job_detail">
+					<h1 class="positiontitle">TP-LINK2011暑期实习生招聘 </h1>
+					<div class="spacer"></div>
+					<div class="spacer4"></div>
+						<p>
+该职位已发布超过<span class="pdlr or">764</span>天
+
+						<span class="pdlr"></span><span>编号：134173</span>
+						<span class="pdlr"></span></p>
+					<div class="spacer"></div>
+					<p>						
+						<span>工作地区：深圳</span>
+						<span class="pdlr"></span>
+						<span>更新时间：2011-06-25</span>
+					</p>
+<div style="border-top:1px solid #C3DBE8; margin-top: 8px;"></div>
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<div style="overflow:auto;">
+						<p>公司简介<br />
+深圳市普联技术有限公司（以下简称&ldquo;TP-LINK&rdquo;）是全球领先的网络通讯设备供应商。自1996年成立以来，TP-LINK始终致力于为大众提供最便利的本地局域网络互联和Internet接入手段，为大众在生活、工作、娱乐上日益增长的网络使用需求，提供高品质、高性能价格比的全面设备解决方案。<br />
+TP-LINK产品涵盖以太网、无线局域网、宽带接入终端，在既有的传输、交换、路由等主要核心领域外，正大力扩展移动互联网终端、数字家庭、网络安全等领域。<br />
+公司总部位于中国深圳，同时在北京、上海、广州等18个中国中心城市设有销售和服务中心，并已在德国、美国、俄罗斯、英国、意大利、瑞典、新加坡、香港、印度、越南、法国和加拿大设立了直属的海外子公司或代表处。截至2010年年底，产品已应用于全球100多个国家，总计接近2亿件。<br />
+TP-LINK坚持自主研发、自主制造、自主营销，研发体系、制造体系、营销体系在业界均处于行业领先地位，整合全球优质资源，形成强大的合力，使TP-LINK在创新能力、研发技术和对产品的控制能力方面始终处于行业领先地位。在牢固树立国内领先基础上，TP-LINK已经成为网络通讯设备领域全球领先品牌。<br />
+公司网址：www.tp-link.com.cn<br />
+招聘职位：（60人）<br />
+一、暑期实习生（研发类）<br />
+岗位方向：软件工程师、硬件工程师、系统测试工程师<br />
+二、暑期实习生（人事行政类）<br />
+岗位方向：人力资源、行政管理、行政采购<br />
+<br />
+应聘须知：<br />
+一、招聘对象：研究生二年级、本科生三年级。<br />
+二、简历投递方式：登录公司招聘网址：http://hr.tp-link.com.cn<br />
+三、面试地点：学校内<br />
+四、招聘安排：&ldquo;五.一&rdquo;前完成面试交流<br />
+五、实习地点：深圳市南山区科技园公司总部大楼。<br />
+<br />
+岗位介绍<br />
+研发类<br />
+软件工程师<br />
+职位描述：<br />
+负责产品的软件研发，职责包括软件的需求制定、设计、实现、集成、测试等全软件开发过程。<br />
+软件开发是一项艺术化的工作，思想在这里迸发；软件开发也是一项严谨求实的工作，因为我们对代码的规范性、健壮性、可维护性有着极高的要求。在TP-LINK，我们已经建立了从硬件驱动、操作系统内核到应用系统的完整软件研发体系和格局。如何控制芯片有效运行，如何支撑几何级增长的用户，如何7*24稳定工作，都是我们专注解决的问题。在这里，您将有机会与世界一流的软件、芯片厂商展开合作，接触全球最新的软件开发平台，研发站在业界顶端的软件产品。TP-LINK的软件产品，已经在上亿设备中运行，每一天，我们都面对着来自全球的竞争，而每一天，我们都在向着更强的研发能力迈进。想要接触这些激动人心的技术么？想要在一流的环境下提升自己么？请加入TP-LINK的软件研发队伍。<br />
+招聘要求：<br />
+本科/硕士学历；计算机、软件工程、通信工程、电子工程及相关专业；有良好的C/C 编程基础；熟悉常用的数据结构。<br />
+<br />
+硬件工程师<br />
+职位描述：<br />
+负责网络通讯产品的硬件?料评估和选择等。<br />
+我们对网络通讯设备性能的要求完美而近乎苛刻，硬件设计绝对不是简单的&ldquo;拼凑&rdquo;工作！信号完整性、电磁兼容性、抗恶劣条件与产品工作性能已经同等重要。在TP-LINK，您将有机会掌握网络设备行业最核心、最前沿的技术，感受网络通讯产品技术的高速发展带来的技术革新；您将拥有世界上一流的调试、测试设备与手段。在TP-LINK，您将得到国际一流芯片供应商的直接支持，面对国际一流客户的设计要求而不断挑战极限、攀越成功。如果您有志成为融合数字电路设计、模拟电路设计、射频电路设计于一体的&ldquo;硬&rdquo;高手，请加入我们的硬件工程师队伍！<br />
+招聘要求：<br />
+本科/硕士学历；电子工程、无线电、微电子、电磁场与微波、通信工程等相关专业。<br />
+<br />
+系统测试工程师<br />
+职位描述：<br />
+系统测试工程师是研发质量的把关者，主要职责包括：企业产品标准的制定，测试方案和测试用例的设计；自动化测试工具开发，测试脚本的编写与维护，测试平台建设；组织并进行产品系统测试、回归测试，制定测试计划，对缺陷进行分析和跟踪，并提交相关测试报告等。<br />
+不少高科技企业重设计轻测试，导致产品质量低下，研发效率最终欲速则不达。对中国企业来说，&ldquo;Designed in China&rdquo;比&ldquo;Made in China&rdquo;有更高的要求。在企业品质意识不断提高的情况下，测试工作量在研发总工作量中所占的比重迅速增加，测试工程师职位也成为各种研发职位中增长最快，最热门和紧缺的职位。<br />
+在TP-LINK的这个工作岗位上，您将同世界顶级的设备供应商（如Spirent、Agilent等）合作与交流，并掌握其先进的测试理念和方法；使用当今业内最先进的测试设备、测试软件（如SmartBits、Avalanche等），以及在此基础上进行测试开发的工作；能够得到国际一流的芯片供应商的直接支持，并一起并肩挑战每一个细节；能够了解到全球范围内网络产品用户，特别是高端的大客户，最直接的感受、需求和反馈，并有机会同知名的测试机构合作；同时，您将在短时间内接触到全面的产品技术，涉及到产品在整体网络环境及架构下的应用，在知识层面上达到技术和应用的有效结合，为个人在网络行业的成长，快速而系统地奠定坚实的基础。<br />
+招聘要求：<br />
+本科/硕士学历；计算机、网络工程、电子、通信及相关专业；熟练掌握一门计算机语言；善于理论思考与分析。<br />
+<br />
+人事行政类（人力资源方向、行政管理方向、行政采购方向）<br />
+职位描述：<br />
+在公司飞速发展的迅猛势头下，对高端人才的需求日益紧迫，人事行政处承担着人力资源开发、培训、绩效评估、薪酬及激励的职责，同时作为管理服务的职能部门，还承担政府事务外联、行政专案采购等职责。作为一名人事行政类实习生，你将有机会学习到系统的管理知识和法规流程，亲自体验人才的招聘、测评、选拔是如何将恰当的人放到正确的位置上；运用绩效考核和薪酬激励体系最大限度地激发员工的潜能；有效配置各种培训资源来帮助员工快速成长。除此之外，你还可以发挥你优秀的组织协调能力和专业谈判技巧，通过各种活动和专案，取得更为有利的内外部社会资源，节约运作成本提高效率，提升公司综合竞争力和雇主品牌。<br />
+招聘要求：<br />
+本科/硕士学历，硕士优先；具备良好的文字和口头表达能力，组织协调能力强；性格开朗，热爱团队组织工作，班长、学生会干部、有学校大中型活动组织经验者或有管理咨询项目经验者优先。<br />
+<br />
+<p>&nbsp;</p>
+</p>					</div>
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<p ><a href="http://wenda60.com" target="_blank" style="font-size:14px; color:#2B68E9">>>练练该公司的招聘笔试题 </a><script type="text/javascript"><!--
+google_ad_client = "ca-pub-9486753476951928";
+/* 底部广告 */
+google_ad_slot = "1009061790";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p> 					
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<div>
+						<div class="floatleft">
+                        <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_b" style="line-height: 12px;"><img src="http://bdimg.share.baidu.com/static/images/type-button-1.jpg" />
+                                <a class="shareCount"></a>
+                           
+						  </div>
+                        <script type="text/javascript" id="bdshare_js" data="type=button" ></script>
+                        <script type="text/javascript" id="bdshell_js"></script>
+                        <script type="text/javascript">
+                            document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+                        </script>
+                        <!-- Baidu Button END -->
+						</div>
+						<div class="button_job_or floatleft">
+							<!--<div class="button_right"><a href="javascript:;" onclick="collect(2, 134173);" class="icon_jobbutton_sc white">我要收藏</a></div>-->
+				  </div>
+                            <div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+						<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn" class="icon_jobbutton_p">举报错误信息</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+						<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn">信息修改/删除</a></div>
+						</div>
+						<div class="clear"></div>
+			  </div>
+		  </div>
+				<div class="spacer"></div>
+				<div class="spacer">
+</div>
+<!--
+				<div class="grayline"></div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="pdlr">
+					<div>
+						<span class="floatleft font14  b">同行业的职位</span>
+						<span class="floatright pdlr"></span>
+					</div>
+					<div class="clear spacer"></div>
+					<ul class="ul_bluedisc underline">
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277287.html" class="blue" title="Hays Specialist Recruitment招收实习生" target="_blank">Hays Specialist Recruitment招收实习生</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277056.html" class="blue" title="大众点评网急聘技术部实习生" target="_blank">大众点评网急聘技术部实习生</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277047.html" class="blue" title="兼职可在家工作" target="_blank">兼职可在家工作</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276946.html" class="blue" title="中国移动总部2013实习生招聘" target="_blank">中国移动总部2013实习生招聘</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276936.html" class="blue" title="【兰亭集势】2013校园大使招聘" target="_blank">【兰亭集势】2013校园大使招聘</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276935.html" class="blue" title="兰亭集势2013实习生招聘图论与算法工程师" target="_blank">兰亭集势2013实习生招聘图论与算法工程师</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276895.html" class="blue" title="软件开发设计测试员" target="_blank">软件开发设计测试员</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276809.html" class="blue" title="【方正国际】诚招:总裁秘书1名（13届或14届硕士毕业生）" target="_blank">【方正国际】诚招:总裁秘书1名（13届或14届硕士毕业生</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276801.html" class="blue" title="汇丰软件招聘实习生" target="_blank">汇丰软件招聘实习生</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276650.html" class="blue" title="京东方2013暑期实习生“晶英计划”" target="_blank">京东方2013暑期实习生“晶英计划”</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											
+					</ul>
+				</div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="grayline"></div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+								<div class="pdlr">
+					<div>
+						<span class="floatleft font14  b">相同公司职位</span>
+						<span class="floatright pdlr"></span>
+					</div>
+					<div class="clear spacer"></div>
+					<ul class="ul_bluedisc underline">
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_233162.html" class="blue" title="TP Management Consulting" target="_blank">TP Management Consulting</a></div>
+							<span class="floatright gray pdlr">11-20</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_134173.html" class="blue" title="TP-LINK2011暑期实习生招聘 " target="_blank">TP-LINK2011暑期实习生招聘 </a></div>
+							<span class="floatright gray pdlr">06-25</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_42116.html" class="blue" title="TP-LINK 2010校园招聘-春季补招" target="_blank">TP-LINK 2010校园招聘-春季补招</a></div>
+							<span class="floatright gray pdlr">03-02</span>
+							<div class="clear"></div>
+						</li>
+											
+					</ul>
+				</div>
+							</div>
+			<div class="clear spacer"></div>
+			<div class="spacer"></div>
+			<div class="spacer"></div>
+-->
+			<div class="spacer"></div>
+		</div>
+        
+		<div class="clear"></div>
+	</div>
+    
+    <div id="rightcolumn" class="floatleft">
+            <div class="rightcolumn" style="padding:0px;">
+                <div>
+			 <script type="text/javascript"><!--
+            google_ad_client = "ca-pub-9486753476951928";
+            /* 职位广告 */
+            google_ad_slot = "3598731756";
+            google_ad_width = 200;
+            google_ad_height = 200;
+            //-->
+            </script>
+            <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+				
+				    <div class="rightcolumn_title font14 b deepblack">该公司最新招聘信息</div>
+                    <div class="rightcolumn_title font14 b deepblack"><a href="/company/cid-2956.html ">点击查看全部</a></div>
+					<div class="spacer"></div>
+					<ul class="ul_bluedisc right_ul_bluedisc underline">
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_233162.html" class="blue">TP Management Consulting</a></div>
+						<span class="pdlr4 floatright">09-20</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_134173.html" class="blue">TP-LINK2011暑期实习生招聘 </a></div>
+						<span class="pdlr4 floatright">04-25</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_42116.html" class="blue">TP-LINK 2010校园招聘-春季补招</a></div>
+						<span class="pdlr4 floatright">03-02</span>
+						<div class="clear"></div>
+						</li>							
+										</ul>
+				</div>
+		   </div>
+           <div class="rightcolumn" style="padding:0px;">
+                <div>
+				
+				    <div class="rightcolumn_title font14 b deepblack">同行业最新招聘信息</div>
+                    
+					<div class="spacer"></div>
+					<ul class="ul_bluedisc right_ul_bluedisc underline">
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277287.html" class="blue" title="Hays Specialist Recruitment招收实习生" target="_blank">Hays Specialist Recruitment招收实习生</a></div>
+							<span class="floatright gray pdlr">05-21</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277056.html" class="blue" title="大众点评网急聘技术部实习生" target="_blank">大众点评网急聘技术部实习生</a></div>
+							<span class="floatright gray pdlr">05-20</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277047.html" class="blue" title="兼职可在家工作" target="_blank">兼职可在家工作</a></div>
+							<span class="floatright gray pdlr">05-19</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276946.html" class="blue" title="中国移动总部2013实习生招聘" target="_blank">中国移动总部2013实习生招聘</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276936.html" class="blue" title="【兰亭集势】2013校园大使招聘" target="_blank">【兰亭集势】2013校园大使招聘</a></div>
+							<span class="floatright gray pdlr">05-16</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276935.html" class="blue" title="兰亭集势2013实习生招聘图论与算法工程师" target="_blank">兰亭集势2013实习生招聘图论与算法工程师</a></div>
+							<span class="floatright gray pdlr">05-16</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276895.html" class="blue" title="软件开发设计测试员" target="_blank">软件开发设计测试员</a></div>
+							<span class="floatright gray pdlr">05-16</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276809.html" class="blue" title="【方正国际】诚招:总裁秘书1名（13届或14届硕士毕业生）" target="_blank">【方正国际】诚招:总裁秘书1名（13届或14届硕士毕业生</a></div>
+							<span class="floatright gray pdlr">05-15</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276801.html" class="blue" title="汇丰软件招聘实习生" target="_blank">汇丰软件招聘实习生</a></div>
+							<span class="floatright gray pdlr">05-14</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276650.html" class="blue" title="京东方2013暑期实习生“晶英计划”" target="_blank">京东方2013暑期实习生“晶英计划”</a></div>
+							<span class="floatright gray pdlr">05-14</span>
+							<div class="clear"></div>
+						</li>							
+										</ul>
+				</div>
+		   </div>
+           <div class="rightcolumn">
+				<div class="spacer"></div>
+	
+								
+		   </div>
+		   <div class="spacer"></div>
+				
+    </div>
+</div>
+<iframe id="collection" name="collection" style="width:0px;height:0px;"></iframe>
+<div id="foot">
+	<div class="footbody">
+		<div class="foot_top aligncenter white"> <a href="http://www.hiall.com.cn/" class="white">HiAll校园招聘</a> <span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/" class="white">HiAll论坛</a> 
+
+<span class="pdlr4">|</span> <a href="http://wenda.hiall.com.cn/" class="white">HiAll一问一答</a>
+
+<span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/forum-744-1.html" class="white">校园招聘求职大礼包</a> <span class="pdlr4">|</span> <a href="http://hr.hiall.com.cn/" class="white">加入HiAll</a>
+<span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/thread-150495-1-1.html" class="white">广告合作</a> <span class="pdlr4">|</span> <a href="/info/about.php" class="white">关于我们</a> <span class="pdlr4">|</span> <a href="/info/sitemap.php" class="white">网站地图</a></div>		<div class="foot_mid aligncenter white"> 网站相关问题请联系：010-82601802 || 企业服务请联系：010-82600684</div>
+		<div class="foot_bot aligncenter white">Copyright HiAll
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP备10021013号
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP证090110号
+			<span class="pdlr"></span><span class="pdlr"></span>京公网安备11010802010560号
+		</div>
+	</div>
+</div>
+<!-- Baidu Analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F56dda118cbb3220435957635a699495b' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- Baidu Analytics -->
+</body>
+</html>
+

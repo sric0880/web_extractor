@@ -1,0 +1,1266 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<title>恒润科技2013校园招聘-全职推荐</title>
+<head>
+<meta property="qc:admins" content="35413136776011446375636" />
+<meta http-equiv="keywords" content="2013校园招聘,HiAll,招聘,校园招聘,全职职位,实习职位,大学生求职,应届生求职"/>
+<meta http-equiv="description" content="HiAll，为应届毕业生或在校生提供最新、最全、最可靠的全职、实习招聘信息、宣讲会信息与各种求职资讯与资料，成为联动学生与雇主的纽带，覆盖北京、上海、广州、海外等地区。" />
+<meta name="generator" content="HiAll2.0" />
+<meta name="author" content="HiAll" />
+<meta name="copyright" content="2004-2012 HiAll." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<script src="http://file.hiall.com.cn/newhiall/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/jquery.validate.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/utils.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/u1.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frame/page.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/main.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frontpage/frontpage.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/manage.css" />
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2560481-2']);
+  _gaq.push(['_setDomainName', '.hiall.com.cn']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Google Analytics -->
+</head>
+<body>
+<div id="head">
+	<div id="headbody">
+		<div class="top">
+			<a href="/" class="head_logo floatleft"></a>
+			<div class="mid floatleft">
+			<form method="post" action="/search/infos.php">
+				<input type="text" class="head_search_input gray floatleft" maxlength="10" value="职位信息 如：管理培训生" id="searchkey" name="searchkey" onclick="if(this.value == '职位信息 如：管理培训生') this.value='';" onblur="if(this.value=='') this.value='职位信息 如：管理培训生';"/>
+				<div class="head_search_select gray pointer floatleft">
+					<div class="floatleft">
+						<div class="absolute">
+							<div class="relative head_search_select_optionbox" style="display:none; z-index:10;">
+								<ul class="head_search_select_option" id="choosecity-list">
+																<li id="r0">全部</li>
+																<li id="r1">北京</li>
+																<li id="r2">上海</li>
+																<li id="r40">广州</li>
+																<li id="r41">深圳</li>
+															</ul>
+							</div>
+						</div>
+					</div>
+					<span id="choosecity">全部</span>
+				</div>
+				<input type="hidden" name="regionid" id="regionid" value="0">
+				<input type="hidden" name="op" id="op" value="headersearch">
+				<input  type="button" class="button_head_search pointer floatleft" onclick="javascript:headerSearch(this);" />
+			</div>
+			</form>
+			<div class="right floatright">
+				<div class="head_greenicon_box floatleft">
+											<p><span class="white">个人用户</span></p>
+						<p><a href="/collect/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="http://bbs.hiall.com.cn/register_hiall.php" class="white">注册</a></p>		
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="head_blueicon_box floatleft">
+										<p><a class="white">企业用户</a></p>
+					<p><a href="/users/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="/users/register.php" class="white">注册</a></p>
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="vspacer floatleft"></div>
+				<div class="floatleft">
+					<p><a href="/info/about.php#t2" class="white">查看企业</p><p>服务项目</a></p>
+				</div>
+				<div class="vspacer floatleft"></div>
+			</div>
+		</div>
+		<div class="clear"></div>
+		<div class="bottom">
+
+<!--<div style="position:relative;">-->
+<ul class="head_nav floatleft">
+	<li hidefocus="true" ><a href="/" hidefocus="true">首页</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://bbs.hiall.com.cn" target="_blank" hidefocus="true">BBS</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true"  class="active"><a href="/info/" hidefocus="true">全职推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/part.php" hidefocus="true">实习推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/" hidefocus="true" target="_blank">宣讲会</a></li>
+	<li hidefocus="true" class="fg"></li>
+
+    <!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/calendar/" hidefocus="true" target="_blank">2012校招日程</a></li>-->
+	<li hidefocus="true" ><a href="/info/special.php" hidefocus="true">专业招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/company/" hidefocus="true">名企招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/expire.php" hidefocus="true">申请截止</a></li>
+	<li hidefocus="true" class="fg"></li>
+    <li hidefocus="true"  style='padding-left:0px;'><a href="http://bbs.hiall.com.cn/forum-1054-1.html" hidefocus="true" target="_blank" >2013名企求职礼包</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://wenda.hiall.com.cn/" hidefocus="true" target="_blank">HiAll一问一答</a></li>
+		<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://maker.wenda60.com/" hidefocus="true" target="_blank" style="color:red" class="menu_red">KnewMaker</a></li>
+	<!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/2011/" hidefocus="true" target="_blank" class="menu_red">KnewMaker</a></li>-->
+	<!--<li hidefocus="true" ><a href="http://edu.hiall.com.cn/" hidefocus="true" target="_blank">求职指导</a></li>-->
+	<!--<li hidefocus="true" ><a href="http://miaosha.hiall.com.cn/" hidefocus="true" target="_blank">职业秒杀</a></li>
+	<li hidefocus="true" class="fg"></li>-->
+	<!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/yinhang/" hidefocus="true" target="_blank" style="color:red">2012银行校园招聘</a></li>-->
+</ul>
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>
+<div id="loginfloat" style="background:red;psotion:absolute;display:none;">
+	<div class="fav_topbox floatleft">
+		<p class="h22"><span class="or b">登录后可以个性化你的收藏哦！</span><span class="gray">（用HiAll bbs账号直接登录）</span><span class="gray"><a href="javascript:;" onclick="closeCollect();">关闭</a></span></p>
+		<div class="spacer"></div>
+		<form method="post" accept-charset="GB2312" name="login" id="loginform1" class="gateform" action="http://bbs.hiall.com.cn/logging.php?action=login&amp;loginsubmit=yes">
+		<input type="hidden" name="formhash" value="e9f7b113" />
+		<input type="hidden" name="referer" id="referer" value="http://www.hiall.com.cn/collect/index.php" />
+		<div>
+			<p class="h22"><span>用户名：</span><span><input type="text" class="required normalinput grayborder" size="14" name="username" id="username1" title="用户名称不能为空！" /></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/register_hiall.php" class="gray underline">新用户注册</a></span><h3 id="returnmessage"></h3></p>
+			<div class="spacer"></div>
+			<p class="h22"><span>密&nbsp;&nbsp;码：</span><span><input type="password" class="required normalinput grayborder" size="14"  id="password4" name="password" title="密码不能为空！"/></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/logging.php?action=login" class="gray underline">忘记密码?</a></span></p>
+			<div class="spacer"></div>
+			<p class="fav_login_button h22"><input type="button" onclick="return ajaxpost('username1', 'password4', 'loginform1', 'returnmessage', 'returnmessage', 'onerror');" value="登  录"  class="button_or_2c white"/><span class="pdlr4"></span><a href="http://bbs.hiall.com.cn/register_hiall.php"><button class="button_or_5c white">新用户注册</button></a></p>
+		</div>
+		</form>
+	</div>
+</div>
+<div id="body">
+	<p class="h22 txtindent1 gray">当前位置：<a href='/'>首页</a> &gt; <a href='/info/'>全职推荐</a> &gt; 恒润科技2013校园招聘</p>
+	<!--<div class="bigbg reborder">-->
+    <div class="bigbg reborder" style="overflow:auto; _height:1%;">
+		<div id="leftcolumn" class="floatleft">
+            <div class="leftcolumn">
+				<p class="leftcolumn_title font14 b deepblack">行业分类</p>
+<ul class="left_nav">
+		<li><a href="/info/?businesses=1" >计算机•互联网•通信</a></li>
+		<li><a href="/info/?businesses=2" >电器•电子•家电</a></li>
+		<li><a href="/info/?businesses=3" >金融•投资•证券</a></li>
+		<li><a href="/info/?businesses=4" >咨询•财会•法律</a></li>
+		<li><a href="/info/?businesses=5" >贸易•消费•进出口</a></li>
+		<li><a href="/info/?businesses=6" >制药•生物•医疗</a></li>
+		<li><a href="/info/?businesses=7" >工业制造•能源•原材料</a></li>
+		<li><a href="/info/?businesses=8" >房地产•建筑•工程建设</a></li>
+		<li><a href="/info/?businesses=9" >广告•会展•公关</a></li>
+		<li><a href="/info/?businesses=10" >物流•仓储•运输</a></li>
+		<li><a href="/info/?businesses=11" >教育•培训•科研•院校</a></li>
+		<li><a href="/info/?businesses=12" >政府•公共事业•非盈利机构</a></li>
+		<li><a href="/info/?businesses=13" >服务业</a></li>
+		<li><a href="/info/?businesses=14" >农林牧渔•环保</a></li>
+		<li><a href="/info/?businesses=15" >跨领域经营 </a></li>
+		<li><a href="/info/?businesses=16" >其他</a></li>
+		<li><a href="/info/?businesses=17" >机械•自动化•仪器仪表行•重工业</a></li>
+		<li><a href="/info/?businesses=18" >汽车•摩托车行业 </a></li>
+		<li><a href="/info/?businesses=19" >旅游•酒店•餐饮服务</a></li>
+		<li><a href="/info/?businesses=20" >物业管理•商业中心</a></li>
+		<li><a href="/info/?businesses=21" >快速消费品(食品•饮料•日化•烟酒等)</a></li>
+		<li><a href="/info/?businesses=22" >家居•室内设计•装潢</a></li>
+		<li><a href="/info/?businesses=23" >石油•化工•采掘•冶炼</a></li>
+		<li><a href="/info/?businesses=24" >耐用消费品(服饰•纺织•家具）</a></li>
+		<li><a href="/info/?businesses=25" >媒体•文化传播•出版•影视</a></li>
+		<li><a href="/info/?businesses=26" >芯片•电子技术•半导体</a></li>
+		<li><a href="/info/?businesses=27" >批发•零售</a></li>
+	</ul>
+
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<p class="leftcolumn_title font14 b deepblack">热门公司推荐</p>
+<ul class="left_topcompany">
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1033-1.html">中国石化集团公司</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-212-1.html">中金(CICC)</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-183-1.html">英特尔（intel）</a></h1></li>
+	<li><h1><a href="http://www.hiall.com.cn/bbs/forum-188-1.html">联合利华Unilever</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-249-1.html">箭牌中国</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1241-1.html">完美时空</a></h1></li>
+</ul>			</div>
+			
+			
+		</div>
+		<div id="midcolumn" class="floatleft">
+			<div class="topnews">	
+	<div class="left floatleft lightblue">站内新闻</div>
+	<div class="right floatleft ">
+		<div class="floatleft">
+			<div class="absolute zindex200">
+				<a href="javascript:preMsg();" class="icon_arrow_blue_up relative floatleft" id="icon_arrow_blue_up"></a>
+			</div>
+		</div>
+		<div class="floatright">
+			<div class="absolute zindex200">
+				<a href="javascript:nextMsg();" class="icon_arrow_blue_down relative floatleft" id="icon_arrow_blue_down"></a>
+			</div>
+		</div>
+		<ul class="topnews_list" id="topnews_list" style="top:0px;">
+		<li id="msg_show"><a href="http://maker.wenda60.com" target="_blank" class="lightgray">【KnewMaker推荐】加入“创客”一族，感受电子DIY的魅力</a></li>					
+		</ul>
+		<ul style="display:none;">
+					<li id="msg_0"><a href="http://maker.wenda60.com" target="_blank" class="lightgray">【KnewMaker推荐】加入“创客”一族，感受电子DIY的魅力</a></li>			
+				</ul>
+		<input type="hidden" id="msg_count" value="1" />
+	</div>
+	<div class="clear"></div>
+</div>
+			<div class="clear spacer"></div>
+<div style="margin:5px 0px 0px 25px;">
+
+<script type="text/javascript"> var cpro_id = 'u249066'; </script>
+<script type="text/javascript" src="http://cpro.baidu.com/cpro/ui/c.js"></script>
+</div>
+			<div class="jobbox">
+				<div class="spacer"></div>
+				<div class="job_maininfo">
+					<h1 class="b font14">
+											恒润科技  
+						</h1>
+					<h1>所属行业：计算机•互联网•通信</h1>
+					<div class="spacer"></div>
+                    <div>
+                       	<div class="button_job floatleft">
+							<div class="button_right"><a href="/company/cid-9205.html" class="icon_jobbutton_ck blue">查看公司详情</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+																		<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn">信息修改/删除</a></div>
+						</div>
+                        <div class="clear"></div>
+                            
+                    </div>
+                    <div class="spacer"></div>
+                    <div class="spacer"></div>
+                    <div>
+                        <div class="floatleft">
+                        <!-- Baidu Button BEGIN -->
+                        <div id="bdshare" class="bdshare_b" style="line-height: 12px;"><img src="http://bdimg.share.baidu.com/static/images/type-button-1.jpg" />
+                            <a class="shareCount"></a>
+                        </div>
+                        <script type="text/javascript" id="bdshare_js" data="type=button" ></script>
+                        <script type="text/javascript" id="bdshell_js"></script>
+                        <script type="text/javascript">
+                            document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+                        </script>
+                        <!-- Baidu Button END -->
+                        </div>
+                    </div>
+                    				</div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<p>
+								</p>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="job_detail">
+					<h1 class="positiontitle">恒润科技2013校园招聘</h1>
+					<div class="spacer"></div>
+					<div class="spacer4"></div>
+						<p>
+该职位已发布超过<span class="pdlr or">153</span>天
+
+						<span class="pdlr"></span><span>编号：262774</span>
+						<span class="pdlr"></span></p>
+					<div class="spacer"></div>
+					<p>						
+						<span>工作地区：北京</span>
+						<span class="pdlr"></span>
+						<span>更新时间：2013-02-27</span>
+					</p>
+<div style="border-top:1px solid #C3DBE8; margin-top: 8px;"></div>
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<div style="overflow:auto;">
+						<p>&nbsp;一、汽车电子事业部 （投递邮箱：aeyf@hirain.com）</p>
+<div>研发技术类</div>
+<div>【[b]嵌入式软件工程师[/b]】</div>
+<div>岗位职责：&nbsp;</div>
+<div>1、汽车电子产品嵌入式软件的开发、维护及版本控制；</div>
+<div>2、完成软件设计文档的编写并配合代码测试及系统联调；</div>
+<div>3、参与项目组内软件相关评审；</div>
+<div>4、完成系统集成工作并对客户提供后期技术支持；</div>
+<div>5、参与并完善软件开发流程。</div>
+<div>任职资格：&nbsp;</div>
+<div>1.车辆工程、通信、电子或自动化相关专业，本科及以上学历，英语4级以上水平；&nbsp;</div>
+<div>2.掌握C语言，汇编语言编程，能够熟练进行嵌入式系统的分析、设计、编码和调试；</div>
+<div>3.熟练应用MATLAB/Simulink/Stateflow进行系统设计；</div>
+<div>4.熟悉软件开发流程；</div>
+<div>5.具有汽车嵌入式软件开发经验者优先；</div>
+<div>6.具有CAN/LIN总线软件开发经验者优先；</div>
+<div>7.具备良好的沟通能力，分析及解决问题的能力。&nbsp;</div>
+<div>【[b]软件工程师[/b]】&nbsp;</div>
+<div>岗位职责：</div>
+<div>1.参与软件研发与维护；</div>
+<div>2.参与软件开发和维护过程中重大技术问题的解决。</div>
+<div>任职资格：&nbsp;</div>
+<div>1、计算机、电子、自动控制、或汽车相关专业本科以上学历；</div>
+<div>2.精通C/C /JAVA/C#，熟练使用VC以及Labview工具进行软件开发,熟练掌握数据库设计及相关技术；</div>
+<div>3.掌握javaEE编程技术、java图形界面编程</div>
+<div>4.熟悉TCP/IP、网络编程、计算机操作系统者优先。&nbsp;</div>
+<div>【[b]EMC工程师[/b]】</div>
+<div>岗位职责：</div>
+<div>1. 汽车电子产品开发中的EMC方案设计、整改；</div>
+<div>2. 产品EMC特性的开发和控制；</div>
+<div>3. 汽车电子产品的EMC测试与认证；</div>
+<div>4. 完成产品EMC设计过程中的相关文档；</div>
+<div>5. 汽车电子产品的EMC标准和技术研究。</div>
+<div>任职资格：&nbsp;</div>
+<div>1.电子、通信、微波、电磁场等专业，硕士及以上学历；</div>
+<div>2.有EMC或射频或天线的设计和测试经验；</div>
+<div>3.良好的英文水平。&nbsp;</div>
+<div>【[b]产品售前工程师[/b]】</div>
+<div>岗位职责：&nbsp;</div>
+<div>1. 负责撰写技术交流资料，实施产品/项目的售前技术交流，整理、汇报技术交流结果；</div>
+<div>2. 负责引导、开发、跟踪客户需求，并确保客户需求正确实现；</div>
+<div>3. 负责客户、销售、市场方面的技术支援；</div>
+<div>4. 负责技术方案/技术协议/技术标书撰写、报价起草（咨询业务）；</div>
+<div>5. 负责技术投标、讲标、答标和技术谈判；</div>
+<div>6. 与销售和相关业务经理紧密配合，确保产品/项目成功销售和推广。&nbsp;</div>
+<div>任职资格:</div>
+<div>1.汽车、电子、自动控制、机电、仪器、计算机、通信等相关专业, 本科及以上学历；</div>
+<div>2.熟悉汽车整车及汽车电子领域基本知识，熟悉汽车电子产品系统；</div>
+<div>3.熟悉汽车电子嵌入式软件基本知识和开发流程，了解车辆总线网络知识；</div>
+<div>3.具有较强的文字功底和PPT制作能力，较强的语言表达和演讲能力；</div>
+<div>4.有较强的英语读写能力和基本的英语听说能力。&nbsp;</div>
+<div>【[b]测试工程师[/b]】&nbsp;</div>
+<div>岗位职责：</div>
+<div>1.测试项目的设计、实施及环境搭建；</div>
+<div>2.测试项目的售前跟踪及技术支持；</div>
+<div>3.为整车厂提供定制的总线协议和标准及测试规范；</div>
+<div>4.项目测试需求分析和策划、测试规范的设计以及测试售前技术方案设计。</div>
+<div>任职资格：</div>
+<div>1.车辆工程、通信、电子或自动化相关专业，本科及以上学历,英语4级以上；</div>
+<div>2.熟悉C语言，了解嵌入式系统；</div>
+<div>3.具备Matlab、C#、JAVA或者LabVIEW编程相关知识背景</div>
+<div>4.了解汽车总线技术及诊断标准者优先。&nbsp;</div>
+<div>【[b]电子电气系统工程师[/b]】</div>
+<div>岗位职责：&nbsp;</div>
+<div>1.为整车厂提供咨询技术方案；</div>
+<div>2.分析整车厂设计需求；</div>
+<div>3.与整车厂一起，进行标杆车解析，完成整车电子电气系统设计开发；</div>
+<div>4.研究汽车电子电气新技术。&nbsp;</div>
+<div>任职资格：</div>
+<div>1、 车辆工程、通信、电子或自动化相关专业，本科及以上学历；</div>
+<div>2、 了解汽车总线技术及诊断标准者优先；</div>
+<div>3、 较强的分析能力和客户服务意识；</div>
+<div>4、 良好的英语书面和口语表达能力。&nbsp;</div>
+<div>【[b]电子元器件认证工程师[/b]】&nbsp;</div>
+<div>岗位职责：</div>
+<div>1.器件的选择和物料平台的维护；</div>
+<div>2.物料的评估、测试；</div>
+<div>3.对产品的物料进行审核和把关；</div>
+<div>4.CIS和ERP库的管理和维护；</div>
+<div>5.物料应用状况的监控及分析；</div>
+<div>6.物料管理流程的建立、维护和完善；</div>
+<div>7.负责产品成本控制。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.电气及自动化、电子信息、计算机等相关专业，本科及以上学历；</div>
+<div>2.了解物料的特性；</div>
+<div>3.有较强的动手能力。&nbsp;</div>
+<div>【[b]功能安全工程师[/b]】</div>
+<div>岗位职责：&nbsp;</div>
+<div>1.负责收集和理解功能安全相关标准；</div>
+<div>2.负责开发和维护功能安全培训材料；</div>
+<div>3.负责完成功能安全对外培训和咨询相关业务；</div>
+<div>4.协助开发和维护公司功能安全相关开发文档。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.电子或车辆类相关专业，硕士及以上学历；</div>
+<div>2.熟悉汽车电子控制系统；</div>
+<div>3.有过嵌入式系统的软硬件的开发经验；</div>
+<div>4.具备良好的团队合作能力；&nbsp;</div>
+<div>5.具备良好的英语沟通能力（听、说、读、写）；&nbsp;</div>
+<div>6.了解汽车电子行业最新发展动态；</div>
+<div>7.善于学习，能够独立完成任务，有较强的计划能力；</div>
+<div>8.善于沟通，能够独立思考。&nbsp;</div>
+<div>【[b]可靠性工程师[/b]】</div>
+<div>岗位职责：&nbsp;</div>
+<div>1.产品可靠性特性定义和分析；</div>
+<div>2.产品可靠性特性的开发和控制；</div>
+<div>3.设计并完成产品可靠性试验；</div>
+<div>4.完成产品可靠性设计过程中的相关文档。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.电子、机械、自动化、可靠性等专业，硕士及以上学历；</div>
+<div>2.有产品可靠性设计或可靠性测试经验。&nbsp;</div>
+<div>【[b]硬件工程师[/b]】&nbsp;</div>
+<div>岗位职责：</div>
+<div>1.汽车电子产品的硬件设计、开发及仿真分析验证工作；</div>
+<div>2.硬件原理图设计和硬件调试；&nbsp;</div>
+<div>3.汽车电子产品试验和生产支持工作。</div>
+<div>任职资格：</div>
+<div>1.电子信息、电气工程、自动化、车辆工程、计算机等专业，本科及以上学历；</div>
+<div>2.熟悉数字电路和模拟电路基础知识；</div>
+<div>3.具有高端ARM及外围电路开发经验优先；</div>
+<div>4.熟练使用各种电路设计软件。&nbsp;</div>
+<div>【[b]设备系统工程师[/b]】</div>
+<div>岗位职责：&nbsp;</div>
+<div>1.负责汽车电子产品制造设备的系统策划、分析和设计工作；</div>
+<div>2.负责汽车电子产品的测试策略制定，保证测试方法的可行性和高覆盖率；</div>
+<div>3.负责汽车电子产品制造设备的电气设计；</div>
+<div>4.研究制造设备系统可靠性，提高设备系统的质量；</div>
+<div>6.引进、应用新的测控技术，提高制造设备的精度以及自动化、智能化程度等。</div>
+<div>任职资格：&nbsp;</div>
+<div>1.本科及以上学历，汽车、测试测量、电子工程、自动化、测控技术或相关专业；</div>
+<div>2.熟悉电子电路基本知识、数字电路和模拟电路；</div>
+<div>3.对C、VC或Labview软件编程知识熟悉，有软件项目经验；</div>
+<div>4.熟悉电子产品的生产测试流程；</div>
+<div>5.熟悉机械结构基本知识，熟练使用AutoCAD；</div>
+<div>6.具备良好的团队合作精神和沟通能力，有清晰的逻辑思维能力，任务统筹规划能力。&nbsp;</div>
+<div>【[b]设备运维工程师[/b]】</div>
+<div>岗位职责：&nbsp;</div>
+<div>1.负责汽车电子产品制造设备的软件策划、分析和设计工作；</div>
+<div>2.负责制定汽车电子产品的生产测试流程并完成测试验证；</div>
+<div>3.研究制造设备系统中测试相关的数据处理算法；</div>
+<div>4.按照软件策划内容进行具体的软件代码设计实现工作；</div>
+<div>5.负责对设备软件的可靠性和运行效率研究，提高设备系统的质量。</div>
+<div>任职资格：</div>
+<div>1.本科及以上学历，汽车、测试测量、软件工程、电子工程、自动化或相关专业；</div>
+<div>2.精通C/C ，熟练使用VC以及Labview工具进行软件开发；</div>
+<div>3.熟悉软件工程，软件开发质量高；</div>
+<div>4.对嵌入式系统编程熟悉；</div>
+<div>5.熟悉电子产品的生产测试流程；</div>
+<div>6.具备良好的团队合作精神和沟通能力，有清晰的逻辑思维能力，任务统筹规划能力。&nbsp;</div>
+<div>【[b]机械工程师[/b]】&nbsp;</div>
+<div>岗位职责：</div>
+<div>1.负责相关产品的结构开发与设计；</div>
+<div>2.负责传动机构、执行机构的开发、匹配；</div>
+<div>3.负责并组织产品结构的分析、验证和确认,负责试验设备和台架的设计开发。</div>
+<div>任职资格:&nbsp;</div>
+<div>1.机械、机电、力学等相关专业，大学本科以上学历；具备扎实的机械设计、动力学和材料力学基础；</div>
+<div>2.至少掌握使用一种计算机专业绘图工具，如：CATIA、PRO/E；</div>
+<div>3.具备应用CAE软件进行工程分析能力者优先。&nbsp;</div>
+<div>【[b]实时仿真应用工程师[/b]】</div>
+<div>岗位职责：</div>
+<div>1、负责汽车电子电气测试系统的整体方案设计和系统分析；</div>
+<div>2、负责汽车电气测试系统开发项目的具体实施及监控；</div>
+<div>3、负责设备出厂前的联合测试和客户现场的集成调试；</div>
+<div>4、负责相关新技术及新的发展方向的跟踪。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.控制工程、车辆工程或相关专业，硕士及以上学历；</div>
+<div>2.熟悉汽车动力电控系统；熟悉汽车CAN网络，了解汽车各类ECU控制功能；</div>
+<div>3.熟悉车辆常用各类测试仪器；&nbsp;</div>
+<div>4.熟练使用Matlab/Simulink建模仿真；</div>
+<div>5.具备良好的团队合作能力。&nbsp;</div>
+<div>【[b]电机应用工程师[/b]】</div>
+<div>岗位职责：&nbsp;</div>
+<div>1.负责软件模块的需求、方案设计</div>
+<div>2.负责软件模块的详细设计和测试；</div>
+<div>3.控制算法与嵌入式软件开发。&nbsp;</div>
+<div>任职资格：</div>
+<div>1、车辆、电气、自动化、电信等相关专业，硕士学历，英语4级以上水平；</div>
+<div>2.掌握C语言，熟悉软件工程的基本方法；</div>
+<div>3.熟悉Matlab/Simulink/Stateflow的使用；</div>
+<div>4.熟悉CAN/LIN或其他几种通信协议；</div>
+<div>5.有电子电路设计与硬件调试经验者更佳；</div>
+<div>6.乐观向上，善于沟通。&nbsp;</div>
+<div>[b]生产制造类[/b]&nbsp;</div>
+<div>【[b]IE工程师[/b] 】</div>
+<div>岗位职责：</div>
+<div>1.负责工厂平面布局的设计和优化，工厂内部物流的设计；</div>
+<div>2.负责生产线和产线看板的设计和优化，生产能力和制造过程的分析改进；</div>
+<div>3.优化物流工具/工装设计；</div>
+<div>4.5S和精益生产的推行和跟进工作；</div>
+<div>5.对NPI产品的人员、设备能力和产能的设计和评估。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.工业工程或理工科相关专业，本科及以上学历；</div>
+<div>2.了解ERP系统和生产信息系统，熟练使用各种办公软件和ATUO-CAD绘图软件，熟悉统计分析软件和物流模拟分析软件的优先录用；</div>
+<div>3.具备良好的问题分析、解决能力，自学能力强；</div>
+<div>4.具备良好的沟通协调能力和团队合作精神，工作勤奋，有较强的责任心，能吃苦耐劳。&nbsp;</div>
+<div>【[b]制造工艺工程师[/b]】&nbsp;</div>
+<div>1.SMT工艺工程师</div>
+<div>负责SMT新工艺的设计、开发与验证工作，已经新产品的可制造性分析、评估和设计的工艺改进；</div>
+<div>2.产品组装工艺工程师</div>
+<div>负责产品结构组装工艺的设计以及新产品的结构可装配性分析、评估和结构的工艺改进；&nbsp;</div>
+<div>任职资格：</div>
+<div>1.电子、微电子，机械，自动化、材料相关专业，本科及以上学历，英语四级以上；</div>
+<div>2.熟悉元器件封装和制造工艺；熟悉PCB生产流程及材料特性，掌握SMT、波峰焊等电子装联工艺特点，有较好的过程分析及改进能力；</div>
+<div>3.熟练使用CAM软件或熟练掌握使用各种计算机专业绘图工具；</div>
+<div>4.具备协调能力和良好的团队合作精神和沟通能力，工作勤奋，肯吃苦耐劳。&nbsp;</div>
+<div>【[b]物料承认工艺工程师[/b]】</div>
+<div>岗位职责：</div>
+<div>制定并优化物料定义工作过程的相关流程、规范和制度，审核并定义申请的物料，优化物料分类，维护物料信息及状态。</div>
+<div>任职资格：</div>
+<div>1.电子信息、微电子、物理、电气工程专业，本科（含）以上学历，英语四级以上；</div>
+<div>2.熟悉物料异常处理流程及ERP物料系统；</div>
+<div>3.熟悉电子器件的SMT工艺特性和制造各环节的质量要求；</div>
+<div>4.思路清晰，较强的沟通协调能力，具有良好的团队合作精神。&nbsp;</div>
+<div>【[b]NPI工程师[/b]】</div>
+<div>岗位职责：</div>
+<div>1.协调研究开发、供应链、试生产产线（集团/公司内工厂）、外协制造、量产工厂事项；组建新产品导入团队（含外协制造）,负责开展制造领域的产品线研究（IPD）工作；</div>
+<div>2.参与产品的早期开发，制定产品导入计划，</div>
+<div>3.组织产品制造过程验证，发现、解决和反馈产品制造过程和工艺问题；</div>
+<div>4.组织开展各种专项制造改进活动，</div>
+<div>5.建立并完善产品导入体系工作和其他上级安排工作。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.通信、电子、机械自动化等工科相关专业，本科及以上学历，英语四级以上；</div>
+<div>2.了解电子产品技术，熟悉制造技术（电子装联技术，电子组装技术和测试技术）；</div>
+<div>3.熟悉新产品导入流程、制造流程，产品开发流程；</div>
+<div>4.较强的团队管理能力和沟通协调能力，有项目管理经验，能熟练运用项目管理技能，熟练使用；VISO,PROJECT等软件；具备质量工具的知识，如（DOE、SPC、FMEA等）。 aeyf@hirain.com</div>
+<div>【[b]生产工艺工程师[/b]】</div>
+<div>岗位职责：&nbsp;</div>
+<div>1.量产产品工艺文件编制与更新；</div>
+<div>2.工艺文件管理；</div>
+<div>3.工艺文件培训；</div>
+<div>4.处理生产现场发生的各种工艺问题；</div>
+<div>5.主导已移转产品问题的分析解决；</div>
+<div>6.反馈与协助未移转产品问题的分析解决；</div>
+<div>7.积极提案合理化建议。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.电工电子、机电、机械、材料、工业工程、自动化等相关专业，本科及以上学历；</div>
+<div>2.熟练操作办公软件、CAD、CAM350 ；</div>
+<div>3.良好的英语听、说、读、写能力。&nbsp;</div>
+<div>【[b]物料控制专员[/b]】</div>
+<div>岗位职责：</div>
+<div>1. 切实执行工作流程；</div>
+<div>2. 生产计划工作任务与工作目标达成；</div>
+<div>3. 生产物料采购；</div>
+<div>4. 生产物料控制。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.管理学相关专业毕业、有电工电子、机电、机械、材料、工业工程、自动化等工科专业背景优先，本科及以上学历；</div>
+<div>2.熟悉TS16949体系要求，熟悉企业供应链管理、企业管理的相关思路方法；</div>
+<div>3. 熟悉制造、生产的管理流程，了解基本的企业财务核算要求；</div>
+<div>4. 熟练操作办公软件、ERP软件。&nbsp;</div>
+<div>[b]研发管理类[/b]&nbsp;</div>
+<div>【[b]项目管理培训生[/b]】</div>
+<div>岗位职责：&nbsp;</div>
+<div>1、协助项目经理，制定项目计划，协调项目资源，监控项目进展，解决项目问题；</div>
+<div>2、承担项目管理工作，制定项目计划并进行监控；</div>
+<div>3、进行有效的内部沟通，确保信息的有效传递。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.车辆、电气、自动化、电信等相关专业，硕士学历；</div>
+<div>2.熟悉电子类产品的开发流程；</div>
+<div>3.有过独立承担研究课题的经验优先；</div>
+<div>4.有汽车电子产品或项目开发经验优先。&nbsp;</div>
+<div>【[b]质量管理工程师[/b]】</div>
+<div>岗位职责：&nbsp;</div>
+<div>1.质量管理体系的维护和实施，项目研发过程中的产品和过程质保；</div>
+<div>2.为项目成员提供研发流程指导，为项目提供配置管理服务；</div>
+<div>3、负责公司质量管理体系建立、认证和维护。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.机电、控制、自动化、计算机等理工科专业，本科及以上学历；</div>
+<div>2.具备项目管理基本知识，对质量管理感兴趣，有向管理方向发展意愿；</div>
+<div>3.熟悉CMMI、ISO9001、TS16949标准优先；</div>
+<div>4.较强的沟通、协调能力和耐挫能力。&nbsp;</div>
+<div>【[b]供应商质量管理工程师[/b]】&nbsp;</div>
+<div>岗位职责：</div>
+<div>1.负责公司外包外协件供应商开发和评估；</div>
+<div>2.负责供应商质量问题处理；</div>
+<div>3.负责供应商过程审核和能力提升。</div>
+<div>任职资格：</div>
+<div>1.机电、机械、材料、控制、工业工程等理工科专业,本科及以上学历；</div>
+<div>2.具有较强的沟通、协调能力。&nbsp;</div>
+<div>[b]市场销售类[/b]</div>
+<div>【[b]助理销售[/b]】</div>
+<div>岗位职责：&nbsp;</div>
+<div>1、协助客户经理，主要进行代理工具的销售及售后工作；&nbsp;</div>
+<div>2、协助客户经理完成其他相关销售工作。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.车辆、电子、机电和或控制专业，本科以上学历；</div>
+<div>2.良好的沟通协调能力，优秀的执行力和理解力；</div>
+<div>3.性格活跃，喜欢销售工作，乐于与人交往；</div>
+<div>4.吃苦耐劳，踏实肯干，做事认真负责能适应长期出差。&nbsp;</div>
+<div>[b]以上岗位投递至：aeyf@hirain.com[/b]</div>
+<div>二、 军工电子事业部（投递邮箱：ceyf@hirain.com）</div>
+<div>[b]研发技术类 [/b]</div>
+<div>【[b]硬件工程师[/b]】&nbsp;</div>
+<div>岗位职责：</div>
+<div>1.设计、开发、调试、维护、管理符合要求的硬件产品；</div>
+<div>2.控制系统、总线系统硬件开发。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.电子信息、电气、控制、计算机等专业，硕士及以上学历；</div>
+<div>2.熟悉模数混合电路/高速数字电路/FPGA硬件设计及CPCI结构；&nbsp;</div>
+<div>3.了解Rapid IO,Rocket IO,DDR2SDRAM,SRAM,FLASH逻辑接口。&nbsp;</div>
+<div>【[b]Web软件工程师[/b]】</div>
+<div>岗位职责：&nbsp;</div>
+<div>1. 接受部门或业务部门提交的Web软件开发任务；</div>
+<div>2. 负责相关技术文档的编写；</div>
+<div>3. 为实现软件功能进行编码工作；</div>
+<div>4. 为保证软件功能正常进行的各种调试工作。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.计算机相关专业，本科及以上学历；</div>
+<div>2.熟悉典型Web框架，熟悉使用HTML/Javascript；</div>
+<div>3.熟练掌握Java/Php。&nbsp;</div>
+<div>【[b]嵌入式软件开发工程师[/b]】</div>
+<div>岗位职责：</div>
+<div>负责VxWorks或负责Linux操作系统下板卡驱动程序开发，系统启动、内核裁剪等功能，为整个项目的嵌入式环节提供技术保障。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.计算机相关专业，本科及以上学历；</div>
+<div>2.C语言开发，熟悉实时操作系统使用，如Linux/Vxworks；</div>
+<div>3.有硬件接口驱动编程经验优先。&nbsp;</div>
+<div>【[b]软件工程师[/b]】&nbsp;</div>
+<div>岗位职责：</div>
+<div>1.主要从事应用软件开发工作；</div>
+<div>2.能够独立完成整个软件的开发流程，包括软件需求分析、详细设计、代码实现、联调测试等。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.电信、计算机、探测、导航制导等相关专业，本科及以上学历；</div>
+<div>2.精通C#/Java，熟悉VS6.0/Elipse开发环境；</div>
+<div>3.熟悉多线程编程；</div>
+<div>4.有网络、数据库编程经验者优先。&nbsp;</div>
+<div>【[b]结构工程师[/b]】</div>
+<div>岗位职责：</div>
+<div>1. 负责项目的结构设计开发；</div>
+<div>2.负责结构件的加工外协；</div>
+<div>3. 协助供应商开发；</div>
+<div>4. 协助质量管理部对结构件来料检验；</div>
+<div>5.指导电装技师的生产；</div>
+<div>6. 协助项目的交付验收。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.机械、机电设计相关专业，本科以上学历；</div>
+<div>2.熟悉有色金属材质特性、带、链、齿轮设计以应用；</div>
+<div>3.熟悉焊接、铆接、冲压成型、金属热处理以及表面处理工艺及设计应用；</div>
+<div>4.熟悉自动化机械传动部件的设计、机械制图标准规范；</div>
+<div>5.熟练操作CATIA、SOLIDWORKS、PRO-E、UG、AUTOCAD任意一种设计软件。&nbsp;</div>
+<div>【[b]射频电路工程师[/b]】</div>
+<div>岗位职责：</div>
+<div>1. 微波系统设计与调试；</div>
+<div>2. 微波电路设计；</div>
+<div>3. 微波系统组件（频综）产品研发；</div>
+<div>4. 技术文档撰写，产品文档撰写。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.电磁场与微波技术相关专业，硕士及以上学历；&nbsp;</div>
+<div>2.至少熟悉一种主流的系统或微波仿真软件的使用（ADS、Genesys、HFSS等）；&nbsp;</div>
+<div>3.有变频、锁相、增益控制电路相关应用经验者优先；</div>
+<div>4.熟悉微带电路工艺及相关流程者优先；&nbsp;</div>
+<div>5.熟悉DDS电路设计者优先。&nbsp;</div>
+<div>【[b]仿真建模及算法工程师[/b]】</div>
+<div>岗位职责：</div>
+<div>1.进行项目中子系统的需求分析；</div>
+<div>2.开展仿真建模和算法设计工作，并编写相关文档；</div>
+<div>3.配合测试人员开展测试验证工作。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.动力学/运动学、控制系统相关专业，硕士及以上学历；</div>
+<div>2.熟练掌握Matlab/Simulink/Rhapsody；</div>
+<div>3.掌握C/C 语言程序开发。&nbsp;</div>
+<div>【[b]系统工程师[/b]】&nbsp;</div>
+<div>岗位职责：</div>
+<div>根据系统试验需要进行定制开发。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.机电/飞行器/控制相关专业；</div>
+<div>2.熟练掌握建模工具Matlab/Simulink/Rhapsody；</div>
+<div>3.掌握C/C 。&nbsp;</div>
+<div>【[b]LabView软件开发工程师[/b]】&nbsp;</div>
+<div>岗位职责：</div>
+<div>负责测试测量仪表自动化控制软件的项目开发工作。&nbsp;</div>
+<div>任职资格：</div>
+<div>1. 计算机相关专业，硕士及以上学历；</div>
+<div>2. 熟练使用Labview、Labwindows等软件工具，并具有实际项目开发经验，熟悉软件工程的设计和开发流程；</div>
+<div>3. 熟悉常用测试测量仪表的使用，如示波器、频谱仪、信号源等；</div>
+<div>4. 勤奋、刻苦、团队合作，有钻研精神，热爱技术研发工作。&nbsp;</div>
+<div>【[b]测试工程师[/b]】</div>
+<div>岗位职责：</div>
+<div>1.负责系统或软件的测试用例设计、执行；</div>
+<div>2.确保所负责的测试项目的测试质量；&nbsp;</div>
+<div>任职资格：</div>
+<div>1.电子信息、计算机、电气等相关专业，本科及以上学历；</div>
+<div>2.熟悉计算机语言C/Java/C ；</div>
+<div>3.有编程经验者优先。&nbsp;</div>
+<div>【[b]逻辑工程师[/b]】</div>
+<div>岗位职责：</div>
+<div>1. 设计、开发、调试、维护、管理符合功能、性能要求的FPGA逻辑程序；</div>
+<div>2.负责FPGA接口逻辑设计、算法逻辑设计，包括设计、仿真、测试等。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.电子信息、控制、计算机、自动化等专业，硕士及以上学历；</div>
+<div>2.掌握硬件描述语言及一般可编程器件的设计；</div>
+<div>3.了解可编程逻辑设计软件；&nbsp;</div>
+<div>4.熟悉FPGA的架构/设计流程及开发工具，熟悉数字电路、模拟电路设计。&nbsp;</div>
+<div>[b]市场销售类[/b]&nbsp;</div>
+<div>【[b]销售代表/助理销售[/b]】</div>
+<div>岗位职责：&nbsp;</div>
+<div>1. 建立和维护公司大客户关系，收集客户信息，提供客户解决方案；</div>
+<div>2. 推动商务谈判，参与招投标过程，促进项目实现；</div>
+<div>3. 负责合同的洽谈、签订、执行，及时收回货款。&nbsp;</div>
+<div>任职资格：</div>
+<div>1. 工科背景，熟悉车辆、电子、控制、机械其中某一专业领域的基本知识，本科及以上学历；</div>
+<div>2. 具有良好的沟通和协调能力、待人真诚、自信、善于自我激励、富有团队合作精神。</div>
+<div>以上岗位投递至：ceyf@hirain.com&nbsp;</div>
+<div>三、 技术支持 （投递邮箱：jishu@hirain.com）</div>
+<div>[b]技术应用类[/b]</div>
+<div>【[b]软件工程测试工程师[/b] 】</div>
+<div>岗位职责：</div>
+<div>1.根据客户实际需求，辅助客户搭建软件测试平台，建立完整的软件测试体系；</div>
+<div>2.负责静态测试工具、动态测试工具的应用，以及工具推广；</div>
+<div>3.负责开展相关测试理论、测试工具的培训；</div>
+<div>4.与外商一起组织的工具培训、市场活动、客户拜访活动。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.计算机类、自动化类、电子类等相关专业，硕士以上学历；</div>
+<div>2.熟悉软件测试相关理论，从事过嵌入式软件测试工作优先；</div>
+<div>3.熟悉C、C 语言，熟悉嵌入式系统。&nbsp;</div>
+<div>【[b]软件工程咨询工程师[/b]】</div>
+<div>岗位职责：&nbsp;</div>
+<div>1.负责IBM Rational系列产品的技术应用，并为客户提供研发管理解决方案；&nbsp;</div>
+<div>2.负责研发管理咨询项目的实施；&nbsp;</div>
+<div>任职资格：</div>
+<div>1.软件工程、计算机等相关专业，硕士及以上学历；</div>
+<div>2.了解软件工程相关理论和方法；</div>
+<div>3.熟悉C、C 或者Java；具备嵌入式软件开发经验优先。&nbsp;</div>
+<div>【[b]应用软件工程师[/b]】&nbsp;</div>
+<div>岗位职责：</div>
+<div>1.负责部门所有集成项目中，上位机软件的需求分析、设计和定制开发；</div>
+<div>2.负责部门软件解决方案及基础技术平台的预研、设计和实施；</div>
+<div>3.负责方案文档及技术开发文档的撰写&nbsp;</div>
+<div>任职资格：</div>
+<div>1.兵器、航空航天、车辆、自动化、计算机等相关专业背景，硕士及以上学历；</div>
+<div>2.熟练使用c 或者java进行windows应用软件的开发；</div>
+<div>3.熟练使用Visual studio、Eclipse、Labview的一种或几种；</div>
+<div>4.熟悉设计模式原理；</div>
+<div>5.具备良好的软件开发能力和编程习惯；</div>
+<div>6.具备良好的逻辑思维能力和沟通能力；</div>
+<div>7.熟悉CAN、1553等总线应用者优先；</div>
+<div>8.熟悉windows系统下，数据采集技术者优先。&nbsp;</div>
+<div>【[b]软件测试咨询工程师 [/b]】</div>
+<div>岗位职责：</div>
+<div>1.根据客户实际需求，辅助客户搭建软件测试平台，建立完整的软件测试体系；</div>
+<div>2.负责静态测试工具、动态测试、模型测试工具的应用，以及工具推广；</div>
+<div>3.负责开展相关测试理论、测试工具的培训；</div>
+<div>4.与外商一起组织的工具培训、市场活动、客户拜访活动。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.计算机类、自动化类、电子类等相关专业，硕士以上学历；</div>
+<div>2.熟悉软件测试相关理论，从事过嵌入式软件测试工作优先；</div>
+<div>3.熟悉C、C 语言、Simulink，熟悉嵌入式系统。</div>
+<div>【[b]软件工程咨询工程师 [/b]】</div>
+<div>岗位职责：</div>
+<div>1.负责软件工程相关产品的技术应用，并为客户提供研发管理解决方案；&nbsp;</div>
+<div>2.负责研发管理咨询项目的实施；</div>
+<div>3.负责需求管理产品的定制开发。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.软件工程、计算机等相关专业，硕士及以上学历；</div>
+<div>2.了解软件工程相关理论和方法；</div>
+<div>3.熟悉C、C 或者Java；具备嵌入式软件开发经验优先。&nbsp;</div>
+<div>【[b]控制系统应用工程师 [/b]】</div>
+<div>岗位职责：</div>
+<div>1.负责控制系统半实物仿真系统整体实施（需求分析、计划、技术途径）；</div>
+<div>2.负责车辆、航空航天动力学模型、驱动电机（发动机）、传动等模型的开发、参数化调试；</div>
+<div>3.负责控制系统设计类咨询项目实施；</div>
+<div>4.基于Simulink的程序设计、对象系统建模。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.车辆、航空航天、控制系统相关专业背景,硕士及以上学历；&nbsp;</div>
+<div>2.对控制系统具备较强的全局观和系统观；</div>
+<div>3.熟悉控制系统功能、设计、测试、验证方法；&nbsp;</div>
+<div>4.熟悉CAN、FLexRay、1553等总线应用者优先。&nbsp;</div>
+<div>【[b]通信系统应用工程师[/b] 】</div>
+<div>岗位职责：</div>
+<div>1.进行解决方案设计以及信号处理软硬件产品的推广；</div>
+<div>2.承担项目开发任务，为客户提供定制的项目开发和咨询服务。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.通信类、电子类等相关专业硕士以上学历；</div>
+<div>2.熟练使用MATLAB、C或C ；</div>
+<div>3.具备DSP或者FPGA的设计开发经验；</div>
+<div>4.熟悉常用的通信体制和物理层算法。&nbsp;</div>
+<div>【[b]PLM工程师[/b]】&nbsp;</div>
+<div>岗位职责：</div>
+<div>1.负责汽车、航空航天、船舶、铁道等行业产品生命周期管理系统架构设计和方案撰写；</div>
+<div>2.负责公司PLM环境的搭建和维护以及PLM产品的定制化开发与配置；</div>
+<div>3.负责PLM产品的售前演讲、需求方案编制；</div>
+<div>4、协助PLM系统实施，现场培训等。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.汽车，航空、航天、船舶、铁道、电子、计算机及管理信息化类相关专业，硕士及以上学历；</div>
+<div>2.熟悉JAVA/JSP编程、XML语言、B/S应用系统开发及ORACLE数据库；</div>
+<div>3.有PDM/PLM系统经验者优先。&nbsp;</div>
+<div>【[b]CAE仿真应用工程师 [/b]】</div>
+<div>岗位职责：</div>
+<div>1.负责公司CAE仿真分析技术的积累及开发；</div>
+<div>2.负责公司CAE分析工具售前推广和售后培训；</div>
+<div>3.负责客户及公司内部CAE相关分析咨询项目。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.动力工程、力学、流体机械、材料等专业，硕士及以上学历；具有具备汽车、航空、航天、船舶、铁道、电子等行业背景的优先；</div>
+<div>2.要求具备实际CAE分析经验，具有扎实的技术功底；</div>
+<div>3.熟悉通用的分析软件（Abaqus、Patran、Nastran、Adams等），能够熟练进行仿真分析。&nbsp;</div>
+<div>【[b]总线技术应用工程师[/b] 】</div>
+<div>岗位职责；</div>
+<div>1.研究CAN、LIN、FlexRay、MOST、TTP、1553B、实时以太网等总线协议和标准；</div>
+<div>2.为客户提供定制的总线协议和标准；</div>
+<div>3.使用Vector公司工具对总线协议和标准进行仿真分析；</div>
+<div>4.为航空客户提供总线协议和标准的培训。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.汽车类、电子类、导航制导与控制、测控类、机械类等相关专业,硕士以上学历；</div>
+<div>2.有汽车电控系统开发及测试经验者优先；</div>
+<div>3.有航空总线开发及测试经验者优先。&nbsp;</div>
+<div>【[b]汽车电子前沿技术应用工程师[/b]】</div>
+<div>岗位职责：</div>
+<div>1.研究汽车电子研发领域的通用基础技术；</div>
+<div>2.为外部客户提供汽车电子相关的培训及咨询服务；</div>
+<div>3.为研发部门提供技术培训并参与具体产品研发工作。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.汽车类、电子类、导航制导与控制、测控类、机械类等相关专业,硕士以上学历；</div>
+<div>2.有汽车电控系统开发及测试经验者优先。&nbsp;</div>
+<div>【[b]应用软件工程师[/b]】</div>
+<div>岗位职责：</div>
+<div>1.负责部门所有集成项目中，上位机软件的需求分析、设计和定制开发；</div>
+<div>2.负责部门软件解决方案及基础技术平台的预研、设计和实施；</div>
+<div>3.负责方案文档及技术开发文档的撰写。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.兵器、航空航天、车辆、自动化、计算机等相关专业背景，硕士及以上学历；</div>
+<div>2.熟练使用c 或者java进行windows应用软件的开发；</div>
+<div>3.熟练使用Visual studio、Eclipse、Labview的一种或几种。</div>
+<div>【[b]硬件工程师[/b]】</div>
+<div>岗位职责:</div>
+<div>1.负责部门所有项目的硬件系统架构设计；</div>
+<div>2.原理图设计，Layout；</div>
+<div>3.板级调试，系统测试。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.自动化、通信、电力电子相关专业，硕士及以上学历；</div>
+<div>2.熟练掌握DXP，具有模拟电路和低速数字电路设计经验；熟悉基于单片机、ARM系统硬件设计；</div>
+<div>3.熟悉基本的信号调理、功率驱动系统的设计能力者优先；</div>
+<div>4.熟悉各类传感器原理和外设接口设计（USB CAN SPI I2C等）。&nbsp;</div>
+<div>【[b]软件开发工程师[/b]】</div>
+<div>岗位职责：&nbsp;</div>
+<div>1.负责项目和产品的软件设计、编码、单元测试工作；</div>
+<div>2.参与、负责项目需求调研、分析、设计、维护等过程；&nbsp;</div>
+<div>3.进行文档编写以及用户培训等工作。&nbsp;</div>
+<div>任职资格：</div>
+<div>1. 计算机、通信相关专业；&nbsp;</div>
+<div>2. 熟练掌握C/C 或C#开发语言，熟练使用Visual Studio开发工具，从事过相应的Windows应用程序开发；</div>
+<div>3. 有数据库开发经验优先，有系统驱动开发经验优先；</div>
+<div>4.熟悉嵌入式开发技术优先，熟悉PowerPC和VxWorks者优先。</div>
+<div>四、 公共 （投递邮箱：gl@hirain.com）</div>
+<div>[b]市场销售类[/b]&nbsp;</div>
+<div>【[b]市场专员 [/b]】</div>
+<div>岗位职责：</div>
+<div>1.负责市场调研分析、营销规划、产品定价等工作；</div>
+<div>2.负责公司产品的宣传和推广；</div>
+<div>3.其他市场相关工作。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.市场、管理类或理工科类专业，本科及以上学历；</div>
+<div>2.具有一定的市场理论知识，良好的写作分析能力；</div>
+<div>3.熟练使用Excel等数据分析工具；</div>
+<div>4.具备良好的团队合作精神和沟通能力</div>
+<div>5.具备较强的处理问题的能力和较敏锐的市场意识。&nbsp;</div>
+<div>【[b]知识产权专员[/b]】</div>
+<div>岗位职责：</div>
+<div>1.专利、商标、著作权等知识产权的挖掘、申请；</div>
+<div>2.为重点新研发项目提供专利信息；</div>
+<div>3.为重点项目进行专利侵权分析；</div>
+<div>4.知识产权教育、培训。&nbsp;</div>
+<div>任职资格：</div>
+<div>1、电学相关专业（电子、电气、通讯、自动化、信号、汽车电子），汽车电子专业为佳，本科及以上学历；</div>
+<div>2、学习能力强，能够从零学起专利法、专利法实施细则、专利审查指南；</div>
+<div>3、具备一定的表达、沟通能力、勤奋刻苦、有挑战精神、做事认真负责。&nbsp;</div>
+<div>[b]管理支持类[/b]&nbsp;</div>
+<div>【[b]采购工程师[/b]】&nbsp;</div>
+<div>岗位职责：</div>
+<div>1.负责研发需求采购；</div>
+<div>2.负责生产外包外协物料的供应商开发管理。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.专业不限，硕士以上学历，男性；</div>
+<div>2.为人诚实正直, 责任心强，良好的团队协作精神和职业素养；</div>
+<div>3.良好的沟通、谈判、协调组织能力。&nbsp;</div>
+<div>【[b]人力运营专员[/b]】</div>
+<div>岗位职责：</div>
+<div>1.所辖部门选、用、育、留、退等人力资源管理工作，完善公司运营人力资源管理系统；</div>
+<div>2.为公司战略决策提供相关运营人力方面的信息。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.本科及以上学历，理工科、管理学等相关专业；</div>
+<div>2.具有良好的沟通能力和较强的应变能力，具有较强的耐压能力。&nbsp;</div>
+<div>【[b]信息安全工程师[/b]】</div>
+<div>岗位职责：</div>
+<div>1.建设信息安全体系；</div>
+<div>2.信息安全体系检查和评估；</div>
+<div>3.信息安全项目实施；</div>
+<div>4.信息安全培训。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.信息安全相关专业，硕士及以上学历；</div>
+<div>2.对ISO27001等信息安全体系有系统的认识；</div>
+<div>3.有信息安全项目实施经验优先；</div>
+<div>4.善于学习，独立工作。&nbsp;</div>
+<div>【[b]信息系统架构师[/b]】</div>
+<div>岗位职责：</div>
+<div>1.企业信息系统架构和设计；</div>
+<div>2.管控企业信息系统建设；</div>
+<div>3.评估信息系统进入。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.计算机，系统工程，软件工程等相关专业，硕士及以上学历；</div>
+<div>2.对企业信息系统架构和设计有兴趣和系统地认识；</div>
+<div>3.了解toGAF等系统架构知识；</div>
+<div>4.有系统架构实施经验优先考虑；</div>
+<div>5.对信息系统主流技术和数据库技术有深入的了解；</div>
+<div>6.有一定的项目管理经验，善于学习，独立工作。&nbsp;</div>
+<div>【[b]流程管理工程师[/b]】</div>
+<div>岗位职责:</div>
+<div>1.建设企业流程管理体系；</div>
+<div>2.协助业务部门优化业务流程；</div>
+<div>3.管理企业业务流程建设；</div>
+<div>4.组织，参与流程建设相关项目。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.计算机，系统工程，软件工程相关专业，硕士及以上学历；</div>
+<div>2.对BPM流程建设和优化有系统认识；</div>
+<div>3.热爱流程建设和优化工作；</div>
+<div>4.对相关行业业务流程有一定的研究；</div>
+<div>5.有一定的项目管理经验；</div>
+<div>6.善于学习，善于沟通，独立工作。&nbsp;</div>
+<div>【[b]需求分析师[/b]】</div>
+<div>岗位职责：</div>
+<div>1.收集，管理企业业务需求；</div>
+<div>2.根据需求提出解决方案；</div>
+<div>3.参与相关信息系统建设项目管理。&nbsp;</div>
+<div>任职资格：</div>
+<div>1.计算机，系统工程，软件工程相关专业，硕士及以上学历；</div>
+<div>2.热爱需求分析和业务分析的工作；</div>
+<div>3.有需求分析和业务分析的相关理论支持；</div>
+<div>4.有需求分析和业务分析经验优先考虑；</div>
+<div>5.有一定的相关管理经验；</div>
+<div>6.善于学习，善于沟通，独立工作。&nbsp;</div>					</div>
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<p ><a href="http://wenda60.com" target="_blank" style="font-size:14px; color:#2B68E9">>>练练该公司的招聘笔试题 </a><script type="text/javascript"><!--
+google_ad_client = "ca-pub-9486753476951928";
+/* 底部广告 */
+google_ad_slot = "1009061790";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p> 					
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<div>
+						<div class="floatleft">
+                        <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_b" style="line-height: 12px;"><img src="http://bdimg.share.baidu.com/static/images/type-button-1.jpg" />
+                                <a class="shareCount"></a>
+                           
+						  </div>
+                        <script type="text/javascript" id="bdshare_js" data="type=button" ></script>
+                        <script type="text/javascript" id="bdshell_js"></script>
+                        <script type="text/javascript">
+                            document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+                        </script>
+                        <!-- Baidu Button END -->
+						</div>
+						<div class="button_job_or floatleft">
+							<!--<div class="button_right"><a href="javascript:;" onclick="collect(2, 262774);" class="icon_jobbutton_sc white">我要收藏</a></div>-->
+				  </div>
+                            <div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+						<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn" class="icon_jobbutton_p">举报错误信息</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+						<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn">信息修改/删除</a></div>
+						</div>
+						<div class="clear"></div>
+			  </div>
+		  </div>
+				<div class="spacer"></div>
+				<div class="spacer">
+</div>
+<!--
+				<div class="grayline"></div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="pdlr">
+					<div>
+						<span class="floatleft font14  b">同行业的职位</span>
+						<span class="floatright pdlr"></span>
+					</div>
+					<div class="clear spacer"></div>
+					<ul class="ul_bluedisc underline">
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277293.html" class="blue" title="高薪诚聘销售精英" target="_blank">高薪诚聘销售精英</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277084.html" class="blue" title="网络兼职" target="_blank">网络兼职</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277049.html" class="blue" title="行政助理兼前台" target="_blank">行政助理兼前台</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277038.html" class="blue" title="肇庆市华盈信息科技有限公司招聘网站编辑（网页设计）" target="_blank">肇庆市华盈信息科技有限公司招聘网站编辑（网页设计）</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276955.html" class="blue" title="医生管理" target="_blank">医生管理</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276954.html" class="blue" title="医学编辑/医药编辑" target="_blank">医学编辑/医药编辑</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276953.html" class="blue" title="销售代表" target="_blank">销售代表</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276952.html" class="blue" title="平面设计师" target="_blank">平面设计师</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276951.html" class="blue" title="儿童插画师" target="_blank">儿童插画师</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276648.html" class="blue" title="向自由想象致敬，小米2013春季校招（全职&实习）霸气启动！" target="_blank">向自由想象致敬，小米2013春季校招（全职&实习）霸气</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											
+					</ul>
+				</div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="grayline"></div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+								<div class="pdlr">
+					<div>
+						<span class="floatleft font14  b">相同公司职位</span>
+						<span class="floatright pdlr"></span>
+					</div>
+					<div class="clear spacer"></div>
+					<ul class="ul_bluedisc underline">
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_262774.html" class="blue" title="恒润科技2013校园招聘" target="_blank">恒润科技2013校园招聘</a></div>
+							<span class="floatright gray pdlr">02-27</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_211100.html" class="blue" title="恒润科技招聘基础会计" target="_blank">恒润科技招聘基础会计</a></div>
+							<span class="floatright gray pdlr">08-07</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_186790.html" class="blue" title="恒润科技招聘前台、实验室主任" target="_blank">恒润科技招聘前台、实验室主任</a></div>
+							<span class="floatright gray pdlr">02-23</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_151571.html" class="blue" title="恒润科技招聘实习生" target="_blank">恒润科技招聘实习生</a></div>
+							<span class="floatright gray pdlr">09-11</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_120653.html" class="blue" title="[北京]恒润科技招聘软件开发人员|系统工程师" target="_blank">[北京]恒润科技招聘软件开发人员|系统工程师</a></div>
+							<span class="floatright gray pdlr">04-11</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_106509.html" class="blue" title="恒润科技2011招聘 " target="_blank">恒润科技2011招聘 </a></div>
+							<span class="floatright gray pdlr">01-23</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_100289.html" class="blue" title="恒润科技招聘数字电路硬件设计工程师" target="_blank">恒润科技招聘数字电路硬件设计工程师</a></div>
+							<span class="floatright gray pdlr">01-02</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_92647.html" class="blue" title="[上海]恒润科技·上海地区2011招聘 宣讲会" target="_blank">[上海]恒润科技·上海地区2011招聘 宣讲会</a></div>
+							<span class="floatright gray pdlr">12-11</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_90841.html" class="blue" title="[上海|其他]恒润科技2011校园招聘 宣讲会" target="_blank">[上海|其他]恒润科技2011校园招聘 宣讲会</a></div>
+							<span class="floatright gray pdlr">11-30</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_78701.html" class="blue" title="恒润科技招聘兼职实习生 " target="_blank">恒润科技招聘兼职实习生 </a></div>
+							<span class="floatright gray pdlr">10-20</span>
+							<div class="clear"></div>
+						</li>
+											
+					</ul>
+				</div>
+							</div>
+			<div class="clear spacer"></div>
+			<div class="spacer"></div>
+			<div class="spacer"></div>
+-->
+			<div class="spacer"></div>
+		</div>
+        
+		<div class="clear"></div>
+	</div>
+    
+    <div id="rightcolumn" class="floatleft">
+            <div class="rightcolumn" style="padding:0px;">
+                <div>
+			 <script type="text/javascript"><!--
+            google_ad_client = "ca-pub-9486753476951928";
+            /* 职位广告 */
+            google_ad_slot = "3598731756";
+            google_ad_width = 200;
+            google_ad_height = 200;
+            //-->
+            </script>
+            <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+				
+				    <div class="rightcolumn_title font14 b deepblack">该公司最新招聘信息</div>
+                    <div class="rightcolumn_title font14 b deepblack"><a href="/company/cid-9205.html ">点击查看全部</a></div>
+					<div class="spacer"></div>
+					<ul class="ul_bluedisc right_ul_bluedisc underline">
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_262774.html" class="blue">恒润科技2013校园招聘</a></div>
+						<span class="pdlr4 floatright">12-27</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_211100.html" class="blue">恒润科技招聘基础会计</a></div>
+						<span class="pdlr4 floatright">06-07</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_186790.html" class="blue">恒润科技招聘前台、实验室主任</a></div>
+						<span class="pdlr4 floatright">12-23</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_151571.html" class="blue">恒润科技招聘实习生</a></div>
+						<span class="pdlr4 floatright">07-11</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_120653.html" class="blue">[北京]恒润科技招聘软件开发人员|系统工程师</a></div>
+						<span class="pdlr4 floatright">02-11</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_106509.html" class="blue">恒润科技2011招聘 </a></div>
+						<span class="pdlr4 floatright">11-23</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_100289.html" class="blue">恒润科技招聘数字电路硬件设计工程师</a></div>
+						<span class="pdlr4 floatright">11-02</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_92647.html" class="blue">[上海]恒润科技·上海地区2011招聘 宣讲会</a></div>
+						<span class="pdlr4 floatright">10-11</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_90841.html" class="blue">[上海|其他]恒润科技2011校园招聘 宣讲会</a></div>
+						<span class="pdlr4 floatright">09-29</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_78701.html" class="blue">恒润科技招聘兼职实习生 </a></div>
+						<span class="pdlr4 floatright">08-20</span>
+						<div class="clear"></div>
+						</li>							
+										</ul>
+				</div>
+		   </div>
+           <div class="rightcolumn" style="padding:0px;">
+                <div>
+				
+				    <div class="rightcolumn_title font14 b deepblack">同行业最新招聘信息</div>
+                    
+					<div class="spacer"></div>
+					<ul class="ul_bluedisc right_ul_bluedisc underline">
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277293.html" class="blue" title="高薪诚聘销售精英" target="_blank">高薪诚聘销售精英</a></div>
+							<span class="floatright gray pdlr">05-22</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277084.html" class="blue" title="网络兼职" target="_blank">网络兼职</a></div>
+							<span class="floatright gray pdlr">05-20</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277049.html" class="blue" title="行政助理兼前台" target="_blank">行政助理兼前台</a></div>
+							<span class="floatright gray pdlr">05-20</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277038.html" class="blue" title="肇庆市华盈信息科技有限公司招聘网站编辑（网页设计）" target="_blank">肇庆市华盈信息科技有限公司招聘网站编辑（网页设计）</a></div>
+							<span class="floatright gray pdlr">05-18</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276955.html" class="blue" title="医生管理" target="_blank">医生管理</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276954.html" class="blue" title="医学编辑/医药编辑" target="_blank">医学编辑/医药编辑</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276953.html" class="blue" title="销售代表" target="_blank">销售代表</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276952.html" class="blue" title="平面设计师" target="_blank">平面设计师</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276951.html" class="blue" title="儿童插画师" target="_blank">儿童插画师</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276648.html" class="blue" title="向自由想象致敬，小米2013春季校招（全职&实习）霸气启动！" target="_blank">向自由想象致敬，小米2013春季校招（全职&实习）霸气</a></div>
+							<span class="floatright gray pdlr">05-14</span>
+							<div class="clear"></div>
+						</li>							
+										</ul>
+				</div>
+		   </div>
+           <div class="rightcolumn">
+				<div class="spacer"></div>
+	
+								
+		   </div>
+		   <div class="spacer"></div>
+				
+    </div>
+</div>
+<iframe id="collection" name="collection" style="width:0px;height:0px;"></iframe>
+<div id="foot">
+	<div class="footbody">
+		<div class="foot_top aligncenter white"> <a href="http://www.hiall.com.cn/" class="white">HiAll校园招聘</a> <span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/" class="white">HiAll论坛</a> 
+
+<span class="pdlr4">|</span> <a href="http://wenda.hiall.com.cn/" class="white">HiAll一问一答</a>
+
+<span class="pdlr4">|</span> <a href="http://maker.wenda60.com/" class="white">KnewMaker</a>
+
+
+<span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/forum-744-1.html" class="white">校园招聘求职大礼包</a> <span class="pdlr4">|</span> <a href="http://hr.hiall.com.cn/" class="white">加入HiAll</a>
+<span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/thread-150495-1-1.html" class="white">广告合作</a> <span class="pdlr4">|</span> <a href="/info/about.php" class="white">关于我们</a> <span class="pdlr4">|</span> <a href="/info/sitemap.php" class="white">网站地图</a></div>		<div class="foot_mid aligncenter white"> 网站相关问题请联系：010-82601802 || 企业服务请联系：010-82600684</div>
+		<div class="foot_bot aligncenter white">Copyright HiAll
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP备10021013号
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP证090110号
+			<span class="pdlr"></span><span class="pdlr"></span>京公网安备11010802010560号
+		</div>
+	</div>
+</div>
+<!-- Baidu Analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F56dda118cbb3220435957635a699495b' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- Baidu Analytics -->
+</body>
+</html>
+

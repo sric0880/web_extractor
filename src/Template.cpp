@@ -27,14 +27,19 @@ void Template::match_position(Data& entry,const string& str){
 	//该函数功能为：输入字符串，输出分词结果的result_t结构体数组，nCout为数组大小
 	//返回的数组结果由系统自行维护，用户直接调用即可
 	const result_t *pResult = NLPIR_ParagraphProcessA(str.c_str(), &nCount,true);
-	int i = 1;
+	int i;
 	unordered_set<string> pset;
 	for (i = 0; i < nCount; ++i) {//逐个答应分词结果的内容
 		if(pResult[i].word_type==1){
+			if(str.length()<(size_t)(pResult[i].start+pResult[i].length))
+				break;
 			string p = str.substr(pResult[i].start, pResult[i].length);
 			if((i-1)>=0&&(pResult[i-1].iPOS==21||pResult[i-1].iPOS==93)){
+				if(str.length()<(size_t)(pResult[i-1].start+pResult[i-1].length))
+					break;
 				string pre = str.substr(pResult[i-1].start, pResult[i-1].length);
 				pre.append(p);
+				pset.insert(p);
 				pset.insert(pre);
 			}
 			else
@@ -129,14 +134,23 @@ void Template::match_email(Data& entry, const string& str) {
 	match_results<std::string::const_iterator> mat;
 	std::string::const_iterator begin = str.begin();
 	std::string::const_iterator end = str.end();
+	unordered_set<string> pset;
 	while (regex_search(begin, end, mat, regex_email)) {
 		r.append(mat[0]);
-		r.append(" ");
+		pset.insert(r);
+		r.clear();
 		begin = mat[0].second;
+	}
+	r.clear();
+	for(auto& s : pset) {
+		r.append(s);
+		r.append(" ");
 	}
 	if (r != "") {
 		trim(r);
 		int len = r.length();
+		if(len>=255)
+			r = r.substr(0,254);
 		entry.email = new char[len + 1];
 		strcpy(entry.email, r.c_str());
 	}
@@ -146,14 +160,23 @@ void Template::match_tel(Data& entry,const string& str){
 	match_results<std::string::const_iterator> mat;
 	std::string::const_iterator begin = str.begin();
 	std::string::const_iterator end = str.end();
+	unordered_set<string> pset;
 	while (regex_search(begin,end, mat, regex_tel)) {
 		r.append(mat[0]);
-		r.append(" ");
+		pset.insert(r);
+		r.clear();
 		begin = mat[0].second;
+	}
+	r.clear();
+	for(auto& s : pset) {
+		r.append(s);
+		r.append(" ");
 	}
 	if (r != "") {
 		trim(r);
 		int len = r.length();
+		if(len>=255)
+			r = r.substr(0,254);
 		entry.tel = new char[len + 1];
 		strcpy(entry.tel, r.c_str());
 	}

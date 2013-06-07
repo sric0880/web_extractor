@@ -20,7 +20,7 @@ OutputMysql::~OutputMysql(){
 
 void OutputMysql::output(const Data& entry) {
 	sql::PreparedStatement * prep_stmt;
-	prep_stmt= con->prepareStatement("INSERT INTO sedata (com_name,position,skills,email,tel,need_num,workplace,publish_time,raw_text) VALUES (?,?,?,?,?,?,?,?,?)");
+	prep_stmt= con->prepareStatement("INSERT INTO sedata (com_name,position,skills,email,tel,need_num,workplace,publish_time,raw_text,url) VALUES (?,?,?,?,?,?,?,?,?,?)");
 	if (entry.company != NULL)
 		prep_stmt->setString(1, entry.company);
 	else
@@ -59,7 +59,8 @@ void OutputMysql::output(const Data& entry) {
 		prep_stmt->setString(9, entry.raw_text);
 	else
 		prep_stmt->setString(9, "");
-		//插入
+	prep_stmt->setString(10, urls[entry.id]);
+	//插入
 	prep_stmt->executeUpdate();
 	delete prep_stmt;
 }

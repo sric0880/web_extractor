@@ -17,7 +17,7 @@ class InfoExtractor {
 public:
 	InfoExtractor(Output* out,Template* temt);
 	virtual ~InfoExtractor();
-	void infoExtract(string input);
+	void infoExtract(int url_id, string input);
 private:
 	Output* out;
 	Template* temt;

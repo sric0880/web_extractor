@@ -13,45 +13,56 @@ out(out),temt(temt){}
 InfoExtractor::~InfoExtractor() {
 }
 
-void InfoExtractor::infoExtract(string input){
+void InfoExtractor::infoExtract(int url_id, string input){
 	string title;
 	string text;
 	int pos = input.find_first_of('^');
 	title=input.substr(0,pos);
 	int len = input.length()-pos;
 	text=input.substr(pos+1,len);
-//	printf("%s\n",text.c_str());
+	// printf("title:%s.\ntext:%s\n",title.c_str(),text.c_str());
 
 	Data entry;
-//	printf("match_time intern info!\n");
+	// printf("match_time intern info!\n");
 	temt->match_time(entry,text);
-//	printf("match_workplace intern info!\n");
+	// printf("match_workplace intern info!\n");
 	temt->match_workplace(entry,text);
-//	printf("match_email intern info!\n");
+	// printf("match_email intern info!\n");
 	temt->match_email(entry,text);
-//	printf("match_tel intern info!\n");
+	// if (entry.email != NULL)
+	// 	printf("email:%s\n", entry.email);
+	// else
+	// 	printf("email:%s\n", "null");
 	temt->match_tel(entry,text);
-//	printf("match_need_num intern info!\n");
+	// printf("match_need_num intern info!\n");
 	temt->match_need_num(entry,text);
-//	printf("match_position intern info!\n");
+	// printf("match_position intern info!\n");
 	temt->match_position(entry,input);
-//	printf("match_company intern info!\n");
+	// if (entry.position != NULL)
+	// 	printf("position:%s\n", entry.position);
+	// else
+	// 	printf("position:%s\n", "null");
 	temt->match_company(entry,title);
-//	printf("match_skills intern info!\n");
+	// if (entry.company != NULL)
+	// 	printf("company:%s\n", entry.company);
+	// else
+	// 	printf("company:%s\n", "null");
 	temt->match_skills(entry,text);
 //	printf("raw_text intern info!\n");
 	entry.raw_text = new char[input.length()+1];
 	strcpy(entry.raw_text,input.c_str());
+	entry.id = url_id;
 
 	//主题分类判断是不是计算机实习信息
 	if(entry.company==NULL&&entry.position==NULL){
-		printf("not intern info!\n");
+		printf("%d:not intern info!\n",entry.id);
 		return;
 	}else{
 		if(dup_removal.is_duplicate(entry.tostring()))//消重
 		{
-			printf("duplication!\n");
+			printf("%d:duplication\n",entry.id);
 		}else{
+			printf("%d:output\n", entry.id);
 			out->output(entry);//结构化数据输出
 			release(entry);
 		}

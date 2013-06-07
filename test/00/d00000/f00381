@@ -1,0 +1,883 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<title>优酷网2012校园招聘-全职推荐</title>
+<head>
+<meta property="qc:admins" content="35413136776011446375636" />
+<meta http-equiv="keywords" content="2013校园招聘,HiAll,招聘,校园招聘,全职职位,实习职位,大学生求职,应届生求职"/>
+<meta http-equiv="description" content="HiAll，为应届毕业生或在校生提供最新、最全、最可靠的全职、实习招聘信息、宣讲会信息与各种求职资讯与资料，成为联动学生与雇主的纽带，覆盖北京、上海、广州、海外等地区。" />
+<meta name="generator" content="HiAll2.0" />
+<meta name="author" content="HiAll" />
+<meta name="copyright" content="2004-2012 HiAll." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<script src="http://file.hiall.com.cn/newhiall/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/jquery.validate.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/utils.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/u1.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frame/page.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/main.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frontpage/frontpage.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/manage.css" />
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2560481-2']);
+  _gaq.push(['_setDomainName', '.hiall.com.cn']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Google Analytics -->
+</head>
+<body>
+<div id="head">
+	<div id="headbody">
+		<div class="top">
+			<a href="/" class="head_logo floatleft"></a>
+			<div class="mid floatleft">
+			<form method="post" action="/search/infos.php">
+				<input type="text" class="head_search_input gray floatleft" maxlength="10" value="职位信息 如：管理培训生" id="searchkey" name="searchkey" onclick="if(this.value == '职位信息 如：管理培训生') this.value='';" onblur="if(this.value=='') this.value='职位信息 如：管理培训生';"/>
+				<div class="head_search_select gray pointer floatleft">
+					<div class="floatleft">
+						<div class="absolute">
+							<div class="relative head_search_select_optionbox" style="display:none; z-index:10;">
+								<ul class="head_search_select_option" id="choosecity-list">
+																<li id="r0">全部</li>
+																<li id="r1">北京</li>
+																<li id="r2">上海</li>
+																<li id="r40">广州</li>
+																<li id="r41">深圳</li>
+															</ul>
+							</div>
+						</div>
+					</div>
+					<span id="choosecity">全部</span>
+				</div>
+				<input type="hidden" name="regionid" id="regionid" value="0">
+				<input type="hidden" name="op" id="op" value="headersearch">
+				<input  type="button" class="button_head_search pointer floatleft" onclick="javascript:headerSearch(this);" />
+			</div>
+			</form>
+			<div class="right floatright">
+				<div class="head_greenicon_box floatleft">
+											<p><span class="white">个人用户</span></p>
+						<p><a href="/collect/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="http://bbs.hiall.com.cn/register_hiall.php" class="white">注册</a></p>		
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="head_blueicon_box floatleft">
+										<p><a class="white">企业用户</a></p>
+					<p><a href="/users/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="/users/register.php" class="white">注册</a></p>
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="vspacer floatleft"></div>
+				<div class="floatleft">
+					<p><a href="/info/about.php#t2" class="white">查看企业</p><p>服务项目</a></p>
+				</div>
+				<div class="vspacer floatleft"></div>
+			</div>
+		</div>
+		<div class="clear"></div>
+		<div class="bottom">
+
+<!--<div style="position:relative;">-->
+<ul class="head_nav floatleft">
+	<li hidefocus="true" ><a href="/" hidefocus="true">首页</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://bbs.hiall.com.cn" target="_blank" hidefocus="true">BBS</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true"  class="active"><a href="/info/" hidefocus="true">全职推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/part.php" hidefocus="true">实习推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/" hidefocus="true" target="_blank">宣讲会</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://www.hiall.com.cn/2011" hidefocus="true" target="_blank" class="menu_red">HiAll雇主专区</a></li>
+	<li hidefocus="true" class="fg"></li>
+    <!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/calendar/" hidefocus="true" target="_blank">2012校招日程</a></li>-->
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/special.php" hidefocus="true">专业招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/company/" hidefocus="true">名企招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/expire.php" hidefocus="true">申请截止</a></li>
+	<li hidefocus="true" class="fg"></li>
+    <li hidefocus="true"  style='padding-left:0px;'><a href="http://bbs.hiall.com.cn/forum-1054-1.html" hidefocus="true" target="_blank" style="color:red">2013名企求职礼包</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://wenda.hiall.com.cn/" hidefocus="true" target="_blank">HiAll一问一答</a></li>
+	<!--<li hidefocus="true" ><a href="http://edu.hiall.com.cn/" hidefocus="true" target="_blank">求职指导</a></li>-->
+	<!--<li hidefocus="true" ><a href="http://miaosha.hiall.com.cn/" hidefocus="true" target="_blank">职业秒杀</a></li>
+	<li hidefocus="true" class="fg"></li>-->
+	<!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/yinhang/" hidefocus="true" target="_blank" style="color:red">2012银行校园招聘</a></li>-->
+</ul>
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>
+<div id="loginfloat" style="background:red;psotion:absolute;display:none;">
+	<div class="fav_topbox floatleft">
+		<p class="h22"><span class="or b">登录后可以个性化你的收藏哦！</span><span class="gray">（用HiAll bbs账号直接登录）</span><span class="gray"><a href="javascript:;" onclick="closeCollect();">关闭</a></span></p>
+		<div class="spacer"></div>
+		<form method="post" accept-charset="GB2312" name="login" id="loginform1" class="gateform" action="http://bbs.hiall.com.cn/logging.php?action=login&amp;loginsubmit=yes">
+		<input type="hidden" name="formhash" value="e9f7b113" />
+		<input type="hidden" name="referer" id="referer" value="http://www.hiall.com.cn/collect/index.php" />
+		<div>
+			<p class="h22"><span>用户名：</span><span><input type="text" class="required normalinput grayborder" size="14" name="username" id="username1" title="用户名称不能为空！" /></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/register_hiall.php" class="gray underline">新用户注册</a></span><h3 id="returnmessage"></h3></p>
+			<div class="spacer"></div>
+			<p class="h22"><span>密&nbsp;&nbsp;码：</span><span><input type="password" class="required normalinput grayborder" size="14"  id="password4" name="password" title="密码不能为空！"/></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/logging.php?action=login" class="gray underline">忘记密码?</a></span></p>
+			<div class="spacer"></div>
+			<p class="fav_login_button h22"><input type="button" onclick="return ajaxpost('username1', 'password4', 'loginform1', 'returnmessage', 'returnmessage', 'onerror');" value="登  录"  class="button_or_2c white"/><span class="pdlr4"></span><a href="http://bbs.hiall.com.cn/register_hiall.php"><button class="button_or_5c white">新用户注册</button></a></p>
+		</div>
+		</form>
+	</div>
+</div>
+<div id="body">
+	<p class="h22 txtindent1 gray">当前位置：<a href='/'>首页</a> &gt; <a href='/info/'>全职推荐</a> &gt; 优酷网2012校园招聘</p>
+	<!--<div class="bigbg reborder">-->
+    <div class="bigbg reborder" style="overflow:auto; _height:1%;">
+		<div id="leftcolumn" class="floatleft">
+            <div class="leftcolumn">
+				<p class="leftcolumn_title font14 b deepblack">行业分类</p>
+<ul class="left_nav">
+		<li><a href="/info/?businesses=1" >计算机•互联网•通信</a></li>
+		<li><a href="/info/?businesses=2" >电器•电子•家电</a></li>
+		<li><a href="/info/?businesses=3" >金融•投资•证券</a></li>
+		<li><a href="/info/?businesses=4" >咨询•财会•法律</a></li>
+		<li><a href="/info/?businesses=5" >贸易•消费•进出口</a></li>
+		<li><a href="/info/?businesses=6" >制药•生物•医疗</a></li>
+		<li><a href="/info/?businesses=7" >工业制造•能源•原材料</a></li>
+		<li><a href="/info/?businesses=8" >房地产•建筑•工程建设</a></li>
+		<li><a href="/info/?businesses=9" >广告•会展•公关</a></li>
+		<li><a href="/info/?businesses=10" >物流•仓储•运输</a></li>
+		<li><a href="/info/?businesses=11" >教育•培训•科研•院校</a></li>
+		<li><a href="/info/?businesses=12" >政府•公共事业•非盈利机构</a></li>
+		<li><a href="/info/?businesses=13" >服务业</a></li>
+		<li><a href="/info/?businesses=14" >农林牧渔•环保</a></li>
+		<li><a href="/info/?businesses=15" >跨领域经营 </a></li>
+		<li><a href="/info/?businesses=16" >其他</a></li>
+		<li><a href="/info/?businesses=17" >机械•自动化•仪器仪表行•重工业</a></li>
+		<li><a href="/info/?businesses=18" >汽车•摩托车行业 </a></li>
+		<li><a href="/info/?businesses=19" >旅游•酒店•餐饮服务</a></li>
+		<li><a href="/info/?businesses=20" >物业管理•商业中心</a></li>
+		<li><a href="/info/?businesses=21" >快速消费品(食品•饮料•日化•烟酒等)</a></li>
+		<li><a href="/info/?businesses=22" >家居•室内设计•装潢</a></li>
+		<li><a href="/info/?businesses=23" >石油•化工•采掘•冶炼</a></li>
+		<li><a href="/info/?businesses=24" >耐用消费品(服饰•纺织•家具）</a></li>
+		<li><a href="/info/?businesses=25" >媒体•文化传播•出版•影视</a></li>
+		<li><a href="/info/?businesses=26" >芯片•电子技术•半导体</a></li>
+		<li><a href="/info/?businesses=27" >批发•零售</a></li>
+	</ul>
+
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<p class="leftcolumn_title font14 b deepblack">热门公司推荐</p>
+<ul class="left_topcompany">
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1033-1.html">中国石化集团公司</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-212-1.html">中金(CICC)</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-183-1.html">英特尔（intel）</a></h1></li>
+	<li><h1><a href="http://www.hiall.com.cn/bbs/forum-188-1.html">联合利华Unilever</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-249-1.html">箭牌中国</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1241-1.html">完美时空</a></h1></li>
+</ul>			</div>
+			
+			
+		</div>
+		<div id="midcolumn" class="floatleft">
+			<div class="topnews">	
+	<div class="left floatleft lightblue">站内新闻</div>
+	<div class="right floatleft ">
+		<div class="floatleft">
+			<div class="absolute zindex200">
+				<a href="javascript:preMsg();" class="icon_arrow_blue_up relative floatleft" id="icon_arrow_blue_up"></a>
+			</div>
+		</div>
+		<div class="floatright">
+			<div class="absolute zindex200">
+				<a href="javascript:nextMsg();" class="icon_arrow_blue_down relative floatleft" id="icon_arrow_blue_down"></a>
+			</div>
+		</div>
+		<ul class="topnews_list" id="topnews_list" style="top:0px;">
+		<li id="msg_show"><a href="http://e.weibo.com/1801762575/zh96Xguz8" target="_blank" class="lightgray">关注HiAll校园招聘微信公众号：HiAllxyzhaopin，二维码在此，快来拍我！</a></li>					
+		</ul>
+		<ul style="display:none;">
+					<li id="msg_0"><a href="http://e.weibo.com/1801762575/zh96Xguz8" target="_blank" class="lightgray">关注HiAll校园招聘微信公众号：HiAllxyzhaopin，二维码在此，快来拍我！</a></li>			
+				</ul>
+		<input type="hidden" id="msg_count" value="1" />
+	</div>
+	<div class="clear"></div>
+</div>
+			<div class="clear spacer"></div>
+<div style="margin:5px 0px 0px 25px;">
+
+<script type="text/javascript"> var cpro_id = 'u249066'; </script>
+<script type="text/javascript" src="http://cpro.baidu.com/cpro/ui/c.js"></script>
+</div>
+			<div class="jobbox">
+				<div class="spacer"></div>
+				<div class="job_maininfo">
+					<h1 class="b font14">
+											Youku.com（优酷网）  
+						</h1>
+					<h1>所属行业：计算机•互联网•通信</h1>
+					<div class="spacer"></div>
+                    <div>
+                       	<div class="button_job floatleft">
+							<div class="button_right"><a href="/company/cid-11452.html" class="icon_jobbutton_ck blue">查看公司详情</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+																		<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn">信息修改/删除</a></div>
+						</div>
+                        <div class="clear"></div>
+                            
+                    </div>
+                    <div class="spacer"></div>
+                    <div class="spacer"></div>
+                    <div>
+                        <div class="floatleft">
+                        <!-- Baidu Button BEGIN -->
+                        <div id="bdshare" class="bdshare_b" style="line-height: 12px;"><img src="http://bdimg.share.baidu.com/static/images/type-button-1.jpg" />
+                            <a class="shareCount"></a>
+                        </div>
+                        <script type="text/javascript" id="bdshare_js" data="type=button" ></script>
+                        <script type="text/javascript" id="bdshell_js"></script>
+                        <script type="text/javascript">
+                            document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+                        </script>
+                        <!-- Baidu Button END -->
+                        </div>
+                    </div>
+                    				</div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<p>
+								</p>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="job_detail">
+					<h1 class="positiontitle">优酷网2012校园招聘</h1>
+					<div class="spacer"></div>
+					<div class="spacer4"></div>
+						<p>
+该职位已发布超过<span class="pdlr or">607</span>天
+
+						<span class="pdlr"></span><span>编号：166454</span>
+						<span class="pdlr"></span></p>
+					<div class="spacer"></div>
+					<p>						
+						<span>工作地区：北京/上海</span>
+						<span class="pdlr"></span>
+						<span>更新时间：2011-11-28</span>
+					</p>
+<div style="border-top:1px solid #C3DBE8; margin-top: 8px;"></div>
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<div style="overflow:auto;">
+						<p>优酷（NYSE:YOKU），中国第一视频网站，2006年12月21日正式推出。优酷以 &quot;快者为王&quot;为产品理念，凭借&quot;快速播放，快速发布，快速搜索&quot;的产品特性，充分满足用户日益增长的互动需求及多元化视频体验，现已成为中国互联网领域最具影响力、最受用户喜爱的视频媒体。</p>
+<p>　　优酷不断实践&quot;三网合一&quot;的使命，现已覆盖互联网、电视、移动三大终端，兼具影视、综艺、资讯三大内容形态，贯通视频内容制作、播出、发行三大环节， 成为真正意义的互联网电视媒体，影响视频行业格局及全媒时代的大格局。</p>
+<p>　　2010年12月8日，优酷在美国纽约证券交易所上市，成为中国第一家在海外规模上市的视频网站；也是全球首家独立上市的视频网站。</p>
+<p>　　优酷是一家年轻、开放、充满活力的互联网电视媒体公司。这里有机遇，有挑战，有家庭般平等和谐的企业文化。2009年，优酷赢得财富和华信惠悦评选的年度最佳雇主的殊荣。公司为员工提供行业内有竞争力的薪资福利计划，以及完善的员工培训发展机会。</p>
+<p>2012年优酷校园招聘火热进行中，优酷邀你共同创造互联网的明天！</p>
+<p>&nbsp;</p>
+<p>招聘职位<br />
+<br />
+<br />
+技术类<br />
+搜索引擎开发工程师<br />
+工作职责：<br />
+参与视频搜索系统的开发、优化及维护</p>
+<p>职位要求：<br />
+1、熟悉Java语言编程，熟练操作Linux系统；<br />
+2、熟练掌握数据结构、常用算法；<br />
+3、了解搜索引擎技术，有搜索开发经验者（分词，排序，索引算法）优先；<br />
+4、热爱软件开发，追求完美，有上进心和很强的学习能力。</p>
+<p>数据挖掘开发工程师<br />
+工作职责：<br />
+参与视频推荐系统或广告定向系统的开发、优化及维护</p>
+<p>职位要求：<br />
+1. 具有良好的统计学、数学、人工智能和数据挖掘知识基础<br />
+4. 熟悉Java语言，熟练使用UNIX/Linux<br />
+3. 熟悉推荐系统理论及算法，有个性化推荐经验者优先<br />
+2.熟悉hadoop者优先<br />
+5. 有SAS/SPSS/Weka/R/IBM IM/Mathout等数据挖掘工具使用经验者优先<br />
+7. 对海量数据分析、挖掘有浓厚兴趣，沉稳厚重；具备强烈的进取心、求知欲及团队合作精神</p>
+<p>无线客户端开发工程师<br />
+职位要求：<br />
+1. 熟悉linux系统，熟练掌握java或C，C++编程语言；<br />
+2. 计算机基本功扎实，对算法和数据结构以及基本概念有很好的掌握和理解；<br />
+3. 有过android或IOS项目实践经验，Objective C和Cocoa编程经验；<br />
+4. 熟练使用Android SDK或iPhone SDK和XCode；<br />
+5. 动手能力强，有很好的团队合作精神</p>
+<p>无线后台开发工程师<br />
+职位要求：<br />
+1. 计算机或相关专业, 能熟练阅读英文技术文档；<br />
+2. 熟悉面向对象的软件设计方法；<br />
+3. 至少熟练使用MySQL/Oracle/MongoDB中的一种；<br />
+4. 至少熟练使用Python/PHP/Ruby/Perl/Java中的一种语言；<br />
+5. 熟悉Unix/Linux操作环境；<br />
+6. 能够独立思考，有比较好的自学能力，具备一定的沟通能力；</p>
+<p>底层系统开发工程师<br />
+工作职责：<br />
+1、改进优酷视频转码、分发、播放系统</p>
+<p>职位要求：<br />
+1、计算机相关专业, 能熟练阅读英文文档；<br />
+2、熟悉面向对象的软件设计方法，熟悉C/C++或 Python语言；<br />
+3、至少熟练掌握一种关系型数据库，如MySQL/Oracle等，具备数据库应用设计能力，了解SQL优化；<br />
+4、熟练掌握JavaScript、AJAX、HTML、CSS等Web相关技术；<br />
+5、熟悉Unix/Linux操作环境；<br />
+6、具备良好的代码编程习惯、较强的文档编写能力、学习能力和沟通能力；</p>
+<p>Windows 开发工程师<br />
+工作职责：<br />
+1、优酷Windows客户端开发</p>
+<p>职位要求：<br />
+1、计算机相关专业, 能熟练阅读英文文档；<br />
+2、熟悉面向对象的软件设计方法，熟悉C/C++语言；<br />
+3、熟悉JavaScript、HTML、CSS等Web相关技术；<br />
+4、具备良好的代码编程习惯、较强的文档编写能力、学习能力和沟通能力；</p>
+<p>前端Web框架开发工程师<br />
+工作职责：<br />
+优酷网前端Web代码开发<br />
+工作要求：<br />
+本科学历，计算机或通讯相关专业, 扎实的计算机基础知识，能熟练阅读英文文档；<br />
+有C/C++或PHP开发经验优先。<br />
+工作有激情，认真负责，尽职尽责，沟通协作意识良好，能够承担工作压力，具备良好的学习能力和分析解决问题能力；</p>
+<p>增值服务开发工程师<br />
+工作职责：<br />
+用户增值服务代码开发<br />
+工作要求：<br />
+本科学历，计算机或通讯相关专业, 扎实的计算机基础知识，能熟练阅读英文文档；<br />
+有C/C++或PHP开发经验优先。<br />
+工作有激情，认真负责，尽职尽责，沟通协作意识良好，能够承担工作压力，具备良好的学习能力和分析解决问题能力；</p>
+<p>用户中心后端开发工程师<br />
+工作职责：<br />
+负责用户中心产品服务端开发工作<br />
+工作要求：<br />
+本科学历，计算机或通讯相关专业, 扎实的计算机基础知识，能熟练阅读英文文档；<br />
+有C/C++或PHP开发经验优先。<br />
+熟悉TCP/IP协议，能熟练使用网络分析工具分析网络相关的故障，有一定的网络编程经验；<br />
+熟悉数据库的设计、使用与基本调优，熟练使用mysql数据库进行业务开发；<br />
+熟悉Linux，具备Linux下的系统开发经验；<br />
+具备大型并发，大容量系统开发运营经验优先；<br />
+较强的技术文档撰写能力,包括需求分析报告、概要设计报告、详细设计报告等软件文档;<br />
+工作有激情， 认真负责，尽职尽责，沟通协作意识良好，能够承担工作压力，具备良好的学习能力和分析解决问题能力；</p>
+<p>Flash开发工程师<br />
+工作职责：<br />
+Flash播放器开发<br />
+Flash播放器插件<br />
+Flash技术研究<br />
+工作要求：<br />
+本科以上学历,计算机、通信及相关专业;<br />
+有JAVA, C#, AS开发经验优先。<br />
+不需要目前了解Flash和AS3，但是优先考虑具备AS3编程经验者；<br />
+熟悉常用数据结构，了解常用算法；<br />
+具备面向对象编程思想，了解MVC构架的原理，熟悉构架下代码的结构；<br />
+能够独立工作,技术精进,能够承受一定压力并追求明确的结果；<br />
+出色的书面、口头表达沟通能力；<br />
+良好的团队合作意识，能够配合同事的工作；</p>
+<p>CMS（内容管理系统）开发工程师<br />
+工作职责:<br />
+负责优酷CMS（内容管理系统）的开发和维护工作<br />
+工作要求:<br />
+本科学历，计算机或通讯相关专业, 扎实的计算机基础知识，能熟练阅读英文文档；<br />
+具备良好的代码编程习惯及较强的文档编写能力；<br />
+有Linux等类Unix系统经验优先。<br />
+有PHP或C/C++开发经验者优先，有CMS系统或其组件开发经验者优先；<br />
+有面向对象经验者优先<br />
+具备强烈的进取心、求知欲及团队合作精神；具备良好的学习能力和分析解决问题能力；具备较强的沟通及协调能力；</p>
+<p>影视中心后端开发工程师<br />
+工作职责：<br />
+负责影视中心后端开发工作<br />
+工作要求：<br />
+本科学历，计算机或通讯相关专业, 扎实的计算机基础知识，能熟练阅读英文文档；<br />
+有C/C++或PHP开发经验优先。<br />
+工作有激情，认真负责，尽职尽责，沟通协作意识良好，能够承担工作压力，具备良好的学习能力和分析解决问题能力；<br />
+较强的技术文档撰写能力,包括需求分析报告、概要设计报告、详细设计报告等软件文档;<br />
+具备大型并发，大容量系统开发运营经验优先；<br />
+有搜索引擎相关开发经验者优先；</p>
+<p>对外合作开发工程师<br />
+工作职责：<br />
+API接口设计及开发<br />
+工作要求：<br />
+本科学历，计算机或通讯相关专业, 扎实的计算机基础知识，能熟练阅读英文文档；<br />
+有C/C++或PHP开发经验优先。<br />
+工作有激情，认真负责，尽职尽责，沟通协作意识良好，能够承担工作压力，具备良好的学习能力和分析解决问题能力；<br />
+较强的技术文档撰写能力,包括需求分析报告、概要设计报告、详细设计报告等软件文档;</p>
+<p>测试工程师<br />
+工作职责：<br />
+增值服务项目测试工作<br />
+广告系统测试工作<br />
+客户端业务测试工作<br />
+工作要求：<br />
+本科以上学历,计算机专业;<br />
+有较强的测试分析能力，逻辑清晰，思维严谨，能独立完成测试分析/用例设计/测试执行/测试报告；<br />
+熟悉Linux/mysql优先<br />
+有编程开发经验优先<br />
+良好的沟通技巧及团队合作精神，较强的责任感；</p>
+<p>内容类<br />
+自制栏目编导<br />
+职位描述：<br />
+1、根据节目定位要求，挖掘选题，协助主编完成节目前期策划；<br />
+2、独立收集整理节目素材；<br />
+3、独立寻找选题，联络节目相关人员，独立撰写脚本；<br />
+4、组织拍摄与录制，负责现场的调度与控制；<br />
+5、跟进后期制作，督促及配合后期工作；<br />
+6、监控制作全过程，保证节目质量；<br />
+7、协调与沟通制作过程中的相关各环节。<br />
+职位要求：<br />
+1、熟悉节目制作流程；<br />
+2、具备独立完成节目的采写编能力和经验；<br />
+3、熟练使用非线性编辑设备；<br />
+4、有娱乐节目制作工作经验者优先；<br />
+5、善于和明星沟通，能独立完成联络嘉宾以及前期沟通，后期采访。</p>
+<p>娱乐中心频道编辑<br />
+职位描述：<br />
+1、负责网站音乐频道等视频的维护和日常更新；<br />
+2、定期制作各类策划专题；<br />
+3、关注国内外相关产业信息，捕捉新闻热点，保证网站内容品质。<br />
+职位要求：<br />
+1、文字功底强，文笔流畅，思维活跃，能针对产业的发展形势进行剖析和追踪；<br />
+2、头脑灵活，策划能力强；性格外向，沟通能力强；工作细致耐心，责任心强，具有强烈的团队合作精神；能承受较大的工作压力；<br />
+3、熟练掌握Photoshop、Dreamweaver等软件制作网页，熟悉简单的HTML代码，可独立完成专题页面制作，了解视频软件的运用。</p>
+<p>影视编剧/策划<br />
+职位描述：<br />
+1、负责网剧、网络电影的选题、策划，合作机构影视项目的评估，推进。<br />
+2、协助编剧进行影视剧剧本研发。参与自制节目团队的网剧、网络电影等策划、运营、执行等工作。<br />
+3、发掘并维护影视短剧、网络电影、电影的编剧、导演、制作机构等。<br />
+职位要求：<br />
+1、专业院校的编剧、导演等专业本科及以上学历。<br />
+2、熟悉影视传媒行业机构，具有项目管理经验。<br />
+3、文笔流畅，爱好广泛，无不良嗜好，有相当的艺术修养，对网络文学、当代文学、现代影视均有一定涉猎，具备在大量资料中甄别，筛选适合影视剧制作、符合市场规律的优秀文学作品的能力；<br />
+4、良好的团队合作精神，有强烈的责任心，顾大局，能承受较大的工作压力。</p>
+<p>销售类<br />
+AE（客户执行专员）<br />
+职位描述：<br />
+1、项目执行：负责项目的执行和计划，内部资源的调度确保高质量地完成项目。与客户项目保证沟通，准确理解客户需求。跟踪和处理客户意见和建议，直至合同执行完毕。<br />
+2、客户维护：协助销售经理维系、管理客户关系，并保证合同按时准确履行。<br />
+3、数据支持：数据的统计、分析，并撰写部分数据报告或结案报告。<br />
+4、销售支持：完成销售流程及客户经理的其它辅助性工作。</p>
+<p>要求：<br />
+1、有良好的表达，沟通及协作能力；<br />
+2、有一定的组织协调能力，抗压力，心理素质强；<br />
+3、耐心、细致，有非常好的服务精神，有较好的分析及应变能力。<br />
+4、专科以上学历，较好的英语读写能力。</p>
+<p>媒体策划<br />
+职位描述：<br />
+1、协助制定视频网站的媒体经营策略、广告产品策略，并带领策划部门协助销售团队完成产品销售任务；<br />
+3、在阶段性营销目标的确定下，主持完成从广告产品研发、定价、广告产品包装、市场定位、制定销售政策、到方案支持产品实现销售的全过程；<br />
+4、定期对销售团队进行媒体内容培训、广告产品销售前培训、专题项目等的培训；<br />
+5、深入了解视频用户的特征，定期更新受众分析数据，并针对销售的不同需求进行数据支持；<br />
+6、结合客户在终端销售的需求，深入挖掘网站内容资源进行整合，完善产品体系；<br />
+5、定期总结销售中反映的策略及产品问题，为部门优化提出合理化建议。</p>
+<p>职位要求：<br />
+1、市场营销、广告学、传媒或相关专业本科以上学历；<br />
+2、热爱互联网，对互联网新媒体营销有独立见解；<br />
+3、市场敏感度强，对客户品牌及市场营销有较深厚的理解，能带领团队针对客户的市场、品牌策略进行整合营销策划，具有较强的媒体策划、活动策划及商业包装能力，精通PPT, EXCEL 等OFFICE软件；<br />
+4、富有激情，具有创新精神，表达能力强，具有较好沟通能力和演讲能力，具备带领团队协同作业的良好才能。</p>
+<p>网页技术工程师<br />
+职责<br />
+1、 负责将网站项目的设计稿实现并制作成符合WEB标准的页面<br />
+2、 负责前台脚本程序开发，如校验、特效等用户体验的前端效果</p>
+<p>要求<br />
+1、计算机相关专业毕业；酷爱本职工作，并乐于钻研WEB前端效果的技巧与实现。<br />
+2、精通：XHTML、CSS、JavaScript。<br />
+3、熟悉PHP语言，会使用Mysql数据库，会简单优化；<br />
+W3C标准，熟练手写代码；<br />
+了解不同浏览器之间的差异，制作出的页面能够有很好的兼容性；<br />
+4、对待代码的态度严谨，有良好的编程习惯。<br />
+5、责任心强，抗压力强，具备良好的沟通与协调能力；<br />
+6、简历中须提供近期作品及说明</p>
+<p>2012优酷校园招聘日程安排表 <br />
+<br />
+城市 宣讲会 学校名称 预计宣讲会及见面会时间 宣讲会时间 宣讲会场地名称 <br />
+合肥 宣讲会 中国科学技术大学 10月26日 16:00-18:00 西区学生活动中心二楼学术报告厅 <br />
+成都 宣讲会 成都电子科技大学 10月27日 15:00-17:00 图书馆1楼报告厅 <br />
+宣讲会 四川大学 10月28日 18:30-21:00 就业指导中心201 <br />
+见面会 西南交通大学 10月30日 校友小型沙龙，安排在学校会议室 <br />
+南京 宣讲会 南京大学 11月1日 18:30-20:30 安中楼二楼报告厅 <br />
+西安 宣讲会 西安电子科技大学 11月8日 19:00-21:00 图书馆三楼报告厅 <br />
+备注：赠送精美礼品，更有神秘大奖等你揭晓！</p>
+<p><br />
+&nbsp;</p>
+<p>1. 问：优酷是一家什么样的公司？<br />
+答：优酷（NYSE:YOKU），中国第一视频网站，2006年12月21日正式推出。优酷以 &quot;快者为王&quot;为产品理念，凭借&quot;快速播放， 快速发布，快速搜索&quot;的产品特性，充分满足用户日益增长的互动需求及多元化视频体验，现已成为中国互联网领域最具影响力、最受用户喜爱的视频媒体。更多信息详见优酷官网。 <br />
+2. 问：优酷的企业文化是什么？<br />
+答：<br />
+合作第一 一人一口<br />
+速度定成败 你我定成败<br />
+我爱视频 我是拍客 <br />
+3. 问：怎样提交简历？宣讲会现场是否接收简历？<br />
+答：请您在宣讲会前登陆http://campus.chinahr.com/2012/pages/youku，根据标准简历模板在线填写您的个人简历。<br />
+非常抱歉，在宣讲会现场不接收简历，您可以通过上面链接进行在线申请。 <br />
+4. 问：投递简历有哪些注意事项？<br />
+答：<br />
+1) 简历是我们初次获悉您信息的重要渠道，建议同学们尽可能的在简历中充分描述自身情况，否则将有可能影响您的简历筛选结果;<br />
+2) 请务必准确的填写您的联系方式，并保持通讯畅通以便及时通知您参加笔试和面试。 <br />
+5. 问：可以申请多个职位吗？非应届生可以申请吗？<br />
+答：<br />
+1) 每位同学可以申请2个相关职位，第1个职位将被默认为您的首选职位，请同学们慎重选择职位的排序；<br />
+2) 非2012应届毕业生欢迎登陆优酷官方网站工作机会，按照社会招聘人员的应聘流程投递简历。 <br />
+6、问：如果我是非2012年毕业的学生，公司是否能提供实习的岗位呢？<br />
+答：抱歉，我们目前不接受实习的申请。建议非2012年度毕业生密切关注优酷网的成长及未来校园招聘计划。 <br />
+7、问：简历投递成功后什么时间通知笔试和面试？<br />
+答：建议同学们定期浏览优酷网校园招聘网站相关信息，以加深对公司以及应聘职位的了解；宣讲会后直接进行笔试，中华英才网的工作人员将通过短信、电话及邮件等方式通知笔试合格的同学，参加面试环节。</p>
+<p>&nbsp;</p>					</div>
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<p ><a href="http://wenda60.com" target="_blank" style="font-size:14px; color:#2B68E9">>>练练该公司的招聘笔试题 </a><script type="text/javascript"><!--
+google_ad_client = "ca-pub-9486753476951928";
+/* 底部广告 */
+google_ad_slot = "1009061790";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p> 					
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<div>
+						<div class="floatleft">
+                        <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_b" style="line-height: 12px;"><img src="http://bdimg.share.baidu.com/static/images/type-button-1.jpg" />
+                                <a class="shareCount"></a>
+                           
+						  </div>
+                        <script type="text/javascript" id="bdshare_js" data="type=button" ></script>
+                        <script type="text/javascript" id="bdshell_js"></script>
+                        <script type="text/javascript">
+                            document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+                        </script>
+                        <!-- Baidu Button END -->
+						</div>
+						<div class="button_job_or floatleft">
+							<!--<div class="button_right"><a href="javascript:;" onclick="collect(2, 166454);" class="icon_jobbutton_sc white">我要收藏</a></div>-->
+				  </div>
+                            <div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+						<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn" class="icon_jobbutton_p">举报错误信息</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+						<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn">信息修改/删除</a></div>
+						</div>
+						<div class="clear"></div>
+			  </div>
+		  </div>
+				<div class="spacer"></div>
+				<div class="spacer">
+</div>
+<!--
+				<div class="grayline"></div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="pdlr">
+					<div>
+						<span class="floatleft font14  b">同行业的职位</span>
+						<span class="floatright pdlr"></span>
+					</div>
+					<div class="clear spacer"></div>
+					<ul class="ul_bluedisc underline">
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277293.html" class="blue" title="高薪诚聘销售精英" target="_blank">高薪诚聘销售精英</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277084.html" class="blue" title="网络兼职" target="_blank">网络兼职</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277049.html" class="blue" title="行政助理兼前台" target="_blank">行政助理兼前台</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277038.html" class="blue" title="肇庆市华盈信息科技有限公司招聘网站编辑（网页设计）" target="_blank">肇庆市华盈信息科技有限公司招聘网站编辑（网页设计）</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276955.html" class="blue" title="医生管理" target="_blank">医生管理</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276954.html" class="blue" title="医学编辑/医药编辑" target="_blank">医学编辑/医药编辑</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276953.html" class="blue" title="销售代表" target="_blank">销售代表</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276952.html" class="blue" title="平面设计师" target="_blank">平面设计师</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276951.html" class="blue" title="儿童插画师" target="_blank">儿童插画师</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276648.html" class="blue" title="向自由想象致敬，小米2013春季校招（全职&实习）霸气启动！" target="_blank">向自由想象致敬，小米2013春季校招（全职&实习）霸气</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											
+					</ul>
+				</div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="grayline"></div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+								<div class="pdlr">
+					<div>
+						<span class="floatleft font14  b">相同公司职位</span>
+						<span class="floatright pdlr"></span>
+					</div>
+					<div class="clear spacer"></div>
+					<ul class="ul_bluedisc underline">
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276104.html" class="blue" title="优酷土豆集团招聘播放器P2P研发工程师" target="_blank">优酷土豆集团招聘播放器P2P研发工程师</a></div>
+							<span class="floatright gray pdlr">05-10</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_275519.html" class="blue" title="优酷土豆招聘hr实习生" target="_blank">优酷土豆招聘hr实习生</a></div>
+							<span class="floatright gray pdlr">05-06</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_274203.html" class="blue" title="[广州]酷土豆集团招聘行政助理" target="_blank">[广州]酷土豆集团招聘行政助理</a></div>
+							<span class="floatright gray pdlr">04-16</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_230592.html" class="blue" title="优酷网招聘实习生 " target="_blank">优酷网招聘实习生 </a></div>
+							<span class="floatright gray pdlr">11-13</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_184276.html" class="blue" title="优酷网招聘无线运营编辑" target="_blank">优酷网招聘无线运营编辑</a></div>
+							<span class="floatright gray pdlr">02-13</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_184275.html" class="blue" title="优酷网招聘微博运营" target="_blank">优酷网招聘微博运营</a></div>
+							<span class="floatright gray pdlr">02-13</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_179233.html" class="blue" title="优酷神招聘实习生" target="_blank">优酷神招聘实习生</a></div>
+							<span class="floatright gray pdlr">01-25</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_178682.html" class="blue" title="优酷招聘大规模系统研发工程师" target="_blank">优酷招聘大规模系统研发工程师</a></div>
+							<span class="floatright gray pdlr">01-23</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_174370.html" class="blue" title="YouKu R&D招聘大规模系统研发工程师 " target="_blank">YouKu R&D招聘大规模系统研发工程师 </a></div>
+							<span class="floatright gray pdlr">01-07</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_166454.html" class="blue" title="优酷网2012校园招聘" target="_blank">优酷网2012校园招聘</a></div>
+							<span class="floatright gray pdlr">11-28</span>
+							<div class="clear"></div>
+						</li>
+											
+					</ul>
+				</div>
+							</div>
+			<div class="clear spacer"></div>
+			<div class="spacer"></div>
+			<div class="spacer"></div>
+-->
+			<div class="spacer"></div>
+		</div>
+        
+		<div class="clear"></div>
+	</div>
+    
+    <div id="rightcolumn" class="floatleft">
+            <div class="rightcolumn" style="padding:0px;">
+                <div>
+			 <script type="text/javascript"><!--
+            google_ad_client = "ca-pub-9486753476951928";
+            /* 职位广告 */
+            google_ad_slot = "3598731756";
+            google_ad_width = 200;
+            google_ad_height = 200;
+            //-->
+            </script>
+            <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+				
+				    <div class="rightcolumn_title font14 b deepblack">该公司最新招聘信息</div>
+                    <div class="rightcolumn_title font14 b deepblack"><a href="/company/cid-11452.html ">点击查看全部</a></div>
+					<div class="spacer"></div>
+					<ul class="ul_bluedisc right_ul_bluedisc underline">
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_276104.html" class="blue">优酷土豆集团招聘播放器P2P研发工程师</a></div>
+						<span class="pdlr4 floatright">05-09</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_275519.html" class="blue">优酷土豆招聘hr实习生</a></div>
+						<span class="pdlr4 floatright">05-03</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_274203.html" class="blue">[广州]酷土豆集团招聘行政助理</a></div>
+						<span class="pdlr4 floatright">04-16</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_230592.html" class="blue">优酷网招聘实习生 </a></div>
+						<span class="pdlr4 floatright">09-13</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_184276.html" class="blue">优酷网招聘无线运营编辑</a></div>
+						<span class="pdlr4 floatright">12-13</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_184275.html" class="blue">优酷网招聘微博运营</a></div>
+						<span class="pdlr4 floatright">12-13</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_179233.html" class="blue">优酷神招聘实习生</a></div>
+						<span class="pdlr4 floatright">11-25</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_178682.html" class="blue">优酷招聘大规模系统研发工程师</a></div>
+						<span class="pdlr4 floatright">11-23</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_174370.html" class="blue">YouKu R&D招聘大规模系统研发工程师 </a></div>
+						<span class="pdlr4 floatright">11-07</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_166454.html" class="blue">优酷网2012校园招聘</a></div>
+						<span class="pdlr4 floatright">09-28</span>
+						<div class="clear"></div>
+						</li>							
+										</ul>
+				</div>
+		   </div>
+           <div class="rightcolumn" style="padding:0px;">
+                <div>
+				
+				    <div class="rightcolumn_title font14 b deepblack">同行业最新招聘信息</div>
+                    
+					<div class="spacer"></div>
+					<ul class="ul_bluedisc right_ul_bluedisc underline">
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277293.html" class="blue" title="高薪诚聘销售精英" target="_blank">高薪诚聘销售精英</a></div>
+							<span class="floatright gray pdlr">05-22</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277084.html" class="blue" title="网络兼职" target="_blank">网络兼职</a></div>
+							<span class="floatright gray pdlr">05-20</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277049.html" class="blue" title="行政助理兼前台" target="_blank">行政助理兼前台</a></div>
+							<span class="floatright gray pdlr">05-20</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277038.html" class="blue" title="肇庆市华盈信息科技有限公司招聘网站编辑（网页设计）" target="_blank">肇庆市华盈信息科技有限公司招聘网站编辑（网页设计）</a></div>
+							<span class="floatright gray pdlr">05-18</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276955.html" class="blue" title="医生管理" target="_blank">医生管理</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276954.html" class="blue" title="医学编辑/医药编辑" target="_blank">医学编辑/医药编辑</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276953.html" class="blue" title="销售代表" target="_blank">销售代表</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276952.html" class="blue" title="平面设计师" target="_blank">平面设计师</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276951.html" class="blue" title="儿童插画师" target="_blank">儿童插画师</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276648.html" class="blue" title="向自由想象致敬，小米2013春季校招（全职&实习）霸气启动！" target="_blank">向自由想象致敬，小米2013春季校招（全职&实习）霸气</a></div>
+							<span class="floatright gray pdlr">05-14</span>
+							<div class="clear"></div>
+						</li>							
+										</ul>
+				</div>
+		   </div>
+           <div class="rightcolumn">
+				<div class="spacer"></div>
+	
+								
+		   </div>
+		   <div class="spacer"></div>
+				
+    </div>
+</div>
+<iframe id="collection" name="collection" style="width:0px;height:0px;"></iframe>
+<div id="foot">
+	<div class="footbody">
+		<div class="foot_top aligncenter white"> <a href="http://www.hiall.com.cn/" class="white">HiAll校园招聘</a> <span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/" class="white">HiAll论坛</a> 
+
+<span class="pdlr4">|</span> <a href="http://wenda.hiall.com.cn/" class="white">HiAll一问一答</a>
+
+<span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/forum-744-1.html" class="white">校园招聘求职大礼包</a> <span class="pdlr4">|</span> <a href="http://hr.hiall.com.cn/" class="white">加入HiAll</a>
+<span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/thread-150495-1-1.html" class="white">广告合作</a> <span class="pdlr4">|</span> <a href="/info/about.php" class="white">关于我们</a> <span class="pdlr4">|</span> <a href="/info/sitemap.php" class="white">网站地图</a></div>		<div class="foot_mid aligncenter white"> 网站相关问题请联系：010-82601802 || 企业服务请联系：010-82600684</div>
+		<div class="foot_bot aligncenter white">Copyright HiAll
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP备10021013号
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP证090110号
+			<span class="pdlr"></span><span class="pdlr"></span>京公网安备11010802010560号
+		</div>
+	</div>
+</div>
+<!-- Baidu Analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F56dda118cbb3220435957635a699495b' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- Baidu Analytics -->
+</body>
+</html>
+

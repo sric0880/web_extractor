@@ -12,6 +12,7 @@
 #include <string>
 using namespace std;
 struct Data{
+	int id;
 	char* company;
 	char* position;
 	char* publish_time;
@@ -22,6 +23,7 @@ struct Data{
 	char* tel;
 	char* raw_text;
 	Data(){
+		id = 0;
 		company = NULL;
 		email = NULL;
 		need_num = 0;

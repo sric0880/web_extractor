@@ -1,0 +1,893 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<title>Gemalto(金雅拓)WPDS招聘（多职位）-全职推荐</title>
+<head>
+<meta property="qc:admins" content="35413136776011446375636" />
+<meta http-equiv="keywords" content="2013校园招聘,HiAll,招聘,校园招聘,全职职位,实习职位,大学生求职,应届生求职"/>
+<meta http-equiv="description" content="HiAll，为应届毕业生或在校生提供最新、最全、最可靠的全职、实习招聘信息、宣讲会信息与各种求职资讯与资料，成为联动学生与雇主的纽带，覆盖北京、上海、广州、海外等地区。" />
+<meta name="generator" content="HiAll2.0" />
+<meta name="author" content="HiAll" />
+<meta name="copyright" content="2004-2012 HiAll." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<script src="http://file.hiall.com.cn/newhiall/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/jquery.validate.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/utils.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/u1.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frame/page.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/main.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frontpage/frontpage.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/manage.css" />
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2560481-2']);
+  _gaq.push(['_setDomainName', '.hiall.com.cn']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Google Analytics -->
+</head>
+<body>
+<div id="head">
+	<div id="headbody">
+		<div class="top">
+			<a href="/" class="head_logo floatleft"></a>
+			<div class="mid floatleft">
+			<form method="post" action="/search/infos.php">
+				<input type="text" class="head_search_input gray floatleft" maxlength="10" value="职位信息 如：管理培训生" id="searchkey" name="searchkey" onclick="if(this.value == '职位信息 如：管理培训生') this.value='';" onblur="if(this.value=='') this.value='职位信息 如：管理培训生';"/>
+				<div class="head_search_select gray pointer floatleft">
+					<div class="floatleft">
+						<div class="absolute">
+							<div class="relative head_search_select_optionbox" style="display:none; z-index:10;">
+								<ul class="head_search_select_option" id="choosecity-list">
+																<li id="r0">全部</li>
+																<li id="r1">北京</li>
+																<li id="r2">上海</li>
+																<li id="r40">广州</li>
+																<li id="r41">深圳</li>
+															</ul>
+							</div>
+						</div>
+					</div>
+					<span id="choosecity">全部</span>
+				</div>
+				<input type="hidden" name="regionid" id="regionid" value="0">
+				<input type="hidden" name="op" id="op" value="headersearch">
+				<input  type="button" class="button_head_search pointer floatleft" onclick="javascript:headerSearch(this);" />
+			</div>
+			</form>
+			<div class="right floatright">
+				<div class="head_greenicon_box floatleft">
+											<p><span class="white">个人用户</span></p>
+						<p><a href="/collect/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="http://bbs.hiall.com.cn/register_hiall.php" class="white">注册</a></p>		
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="head_blueicon_box floatleft">
+										<p><a class="white">企业用户</a></p>
+					<p><a href="/users/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="/users/register.php" class="white">注册</a></p>
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="vspacer floatleft"></div>
+				<div class="floatleft">
+					<p><a href="/info/about.php#t2" class="white">查看企业</p><p>服务项目</a></p>
+				</div>
+				<div class="vspacer floatleft"></div>
+			</div>
+		</div>
+		<div class="clear"></div>
+		<div class="bottom">
+
+<!--<div style="position:relative;">-->
+<ul class="head_nav floatleft">
+	<li hidefocus="true" ><a href="/" hidefocus="true">首页</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://bbs.hiall.com.cn" target="_blank" hidefocus="true">BBS</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true"  class="active"><a href="/info/" hidefocus="true">全职推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/part.php" hidefocus="true">实习推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/" hidefocus="true" target="_blank">宣讲会</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://www.hiall.com.cn/2011" hidefocus="true" target="_blank" class="menu_red">HiAll雇主专区</a></li>
+	<li hidefocus="true" class="fg"></li>
+    <!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/calendar/" hidefocus="true" target="_blank">2012校招日程</a></li>-->
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/special.php" hidefocus="true">专业招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/company/" hidefocus="true">名企招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/expire.php" hidefocus="true">申请截止</a></li>
+	<li hidefocus="true" class="fg"></li>
+    <li hidefocus="true"  style='padding-left:0px;'><a href="http://bbs.hiall.com.cn/forum-1054-1.html" hidefocus="true" target="_blank" style="color:red">2013名企求职礼包</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://wenda.hiall.com.cn/" hidefocus="true" target="_blank">HiAll一问一答</a></li>
+	<!--<li hidefocus="true" ><a href="http://edu.hiall.com.cn/" hidefocus="true" target="_blank">求职指导</a></li>-->
+	<!--<li hidefocus="true" ><a href="http://miaosha.hiall.com.cn/" hidefocus="true" target="_blank">职业秒杀</a></li>
+	<li hidefocus="true" class="fg"></li>-->
+	<!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/yinhang/" hidefocus="true" target="_blank" style="color:red">2012银行校园招聘</a></li>-->
+</ul>
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>
+<div id="loginfloat" style="background:red;psotion:absolute;display:none;">
+	<div class="fav_topbox floatleft">
+		<p class="h22"><span class="or b">登录后可以个性化你的收藏哦！</span><span class="gray">（用HiAll bbs账号直接登录）</span><span class="gray"><a href="javascript:;" onclick="closeCollect();">关闭</a></span></p>
+		<div class="spacer"></div>
+		<form method="post" accept-charset="GB2312" name="login" id="loginform1" class="gateform" action="http://bbs.hiall.com.cn/logging.php?action=login&amp;loginsubmit=yes">
+		<input type="hidden" name="formhash" value="e9f7b113" />
+		<input type="hidden" name="referer" id="referer" value="http://www.hiall.com.cn/collect/index.php" />
+		<div>
+			<p class="h22"><span>用户名：</span><span><input type="text" class="required normalinput grayborder" size="14" name="username" id="username1" title="用户名称不能为空！" /></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/register_hiall.php" class="gray underline">新用户注册</a></span><h3 id="returnmessage"></h3></p>
+			<div class="spacer"></div>
+			<p class="h22"><span>密&nbsp;&nbsp;码：</span><span><input type="password" class="required normalinput grayborder" size="14"  id="password4" name="password" title="密码不能为空！"/></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/logging.php?action=login" class="gray underline">忘记密码?</a></span></p>
+			<div class="spacer"></div>
+			<p class="fav_login_button h22"><input type="button" onclick="return ajaxpost('username1', 'password4', 'loginform1', 'returnmessage', 'returnmessage', 'onerror');" value="登  录"  class="button_or_2c white"/><span class="pdlr4"></span><a href="http://bbs.hiall.com.cn/register_hiall.php"><button class="button_or_5c white">新用户注册</button></a></p>
+		</div>
+		</form>
+	</div>
+</div>
+<div id="body">
+	<p class="h22 txtindent1 gray">当前位置：<a href='/'>首页</a> &gt; <a href='/info/'>全职推荐</a> &gt; Gemalto(金雅拓)WPDS招聘（多职位）</p>
+	<!--<div class="bigbg reborder">-->
+    <div class="bigbg reborder" style="overflow:auto; _height:1%;">
+		<div id="leftcolumn" class="floatleft">
+            <div class="leftcolumn">
+				<p class="leftcolumn_title font14 b deepblack">行业分类</p>
+<ul class="left_nav">
+		<li><a href="/info/?businesses=1" >计算机•互联网•通信</a></li>
+		<li><a href="/info/?businesses=2" >电器•电子•家电</a></li>
+		<li><a href="/info/?businesses=3" >金融•投资•证券</a></li>
+		<li><a href="/info/?businesses=4" >咨询•财会•法律</a></li>
+		<li><a href="/info/?businesses=5" >贸易•消费•进出口</a></li>
+		<li><a href="/info/?businesses=6" >制药•生物•医疗</a></li>
+		<li><a href="/info/?businesses=7" >工业制造•能源•原材料</a></li>
+		<li><a href="/info/?businesses=8" >房地产•建筑•工程建设</a></li>
+		<li><a href="/info/?businesses=9" >广告•会展•公关</a></li>
+		<li><a href="/info/?businesses=10" >物流•仓储•运输</a></li>
+		<li><a href="/info/?businesses=11" >教育•培训•科研•院校</a></li>
+		<li><a href="/info/?businesses=12" >政府•公共事业•非盈利机构</a></li>
+		<li><a href="/info/?businesses=13" >服务业</a></li>
+		<li><a href="/info/?businesses=14" >农林牧渔•环保</a></li>
+		<li><a href="/info/?businesses=15" >跨领域经营 </a></li>
+		<li><a href="/info/?businesses=16" >其他</a></li>
+		<li><a href="/info/?businesses=17" >机械•自动化•仪器仪表行•重工业</a></li>
+		<li><a href="/info/?businesses=18" >汽车•摩托车行业 </a></li>
+		<li><a href="/info/?businesses=19" >旅游•酒店•餐饮服务</a></li>
+		<li><a href="/info/?businesses=20" >物业管理•商业中心</a></li>
+		<li><a href="/info/?businesses=21" >快速消费品(食品•饮料•日化•烟酒等)</a></li>
+		<li><a href="/info/?businesses=22" >家居•室内设计•装潢</a></li>
+		<li><a href="/info/?businesses=23" >石油•化工•采掘•冶炼</a></li>
+		<li><a href="/info/?businesses=24" >耐用消费品(服饰•纺织•家具）</a></li>
+		<li><a href="/info/?businesses=25" >媒体•文化传播•出版•影视</a></li>
+		<li><a href="/info/?businesses=26" >芯片•电子技术•半导体</a></li>
+		<li><a href="/info/?businesses=27" >批发•零售</a></li>
+	</ul>
+
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<p class="leftcolumn_title font14 b deepblack">热门公司推荐</p>
+<ul class="left_topcompany">
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1033-1.html">中国石化集团公司</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-212-1.html">中金(CICC)</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-183-1.html">英特尔（intel）</a></h1></li>
+	<li><h1><a href="http://www.hiall.com.cn/bbs/forum-188-1.html">联合利华Unilever</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-249-1.html">箭牌中国</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1241-1.html">完美时空</a></h1></li>
+</ul>			</div>
+			
+			
+		</div>
+		<div id="midcolumn" class="floatleft">
+			<div class="topnews">	
+	<div class="left floatleft lightblue">站内新闻</div>
+	<div class="right floatleft ">
+		<div class="floatleft">
+			<div class="absolute zindex200">
+				<a href="javascript:preMsg();" class="icon_arrow_blue_up relative floatleft" id="icon_arrow_blue_up"></a>
+			</div>
+		</div>
+		<div class="floatright">
+			<div class="absolute zindex200">
+				<a href="javascript:nextMsg();" class="icon_arrow_blue_down relative floatleft" id="icon_arrow_blue_down"></a>
+			</div>
+		</div>
+		<ul class="topnews_list" id="topnews_list" style="top:0px;">
+		<li id="msg_show"><a href="http://e.weibo.com/1801762575/zh96Xguz8" target="_blank" class="lightgray">关注HiAll校园招聘微信公众号：HiAllxyzhaopin，二维码在此，快来拍我！</a></li>					
+		</ul>
+		<ul style="display:none;">
+					<li id="msg_0"><a href="http://e.weibo.com/1801762575/zh96Xguz8" target="_blank" class="lightgray">关注HiAll校园招聘微信公众号：HiAllxyzhaopin，二维码在此，快来拍我！</a></li>			
+				</ul>
+		<input type="hidden" id="msg_count" value="1" />
+	</div>
+	<div class="clear"></div>
+</div>
+			<div class="clear spacer"></div>
+<div style="margin:5px 0px 0px 25px;">
+
+<script type="text/javascript"> var cpro_id = 'u249066'; </script>
+<script type="text/javascript" src="http://cpro.baidu.com/cpro/ui/c.js"></script>
+</div>
+			<div class="jobbox">
+				<div class="spacer"></div>
+				<div class="job_maininfo">
+					<h1 class="b font14">
+											金雅拓(Gemalto)  
+													<span class="pdlr"><img src="http://www.hiall.com.cn/images/icon/icon_top_default.gif" /></span>
+						</h1>
+					<h1>所属行业：计算机•互联网•通信</h1>
+					<div class="spacer"></div>
+                    <div>
+                       	<div class="button_job floatleft">
+							<div class="button_right"><a href="/company/cid-813.html" class="icon_jobbutton_ck blue">查看公司详情</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+																		<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn">信息修改/删除</a></div>
+						</div>
+                        <div class="clear"></div>
+                            
+                    </div>
+                    <div class="spacer"></div>
+                    <div class="spacer"></div>
+                    <div>
+                        <div class="floatleft">
+                        <!-- Baidu Button BEGIN -->
+                        <div id="bdshare" class="bdshare_b" style="line-height: 12px;"><img src="http://bdimg.share.baidu.com/static/images/type-button-1.jpg" />
+                            <a class="shareCount"></a>
+                        </div>
+                        <script type="text/javascript" id="bdshare_js" data="type=button" ></script>
+                        <script type="text/javascript" id="bdshell_js"></script>
+                        <script type="text/javascript">
+                            document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+                        </script>
+                        <!-- Baidu Button END -->
+                        </div>
+                    </div>
+                    				</div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<p>
+								</p>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="job_detail">
+					<h1 class="positiontitle">Gemalto(金雅拓)WPDS招聘（多职位）</h1>
+					<div class="spacer"></div>
+					<div class="spacer4"></div>
+						<p>
+该职位已发布超过<span class="pdlr or">49</span>天
+
+						<span class="pdlr"></span><span>编号：273427</span>
+						<span class="pdlr"></span></p>
+					<div class="spacer"></div>
+					<p>						
+						<span>工作地区：北京</span>
+						<span class="pdlr"></span>
+						<span>更新时间：2013-04-08</span>
+					</p>
+<div style="border-top:1px solid #C3DBE8; margin-top: 8px;"></div>
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<div style="overflow:auto;">
+						<p>金雅拓公司（Gemalto，泛欧证券交易所股票代码：NL0000400653 GTO）于2005年12月由全球最大的两家智能卡厂商Axalto（雅思拓）和Gemplus（金普斯）合并成立，是数字安全领域的全球领先企业，2010年收入为19.06亿欧元。公司总部在法国，全球拥有1万名员工分布于45个国家，为190多个国家的客户提供服务。全球设立87个销售与营销办事处、18个生产基地、30个个性化中心以及13个研发中心。 <br />
+金雅拓定位于数字安全革新的核心。人们日益需要和期盼能够随时随地在通信、旅行、购物、银行、娱乐和工作中，便捷地、愉悦地、安全地享受自由。 <br />
+金雅拓为超过10亿用户在移动通信、身份认证及数据保护、信用卡安全、公共健康及交通服务、电子政务及国家安全领域提供了各种解决方案，以满足不断增长的需求。金雅拓为政府、移动运营商、银行和企业提供广泛的个人安全设备，如手机上的SIM卡，通用集成电路卡(UICC)，银行智能卡，智能卡门禁，电子护照，和用于线上身份保护的USB令牌。为完善解决方案，我们同时提供软件、系统及服务以帮助我们的客户达成他们的目标。 <br />
+随着人们与数字和无线世界的互动的增加，对金雅拓软件及安全设备的需求也随之增长，公司对未来的美好前景充满信心。 <br />
+【社招】 <br />
+Position 1:Software Engineer (WCP) <br />
+location:Beijing <br />
+Basic Mission <br />
+- Participation in design, code and tests of products (cards operating system) ensuring quality, efficiency and confidentiality of development; <br />
+- The development performed should be done according to priorities and objectives defined by the Project Leader.</p>
+<p>Main Responsibility <br />
+- Analyze external interfaces (marketing, regions, and manufacturing) requirements and specifications. <br />
+- Low level design, coding, unit testing and bug fixing. <br />
+- Test specification, implementation and execution while tracking bugs. <br />
+- Be able to propose concepts which can be patented. <br />
+- Be able to recommend suggestions to improve efficiency, security and quality. <br />
+- Be able to communicate ideas &amp; experiences with peers, technical and hierarchical management. <br />
+- Autonomy, energetic, able to work under pressure, team player</p>
+<p>Required qualities and skills <br />
+- Master or bachelor degree on Computer related Majors <br />
+- Knowledge in C, Visual Basic and embedded software development or smart card is preferred. <br />
+- Good communication skills with fluency in written and oral English. <br />
+- Team work spirit and sense of responsibility.</p>
+<p>Position 2:Software Engineer(Java) <br />
+Location: Beijing <br />
+KEY RESPONSIBILITIES</p>
+<p>Involved in the design and development of software project, using high level languages, database design techniques, operating systems and platforms. <br />
+Demonstrates and improves his knowledge in one area or several areas. Executes his activities according to pre-established rules and generally in a situation that involves less risk. Works on proven/ standard technology to reach a technical achievement. <br />
+Oversee the realization of all technical documents associated with the assigned projects, including planning and test and qualification documents. <br />
+Could perform design of experiment if relevant and participate to results analysis. <br />
+Provide the coding or technical elements, qualification and project archiving according to Quality Standards and company commitments. <br />
+Contribute to project meetings, including planning and follow-up. <br />
+Evaluate new technologies. <br />
+Participate in the improvement of work methods. <br />
+Could participate to patents filing. <br />
+Could perform technologies survey.</p>
+<p>KEY REQUIREMENTS <br />
+The following experiences are necessary <br />
+1.J2EE, EJB3 <br />
+2.Weblogic <br />
+3.Axis, SOAP, Web Services <br />
+4.JMX, SNMP <br />
+Good knowledge in Database design, Operating system and software architecture. <br />
+Be good at Object Oriented Analysis and Design, Design Patterns, familiar with UML <br />
+Experienced in software unit test is a required <br />
+Familiarity with Linux/Unix <br />
+Excellent written and spoken English. <br />
+Creative and inquisitive. <br />
+Autonomous and thorough. <br />
+Good communication skills with internal and external.</p>
+<p>Other Requirements(optional) <br />
+Degree in Engineering preferably in the specialization of Software, Electronic &amp; Electrical, telecommunications or methods. <br />
+Bachelor or Master.</p>
+<p>Position 3:Software Engineer(JavaEJB)&ndash; WPDS <br />
+Location:Beijing <br />
+MAIN MISSIONS <br />
+-Responsible for Server Application requirement analysis, prototyping, general design, detail design, coding and validation. <br />
+-Help to improve the quality of the Server Application: Peer review for the design and coding, help tester to enhance functional test coverage. <br />
+-Understands, efficiently executes and recommends new approaches to existing software development processes and procedures. <br />
+-Capable of effectively communicate technical knowledge and negotiate technical issues within and across worldwide teams.</p>
+<p>QUALIFICATIONS <br />
+-One of the experiences below is necessary <br />
+-J2SE, EJB 3 <br />
+-Weblogic, Oracle <br />
+-JSP, XHTML, XML, JavaScript, Ajax, Web Services <br />
+-Spring, Axis, SOAP, JMX, SNMP <br />
+-Strong ability on problem solving and analyzing <br />
+-Good team work attitude and capability <br />
+-Good oral and written English</p>
+<p><br />
+Position 4:Integration engineer (GGS) <br />
+Location:Beijing <br />
+MAIN MISSIONS <br />
+-Perform on-site Solution Deployment and Integration <br />
+-Interact with customer to push /drive the integration issues and user tests <br />
+-Perform necessary technical/user documentation such as System Integration, User Acceptance documents <br />
+-Solution deployment at customer side after project package released by development team. <br />
+-Join UAT at customer side. <br />
+-Involved in the design and development of software project, using high level languages, database design techniques, operating systems and platforms. <br />
+-Demonstrates and improves his knowledge in one area or several areas. Executes his activities according to pre-established rules and generally in a situation that involves less risk. Works on proven/ standard technology to reach a technical achievement. <br />
+-Oversee the realization of all technical documents associated with the assigned projects, including planning and test and qualification documents <br />
+-Could perform design of experiment if relevant and participate to results analysis <br />
+-Provide the technical elements, qualification and project archiving according to Quality Standards and company commitments <br />
+-Contribute to project meetings, including planning and follow-up <br />
+-Evaluate new technologies</p>
+<p>QUALIFICATIONS <br />
+-Expertise in onsite deployment, has good knowledge on different HW, OS include UNIX/Linux/Window, has experience on switch, router and firewall configuration <br />
+-Good knowledge in Database performance tuning, familiar with Oracle, with DBA certification would be preferred <br />
+-Creative and inquisitive <br />
+-Good communication with customer during the whole project phase. <br />
+-Strong Convincing under pressure <br />
+-Good written and spoken English <br />
+-Execution of deployment tasks within time and cost constraints. <br />
+-Project management and quality knowledge <br />
+-Willingness to travel for onsite deployment/integration <br />
+-Minimum 3 years&rsquo; experience in integration, contribution to the platform deployment includes 3rd party hardware and software and internal product. <br />
+positon5:project leader <br />
+MAINS MISSIONS <br />
+o Team Activities <br />
+- Build, mentor and maintain a high performance and innovative project team. <br />
+- Initiate, promote and implement best practice to improve professionalism, quality, efficiency and security.</p>
+<p>o Project Activities <br />
+- Project management (full ownership including functional scope, validation, quality&hellip;) following PLC/SLC process. <br />
+- Deliver projects (release &amp; patches) at cost, on time, to scope and to quality. <br />
+- Work closely with PM, TPM, SID, other R&amp;D teams and GGS teams to drive the project a success. <br />
+- Provide on time expertise support to internal &amp; external customers&rsquo; needs. <br />
+- Drive for realistic commitments, find the best solution to optimize these commitments and commit on them.</p>
+<p>QUALIFICATIONS <br />
+o Be polyvalent, curious and perseverant <br />
+o Be pragmatic, reactive and customer oriented <br />
+o Master Java, Shell scripts, Solaris &amp; Linux server environment, Oracle database <br />
+o Excellent English in both oral and written <br />
+o Strong leadership both on project and on people management <br />
+o Strong communication ability to both internal and external interfaces</p>
+<p>Experience <br />
+o Master degree on Computer Science or Electronics Engineering <br />
+o Minimum 5 years experience in Telecom industry <br />
+o Project manager experience <br />
+o A plus should be to familiar with Gemalto solutions and PLC/SLC process</p>
+<p>position6:Integration Engineer &ndash; Benchmark Position <br />
+Main missions <br />
+o Integrate software and prepare test environment following deployment rules <br />
+o Design tests plan (Use cases, environment, parameters) trying to be as close as possible to field conditions <br />
+o Perform benchmark test in labs environment, reviewing results with products team <br />
+o Detect and fight for solving issues <br />
+o Perform necessary tunning profiling for high performance <br />
+o Produce benchmarks report following templates</p>
+<p>Required knowledge <br />
+o UNIX System (LINUX, SOLARIS): Good in deployment/configuration and administration <br />
+o Oracle (10, 11, RAC) : Knowledge in deployment, configuration, administration and tuning <br />
+o Integration : Having experience on integration tools (JMeter, Grinder) and integration tests methodology (load, stress, robustness testing) <br />
+o Java/J2EE : Basic knowledge on Java/J2EE application and Application Containers (WebLogic, JBoss) <br />
+o English : Good level. Mail, oral communication skill is needed</p>
+<p><br />
+Experience <br />
+o Minimum 3 years experience in UNIX integration domain <br />
+o Having strong experience on UNIX and Oracle environment <br />
+o Having already deployed Java/J2EE Oracle application on UNIX system <br />
+o Have SHELL script development skills <br />
+o Nice to have experience of software benchmark/performance test <br />
+o Nice to have experience of database and Weblogic tunning profiling <br />
+Qualities <br />
+o Curious, persevering, autonomous, self-motivate <br />
+o Strong favor to testing <br />
+o Fast-learner and strong ability on problem solving and analyzing</p>
+<p><br />
+Please send your CV to:xiaochun.wang@gemalto.com <br />
+Please make the subject of your email be your name Position</p>
+<p><br />
+POSITION 7： Cinterion M2M Module Software Engineer &ndash; Device DRIVER <br />
+Location：Beijing</p>
+<p>Key Responsibilities <br />
+o Lead Software design related to the hardware functionalities <br />
+o Responsible for features definition, embedded software design, coding, unit testing, debugging <br />
+o Pro-actively interact with the rest of the development team to ensure that the design meets it functional and quality targets <br />
+o Responsible for sub-project coordination</p>
+<p>Key Requirements <br />
+o BS/MS degree in computer software engineering <br />
+o 3 years experience in embedded software development using the C language <br />
+o Previous experience working with data communications and embedded multi-threaded operating systems <br />
+o An excellent problem solver with systematic debugging skills <br />
+o Experience working on large software code bases with many developers contributing <br />
+o Able to take responsibility for complex software components and drive them through the design, development and acceptance phases <br />
+o Generate documentation which defines or describes software requirements, architecture, design, verification, and modifications <br />
+o Participate and take responsibility for all levels of software life cycle on the assigned projects <br />
+o Participate with internal teams to drive and improve methodology, processes, and tools <br />
+o Good level of English (speaking &amp; writing)</p>
+<p>Other requirements <br />
+o Familiar with ARM processor architecture and tool chains <br />
+o Familiar with embedded drivers development ( USB, UART, GPIO, I2C or audio, &hellip; ) <br />
+o Familiar with memory management systems, file systems, and memory protection algorithms <br />
+o Familiar with embedded software debugging tools such as Oscilloscope and Logic Analyzer</p>
+<p>Additional requirements (nice to have): <br />
+o Familiar with modem chipset platform <br />
+o Previous experience developing products that use Wireless protocols such as LTE, HSPA, CDMA or GPRS <br />
+o Familiar with 3GPP protocol specifications <br />
+o Familiar with GPS operation and control <br />
+o Familiar with microcontroller and RF hardware operation <br />
+o Understanding of the Object Oriented Programming / familiar with JAVA or C language</p>
+<p>&nbsp;</p>
+<p>Position: Software system test engineer</p>
+<p>Responsibilities： <br />
+Write test scripts / software for regular test case automation, and execute software system test based on test plan, submit related test report <br />
+Follow up certification test plan, align with test house to follow up certification test progress, prepare certification documents if needed <br />
+Prepare field test plan, perform related test cases, trace related log and make analysis, submit field test report <br />
+Report to Senior Validation Engineer</p>
+<p>Qualification： <br />
+BS/MS in Electrical, Telecommunication or Computer Science <br />
+At least 3 years experiences in the test domain <br />
+Familiar with GSM/GPRS/WCDMA related architecture and protocols, especially layer 2 and layer 3 <br />
+Familiar with GCF/PTCRB/CTA certification process and related technical points <br />
+Good understanding of development processes, specifically in the field of verification and validation <br />
+In-depth understanding field test process and skilled in related filed test tools <br />
+Understanding of software development and knowledge and experience in writing test scripts and software in Java, Python and C/C <br />
+Excellent trouble shooting skill and communication skill. <br />
+Good level of English (speaking &amp; writing)</p>
+<p>Other Requirements（optional） <br />
+Possess excellent problem-solving and analytical skills <br />
+Must be a team player, self-motivated, resourceful and customer-focused</p>
+<p>【校招】Gemalto(金雅拓)2013校园招聘</p>
+<p>1.Job title: Validation Engineer (M2M) <br />
+Location：Beijing</p>
+<p>Key responsibilities: <br />
+o Follow up test plan, write automation test scripts and execute test cases. Test case design, log analysis and troubleshooting. <br />
+o Report to Validation Engineer. <br />
+Key requirements: <br />
+o Bachelor or Master Degree in Telecommunication or computer software engineering <br />
+o Strong JAVA programming skill <br />
+o Good level of English (speaking &amp; writing) <br />
+o Basic understands of 3GPP and AT-command is preferred.</p>
+<p>2. Job Title: Software Developer (M2M) &ndash; device drivers（must English-resume） <br />
+Location：Beijing</p>
+<p>Key Responsibilities <br />
+o develop new features and do the corresponding bugfixing work <br />
+o write automatic tests to improve quality of deliverables <br />
+o prepare SW documentation <br />
+o build the knowledge about M2M products and market</p>
+<p><br />
+Key Requirements <br />
+o BS/MS in Telecommunication, Computer Engineering or relevant major <br />
+o good knowledge of C <br />
+o good level of English (speaking &amp; writing) <br />
+o non-commercial experience in embedded system development, ARM, mips or even PIC</p>
+<p>Good to have <br />
+o C or Java programming skill <br />
+o Please do NOT write any 精通 in any skills unless you are really expert <br />
+o Also be honest about language, FLUENT is NOT JUST OK</p>
+<p>&nbsp;</p>
+<p>3、JOB TITLE：Validation Engineer, Handset Testing Team <br />
+RESPONSIBILITY</p>
+<p>As part of the handset testing team, the validation engineer will be responsible for device characterization to analyze the compatibility of Gemalto&rsquo;s telecommunication card based solutions with evolving handsets. He/she would study new telecom features and design test plans to qualify handset behavior and propose solutions to fix the root cause of defects found.</p>
+<p>Main Objectives</p>
+<p>The main tasks related to this job are: <br />
+- Participate in the validation strategy definition <br />
+- Definition of test plan <br />
+- Execution and analysis of the tests <br />
+- Provide a status on the qualification progress <br />
+- Raise any quality issues and make recommendations <br />
+- Propose improvement of existing process to increase test capability and productivity</p>
+<p><br />
+QUALIFICATIONS/SKILLS <br />
+Education <br />
+o Engineering Degree with major in Telecommunication or Computer Science</p>
+<p>Technical Skills <br />
+o Knowledge of SIM card specifications like Javacard, STK, BIP and GP <br />
+o Interest in telecom technology, especially device behavior and their interface with SIM cards and network <br />
+o Knowledge of software development language and tools: Java, C, C , .NET <br />
+o Knowledge of validation methodology</p>
+<p>Languages <br />
+o English: Fluent</p>
+<p>Personal Skills <br />
+o Good communication skills <br />
+o Good analytical skills, autonomous &amp; thorough</p>
+<p><br />
+Please send your CV to:Mengmeng.Yan@gemalto.com <br />
+Please make the topic of your email be &ldquo;your name Position 校招/社招&rdquo; <br />
+&nbsp;</p>					</div>
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<p ><a href="http://wenda60.com" target="_blank" style="font-size:14px; color:#2B68E9">>>练练该公司的招聘笔试题 </a><script type="text/javascript"><!--
+google_ad_client = "ca-pub-9486753476951928";
+/* 底部广告 */
+google_ad_slot = "1009061790";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p> 					
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<div>
+						<div class="floatleft">
+                        <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_b" style="line-height: 12px;"><img src="http://bdimg.share.baidu.com/static/images/type-button-1.jpg" />
+                                <a class="shareCount"></a>
+                           
+						  </div>
+                        <script type="text/javascript" id="bdshare_js" data="type=button" ></script>
+                        <script type="text/javascript" id="bdshell_js"></script>
+                        <script type="text/javascript">
+                            document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+                        </script>
+                        <!-- Baidu Button END -->
+						</div>
+						<div class="button_job_or floatleft">
+							<!--<div class="button_right"><a href="javascript:;" onclick="collect(2, 273427);" class="icon_jobbutton_sc white">我要收藏</a></div>-->
+				  </div>
+                            <div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+						<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn" class="icon_jobbutton_p">举报错误信息</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+						<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn">信息修改/删除</a></div>
+						</div>
+						<div class="clear"></div>
+			  </div>
+		  </div>
+				<div class="spacer"></div>
+				<div class="spacer">
+</div>
+<!--
+				<div class="grayline"></div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="pdlr">
+					<div>
+						<span class="floatleft font14  b">同行业的职位</span>
+						<span class="floatright pdlr"></span>
+					</div>
+					<div class="clear spacer"></div>
+					<ul class="ul_bluedisc underline">
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277293.html" class="blue" title="高薪诚聘销售精英" target="_blank">高薪诚聘销售精英</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277084.html" class="blue" title="网络兼职" target="_blank">网络兼职</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277049.html" class="blue" title="行政助理兼前台" target="_blank">行政助理兼前台</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277038.html" class="blue" title="肇庆市华盈信息科技有限公司招聘网站编辑（网页设计）" target="_blank">肇庆市华盈信息科技有限公司招聘网站编辑（网页设计）</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276955.html" class="blue" title="医生管理" target="_blank">医生管理</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276954.html" class="blue" title="医学编辑/医药编辑" target="_blank">医学编辑/医药编辑</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276953.html" class="blue" title="销售代表" target="_blank">销售代表</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276952.html" class="blue" title="平面设计师" target="_blank">平面设计师</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276951.html" class="blue" title="儿童插画师" target="_blank">儿童插画师</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276648.html" class="blue" title="向自由想象致敬，小米2013春季校招（全职&实习）霸气启动！" target="_blank">向自由想象致敬，小米2013春季校招（全职&实习）霸气</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											
+					</ul>
+				</div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="grayline"></div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+								<div class="pdlr">
+					<div>
+						<span class="floatleft font14  b">相同公司职位</span>
+						<span class="floatright pdlr"></span>
+					</div>
+					<div class="clear spacer"></div>
+					<ul class="ul_bluedisc underline">
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_275724.html" class="blue" title="Gemalto招聘人力资源实习生" target="_blank">Gemalto招聘人力资源实习生</a></div>
+							<span class="floatright gray pdlr">05-07</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_273427.html" class="blue" title="Gemalto(金雅拓)WPDS招聘（多职位）" target="_blank">Gemalto(金雅拓)WPDS招聘（多职位）</a></div>
+							<span class="floatright gray pdlr">04-08</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_271488.html" class="blue" title="[北京]gemalto招聘HR Trainee Intern" target="_blank">[北京]gemalto招聘HR Trainee Intern</a></div>
+							<span class="floatright gray pdlr">05-19</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_271413.html" class="blue" title="gemalto招聘HR Trainee Intern" target="_blank">gemalto招聘HR Trainee Intern</a></div>
+							<span class="floatright gray pdlr">05-18</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_269414.html" class="blue" title="金雅拓公司招聘Customer Service Support - Intern" target="_blank">金雅拓公司招聘Customer Service Support - Intern</a></div>
+							<span class="floatright gray pdlr">04-19</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_268654.html" class="blue" title="金雅拓Gemalto招聘Cinterion M2M SW team - device drive" target="_blank">金雅拓Gemalto招聘Cinterion M2M SW team - device dr</a></div>
+							<span class="floatright gray pdlr">03-22</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_266348.html" class="blue" title="gemalto招聘Customer Service Support Intern" target="_blank">gemalto招聘Customer Service Support Intern</a></div>
+							<span class="floatright gray pdlr">03-15</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_264546.html" class="blue" title="Gemalto HR intern" target="_blank">Gemalto HR intern</a></div>
+							<span class="floatright gray pdlr">03-06</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_264329.html" class="blue" title="金雅拓Gemalto招聘Cinterion M2M SW team - device drive" target="_blank">金雅拓Gemalto招聘Cinterion M2M SW team - device dr</a></div>
+							<span class="floatright gray pdlr">03-05</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_264328.html" class="blue" title="法国金雅拓公司（Gemalto）招HR实习生" target="_blank">法国金雅拓公司（Gemalto）招HR实习生</a></div>
+							<span class="floatright gray pdlr">03-05</span>
+							<div class="clear"></div>
+						</li>
+											
+					</ul>
+				</div>
+							</div>
+			<div class="clear spacer"></div>
+			<div class="spacer"></div>
+			<div class="spacer"></div>
+-->
+			<div class="spacer"></div>
+		</div>
+        
+		<div class="clear"></div>
+	</div>
+    
+    <div id="rightcolumn" class="floatleft">
+            <div class="rightcolumn" style="padding:0px;">
+                <div>
+			 <script type="text/javascript"><!--
+            google_ad_client = "ca-pub-9486753476951928";
+            /* 职位广告 */
+            google_ad_slot = "3598731756";
+            google_ad_width = 200;
+            google_ad_height = 200;
+            //-->
+            </script>
+            <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+				
+				    <div class="rightcolumn_title font14 b deepblack">该公司最新招聘信息</div>
+                    <div class="rightcolumn_title font14 b deepblack"><a href="/company/cid-813.html ">点击查看全部</a></div>
+					<div class="spacer"></div>
+					<ul class="ul_bluedisc right_ul_bluedisc underline">
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_275724.html" class="blue">Gemalto招聘人力资源实习生</a></div>
+						<span class="pdlr4 floatright">05-07</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_273427.html" class="blue">Gemalto(金雅拓)WPDS招聘（多职位）</a></div>
+						<span class="pdlr4 floatright">04-08</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_271488.html" class="blue">[北京]gemalto招聘HR Trainee Intern</a></div>
+						<span class="pdlr4 floatright">03-19</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_271413.html" class="blue">gemalto招聘HR Trainee Intern</a></div>
+						<span class="pdlr4 floatright">03-18</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_269414.html" class="blue">金雅拓公司招聘Customer Service Support - Intern</a></div>
+						<span class="pdlr4 floatright">02-19</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_268654.html" class="blue">金雅拓Gemalto招聘Cinterion M2M SW team - device drive</a></div>
+						<span class="pdlr4 floatright">01-22</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_266348.html" class="blue">gemalto招聘Customer Service Support Intern</a></div>
+						<span class="pdlr4 floatright">01-11</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_264546.html" class="blue">Gemalto HR intern</a></div>
+						<span class="pdlr4 floatright">01-06</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_264329.html" class="blue">金雅拓Gemalto招聘Cinterion M2M SW team - device drive</a></div>
+						<span class="pdlr4 floatright">01-05</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_264328.html" class="blue">法国金雅拓公司（Gemalto）招HR实习生</a></div>
+						<span class="pdlr4 floatright">01-05</span>
+						<div class="clear"></div>
+						</li>							
+										</ul>
+				</div>
+		   </div>
+           <div class="rightcolumn" style="padding:0px;">
+                <div>
+				
+				    <div class="rightcolumn_title font14 b deepblack">同行业最新招聘信息</div>
+                    
+					<div class="spacer"></div>
+					<ul class="ul_bluedisc right_ul_bluedisc underline">
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277293.html" class="blue" title="高薪诚聘销售精英" target="_blank">高薪诚聘销售精英</a></div>
+							<span class="floatright gray pdlr">05-22</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277084.html" class="blue" title="网络兼职" target="_blank">网络兼职</a></div>
+							<span class="floatright gray pdlr">05-20</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277049.html" class="blue" title="行政助理兼前台" target="_blank">行政助理兼前台</a></div>
+							<span class="floatright gray pdlr">05-20</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277038.html" class="blue" title="肇庆市华盈信息科技有限公司招聘网站编辑（网页设计）" target="_blank">肇庆市华盈信息科技有限公司招聘网站编辑（网页设计）</a></div>
+							<span class="floatright gray pdlr">05-18</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276955.html" class="blue" title="医生管理" target="_blank">医生管理</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276954.html" class="blue" title="医学编辑/医药编辑" target="_blank">医学编辑/医药编辑</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276953.html" class="blue" title="销售代表" target="_blank">销售代表</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276952.html" class="blue" title="平面设计师" target="_blank">平面设计师</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276951.html" class="blue" title="儿童插画师" target="_blank">儿童插画师</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276648.html" class="blue" title="向自由想象致敬，小米2013春季校招（全职&实习）霸气启动！" target="_blank">向自由想象致敬，小米2013春季校招（全职&实习）霸气</a></div>
+							<span class="floatright gray pdlr">05-14</span>
+							<div class="clear"></div>
+						</li>							
+										</ul>
+				</div>
+		   </div>
+           <div class="rightcolumn">
+				<div class="spacer"></div>
+	
+								
+		   </div>
+		   <div class="spacer"></div>
+				
+    </div>
+</div>
+<iframe id="collection" name="collection" style="width:0px;height:0px;"></iframe>
+<div id="foot">
+	<div class="footbody">
+		<div class="foot_top aligncenter white"> <a href="http://www.hiall.com.cn/" class="white">HiAll校园招聘</a> <span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/" class="white">HiAll论坛</a> 
+
+<span class="pdlr4">|</span> <a href="http://wenda.hiall.com.cn/" class="white">HiAll一问一答</a>
+
+<span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/forum-744-1.html" class="white">校园招聘求职大礼包</a> <span class="pdlr4">|</span> <a href="http://hr.hiall.com.cn/" class="white">加入HiAll</a>
+<span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/thread-150495-1-1.html" class="white">广告合作</a> <span class="pdlr4">|</span> <a href="/info/about.php" class="white">关于我们</a> <span class="pdlr4">|</span> <a href="/info/sitemap.php" class="white">网站地图</a></div>		<div class="foot_mid aligncenter white"> 网站相关问题请联系：010-82601802 || 企业服务请联系：010-82600684</div>
+		<div class="foot_bot aligncenter white">Copyright HiAll
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP备10021013号
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP证090110号
+			<span class="pdlr"></span><span class="pdlr"></span>京公网安备11010802010560号
+		</div>
+	</div>
+</div>
+<!-- Baidu Analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F56dda118cbb3220435957635a699495b' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- Baidu Analytics -->
+</body>
+</html>
+

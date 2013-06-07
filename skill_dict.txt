@@ -11,6 +11,7 @@ absys
 accent
 acceptance
 access
+access linux
 action code script
 actionscript
 activex
@@ -22,11 +23,14 @@ air
 aix
 ajax
 alan
+alcs
 aleph
 algol
 alpha测试
 amigae
 amiga rexx
+andriod
+android
 anjuta
 ant
 apache
@@ -38,6 +42,7 @@ apache xml
 apl
 apl/j
 apple darwin
+apple dos
 applescript
 applet
 appletalk
@@ -58,8 +63,10 @@ autohotkey
 autoit
 autolisp
 automatic summarization
+a/ux
 awk
 axis2
+bada
 barrier
 bash
 basica
@@ -69,12 +76,14 @@ bcpl
 beanshell
 beehive
 befunge
+beos
 beta
 beta测试
 bgp
 bigtable
 bigwig
 bistro
+blackberry os
 blas
 blender
 bliss
@@ -85,6 +94,7 @@ borland c++
 bourne-again shell
 bourne shell
 brainfuck
+brew
 brouter
 c
 c#
@@ -104,6 +114,7 @@ cgi
 ch
 chill
 chinese word segmentation
+chrome os
 cilk
 cineme 4d
 clarion
@@ -148,7 +159,9 @@ db
 dbase
 dccp
 dcl
+debian
 decnet
+deepin
 delphi
 delphi语言
 deltacloud
@@ -164,7 +177,10 @@ directory
 dmdscript
 dna序列测序
 dns
+doja
 dos
+dos/vse
+dragonfly bsd
 drbd
 dtd
 dtm
@@ -178,6 +194,7 @@ elastic
 elf
 emacs
 emacs lisp
+embedded language
 emule
 erlang
 escapade
@@ -197,6 +214,7 @@ filemaker
 flame
 flash
 flex
+flyme os
 forrest
 forth
 fortran
@@ -274,6 +292,7 @@ ieee-488
 ieee 802.11
 ieee 802.16
 igmp
+illustrator
 imap4
 incubator
 inform
@@ -285,6 +304,7 @@ interface description language
 io
 ios操作系统核心
 ip
+iphone os
 ipsec
 iptscrae
 ipv4
@@ -300,6 +320,9 @@ isdn
 is-is
 j#
 j＃
+j2ee
+j2me
+j2se
 jackrabbit
 jade
 jakarta
@@ -311,15 +334,12 @@ java card
 java community process
 java desktop system  java
 java ee
-j2ee
 javafx
 java me
-j2me
 javaone
 java rmi
 javascript
 java se
-j2se
 javastation
 java virtual machine
 java平台
@@ -330,7 +350,6 @@ jazelle
 jboss
 jcl
 jdk
-openjdk
 jes
 jess
 jnlp
@@ -353,6 +372,7 @@ krita
 krypton
 ksh
 kvikkalkul
+kylin
 l2tp
 labs
 labview
@@ -367,8 +387,10 @@ leveldb
 libreoffice
 lightwave
 limbo
+limo
 lingo
 linux
+linux mint
 lisp
 llvm
 logging
@@ -385,6 +407,7 @@ machine translation
 mac os
 mac os x
 mad
+maemo
 maple
 mariadb
 mary
@@ -392,13 +415,14 @@ mathematica
 mathml
 matlab
 matlab embedded language
-embedded language
 maven
 max
 maya
 maya embedded language
+meego
 mercury
 mesa
+mft
 microcode
 microsoft access
 microsoft office
@@ -410,6 +434,8 @@ mirc script
 miva
 ml
 mmix
+mobilinux
+moblin
 mod_perl
 modula
 modula-2
@@ -417,17 +443,21 @@ mondrian
 monodevelop
 moo
 moto
+motomagx
 mozilla firefox
 ms-dos
 msw logo
 multiphysics
 mumps
+mvs
+mvt
 myfaces
 myrinet
 mysql
 natural language generation
 .net
 netbeans
+netbsd
 .net框架平台语言
 newlisp
 nial
@@ -451,6 +481,8 @@ octave
 office
 open64
 openbsd
+openjdk
+openmoko
 openmp
 opennebula
 openoffice
@@ -461,20 +493,29 @@ oracle
 oracle database数据库
 oracle open office
 os/2
+os/360
+os/390
+os/400
 ospf
+os x
 oz
 p2p文件交换软件
 painter
 paint.net
+palm os
 parabon computation
 parsing
 part-of-speech tagging
 pascal
+pc-bsd
+pc-dos
 pelles c
 perl
+photoshop
 php
 pike
 pilot
+pink os
 plc
 pl/i
 pliant
@@ -498,15 +539,18 @@ ppt
 pptp
 pram模型
 processing
+prodos
 project blackbox
 prolog
 protégé
 proteus
 psgi
+psp
 python
 qbasic
 qdevelop
 qt creator
+qt extended
 quakec
 quake c
 quartz
@@ -520,6 +564,7 @@ ratfor
 rbscript
 realbasic
 rebol
+red hat
 report
 rexx
 rhino
@@ -539,6 +584,7 @@ sac
 santuario
 sas
 sather
+savaje
 scala
 schema
 scheme
@@ -603,6 +649,7 @@ ssdp
 ssh
 standard ml
 star logo
+startos->ylmf os
 steptalk
 stp
 struts
@@ -613,12 +660,15 @@ sun enterprise
 sun fire
 sun grid
 sun grid engine
+sun os
 sun ray
 sun studio
 sun ultra series
 supercard
 svg
+svs
 sybase
+symbian os
 systemc
 systemverilog
 tads
@@ -647,6 +697,7 @@ tls/ssl
 tom
 tomcat
 toplink
+tpf
 tpu
 trac
 tru64
@@ -660,6 +711,7 @@ turbo c++ professional
 turing
 typescript
 ubuntu
+ubuntu mobile
 udp
 ultrasparc t1
 ultrasparc t2
@@ -696,9 +748,13 @@ visual dialogscript
 visual foxpro
 visual studio
 visual studio express
+vm/cms
 vmware
 vrml
+vse/esa
+vse/sp
 water
+webos
 web services
 web start
 whitespace
@@ -707,11 +763,15 @@ wimax
 winbatch
 windows
 windows nt
+windows phone
+windows phone 7
+windows phone 8
 windows powershell
 windows script host
 windows图形界面
 wirth
 word
+wp7
 wps office
 wsgi
 wxdev-c++
@@ -739,6 +799,7 @@ yafl
 yorick
 zigbee
 zope
+z/os
 z-script
 zzt-oop
 阿帕奇
@@ -926,6 +987,7 @@ zzt-oop
 平面模型
 普适计算
 瀑布模型
+麒麟操作系统
 启发式搜索
 纤程
 桥接路由器
@@ -971,6 +1033,7 @@ zzt-oop
 数据仓库
 数据访问协议
 数据级并行
+数据结构
 数据结构的算法
 数据聚类
 数据可视化
@@ -995,9 +1058,8 @@ zzt-oop
 双绞线
 搜索
 搜索引擎
-算法分析
 算法
-数据结构
+算法分析
 算法设计
 随机化算法
 拓扑
@@ -1125,5 +1187,8 @@ zzt-oop
 最小树形图
 最优化
 罪行绘图
-photoshop
-illustrator
+reporting service
+reporting
+水晶报表
+报表
+财务软件

@@ -1,0 +1,1159 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<title>恩派（NPI）2012招聘 -全职推荐</title>
+<head>
+<meta property="qc:admins" content="35413136776011446375636" />
+<meta http-equiv="keywords" content="2013校园招聘,HiAll,招聘,校园招聘,全职职位,实习职位,大学生求职,应届生求职"/>
+<meta http-equiv="description" content="HiAll，为应届毕业生或在校生提供最新、最全、最可靠的全职、实习招聘信息、宣讲会信息与各种求职资讯与资料，成为联动学生与雇主的纽带，覆盖北京、上海、广州、海外等地区。" />
+<meta name="generator" content="HiAll2.0" />
+<meta name="author" content="HiAll" />
+<meta name="copyright" content="2004-2012 HiAll." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<script src="http://file.hiall.com.cn/newhiall/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/jquery.validate.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/utils.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/u1.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frame/page.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/main.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frontpage/frontpage.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/manage.css" />
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2560481-2']);
+  _gaq.push(['_setDomainName', '.hiall.com.cn']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Google Analytics -->
+</head>
+<body>
+<div id="head">
+	<div id="headbody">
+		<div class="top">
+			<a href="/" class="head_logo floatleft"></a>
+			<div class="mid floatleft">
+			<form method="post" action="/search/infos.php">
+				<input type="text" class="head_search_input gray floatleft" maxlength="10" value="职位信息 如：管理培训生" id="searchkey" name="searchkey" onclick="if(this.value == '职位信息 如：管理培训生') this.value='';" onblur="if(this.value=='') this.value='职位信息 如：管理培训生';"/>
+				<div class="head_search_select gray pointer floatleft">
+					<div class="floatleft">
+						<div class="absolute">
+							<div class="relative head_search_select_optionbox" style="display:none; z-index:10;">
+								<ul class="head_search_select_option" id="choosecity-list">
+																<li id="r0">全部</li>
+																<li id="r1">北京</li>
+																<li id="r2">上海</li>
+																<li id="r40">广州</li>
+																<li id="r41">深圳</li>
+															</ul>
+							</div>
+						</div>
+					</div>
+					<span id="choosecity">全部</span>
+				</div>
+				<input type="hidden" name="regionid" id="regionid" value="0">
+				<input type="hidden" name="op" id="op" value="headersearch">
+				<input  type="button" class="button_head_search pointer floatleft" onclick="javascript:headerSearch(this);" />
+			</div>
+			</form>
+			<div class="right floatright">
+				<div class="head_greenicon_box floatleft">
+											<p><span class="white">个人用户</span></p>
+						<p><a href="/collect/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="http://bbs.hiall.com.cn/register_hiall.php" class="white">注册</a></p>		
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="head_blueicon_box floatleft">
+										<p><a class="white">企业用户</a></p>
+					<p><a href="/users/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="/users/register.php" class="white">注册</a></p>
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="vspacer floatleft"></div>
+				<div class="floatleft">
+					<p><a href="/info/about.php#t2" class="white">查看企业</p><p>服务项目</a></p>
+				</div>
+				<div class="vspacer floatleft"></div>
+			</div>
+		</div>
+		<div class="clear"></div>
+		<div class="bottom">
+
+<!--<div style="position:relative;">-->
+<ul class="head_nav floatleft">
+	<li hidefocus="true" ><a href="/" hidefocus="true">首页</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://bbs.hiall.com.cn" target="_blank" hidefocus="true">BBS</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true"  class="active"><a href="/info/" hidefocus="true">全职推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/part.php" hidefocus="true">实习推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/" hidefocus="true" target="_blank">宣讲会</a></li>
+	<li hidefocus="true" class="fg"></li>
+
+    <!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/calendar/" hidefocus="true" target="_blank">2012校招日程</a></li>-->
+	<li hidefocus="true" ><a href="/info/special.php" hidefocus="true">专业招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/company/" hidefocus="true">名企招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/expire.php" hidefocus="true">申请截止</a></li>
+	<li hidefocus="true" class="fg"></li>
+    <li hidefocus="true"  style='padding-left:0px;'><a href="http://bbs.hiall.com.cn/forum-1054-1.html" hidefocus="true" target="_blank" >2013名企求职礼包</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://wenda.hiall.com.cn/" hidefocus="true" target="_blank">HiAll一问一答</a></li>
+		<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://maker.wenda60.com/" hidefocus="true" target="_blank" style="color:red" class="menu_red">KnewMaker</a></li>
+	<!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/2011/" hidefocus="true" target="_blank" class="menu_red">KnewMaker</a></li>-->
+	<!--<li hidefocus="true" ><a href="http://edu.hiall.com.cn/" hidefocus="true" target="_blank">求职指导</a></li>-->
+	<!--<li hidefocus="true" ><a href="http://miaosha.hiall.com.cn/" hidefocus="true" target="_blank">职业秒杀</a></li>
+	<li hidefocus="true" class="fg"></li>-->
+	<!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/yinhang/" hidefocus="true" target="_blank" style="color:red">2012银行校园招聘</a></li>-->
+</ul>
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>
+<div id="loginfloat" style="background:red;psotion:absolute;display:none;">
+	<div class="fav_topbox floatleft">
+		<p class="h22"><span class="or b">登录后可以个性化你的收藏哦！</span><span class="gray">（用HiAll bbs账号直接登录）</span><span class="gray"><a href="javascript:;" onclick="closeCollect();">关闭</a></span></p>
+		<div class="spacer"></div>
+		<form method="post" accept-charset="GB2312" name="login" id="loginform1" class="gateform" action="http://bbs.hiall.com.cn/logging.php?action=login&amp;loginsubmit=yes">
+		<input type="hidden" name="formhash" value="e9f7b113" />
+		<input type="hidden" name="referer" id="referer" value="http://www.hiall.com.cn/collect/index.php" />
+		<div>
+			<p class="h22"><span>用户名：</span><span><input type="text" class="required normalinput grayborder" size="14" name="username" id="username1" title="用户名称不能为空！" /></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/register_hiall.php" class="gray underline">新用户注册</a></span><h3 id="returnmessage"></h3></p>
+			<div class="spacer"></div>
+			<p class="h22"><span>密&nbsp;&nbsp;码：</span><span><input type="password" class="required normalinput grayborder" size="14"  id="password4" name="password" title="密码不能为空！"/></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/logging.php?action=login" class="gray underline">忘记密码?</a></span></p>
+			<div class="spacer"></div>
+			<p class="fav_login_button h22"><input type="button" onclick="return ajaxpost('username1', 'password4', 'loginform1', 'returnmessage', 'returnmessage', 'onerror');" value="登  录"  class="button_or_2c white"/><span class="pdlr4"></span><a href="http://bbs.hiall.com.cn/register_hiall.php"><button class="button_or_5c white">新用户注册</button></a></p>
+		</div>
+		</form>
+	</div>
+</div>
+<div id="body">
+	<p class="h22 txtindent1 gray">当前位置：<a href='/'>首页</a> &gt; <a href='/info/'>全职推荐</a> &gt; 恩派（NPI）2012招聘 </p>
+	<!--<div class="bigbg reborder">-->
+    <div class="bigbg reborder" style="overflow:auto; _height:1%;">
+		<div id="leftcolumn" class="floatleft">
+            <div class="leftcolumn">
+				<p class="leftcolumn_title font14 b deepblack">行业分类</p>
+<ul class="left_nav">
+		<li><a href="/info/?businesses=1" >计算机•互联网•通信</a></li>
+		<li><a href="/info/?businesses=2" >电器•电子•家电</a></li>
+		<li><a href="/info/?businesses=3" >金融•投资•证券</a></li>
+		<li><a href="/info/?businesses=4" >咨询•财会•法律</a></li>
+		<li><a href="/info/?businesses=5" >贸易•消费•进出口</a></li>
+		<li><a href="/info/?businesses=6" >制药•生物•医疗</a></li>
+		<li><a href="/info/?businesses=7" >工业制造•能源•原材料</a></li>
+		<li><a href="/info/?businesses=8" >房地产•建筑•工程建设</a></li>
+		<li><a href="/info/?businesses=9" >广告•会展•公关</a></li>
+		<li><a href="/info/?businesses=10" >物流•仓储•运输</a></li>
+		<li><a href="/info/?businesses=11" >教育•培训•科研•院校</a></li>
+		<li><a href="/info/?businesses=12" >政府•公共事业•非盈利机构</a></li>
+		<li><a href="/info/?businesses=13" >服务业</a></li>
+		<li><a href="/info/?businesses=14" >农林牧渔•环保</a></li>
+		<li><a href="/info/?businesses=15" >跨领域经营 </a></li>
+		<li><a href="/info/?businesses=16" >其他</a></li>
+		<li><a href="/info/?businesses=17" >机械•自动化•仪器仪表行•重工业</a></li>
+		<li><a href="/info/?businesses=18" >汽车•摩托车行业 </a></li>
+		<li><a href="/info/?businesses=19" >旅游•酒店•餐饮服务</a></li>
+		<li><a href="/info/?businesses=20" >物业管理•商业中心</a></li>
+		<li><a href="/info/?businesses=21" >快速消费品(食品•饮料•日化•烟酒等)</a></li>
+		<li><a href="/info/?businesses=22" >家居•室内设计•装潢</a></li>
+		<li><a href="/info/?businesses=23" >石油•化工•采掘•冶炼</a></li>
+		<li><a href="/info/?businesses=24" >耐用消费品(服饰•纺织•家具）</a></li>
+		<li><a href="/info/?businesses=25" >媒体•文化传播•出版•影视</a></li>
+		<li><a href="/info/?businesses=26" >芯片•电子技术•半导体</a></li>
+		<li><a href="/info/?businesses=27" >批发•零售</a></li>
+	</ul>
+
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<p class="leftcolumn_title font14 b deepblack">热门公司推荐</p>
+<ul class="left_topcompany">
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1033-1.html">中国石化集团公司</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-212-1.html">中金(CICC)</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-183-1.html">英特尔（intel）</a></h1></li>
+	<li><h1><a href="http://www.hiall.com.cn/bbs/forum-188-1.html">联合利华Unilever</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-249-1.html">箭牌中国</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1241-1.html">完美时空</a></h1></li>
+</ul>			</div>
+			
+			
+		</div>
+		<div id="midcolumn" class="floatleft">
+			<div class="topnews">	
+	<div class="left floatleft lightblue">站内新闻</div>
+	<div class="right floatleft ">
+		<div class="floatleft">
+			<div class="absolute zindex200">
+				<a href="javascript:preMsg();" class="icon_arrow_blue_up relative floatleft" id="icon_arrow_blue_up"></a>
+			</div>
+		</div>
+		<div class="floatright">
+			<div class="absolute zindex200">
+				<a href="javascript:nextMsg();" class="icon_arrow_blue_down relative floatleft" id="icon_arrow_blue_down"></a>
+			</div>
+		</div>
+		<ul class="topnews_list" id="topnews_list" style="top:0px;">
+		<li id="msg_show"><a href="" target="_blank" class="lightgray">【KnewMaker推荐】加入“创客”一族，感受电子DIY的魅力</a></li>					
+		</ul>
+		<ul style="display:none;">
+					<li id="msg_0"><a href="" target="_blank" class="lightgray">【KnewMaker推荐】加入“创客”一族，感受电子DIY的魅力</a></li>			
+				</ul>
+		<input type="hidden" id="msg_count" value="1" />
+	</div>
+	<div class="clear"></div>
+</div>
+			<div class="clear spacer"></div>
+<div style="margin:5px 0px 0px 25px;">
+
+<script type="text/javascript"> var cpro_id = 'u249066'; </script>
+<script type="text/javascript" src="http://cpro.baidu.com/cpro/ui/c.js"></script>
+</div>
+			<div class="jobbox">
+				<div class="spacer"></div>
+				<div class="job_maininfo">
+					<h1 class="b font14">
+											恩派NPI  
+						</h1>
+					<h1>所属行业：其他</h1>
+					<div class="spacer"></div>
+                    <div>
+                       	<div class="button_job floatleft">
+							<div class="button_right"><a href="/company/cid-37032.html" class="icon_jobbutton_ck blue">查看公司详情</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+																		<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn">信息修改/删除</a></div>
+						</div>
+                        <div class="clear"></div>
+                            
+                    </div>
+                    <div class="spacer"></div>
+                    <div class="spacer"></div>
+                    <div>
+                        <div class="floatleft">
+                        <!-- Baidu Button BEGIN -->
+                        <div id="bdshare" class="bdshare_b" style="line-height: 12px;"><img src="http://bdimg.share.baidu.com/static/images/type-button-1.jpg" />
+                            <a class="shareCount"></a>
+                        </div>
+                        <script type="text/javascript" id="bdshare_js" data="type=button" ></script>
+                        <script type="text/javascript" id="bdshell_js"></script>
+                        <script type="text/javascript">
+                            document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+                        </script>
+                        <!-- Baidu Button END -->
+                        </div>
+                    </div>
+                    				</div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<p>
+								</p>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="job_detail">
+					<h1 class="positiontitle">恩派（NPI）2012招聘 </h1>
+					<div class="spacer"></div>
+					<div class="spacer4"></div>
+						<p>
+该职位已发布超过<span class="pdlr or">617</span>天
+
+						<span class="pdlr"></span><span>编号：164151</span>
+						<span class="pdlr"></span></p>
+					<div class="spacer"></div>
+					<p>						
+						<span>工作地区：北京/上海/四川/深圳</span>
+						<span class="pdlr"></span>
+						<span>更新时间：2011-11-19</span>
+					</p>
+<div style="border-top:1px solid #C3DBE8; margin-top: 8px;"></div>
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<div style="overflow:auto;">
+						<p>恩派（NPI）是在政府主管部门、国内外资助型机构、企业界、学界等关键&ldquo;拥护群&rdquo;的支持下发展起来的一个公益支持性组织集合体。从注册第一个机构&mdash;&mdash;上海浦东非营利组织发展中心开始，我们就以&ldquo;助力社会创新，培育公益人才&rdquo;为己任，旨在为初创期和中小型民间公益组织提供切实的支持。</p>
+<p>&nbsp;</p>
+<p>2006年，首创&ldquo;公益孵化器&rdquo;概念，目前在上海、北京、成都、深圳等地成功运行&ldquo;公益孵化器&rdquo;，为初创期的NPO提供支持；2007年，开发公益组织&ldquo;社区服务平台&rdquo;业务模式，于上海、四川等地20多个城乡社区中心建立&ldquo;社区服务平台&rdquo;，帮助服务型NPO进入社区；从2007年起，引入并不断实践的&ldquo;公益创投&rdquo;公益投入方式，先后与企业、基金会、政府合作项目，托管的公益创投资金已超过5,000万，资助的公益项目近300个；2009年，发起成立&ldquo;上海公益事业发展基金会&rdquo;，探索新型的联合劝募和公益资助模式，整合更多社会资源服务于新兴公益组织的成长需要；2010年，设计并承担运营的上海社会创新孵化园正式开园，建立综合性社会创新创意园区的创想正在付诸实施；设计并承办的&ldquo;公益项目交流展示会&rdquo;分别于2009年和2011年在北京和深圳成功举办，该活动已成为业内规模最大的公益资源匹配和公益项目展示平台。</p>
+<p>&nbsp;</p>
+<p>如今，恩派（NPI）旗下各业务单元已形成了以&ldquo;注册独立、品牌共享、资源整合、业务互补&rdquo;为特征的联合舰队型管理格局。它将在公益支持性领域不断推陈出新的同时，对已有公益产品深耕细作，精益求精，为建立和完善中国公益的基础设施而不懈努力。</p>
+<p>&nbsp;</p>
+<p>更多信息详见机构网站：http://www.npi.org.cn/</p>
+<p>&nbsp;</p>
+<p>如您对如下职位感兴趣，请将您的简历发送至电子信箱并注明您所申请的职位：hr@npi.org.cn 徐小姐收</p>
+<p>&nbsp;</p>
+<p>招聘职位：恩派 （NPI）总部 财务总监</p>
+<p>&nbsp;</p>
+<p>工作地点：上海</p>
+<p>&nbsp;</p>
+<p>岗位职责：</p>
+<p>&nbsp;</p>
+<p>1. 根据相关财务制度和财经法规，结合机构实际情况，制定完善适用的财务管理制度。</p>
+<p>&nbsp;</p>
+<p>2. 围绕机构的发展规划和工作计划，负责编制机构财务计划和费用预算，有效地筹划和运用机构资金。</p>
+<p>&nbsp;</p>
+<p>3. 做好机构各项资金的收取与支出管理。</p>
+<p>&nbsp;</p>
+<p>4. 定期汇总机构的财务运作情况，提出合理化建议，为机构发展决策提供参考依据。</p>
+<p>&nbsp;</p>
+<p>5. 定期检查财务计划、费用预算执行情况，监督各部门的财务活动，分析存在问题，查明原因，及时解决。</p>
+<p>&nbsp;</p>
+<p>6. 负责财务人员的业务培训和考核监督工作。</p>
+<p>&nbsp;</p>
+<p>岗位要求：</p>
+<p>&nbsp;</p>
+<p>1. 大学本科及以上学历，具有五年以上相关工作经验；</p>
+<p>&nbsp;</p>
+<p>2. 谙熟财务、会计知识，了解民办非企业单位的财务制度；</p>
+<p>&nbsp;</p>
+<p>3. 具有良好的财务分析能力、组织与协调能力；</p>
+<p>&nbsp;</p>
+<p>4. 具有良好的沟通、协调和学习能力；</p>
+<p>&nbsp;</p>
+<p>5. 具有团队意识，善于发掘和利用资源；</p>
+<p>&nbsp;</p>
+<p>6. 能承担较大工作压力，有团队管理经验者优先考虑；</p>
+<p>&nbsp;</p>
+<p>招聘职位：恩派 （NPI）总部 财务经理</p>
+<p>&nbsp;</p>
+<p>工作地点：上海</p>
+<p>&nbsp;</p>
+<p>岗位职责：</p>
+<p>&nbsp;</p>
+<p>1. 做好机构各项资金的收取与支出管理；</p>
+<p>&nbsp;</p>
+<p>2. 做好财务统计和会计账目、报表及年终结算工作，并妥善保管会计凭证，账簿、报表和其他档案资料；</p>
+<p>&nbsp;</p>
+<p>3. 制作向机构领导及各项目资助方提供财务报告；</p>
+<p>&nbsp;</p>
+<p>4. 协助负责编制机构财务计划和费用预算，有效地筹划和运用机构资金；</p>
+<p>&nbsp;</p>
+<p>5. 定期汇总机构的财务运作情况，提出合理化建议，为机构发展决策提供参考依据；</p>
+<p>&nbsp;</p>
+<p>6. 统一管理机构各种票据和账目；</p>
+<p>&nbsp;</p>
+<p>岗位要求：</p>
+<p>&nbsp;</p>
+<p>1. 大学本科及以上学历，具有三年以上相关工作经验；</p>
+<p>&nbsp;</p>
+<p>2. 谙熟财务、会计知识，了解民办非企业单位的财务制度；</p>
+<p>&nbsp;</p>
+<p>3. 具有良好的财务分析能力、组织与协调能力；</p>
+<p>&nbsp;</p>
+<p>4. 具有良好的沟通、协调和学习能力；</p>
+<p>&nbsp;</p>
+<p>5. 能承担较大工作压力。</p>
+<p>&nbsp;</p>
+<p>招聘职位：总部 事业发展部 部门总监</p>
+<p>&nbsp;</p>
+<p>工作地点：上海</p>
+<p>&nbsp;</p>
+<p>岗位职责：</p>
+<p>&nbsp;</p>
+<p>1. 在机构使命及发展战略的指导下，全面负责机构创新业务的研发；</p>
+<p>&nbsp;</p>
+<p>2. 密切关注与开发新业务相关的各类信息，包括政策、技术、资金等，并进行有效的资源整合；</p>
+<p>&nbsp;</p>
+<p>3. 发展潜在的合作伙伴并建立长期互利的战略性合作关系；</p>
+<p>&nbsp;</p>
+<p>4. 负责事业发展部门工作团队的日常管理及评估</p>
+<p>&nbsp;</p>
+<p>岗位要求：</p>
+<p>&nbsp;</p>
+<p>1. 有相关从业经验优先；</p>
+<p>&nbsp;</p>
+<p>2. 具有很强的研究能力，曾有过成功研发大型项目的经验者优先；</p>
+<p>&nbsp;</p>
+<p>3. 具有出色的组织和协调能力；</p>
+<p>&nbsp;</p>
+<p>4. 具有良好的文字表达能力和沟通技巧，具有流利的英语沟通能力者优先考虑；</p>
+<p>&nbsp;</p>
+<p>招聘职位：恩派 （NPI）总部 行政助理</p>
+<p>&nbsp;</p>
+<p>工作地点：上海</p>
+<p>&nbsp;</p>
+<p>岗位职责：</p>
+<p>&nbsp;</p>
+<p>1. 前台接待、电话转接、会议安排、办公用品的采购等；</p>
+<p>&nbsp;</p>
+<p>2. 机票订购、酒店预订等差旅安排；</p>
+<p>&nbsp;</p>
+<p>3. 机构文件归档及保管；</p>
+<p>&nbsp;</p>
+<p>4. 机构物资和设备购买、维护和管理；</p>
+<p>&nbsp;</p>
+<p>5. 协助活动的策划和实施；</p>
+<p>&nbsp;</p>
+<p>6. 机构内各相关部门的关系维护。</p>
+<p>&nbsp;</p>
+<p>岗位要求：</p>
+<p>&nbsp;</p>
+<p>1. 大专及以上学历，及有一年以上相关工作经验者优先考虑；</p>
+<p>&nbsp;</p>
+<p>2. 形象端正，性格温和，善与人相处；</p>
+<p>&nbsp;</p>
+<p>3. 英语听说及写作能力熟练；</p>
+<p>&nbsp;</p>
+<p>4. 具有团队精神，并有很好的服务意识。</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><br />
+招聘职位：恩派（NPI）孵化园项目 项目经理</p>
+<p>&nbsp;</p>
+<p>工作地点：上海</p>
+<p>&nbsp;</p>
+<p>岗位职责：</p>
+<p>&nbsp;</p>
+<p>1. 认同恩派（NPI）的使命和愿景，并带领团队按照恩派（NPI）和孵化园的战略规划与目标认真、努力地工作，并在每日的工作中体现&ldquo;平等、关爱、合作、共享&rdquo;的价值观；</p>
+<p>&nbsp;</p>
+<p>2. 配合副主任制定并完善孵化园的各项管理制度和对外合作机制等规章，并负责带领团队实施与协调；同时负责孵化园内合作机构的日常管理与协调；</p>
+<p>&nbsp;</p>
+<p>3. 带领团队按照各项规章制度负责孵化园的日常运营管理，主动发现问题并及时提出解决方案，持续改进并提高孵化园的管理和服务水平；</p>
+<p>&nbsp;</p>
+<p>4. 按照项目规划和市民政局的要求，负责带领团队进行孵化园各项业务的拓展与推进，例如持续引进公益项目和创新公益机构，不断提高孵化园空间使用率；推动属下和园内机构按指标完成残障人士的就业与实训，同时积极推动孵化园场地的对外租借和公益心体验等创收工作；以及为完成项目目标应做的其他工作；</p>
+<p>&nbsp;</p>
+<p>5. 带领团队负责孵化园项目的对外拓展和对外宣传，并设计新的平台型公益项目进行筹资，在上级领导和恩派（NPI）其他部门的协助下，逐步构建并完善政府（包括市民政局和相关区民政局相关处室、区政府相关部门、孵化园周边街道居委会等）、企业、基金会、媒体、公益界专家、志愿者/实习生团队等对孵化园的支持体系；</p>
+<p>&nbsp;</p>
+<p>6. 遇有重大事件和突发情况，及时汇总情况并上报解决方案，在取得领导认可的情况下，带领团队积极开展工作直至解决问题，并积极寻求上级和恩派（NPI）其他部门的配合；</p>
+<p>&nbsp;</p>
+<p>7. 积极配合其直接主管和主任布置的工作，并且作为恩派（NPI）大家庭的一个分子在必要时为其他项目组提供力所能及的服务和帮助；</p>
+<p>&nbsp;</p>
+<p>岗位要求：</p>
+<p>&nbsp;</p>
+<p>1. 大学本科以上学历，相关工作经验五年以上优先考虑；</p>
+<p>&nbsp;</p>
+<p>2. 良好的协调、组织和沟通能力；</p>
+<p>&nbsp;</p>
+<p>3. 具有团队精神，善于学习新知识和新经验；</p>
+<p>&nbsp;</p>
+<p>4. 具有良好的文字表达能力和沟通技巧，有英语沟通能力者优先考虑；</p>
+<p>&nbsp;</p>
+<p>招聘职位：恩派（NPI）能力建设项目 项目经理</p>
+<p>&nbsp;</p>
+<p>工作地点：上海</p>
+<p>&nbsp;</p>
+<p>岗位职责：</p>
+<p>&nbsp;</p>
+<p>1. 负责与恩派（NPI）各业务单元协调与合作，根据需要组织项目团队成员开发课件与配套案例，训练内部培训师等，高质量地完成恩派（NPI）总部及各地办公室承接的NPO能力建设项目；</p>
+<p>&nbsp;</p>
+<p>2. 全面参与到恩派（NPI）的公益组织能力建设部门的项目设计、筹资、课件与案例开发的统筹工作等，并根据项目执行需要担任培训师；</p>
+<p>&nbsp;</p>
+<p>3. 配合恩派（NPI）社会创业家学院能力建设专家的工作，协助其构建一支恩派（NPI）内部的培训专家队伍，以及TOT的具体策划与执行；</p>
+<p>&nbsp;</p>
+<p>4. 协助能力建设专家组建以及运作恩派（NPI）内部评估小组；</p>
+<p>&nbsp;</p>
+<p>5. 完成上级交办的其它相关工作。</p>
+<p>&nbsp;</p>
+<p>岗位要求：</p>
+<p>&nbsp;</p>
+<p>1. 非营利组织相关专业或教育相关专业硕士以上学历，相关工作经验三年以上优先考虑；</p>
+<p>&nbsp;</p>
+<p>2. 熟悉中国非营利组织领域相关背景；</p>
+<p>&nbsp;</p>
+<p>3. 良好的协调、组织和沟通能力；</p>
+<p>&nbsp;</p>
+<p>4. 具有团队精神，善于学习新知识和新经验；</p>
+<p>&nbsp;</p>
+<p>5. 具有良好的文字表达能力和沟通技巧，有英语沟通能力者优先考虑；</p>
+<p>&nbsp;</p>
+<p>6. 有专业课程研发经验或担任非营利组织专业讲师二年以上优先考虑。</p>
+<p>&nbsp;</p>
+<p>招聘职位：恩派（NPI）能力建设项目 项目主管</p>
+<p>&nbsp;</p>
+<p>工作地点：上海</p>
+<p>&nbsp;</p>
+<p>岗位职责：</p>
+<p>&nbsp;</p>
+<p>1. 组织内外部专家及NPI同仁按计划开发中国本土非营利组织系列课程；</p>
+<p>&nbsp;</p>
+<p>2. 配合恩派（NPI）政策，编撰项目建议书草稿；</p>
+<p>&nbsp;</p>
+<p>3. 编写课件及负责某些课件的研发工作；</p>
+<p>&nbsp;</p>
+<p>4. 必要时担任讲师讲述擅长课程；</p>
+<p>&nbsp;</p>
+<p>5. 管理研发部门有序发展。</p>
+<p>&nbsp;</p>
+<p>岗位要求：</p>
+<p>&nbsp;</p>
+<p>1. 非营利组织相关专业或教育相关专业硕士以上学历；</p>
+<p>&nbsp;</p>
+<p>2. 能熟练使用Word、Excel以及PPT；</p>
+<p>&nbsp;</p>
+<p>3. 能熟练使用各类专业文档搜寻资源；</p>
+<p>&nbsp;</p>
+<p>4. 熟悉中国非营利组织领域专家学者；</p>
+<p>&nbsp;</p>
+<p>5. 能独立或与外部专家合作进行案例及撰写课件；</p>
+<p>&nbsp;</p>
+<p>6. 有专业课程研发经验或担任非营利组织专业讲师一年以上优先考虑。</p>
+<p>&nbsp;</p>
+<p>招聘职位：恩派 （NPI）社区公益创投项目 项目助理</p>
+<p>&nbsp;</p>
+<p>工作地点：上海</p>
+<p>&nbsp;</p>
+<p>岗位职责：</p>
+<p>&nbsp;</p>
+<p>1. 协助上海社区公益创投活动的实施</p>
+<p>&nbsp;</p>
+<p>2. 协助进行其他公益项目的调研和实施，撰写项目相关文件</p>
+<p>&nbsp;</p>
+<p>3. 完成主管交付的其他工作</p>
+<p>&nbsp;</p>
+<p>岗位要求：</p>
+<p>&nbsp;</p>
+<p>1. 大学本科及以上学历，社会学专业优先；</p>
+<p>&nbsp;</p>
+<p>2. 良好的学习、组织与协调能力</p>
+<p>&nbsp;</p>
+<p>3. 有团队意识并有较强的工作责任心；</p>
+<p>&nbsp;</p>
+<p>4. 有1年以上相关工作经验优先</p>
+<p>&nbsp;</p>
+<p>招聘职位：恩派 （NPI）屋里厢项目 项目总监</p>
+<p>&nbsp;</p>
+<p>工作地点：上海</p>
+<p>&nbsp;</p>
+<p>岗位职责：</p>
+<p>&nbsp;</p>
+<p>1. 在机构使命及战略指导下，制定项目的运作策略；</p>
+<p>&nbsp;</p>
+<p>2. 制定完善项目具体实施规划，拟定项目预算；</p>
+<p>&nbsp;</p>
+<p>3. 全面负责项目运营，以及项目团队的管理和评估；</p>
+<p>&nbsp;</p>
+<p>4. 配合机构负责人进行项目筹款工作；</p>
+<p>&nbsp;</p>
+<p>5. 与项目开展地的政府、合作机构等保持沟通并建立良好的工作关系</p>
+<p>&nbsp;</p>
+<p>岗位要求：</p>
+<p>&nbsp;</p>
+<p>1． 五年以上相关工作经验，有社区服务项目策划及执行经验者优先考虑；</p>
+<p>&nbsp;</p>
+<p>2． 能承担较大工作压力，有团队管理经验者优先考虑；</p>
+<p>&nbsp;</p>
+<p>3． 良好的沟通、协调和学习能力，有社工及社会学专业背景者优先考虑；</p>
+<p>&nbsp;</p>
+<p>4． 具有团队意识，善于发掘和利用资源；</p>
+<p>&nbsp;</p>
+<p>5． 良好的书面和口头沟通能力。</p>
+<p>&nbsp;</p>
+<p>招聘职位：恩派 （NPI）屋里厢项目 项目经理</p>
+<p>&nbsp;</p>
+<p>工作地点：上海</p>
+<p>&nbsp;</p>
+<p>人数：若干</p>
+<p>&nbsp;</p>
+<p>岗位职责：</p>
+<p>&nbsp;</p>
+<p>1. 协助项目总监达成项目目标、控制项目管理成本；</p>
+<p>&nbsp;</p>
+<p>2． 负责社区服务项目的需求调研、设计开发；</p>
+<p>&nbsp;</p>
+<p>3. 负责社区服务项目的执行评估；</p>
+<p>&nbsp;</p>
+<p>4. 完成各阶段项目工作总结及项目报告。</p>
+<p>&nbsp;</p>
+<p>岗位要求：</p>
+<p>&nbsp;</p>
+<p>1. 大学本科及以上学历，社会学或社工专业优先考虑；</p>
+<p>&nbsp;</p>
+<p>2. 两年以上相关工作经验，具有中级社工师资质、熟悉社区服务领域需求调研及项目策划的优先考虑；</p>
+<p>&nbsp;</p>
+<p>3. 良好的协调、沟通和学习能力；</p>
+<p>&nbsp;</p>
+<p>4. 具有团队精神，善于分享；</p>
+<p>&nbsp;</p>
+<p>5. 具有良好的文字表达能力，有英语沟通能力者优先考虑。</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><br />
+招聘职位：恩派（NPI）屋里厢 项目助理</p>
+<p>&nbsp;</p>
+<p>工作地点：上海</p>
+<p>&nbsp;</p>
+<p>人数：若干</p>
+<p>&nbsp;</p>
+<p>岗位职责：</p>
+<p>&nbsp;</p>
+<p>1. 负责建立社区服务项目的服务档案；</p>
+<p>&nbsp;</p>
+<p>2. 协助社工进行社区活动、小组和个案的活动计划筹备；</p>
+<p>&nbsp;</p>
+<p>3. 协助社工开展各类专业活动；</p>
+<p>&nbsp;</p>
+<p>岗位要求：</p>
+<p>&nbsp;</p>
+<p>1. 社会工作及相关专业大专及以上学历；</p>
+<p>&nbsp;</p>
+<p>2. 较强的服务意识和工作责任心；</p>
+<p>&nbsp;</p>
+<p>3. 良好的学习、组织与协调能力；</p>
+<p>&nbsp;</p>
+<p>4. 良好的文字与口头表达能力，会说上海话的优先考虑。</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><br />
+招聘职位：恩派（NPI）&ldquo;伙伴日&rdquo;项目 短期项目实习生（每周工作4天以上，连续工作4个月）</p>
+<p>&nbsp;</p>
+<p>工作地点：上海</p>
+<p>&nbsp;</p>
+<p>人数：3人</p>
+<p>&nbsp;</p>
+<p>岗位职责：</p>
+<p>&nbsp;</p>
+<p>1. 协助项目活动信息收集整理、数据采集及项目文档的校订；</p>
+<p>&nbsp;</p>
+<p>2. 项目开展过程中的联络工作；</p>
+<p>&nbsp;</p>
+<p>3. 项目展会期间的会务支持；</p>
+<p>&nbsp;</p>
+<p>4. 其他日常行政工作</p>
+<p>&nbsp;</p>
+<p>岗位要求：</p>
+<p>&nbsp;</p>
+<p>1. 大专及以上学历；</p>
+<p>&nbsp;</p>
+<p>2. 良好的学习、组织与协调能力；</p>
+<p>&nbsp;</p>
+<p>3. 良好的文字与口头表达能力；</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>招聘职位：恩派（NPI）成都恩派 项目总监</p>
+<p>&nbsp;</p>
+<p>工作地点：四川</p>
+<p>&nbsp;</p>
+<p>岗位职责：</p>
+<p>&nbsp;</p>
+<p>1. 在恩派（NPI）使命及发展战略的指导下，全面负责成都办公室的战略规划及实施，维护恩派（NPI）的品牌和知识产权；</p>
+<p>&nbsp;</p>
+<p>2. 负责成都当地政府关系和各类社会资源的协调与管理；</p>
+<p>&nbsp;</p>
+<p>3. 负责成都所有业务的协调与管理，以及恩派（NPI）成都的宣传与推广工作；</p>
+<p>&nbsp;</p>
+<p>4. 在总部的支持下，负责成都当地的业务拓展以及相关的筹款工作；</p>
+<p>&nbsp;</p>
+<p>5. 负责成都办公室的团队建设、绩效管理及能力提升；</p>
+<p>&nbsp;</p>
+<p>6. 全面支持与协助总部和新项目研发的各类工作；</p>
+<p>&nbsp;</p>
+<p>7. 配合总部完成其他新的战略性业务开发工作。</p>
+<p>&nbsp;</p>
+<p>岗位要求：</p>
+<p>&nbsp;</p>
+<p>1. 五年以上相关工作经验，有项目策划及执行经验者优先考虑；</p>
+<p>&nbsp;</p>
+<p>2. 能承担较大工作压力，有团队管理经验者优先考虑；</p>
+<p>&nbsp;</p>
+<p>3. 良好的沟通、协调和学习能力；</p>
+<p>&nbsp;</p>
+<p>4. 具有团队意识，善于发掘和利用资源；</p>
+<p>&nbsp;</p>
+<p>5. 良好的英语书面和口头沟通能力。</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><br />
+招聘职位：恩派（NPI）成都恩派 项目经理</p>
+<p>&nbsp;</p>
+<p>工作地点：四川</p>
+<p>&nbsp;</p>
+<p>岗位职责：</p>
+<p>&nbsp;</p>
+<p>1. 负责策划和实施项目的运营管理和项目质量监控；</p>
+<p>&nbsp;</p>
+<p>2. 协助成都项目总监协调相关业务管理及资源协调；</p>
+<p>&nbsp;</p>
+<p>3. 协助成都项目总监与各利益相关方保持良好沟通，拓展当地资源；</p>
+<p>&nbsp;</p>
+<p>4. 在总部技术支持中心总监的指导下，树立并推行托管服务的标准流程与模式，并配合总部进行现有模式的提升与相关新项目的开发；</p>
+<p>&nbsp;</p>
+<p>5. 完成成都项目总监和总部项目总监安排的其他相关业务工作。</p>
+<p>&nbsp;</p>
+<p>岗位要求：</p>
+<p>&nbsp;</p>
+<p>1. 大学本科及以上学历，相关工作经验三年以上；</p>
+<p>&nbsp;</p>
+<p>2. 良好的协调、组织和沟通能力；</p>
+<p>&nbsp;</p>
+<p>3. 具有团队精神，善于学习新知识和新经验；</p>
+<p>&nbsp;</p>
+<p>4. 具有良好的文字表达能力和沟通技巧，有英语沟通能力者优先考虑。</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><br />
+招聘职位：恩派（NPI）成都恩派 项目助理</p>
+<p>&nbsp;</p>
+<p>工作地点：四川</p>
+<p>&nbsp;</p>
+<p>岗位职责：</p>
+<p>&nbsp;</p>
+<p>1. 协助领导推进中心的组织化工作；</p>
+<p>&nbsp;</p>
+<p>2. 负责日常接待，信息栏更新维护；</p>
+<p>&nbsp;</p>
+<p>3. 负责协调当日值班人员工作、租用场地使用、场馆整洁安全、物资安全；</p>
+<p>&nbsp;</p>
+<p>4. 负责整理中心电子及纸质资料，并协助宣传同事提供本中心宣传素材；</p>
+<p>&nbsp;</p>
+<p>5. 负责填写每日工作记录表，负责每月本中心财务报销填写和发票处理。</p>
+<p>&nbsp;</p>
+<p>岗位要求：</p>
+<p>&nbsp;</p>
+<p>1. 社会工作及相关专业大专及以上学历；</p>
+<p>&nbsp;</p>
+<p>2. 较强的服务意识和工作责任心；</p>
+<p>&nbsp;</p>
+<p>3. 良好的学习、组织与协调能力；</p>
+<p>&nbsp;</p>
+<p>4. 良好的文字与口头表达能力。</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><br />
+招聘职位：深圳恩派 项目主管</p>
+<p>&nbsp;</p>
+<p>工作地点：深圳</p>
+<p>&nbsp;</p>
+<p>岗位职责：</p>
+<p>&nbsp;</p>
+<p>1. 负责项目的前期设计、过程执行、协调及评估工作；</p>
+<p>&nbsp;</p>
+<p>2. 协助项目团队进行项目监管、完成项目报告；</p>
+<p>&nbsp;</p>
+<p>3. 协助项目团队控制项目管理成本；</p>
+<p>&nbsp;</p>
+<p>4. 新项目设计开发。</p>
+<p>&nbsp;</p>
+<p>岗位要求：</p>
+<p>&nbsp;</p>
+<p>1. 大学本科学历，社会学或社工专业及有三年以上相关工作经验者优先考虑；</p>
+<p>&nbsp;</p>
+<p>2. 对公益行业及NGO组织有所了解，具有参与公益组织发展的愿望；</p>
+<p>&nbsp;</p>
+<p>3. 能够独立完成项目的设计和实施工作；</p>
+<p>&nbsp;</p>
+<p>4. 具有团队精神，有统筹协调能力；</p>
+<p>&nbsp;</p>
+<p>5. 乐于并善于学习新知识和新经验；</p>
+<p>&nbsp;</p>
+<p>6. 具有良好的文字表达能力和沟通技巧；有英语沟通能力者优先考虑。</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><br />
+招聘职位：深圳恩派 项目助理</p>
+<p>&nbsp;</p>
+<p>工作地点：深圳</p>
+<p>&nbsp;</p>
+<p>岗位职责：</p>
+<p>&nbsp;</p>
+<p>1. 项目实施与管理：参与项目筹备、资料收集整理；项目工作会议的参与；与项目相关方的联系沟通；</p>
+<p>&nbsp;</p>
+<p>2. 项目期间培训类、论坛类等活动事务的协调安排；</p>
+<p>&nbsp;</p>
+<p>3. 项目档案的整理、交办事项的处理；</p>
+<p>&nbsp;</p>
+<p>4. 交办的其他事务。</p>
+<p>&nbsp;</p>
+<p>岗位要求：</p>
+<p>&nbsp;</p>
+<p>1. 大专及以上学历，社会学或社工专业及有一年以上相关工作经验者优先考虑；</p>
+<p>&nbsp;</p>
+<p>2. 具有团队精神，乐于并善于学习新知识和新经验；</p>
+<p>&nbsp;</p>
+<p>3. 具有良好的文字表达能力和沟通技巧；有英语沟通能力者优先考虑。</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><br />
+招聘职位：北京恩派 行政助理</p>
+<p>&nbsp;</p>
+<p>工作地点：北京</p>
+<p>&nbsp;</p>
+<p>岗位职责：</p>
+<p>&nbsp;</p>
+<p>1. 前台接待；</p>
+<p>&nbsp;</p>
+<p>2. 协助进行内务、安全管理，为其他部门提供及时有效的行政服务；</p>
+<p>&nbsp;</p>
+<p>3. 会务安排：做好会前准备、会议记录和会后内容整理工作；</p>
+<p>&nbsp;</p>
+<p>4. 做好材料收集、档案管理、文书起草、公文制定、文件收发等工作；</p>
+<p>&nbsp;</p>
+<p>5. 对外相关部门联络接待，对内接待来访、接听来电、解答咨询及传递信息工作；</p>
+<p>&nbsp;</p>
+<p>6. 协助审核、修订机构各项管理规章制度，进行日常行政工作的组织与管理；</p>
+<p>&nbsp;</p>
+<p>岗位要求：</p>
+<p>&nbsp;</p>
+<p>5. 大专及以上学历，及有一年以上相关工作经验者优先考虑；</p>
+<p>&nbsp;</p>
+<p>6. 英语听说及写作能力熟练；</p>
+<p>&nbsp;</p>
+<p>7. 具有团队精神，并有很好的服务意识。</p>
+<p><br />
+&nbsp;</p>					</div>
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<p ><a href="http://wenda60.com" target="_blank" style="font-size:14px; color:#2B68E9">>>练练该公司的招聘笔试题 </a><script type="text/javascript"><!--
+google_ad_client = "ca-pub-9486753476951928";
+/* 底部广告 */
+google_ad_slot = "1009061790";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p> 					
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<div>
+						<div class="floatleft">
+                        <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_b" style="line-height: 12px;"><img src="http://bdimg.share.baidu.com/static/images/type-button-1.jpg" />
+                                <a class="shareCount"></a>
+                           
+						  </div>
+                        <script type="text/javascript" id="bdshare_js" data="type=button" ></script>
+                        <script type="text/javascript" id="bdshell_js"></script>
+                        <script type="text/javascript">
+                            document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+                        </script>
+                        <!-- Baidu Button END -->
+						</div>
+						<div class="button_job_or floatleft">
+							<!--<div class="button_right"><a href="javascript:;" onclick="collect(2, 164151);" class="icon_jobbutton_sc white">我要收藏</a></div>-->
+				  </div>
+                            <div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+						<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn" class="icon_jobbutton_p">举报错误信息</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+						<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn">信息修改/删除</a></div>
+						</div>
+						<div class="clear"></div>
+			  </div>
+		  </div>
+				<div class="spacer"></div>
+				<div class="spacer">
+</div>
+<!--
+				<div class="grayline"></div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="pdlr">
+					<div>
+						<span class="floatleft font14  b">同行业的职位</span>
+						<span class="floatright pdlr"></span>
+					</div>
+					<div class="clear spacer"></div>
+					<ul class="ul_bluedisc underline">
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277110.html" class="blue" title="恩派（NPI）2013招聘" target="_blank">恩派（NPI）2013招聘</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277080.html" class="blue" title="苏州工业园区设计研究院股份有限公司2013招聘" target="_blank">苏州工业园区设计研究院股份有限公司2013招聘</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277078.html" class="blue" title="棕榈园林股份有限公司华东区招聘助理绿化工程师|助理园建工程师" target="_blank">棕榈园林股份有限公司华东区招聘助理绿化工程师|助理</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276746.html" class="blue" title="达能集团招聘应付会计" target="_blank">达能集团招聘应付会计</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276586.html" class="blue" title="中国航天科技集团公司第八研究院第八一一研究所2013招聘" target="_blank">中国航天科技集团公司第八研究院第八一一研究所2013招</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276236.html" class="blue" title="昊华骏化集团有限公司2013招聘" target="_blank">昊华骏化集团有限公司2013招聘</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276116.html" class="blue" title="中国船舶重工集团七一八研究所2013招聘" target="_blank">中国船舶重工集团七一八研究所2013招聘</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276097.html" class="blue" title="北京市电子产品质量检测中心2013招聘" target="_blank">北京市电子产品质量检测中心2013招聘</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276069.html" class="blue" title="新华保险浙江分公司2013春季招聘" target="_blank">新华保险浙江分公司2013春季招聘</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276058.html" class="blue" title="尤洛卡矿业安全工程股份有限公司2013人才招聘" target="_blank">尤洛卡矿业安全工程股份有限公司2013人才招聘</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											
+					</ul>
+				</div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="grayline"></div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+								<div class="pdlr">
+					<div>
+						<span class="floatleft font14  b">相同公司职位</span>
+						<span class="floatright pdlr"></span>
+					</div>
+					<div class="clear spacer"></div>
+					<ul class="ul_bluedisc underline">
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277110.html" class="blue" title="恩派（NPI）2013招聘" target="_blank">恩派（NPI）2013招聘</a></div>
+							<span class="floatright gray pdlr">05-21</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_264781.html" class="blue" title="恩派（NPI）联劝上海屋里厢公益新天地项目2013招聘" target="_blank">恩派（NPI）联劝上海屋里厢公益新天地项目2013招聘</a></div>
+							<span class="floatright gray pdlr">03-07</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_254195.html" class="blue" title="恩派（NPI）2013招聘" target="_blank">恩派（NPI）2013招聘</a></div>
+							<span class="floatright gray pdlr">01-26</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_195789.html" class="blue" title="恩派（NPI）公益组织发展中心招募实习生" target="_blank">恩派（NPI）公益组织发展中心招募实习生</a></div>
+							<span class="floatright gray pdlr">04-29</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_193298.html" class="blue" title="恩派（NPI）2012招聘" target="_blank">恩派（NPI）2012招聘</a></div>
+							<span class="floatright gray pdlr">04-08</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_182362.html" class="blue" title="上海市社会创新孵化园招聘实习生" target="_blank">上海市社会创新孵化园招聘实习生</a></div>
+							<span class="floatright gray pdlr">02-06</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_164151.html" class="blue" title="恩派（NPI）2012招聘 " target="_blank">恩派（NPI）2012招聘 </a></div>
+							<span class="floatright gray pdlr">11-19</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_157764.html" class="blue" title="恩派（NPI）2011招聘" target="_blank">恩派（NPI）2011招聘</a></div>
+							<span class="floatright gray pdlr">10-11</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_151910.html" class="blue" title="恩派（NPI）2011招聘" target="_blank">恩派（NPI）2011招聘</a></div>
+							<span class="floatright gray pdlr">09-12</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_113705.html" class="blue" title="恩派（NPI）招聘课件开发项目助理|行政人事助理" target="_blank">恩派（NPI）招聘课件开发项目助理|行政人事助理</a></div>
+							<span class="floatright gray pdlr">02-22</span>
+							<div class="clear"></div>
+						</li>
+											
+					</ul>
+				</div>
+							</div>
+			<div class="clear spacer"></div>
+			<div class="spacer"></div>
+			<div class="spacer"></div>
+-->
+			<div class="spacer"></div>
+		</div>
+        
+		<div class="clear"></div>
+	</div>
+    
+    <div id="rightcolumn" class="floatleft">
+            <div class="rightcolumn" style="padding:0px;">
+                <div>
+			 <script type="text/javascript"><!--
+            google_ad_client = "ca-pub-9486753476951928";
+            /* 职位广告 */
+            google_ad_slot = "3598731756";
+            google_ad_width = 200;
+            google_ad_height = 200;
+            //-->
+            </script>
+            <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+				
+				    <div class="rightcolumn_title font14 b deepblack">该公司最新招聘信息</div>
+                    <div class="rightcolumn_title font14 b deepblack"><a href="/company/cid-37032.html ">点击查看全部</a></div>
+					<div class="spacer"></div>
+					<ul class="ul_bluedisc right_ul_bluedisc underline">
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_277110.html" class="blue">恩派（NPI）2013招聘</a></div>
+						<span class="pdlr4 floatright">05-20</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_264781.html" class="blue">恩派（NPI）联劝上海屋里厢公益新天地项目2013招聘</a></div>
+						<span class="pdlr4 floatright">01-07</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_254195.html" class="blue">恩派（NPI）2013招聘</a></div>
+						<span class="pdlr4 floatright">11-26</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_195789.html" class="blue">恩派（NPI）公益组织发展中心招募实习生</a></div>
+						<span class="pdlr4 floatright">02-29</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_193298.html" class="blue">恩派（NPI）2012招聘</a></div>
+						<span class="pdlr4 floatright">02-08</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_182362.html" class="blue">上海市社会创新孵化园招聘实习生</a></div>
+						<span class="pdlr4 floatright">12-06</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_164151.html" class="blue">恩派（NPI）2012招聘 </a></div>
+						<span class="pdlr4 floatright">09-19</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_157764.html" class="blue">恩派（NPI）2011招聘</a></div>
+						<span class="pdlr4 floatright">08-11</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_151910.html" class="blue">恩派（NPI）2011招聘</a></div>
+						<span class="pdlr4 floatright">07-12</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_113705.html" class="blue">恩派（NPI）招聘课件开发项目助理|行政人事助理</a></div>
+						<span class="pdlr4 floatright">12-22</span>
+						<div class="clear"></div>
+						</li>							
+										</ul>
+				</div>
+		   </div>
+           <div class="rightcolumn" style="padding:0px;">
+                <div>
+				
+				    <div class="rightcolumn_title font14 b deepblack">同行业最新招聘信息</div>
+                    
+					<div class="spacer"></div>
+					<ul class="ul_bluedisc right_ul_bluedisc underline">
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277110.html" class="blue" title="恩派（NPI）2013招聘" target="_blank">恩派（NPI）2013招聘</a></div>
+							<span class="floatright gray pdlr">05-20</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277080.html" class="blue" title="苏州工业园区设计研究院股份有限公司2013招聘" target="_blank">苏州工业园区设计研究院股份有限公司2013招聘</a></div>
+							<span class="floatright gray pdlr">05-20</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277078.html" class="blue" title="棕榈园林股份有限公司华东区招聘助理绿化工程师|助理园建工程师" target="_blank">棕榈园林股份有限公司华东区招聘助理绿化工程师|助理</a></div>
+							<span class="floatright gray pdlr">05-20</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276746.html" class="blue" title="达能集团招聘应付会计" target="_blank">达能集团招聘应付会计</a></div>
+							<span class="floatright gray pdlr">05-14</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276586.html" class="blue" title="中国航天科技集团公司第八研究院第八一一研究所2013招聘" target="_blank">中国航天科技集团公司第八研究院第八一一研究所2013招</a></div>
+							<span class="floatright gray pdlr">05-13</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276236.html" class="blue" title="昊华骏化集团有限公司2013招聘" target="_blank">昊华骏化集团有限公司2013招聘</a></div>
+							<span class="floatright gray pdlr">05-10</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276116.html" class="blue" title="中国船舶重工集团七一八研究所2013招聘" target="_blank">中国船舶重工集团七一八研究所2013招聘</a></div>
+							<span class="floatright gray pdlr">05-09</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276097.html" class="blue" title="北京市电子产品质量检测中心2013招聘" target="_blank">北京市电子产品质量检测中心2013招聘</a></div>
+							<span class="floatright gray pdlr">05-09</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276069.html" class="blue" title="新华保险浙江分公司2013春季招聘" target="_blank">新华保险浙江分公司2013春季招聘</a></div>
+							<span class="floatright gray pdlr">05-09</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276058.html" class="blue" title="尤洛卡矿业安全工程股份有限公司2013人才招聘" target="_blank">尤洛卡矿业安全工程股份有限公司2013人才招聘</a></div>
+							<span class="floatright gray pdlr">05-09</span>
+							<div class="clear"></div>
+						</li>							
+										</ul>
+				</div>
+		   </div>
+           <div class="rightcolumn">
+				<div class="spacer"></div>
+	
+								
+		   </div>
+		   <div class="spacer"></div>
+				
+    </div>
+</div>
+<iframe id="collection" name="collection" style="width:0px;height:0px;"></iframe>
+<div id="foot">
+	<div class="footbody">
+		<div class="foot_top aligncenter white"> <a href="http://www.hiall.com.cn/" class="white">HiAll校园招聘</a> <span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/" class="white">HiAll论坛</a> 
+
+<span class="pdlr4">|</span> <a href="http://wenda.hiall.com.cn/" class="white">HiAll一问一答</a>
+
+<span class="pdlr4">|</span> <a href="http://maker.wenda60.com/" class="white">KnewMaker</a>
+
+
+<span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/forum-744-1.html" class="white">校园招聘求职大礼包</a> <span class="pdlr4">|</span> <a href="http://hr.hiall.com.cn/" class="white">加入HiAll</a>
+<span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/thread-150495-1-1.html" class="white">广告合作</a> <span class="pdlr4">|</span> <a href="/info/about.php" class="white">关于我们</a> <span class="pdlr4">|</span> <a href="/info/sitemap.php" class="white">网站地图</a></div>		<div class="foot_mid aligncenter white"> 网站相关问题请联系：010-82601802 || 企业服务请联系：010-82600684</div>
+		<div class="foot_bot aligncenter white">Copyright HiAll
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP备10021013号
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP证090110号
+			<span class="pdlr"></span><span class="pdlr"></span>京公网安备11010802010560号
+		</div>
+	</div>
+</div>
+<!-- Baidu Analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F56dda118cbb3220435957635a699495b' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- Baidu Analytics -->
+</body>
+</html>
+

@@ -156,7 +156,7 @@ int DuplicateRemoval::_hamming_distance(size_m &hash){
 		}
 		if(min_dis>tot) min_dis = tot;
 	}
-	printf("distance: %d\n", min_dis);
+	// printf("distance: %d\n", min_dis);
 	return min_dis;
 }
 

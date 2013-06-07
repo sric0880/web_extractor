@@ -1,0 +1,719 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<title>北京科诺伟业科技有限公司2012招聘-全职推荐</title>
+<head>
+<meta property="qc:admins" content="35413136776011446375636" />
+<meta http-equiv="keywords" content="2013校园招聘,HiAll,招聘,校园招聘,全职职位,实习职位,大学生求职,应届生求职"/>
+<meta http-equiv="description" content="HiAll，为应届毕业生或在校生提供最新、最全、最可靠的全职、实习招聘信息、宣讲会信息与各种求职资讯与资料，成为联动学生与雇主的纽带，覆盖北京、上海、广州、海外等地区。" />
+<meta name="generator" content="HiAll2.0" />
+<meta name="author" content="HiAll" />
+<meta name="copyright" content="2004-2012 HiAll." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<script src="http://file.hiall.com.cn/newhiall/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/jquery.validate.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/utils.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/u1.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frame/page.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/main.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frontpage/frontpage.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/manage.css" />
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2560481-2']);
+  _gaq.push(['_setDomainName', '.hiall.com.cn']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Google Analytics -->
+</head>
+<body>
+<div id="head">
+	<div id="headbody">
+		<div class="top">
+			<a href="/" class="head_logo floatleft"></a>
+			<div class="mid floatleft">
+			<form method="post" action="/search/infos.php">
+				<input type="text" class="head_search_input gray floatleft" maxlength="10" value="职位信息 如：管理培训生" id="searchkey" name="searchkey" onclick="if(this.value == '职位信息 如：管理培训生') this.value='';" onblur="if(this.value=='') this.value='职位信息 如：管理培训生';"/>
+				<div class="head_search_select gray pointer floatleft">
+					<div class="floatleft">
+						<div class="absolute">
+							<div class="relative head_search_select_optionbox" style="display:none; z-index:10;">
+								<ul class="head_search_select_option" id="choosecity-list">
+																<li id="r0">全部</li>
+																<li id="r1">北京</li>
+																<li id="r2">上海</li>
+																<li id="r40">广州</li>
+																<li id="r41">深圳</li>
+															</ul>
+							</div>
+						</div>
+					</div>
+					<span id="choosecity">全部</span>
+				</div>
+				<input type="hidden" name="regionid" id="regionid" value="0">
+				<input type="hidden" name="op" id="op" value="headersearch">
+				<input  type="button" class="button_head_search pointer floatleft" onclick="javascript:headerSearch(this);" />
+			</div>
+			</form>
+			<div class="right floatright">
+				<div class="head_greenicon_box floatleft">
+											<p><span class="white">个人用户</span></p>
+						<p><a href="/collect/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="http://bbs.hiall.com.cn/register_hiall.php" class="white">注册</a></p>		
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="head_blueicon_box floatleft">
+										<p><a class="white">企业用户</a></p>
+					<p><a href="/users/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="/users/register.php" class="white">注册</a></p>
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="vspacer floatleft"></div>
+				<div class="floatleft">
+					<p><a href="/info/about.php#t2" class="white">查看企业</p><p>服务项目</a></p>
+				</div>
+				<div class="vspacer floatleft"></div>
+			</div>
+		</div>
+		<div class="clear"></div>
+		<div class="bottom">
+
+<!--<div style="position:relative;">-->
+<ul class="head_nav floatleft">
+	<li hidefocus="true" ><a href="/" hidefocus="true">首页</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://bbs.hiall.com.cn" target="_blank" hidefocus="true">BBS</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true"  class="active"><a href="/info/" hidefocus="true">全职推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/part.php" hidefocus="true">实习推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/" hidefocus="true" target="_blank">宣讲会</a></li>
+	<li hidefocus="true" class="fg"></li>
+
+    <!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/calendar/" hidefocus="true" target="_blank">2012校招日程</a></li>-->
+	<li hidefocus="true" ><a href="/info/special.php" hidefocus="true">专业招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/company/" hidefocus="true">名企招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/expire.php" hidefocus="true">申请截止</a></li>
+	<li hidefocus="true" class="fg"></li>
+    <li hidefocus="true"  style='padding-left:0px;'><a href="http://bbs.hiall.com.cn/forum-1054-1.html" hidefocus="true" target="_blank" >2013名企求职礼包</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://wenda.hiall.com.cn/" hidefocus="true" target="_blank">HiAll一问一答</a></li>
+		<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://maker.wenda60.com/" hidefocus="true" target="_blank" style="color:red" class="menu_red">KnewMaker</a></li>
+	<!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/2011/" hidefocus="true" target="_blank" class="menu_red">KnewMaker</a></li>-->
+	<!--<li hidefocus="true" ><a href="http://edu.hiall.com.cn/" hidefocus="true" target="_blank">求职指导</a></li>-->
+	<!--<li hidefocus="true" ><a href="http://miaosha.hiall.com.cn/" hidefocus="true" target="_blank">职业秒杀</a></li>
+	<li hidefocus="true" class="fg"></li>-->
+	<!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/yinhang/" hidefocus="true" target="_blank" style="color:red">2012银行校园招聘</a></li>-->
+</ul>
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>
+<div id="loginfloat" style="background:red;psotion:absolute;display:none;">
+	<div class="fav_topbox floatleft">
+		<p class="h22"><span class="or b">登录后可以个性化你的收藏哦！</span><span class="gray">（用HiAll bbs账号直接登录）</span><span class="gray"><a href="javascript:;" onclick="closeCollect();">关闭</a></span></p>
+		<div class="spacer"></div>
+		<form method="post" accept-charset="GB2312" name="login" id="loginform1" class="gateform" action="http://bbs.hiall.com.cn/logging.php?action=login&amp;loginsubmit=yes">
+		<input type="hidden" name="formhash" value="e9f7b113" />
+		<input type="hidden" name="referer" id="referer" value="http://www.hiall.com.cn/collect/index.php" />
+		<div>
+			<p class="h22"><span>用户名：</span><span><input type="text" class="required normalinput grayborder" size="14" name="username" id="username1" title="用户名称不能为空！" /></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/register_hiall.php" class="gray underline">新用户注册</a></span><h3 id="returnmessage"></h3></p>
+			<div class="spacer"></div>
+			<p class="h22"><span>密&nbsp;&nbsp;码：</span><span><input type="password" class="required normalinput grayborder" size="14"  id="password4" name="password" title="密码不能为空！"/></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/logging.php?action=login" class="gray underline">忘记密码?</a></span></p>
+			<div class="spacer"></div>
+			<p class="fav_login_button h22"><input type="button" onclick="return ajaxpost('username1', 'password4', 'loginform1', 'returnmessage', 'returnmessage', 'onerror');" value="登  录"  class="button_or_2c white"/><span class="pdlr4"></span><a href="http://bbs.hiall.com.cn/register_hiall.php"><button class="button_or_5c white">新用户注册</button></a></p>
+		</div>
+		</form>
+	</div>
+</div>
+<div id="body">
+	<p class="h22 txtindent1 gray">当前位置：<a href='/'>首页</a> &gt; <a href='/info/'>全职推荐</a> &gt; 北京科诺伟业科技有限公司2012招聘</p>
+	<!--<div class="bigbg reborder">-->
+    <div class="bigbg reborder" style="overflow:auto; _height:1%;">
+		<div id="leftcolumn" class="floatleft">
+            <div class="leftcolumn">
+				<p class="leftcolumn_title font14 b deepblack">行业分类</p>
+<ul class="left_nav">
+		<li><a href="/info/?businesses=1" >计算机•互联网•通信</a></li>
+		<li><a href="/info/?businesses=2" >电器•电子•家电</a></li>
+		<li><a href="/info/?businesses=3" >金融•投资•证券</a></li>
+		<li><a href="/info/?businesses=4" >咨询•财会•法律</a></li>
+		<li><a href="/info/?businesses=5" >贸易•消费•进出口</a></li>
+		<li><a href="/info/?businesses=6" >制药•生物•医疗</a></li>
+		<li><a href="/info/?businesses=7" >工业制造•能源•原材料</a></li>
+		<li><a href="/info/?businesses=8" >房地产•建筑•工程建设</a></li>
+		<li><a href="/info/?businesses=9" >广告•会展•公关</a></li>
+		<li><a href="/info/?businesses=10" >物流•仓储•运输</a></li>
+		<li><a href="/info/?businesses=11" >教育•培训•科研•院校</a></li>
+		<li><a href="/info/?businesses=12" >政府•公共事业•非盈利机构</a></li>
+		<li><a href="/info/?businesses=13" >服务业</a></li>
+		<li><a href="/info/?businesses=14" >农林牧渔•环保</a></li>
+		<li><a href="/info/?businesses=15" >跨领域经营 </a></li>
+		<li><a href="/info/?businesses=16" >其他</a></li>
+		<li><a href="/info/?businesses=17" >机械•自动化•仪器仪表行•重工业</a></li>
+		<li><a href="/info/?businesses=18" >汽车•摩托车行业 </a></li>
+		<li><a href="/info/?businesses=19" >旅游•酒店•餐饮服务</a></li>
+		<li><a href="/info/?businesses=20" >物业管理•商业中心</a></li>
+		<li><a href="/info/?businesses=21" >快速消费品(食品•饮料•日化•烟酒等)</a></li>
+		<li><a href="/info/?businesses=22" >家居•室内设计•装潢</a></li>
+		<li><a href="/info/?businesses=23" >石油•化工•采掘•冶炼</a></li>
+		<li><a href="/info/?businesses=24" >耐用消费品(服饰•纺织•家具）</a></li>
+		<li><a href="/info/?businesses=25" >媒体•文化传播•出版•影视</a></li>
+		<li><a href="/info/?businesses=26" >芯片•电子技术•半导体</a></li>
+		<li><a href="/info/?businesses=27" >批发•零售</a></li>
+	</ul>
+
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<p class="leftcolumn_title font14 b deepblack">热门公司推荐</p>
+<ul class="left_topcompany">
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1033-1.html">中国石化集团公司</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-212-1.html">中金(CICC)</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-183-1.html">英特尔（intel）</a></h1></li>
+	<li><h1><a href="http://www.hiall.com.cn/bbs/forum-188-1.html">联合利华Unilever</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-249-1.html">箭牌中国</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1241-1.html">完美时空</a></h1></li>
+</ul>			</div>
+			
+			
+		</div>
+		<div id="midcolumn" class="floatleft">
+			<div class="topnews">	
+	<div class="left floatleft lightblue">站内新闻</div>
+	<div class="right floatleft ">
+		<div class="floatleft">
+			<div class="absolute zindex200">
+				<a href="javascript:preMsg();" class="icon_arrow_blue_up relative floatleft" id="icon_arrow_blue_up"></a>
+			</div>
+		</div>
+		<div class="floatright">
+			<div class="absolute zindex200">
+				<a href="javascript:nextMsg();" class="icon_arrow_blue_down relative floatleft" id="icon_arrow_blue_down"></a>
+			</div>
+		</div>
+		<ul class="topnews_list" id="topnews_list" style="top:0px;">
+		<li id="msg_show"><a href="http://maker.wenda60.com" target="_blank" class="lightgray">【KnewMaker推荐】加入“创客”一族，感受电子DIY的魅力</a></li>					
+		</ul>
+		<ul style="display:none;">
+					<li id="msg_0"><a href="http://maker.wenda60.com" target="_blank" class="lightgray">【KnewMaker推荐】加入“创客”一族，感受电子DIY的魅力</a></li>			
+				</ul>
+		<input type="hidden" id="msg_count" value="1" />
+	</div>
+	<div class="clear"></div>
+</div>
+			<div class="clear spacer"></div>
+<div style="margin:5px 0px 0px 25px;">
+
+<script type="text/javascript"> var cpro_id = 'u249066'; </script>
+<script type="text/javascript" src="http://cpro.baidu.com/cpro/ui/c.js"></script>
+</div>
+			<div class="jobbox">
+				<div class="spacer"></div>
+				<div class="job_maininfo">
+					<h1 class="b font14">
+											北京科诺伟业科技有限公司  
+													<span class="pdlr"><img src="http://www.hiall.com.cn/images/icon/icon_top_default.gif" /></span>
+						</h1>
+					<h1>所属行业：计算机•互联网•通信/电器•电子•家电</h1>
+					<div class="spacer"></div>
+                    <div>
+                       	<div class="button_job floatleft">
+							<div class="button_right"><a href="/company/cid-25246.html" class="icon_jobbutton_ck blue">查看公司详情</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+																		<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn">信息修改/删除</a></div>
+						</div>
+                        <div class="clear"></div>
+                            
+                    </div>
+                    <div class="spacer"></div>
+                    <div class="spacer"></div>
+                    <div>
+                        <div class="floatleft">
+                        <!-- Baidu Button BEGIN -->
+                        <div id="bdshare" class="bdshare_b" style="line-height: 12px;"><img src="http://bdimg.share.baidu.com/static/images/type-button-1.jpg" />
+                            <a class="shareCount"></a>
+                        </div>
+                        <script type="text/javascript" id="bdshare_js" data="type=button" ></script>
+                        <script type="text/javascript" id="bdshell_js"></script>
+                        <script type="text/javascript">
+                            document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+                        </script>
+                        <!-- Baidu Button END -->
+                        </div>
+                    </div>
+                    				</div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<p>
+								</p>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="job_detail">
+					<h1 class="positiontitle">北京科诺伟业科技有限公司2012招聘</h1>
+					<div class="spacer"></div>
+					<div class="spacer4"></div>
+						<p>
+该职位已发布超过<span class="pdlr or">575</span>天
+
+						<span class="pdlr"></span><span>编号：173487</span>
+						<span class="pdlr"></span></p>
+					<div class="spacer"></div>
+					<p>						
+						<span>工作地区：北京</span>
+						<span class="pdlr"></span>
+						<span>更新时间：2012-01-01</span>
+					</p>
+<div style="border-top:1px solid #C3DBE8; margin-top: 8px;"></div>
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<div style="overflow:auto;">
+						<p>&nbsp;</p>
+<div align="center"><a name="OLE_LINK2"><span>北京科诺伟业科技有限公司</span></a></div>
+<div align="center"><span><span>简</span></span><span><span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><span><span>介</span></span></div>
+<div align="left"><span><span>北京科诺伟业科技有限公司成立于</span></span><span><span>2001</span></span><span><span>年，注册资金</span></span><span><span>2357</span></span><span><span>万元，是在中国科学院电工研究所三十余年科研积累的基础上组建的专业化风力、光伏发电高新技术企业。目前，公司下辖一个分公司&mdash;&mdash;西藏分公司，一个子公司&mdash;&mdash;保定科诺伟业控制设备有限公司。</span></span></div>
+<div align="left"><span><span>公司主营业务分为风力发电产品、光伏发电产品和光伏系统设计集成三个方向。提供太阳能光伏发电系统、风</span></span><span><span>/</span></span><span><span>光互补发电系统的设计、安装、调试、维护等服务；同时，研发、生产和销售太阳能光伏控制器、逆变器、户用光伏、风</span></span><span><span>/</span></span><span><span>光互补电源等太阳能发电设备以及风力发电机组控制系统、风力发电机组变流器、变桨距控制系统、</span></span><span><span>SCADA</span></span><span><span>系统等风力发电控制设备。</span></span></div>
+<div align="left"><span><span>风电方向&mdash;&mdash;共申请风电技术专利近</span></span><span><span>20</span></span><span><span>项，先后承担国家重点科技攻关项目</span></span><span><span>10</span></span><span><span>余项：起草国家及行业标准</span></span><span><span>6</span></span><span><span>项，是目前国内唯一一家能同时提供变流器、控制系统、变桨距系统的供应商，具有</span></span><span><span>1.5MW</span></span><span><span>、</span></span><span><span>750KW</span></span><span><span>和</span></span><span><span>600KW</span></span><span><span>风电控制系统的完整知识产权。国内第一台</span></span><span><span>600kW</span></span><span><span>失速型风电机组控制系统、第一台替代国外商业化机组运行的</span></span><span><span>1.5MW</span></span><span><span>变速恒频风电机组控制系统及变流器均系公司产品。</span></span></div>
+<div align="left"><span><span>光伏方向&mdash;&mdash;共申请光伏发电专利</span></span><span><span>10</span></span><span><span>余项；先后承担国家重点科技攻关项目</span></span><span><span>10</span></span><span><span>余项：起草国家及行业标准</span></span><span><span>2</span></span><span><span>项，拥有目前国内容量最大的高压集中光伏并网逆变器和单双轴跟踪系统产品。我国第一座与高压并网太阳能电站&mdash;&mdash;西藏羊八井</span></span><span><span>100kWp</span></span><span><span>光伏电站、我国第一座</span></span><span><span>MW</span></span><span><span>级并网光伏电站&mdash;&mdash;深圳园博园</span></span><span><span>1MWp</span></span><span><span>并网光伏电站、我国第一座单一屋顶安装容量最大的并网光伏电站&mdash;&mdash;浙江义乌国际商贸城三期市场</span></span><span><span>1.295MWp</span></span><span><span>光伏并网电站均系公司既往业绩。</span></span></div>
+<div>&nbsp;</div>
+<div align="left">科诺伟业将以广阔的发展空间、和谐的工作环境，为优秀人才提供极具竞争力的薪酬福利待遇和培训提升机会。我们诚挚欢迎您的加盟，共同发展我们的事业。</div>
+<div align="left">公司地址：北京市海淀区王庄路1号清华同方科技广场B座23层</div>
+<div align="left">电话：010-82378899</div>
+<div align="left">公司网址：<a href="http://www.bjcorona.com/">http://www.bjcorona.com</a></div>
+<div align="left">简历投递邮箱：coronahr@bjcorona.com</div>
+<div align="center">企业荣誉</div>
+<div align="left">☆<span>1、科诺伟业参与制定的国家标准：</span></div>
+<div align="left">1、&nbsp;&nbsp;GB∕<span>T 25386.1-2010&nbsp;风力发电机组变速恒频控制系统 第1部分：技术条件</span></div>
+<div align="left">2、&nbsp;&nbsp;GB∕<span>T 25386.2-2010&nbsp;风力发电机组 变速恒频控制系统 第2部分：试验方法</span></div>
+<div align="left">3、&nbsp;&nbsp;GB∕<span>T 25387.1-2010&nbsp;风力发电机组 全功率变流器 第1部分：技术条件</span></div>
+<div align="left">4、&nbsp;&nbsp;GB∕<span>T 25387.2-2010&nbsp;风力发电机组 全功率变流器 第2部分：试验方法</span></div>
+<div align="left">5、&nbsp;&nbsp;GB∕<span>T 25388.1-2010&nbsp;风力发电机组 双馈式变流器 第1部分：技术条件</span></div>
+<div align="left">6、&nbsp;&nbsp;GB∕<span>T 25388.2-2010&nbsp;风力发电机组 双馈式变流器 第2部分：试验方法</span></div>
+<div align="left">7、光伏电站接入电力系统技术规范</div>
+<div align="left">8、光伏系统并网性能测试方法</div>
+<div align="left"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hellip;&hellip;</span></div>
+<div align="left">☆<span>2、科诺伟业承担的重点课题：</span></div>
+<div align="left">1、&nbsp;&nbsp;国家科技支撑计划&ldquo;大功率风电机组研制与示范&rdquo;</div>
+<div align="left">2、&nbsp;&nbsp;国家<span>863项目 &ldquo;西藏高原MW级和高压电网并网的荒漠集中光伏示范电站及关键设备研制&rdquo;</span></div>
+<div align="left">3、&nbsp;&nbsp;国家<span>863项目&ldquo;系列化便携式户用太阳光伏电源关键技术的研究与开发&rdquo;</span></div>
+<div align="left">4、&nbsp;&nbsp;国家科技支撑计划&ldquo;具有自主知识产权的<span>3MW海上风电设备研发&rdquo;</span></div>
+<div align="left">5、&nbsp;&nbsp;中国科学院知识创新工程重要方向项目&ldquo;<span>100KW太阳光伏电站高压并网关键技术研究与关键设备研制&rdquo;</span></div>
+<div align="left">6、&nbsp;&nbsp;北京市科技计划课题&ldquo;国家体院馆建设<span>100KW太阳能光伏电站&rdquo;</span></div>
+<div align="left">7、北京市科技计划课题&ldquo;奥运公园太阳能光电利用示范&rdquo;</div>
+<div align="left">&hellip;&hellip;</div>
+<div align="left">☆<span>3、科诺伟业获得的历史之最：</span></div>
+<div align="left">1、&nbsp;&nbsp;国内首座兆瓦级水光互补微网电站&mdash;&mdash;青海玉树<span>2MW水光互补微网电站</span></div>
+<div align="left">2、&nbsp;&nbsp;2011年世界上海拔最高的，西藏地区光伏电站中规模最大的并网光伏电站&mdash;&mdash;西藏羊八井<span>10MWp太阳能光伏并网电站</span></div>
+<div align="left">3、&nbsp;&nbsp;国内第一台<span>600kW失速型风电机组控制系统</span></div>
+<div align="left">4、&nbsp;&nbsp;第一台替代国外商业化机组运行的<span>1.5MW变速恒频风电机组控制系统及变流器</span></div>
+<div align="left">5、&nbsp;&nbsp;2009年国内单一屋顶安装容量最大的太阳能光伏并网电站&mdash;&mdash;浙江义乌国际商贸城三期市场<span>1.295MWp太阳能光伏并网电站</span></div>
+<div align="left">6、&nbsp;&nbsp;2004年亚洲最大的太阳能光伏并网电站&mdash;&mdash;深圳国际园林花卉博览园<span>1MWp太阳能光伏并网电站</span></div>
+<div align="left">7、&nbsp;&nbsp;我国第一座与高压电网并联运行的太阳能光伏电站&mdash;&mdash;西藏羊八井<span>100kWp太阳能光伏并网示范电站</span></div>
+<div align="left">8、&nbsp;&nbsp;世界上海拔最高的乡级太阳能光伏电站&mdash;&mdash;西藏亚热乡<span>10kWp太阳能光伏电站（5500米）</span></div>
+<div align="left">9、全军海拔最高点的哨卡太阳能光伏电站&mdash;&mdash;<a target="_blank" href="http://www.jobyun.com/s_%D0%C2%BD%AE">新疆</a>边防十三团神仙湾哨卡<span>3kWp太阳能光伏电站（5380米）</span></div>
+<div>&nbsp;</div>
+<div align="center">
+<table border="1" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td width="142">
+            <div align="center"><font size="3">部门</font></div>
+            </td>
+            <td width="142">
+            <div align="center"><font size="3">岗位名称</font></div>
+            </td>
+            <td width="47">
+            <div align="center"><font size="3">人数</font></div>
+            </td>
+            <td width="624">
+            <div align="center"><font size="3">招聘要求</font></div>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="2" width="142">
+            <div align="center"><font size="3">风电研发部</font></div>
+            </td>
+            <td width="142">
+            <div align="center"><font size="3">硬件工程师</font></div>
+            </td>
+            <td width="47">
+            <div align="center"><font size="3">5</font></div>
+            </td>
+            <td width="624">
+            <div><font size="3">1、大学本科及以上学历，电气工程、自动化、计算机学与工程等相关专业&nbsp;；</font></div>
+            <div><font size="3">2、熟悉ARM硬件设计及驱动编写，有较强的单片机和arm开发经验&nbsp;；</font></div>
+            <div><font size="3">3、熟练使用画图软件，具有较强的C代码编程能力；熟悉高速电路设计及Ti公司的DSP芯片者优先。</font></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="142">
+            <div align="center"><font size="3">软件工程师</font></div>
+            </td>
+            <td width="47">
+            <div align="center"><font size="3">5</font></div>
+            </td>
+            <td width="624">
+            <div><font size="3">1、电气工程、电子科学、自动化等相关专业本科以上学历；</font></div>
+            <div><font size="3">2、熟悉TI DSP程序开发，精通C、VC或汇编语言；</font></div>
+            <div><font size="3">3、较强的软件设计开发能力、较好的判断分析和解决问题能力、较强的计算机操作和应用能力；</font></div>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="2" width="142">
+            <div align="center"><font size="3">风电质量测试部</font></div>
+            </td>
+            <td width="142">
+            <div align="center"><font size="3">研发测试工程师</font></div>
+            <div align="center"><font size="3">（硬件方向）</font></div>
+            </td>
+            <td width="47">
+            <div align="center"><font size="3">1</font></div>
+            </td>
+            <td width="624">
+            <div><font size="3">1、研究生以上学历；电力电子、电气相关专业，英语六级以上，综合考评前20%以内；</font></div>
+            <div><font size="3">2、具备扎实的专业技术知识（DSP/PLC/自动控制理论、电机控制理论等）</font></div>
+            <div><font size="3">2、从事过风电电控系统相关研究或从事过相关的课题研究的优先考虑</font></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="142">
+            <div align="center"><font size="3">研发测试工程师</font></div>
+            <div align="center"><font size="3">（软件方向）</font></div>
+            </td>
+            <td width="47">
+            <div align="center"><font size="3">1</font></div>
+            </td>
+            <td width="624">
+            <div><font size="3">1、研究生以上学历；计算机软件及控制理论等相关专业，综合考评前20%以内；</font></div>
+            <div><font size="3">2、具备扎实的专业技术知识（汇编语言&nbsp;、C/C&nbsp;、VB/VC、JAVA、数据库等）</font></div>
+            <div><font size="3">3、从事过风电机组控制系统理论等相关课题研究的优先考虑</font></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="142">
+            <div align="center"><font size="3">风电市场部</font></div>
+            </td>
+            <td width="142">
+            <div align="center"><font size="3">售前工程师</font></div>
+            </td>
+            <td width="47">
+            <div align="center"><font size="3">1</font></div>
+            </td>
+            <td width="624">
+            <div><font size="3">1、本科以上学历，硕士学历优先；</font></div>
+            <div><font size="3">2、电气及相关专业；</font></div>
+            <div><font size="3">3、有风电领域相关研究经历者；</font></div>
+            <div><font size="3">4、具有一定的市场洞察力和敏感性，文字和语言表达能力强；</font></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="142">
+            <div align="center"><font size="3">光伏系统设计与集成部</font></div>
+            </td>
+            <td width="142">
+            <div align="center"><font size="3">助理设计工程师</font></div>
+            </td>
+            <td width="47">
+            <div align="center"><font size="3">2</font></div>
+            </td>
+            <td width="624">
+            <div><font size="3">1、本科以上学历；</font></div>
+            <div><font size="3">2、电力系统、电气工程、电力电子及其自动化、工民建、土木工程等相关专业；</font></div>
+            <div><font size="3">3、能适应长期及高原地区出差；</font></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="142">
+            <div align="center"><font size="3">光伏质量测试部</font></div>
+            </td>
+            <td width="142">
+            <div align="center"><font size="3">测试工程师</font></div>
+            </td>
+            <td width="47">
+            <div align="center"><font size="3">6</font></div>
+            </td>
+            <td width="624">
+            <div><font size="3">1、自动化、电子、计算机等相关专业，本科以上学历；</font><br />
+            <font size="3">2</font><font size="3">、有C语言、DSP技术基础的优先考虑；</font><br />
+            <font size="3">3</font><font size="3">、有较强的学习能力和主动性，能胜任高强度和经常性出差工作；</font><br />
+            <font size="3">4</font><font size="3">、坚持原则，责任心强、性格外向、善于沟通、良好的团队合作精神和严谨的工作态度&nbsp;。</font></div>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="3" width="142">
+            <div><font size="3">光伏产品研发部</font></div>
+            </td>
+            <td width="142">
+            <div align="center">电力电子应用技术研究工程师</div>
+            </td>
+            <td width="47">
+            <div align="center"><font size="3">2</font></div>
+            </td>
+            <td width="624">
+            <div><font size="3">1、电力电子与电力传动专业博士或硕士；</font></div>
+            <div><font size="3">2、至少3年以上电力电子相关技术及产品研发经验；</font></div>
+            <div><font size="3">3、至少1年以上光伏相关产品开发经验；</font></div>
+            <div><font size="3">4、熟悉微网系统硬件结构并有一定的研究基础；</font></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="142">
+            <div align="center">软件设计工程师</div>
+            </td>
+            <td width="47">
+            <div align="center"><font size="3">4</font></div>
+            </td>
+            <td width="624">
+            <div><font size="3">1、电力电子与电力传动专业本科或以上；</font></div>
+            <div><font size="3">2、熟悉单片机、DSP等控制芯片的C语言应用；</font></div>
+            <div><font size="3">3、有一定的软件编程经验；</font></div>
+            <div><font size="3">4、有团队合作能力，工作认真负责</font></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="142">
+            <div align="center"><font size="3">电气工程师</font></div>
+            </td>
+            <td width="47">
+            <div align="center"><font size="3">4</font></div>
+            </td>
+            <td width="624">
+            <div><font size="3">1、电力电子与电力传动专业本科或以上学历；</font></div>
+            <div><font size="3">2、熟悉大功率电力电子产品主回路结构并具备一定的调试经验；</font></div>
+            <div><font size="3">3、具有良好的组织协调与人际沟通能力。</font></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div align="left">&nbsp;</div>					</div>
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<p ><a href="http://wenda60.com" target="_blank" style="font-size:14px; color:#2B68E9">>>练练该公司的招聘笔试题 </a><script type="text/javascript"><!--
+google_ad_client = "ca-pub-9486753476951928";
+/* 底部广告 */
+google_ad_slot = "1009061790";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p> 					
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<div>
+						<div class="floatleft">
+                        <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_b" style="line-height: 12px;"><img src="http://bdimg.share.baidu.com/static/images/type-button-1.jpg" />
+                                <a class="shareCount"></a>
+                           
+						  </div>
+                        <script type="text/javascript" id="bdshare_js" data="type=button" ></script>
+                        <script type="text/javascript" id="bdshell_js"></script>
+                        <script type="text/javascript">
+                            document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+                        </script>
+                        <!-- Baidu Button END -->
+						</div>
+						<div class="button_job_or floatleft">
+							<!--<div class="button_right"><a href="javascript:;" onclick="collect(2, 173487);" class="icon_jobbutton_sc white">我要收藏</a></div>-->
+				  </div>
+                            <div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+						<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn" class="icon_jobbutton_p">举报错误信息</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+						<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn">信息修改/删除</a></div>
+						</div>
+						<div class="clear"></div>
+			  </div>
+		  </div>
+				<div class="spacer"></div>
+				<div class="spacer">
+</div>
+<!--
+				<div class="grayline"></div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="pdlr">
+					<div>
+						<span class="floatleft font14  b">同行业的职位</span>
+						<span class="floatright pdlr"></span>
+					</div>
+					<div class="clear spacer"></div>
+					<ul class="ul_bluedisc underline">
+											
+					</ul>
+				</div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="grayline"></div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+								<div class="pdlr">
+					<div>
+						<span class="floatleft font14  b">相同公司职位</span>
+						<span class="floatright pdlr"></span>
+					</div>
+					<div class="clear spacer"></div>
+					<ul class="ul_bluedisc underline">
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_248746.html" class="blue" title="北京科诺伟业科技有限公司2013招聘" target="_blank">北京科诺伟业科技有限公司2013招聘</a></div>
+							<span class="floatright gray pdlr">01-06</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_222989.html" class="blue" title="北京科诺伟业科技有限公司招聘外贸会计" target="_blank">北京科诺伟业科技有限公司招聘外贸会计</a></div>
+							<span class="floatright gray pdlr">10-16</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_173487.html" class="blue" title="北京科诺伟业科技有限公司2012招聘" target="_blank">北京科诺伟业科技有限公司2012招聘</a></div>
+							<span class="floatright gray pdlr">01-01</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_114440.html" class="blue" title="北京科诺伟业科技有限公司2011校园招聘" target="_blank">北京科诺伟业科技有限公司2011校园招聘</a></div>
+							<span class="floatright gray pdlr">02-27</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_100764.html" class="blue" title="北京科诺伟业科技有限公司2011校园招聘" target="_blank">北京科诺伟业科技有限公司2011校园招聘</a></div>
+							<span class="floatright gray pdlr">01-03</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_79858.html" class="blue" title="[北京]北京科诺伟业科技有限公司招聘软件工程师|结构工程师|电气工程师|软件开发" target="_blank">[北京]北京科诺伟业科技有限公司招聘软件工程师|结构</a></div>
+							<span class="floatright gray pdlr">10-24</span>
+							<div class="clear"></div>
+						</li>
+											
+					</ul>
+				</div>
+							</div>
+			<div class="clear spacer"></div>
+			<div class="spacer"></div>
+			<div class="spacer"></div>
+-->
+			<div class="spacer"></div>
+		</div>
+        
+		<div class="clear"></div>
+	</div>
+    
+    <div id="rightcolumn" class="floatleft">
+            <div class="rightcolumn" style="padding:0px;">
+                <div>
+			 <script type="text/javascript"><!--
+            google_ad_client = "ca-pub-9486753476951928";
+            /* 职位广告 */
+            google_ad_slot = "3598731756";
+            google_ad_width = 200;
+            google_ad_height = 200;
+            //-->
+            </script>
+            <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+				
+				    <div class="rightcolumn_title font14 b deepblack">该公司最新招聘信息</div>
+                    <div class="rightcolumn_title font14 b deepblack"><a href="/company/cid-25246.html ">点击查看全部</a></div>
+					<div class="spacer"></div>
+					<ul class="ul_bluedisc right_ul_bluedisc underline">
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_248746.html" class="blue">北京科诺伟业科技有限公司2013招聘</a></div>
+						<span class="pdlr4 floatright">11-06</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_222989.html" class="blue">北京科诺伟业科技有限公司招聘外贸会计</a></div>
+						<span class="pdlr4 floatright">08-16</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_173487.html" class="blue">北京科诺伟业科技有限公司2012招聘</a></div>
+						<span class="pdlr4 floatright">11-01</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_114440.html" class="blue">北京科诺伟业科技有限公司2011校园招聘</a></div>
+						<span class="pdlr4 floatright">12-27</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_100764.html" class="blue">北京科诺伟业科技有限公司2011校园招聘</a></div>
+						<span class="pdlr4 floatright">11-03</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_79858.html" class="blue">[北京]北京科诺伟业科技有限公司招聘软件工程师|结构工程师|电气工程师|软件开发</a></div>
+						<span class="pdlr4 floatright">08-24</span>
+						<div class="clear"></div>
+						</li>							
+										</ul>
+				</div>
+		   </div>
+           <div class="rightcolumn" style="padding:0px;">
+                <div>
+				
+				    <div class="rightcolumn_title font14 b deepblack">同行业最新招聘信息</div>
+                    
+					<div class="spacer"></div>
+					<ul class="ul_bluedisc right_ul_bluedisc underline">
+										</ul>
+				</div>
+		   </div>
+           <div class="rightcolumn">
+				<div class="spacer"></div>
+	
+								
+		   </div>
+		   <div class="spacer"></div>
+				
+    </div>
+</div>
+<iframe id="collection" name="collection" style="width:0px;height:0px;"></iframe>
+<div id="foot">
+	<div class="footbody">
+		<div class="foot_top aligncenter white"> <a href="http://www.hiall.com.cn/" class="white">HiAll校园招聘</a> <span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/" class="white">HiAll论坛</a> 
+
+<span class="pdlr4">|</span> <a href="http://wenda.hiall.com.cn/" class="white">HiAll一问一答</a>
+
+<span class="pdlr4">|</span> <a href="http://maker.wenda60.com/" class="white">KnewMaker</a>
+
+
+<span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/forum-744-1.html" class="white">校园招聘求职大礼包</a> <span class="pdlr4">|</span> <a href="http://hr.hiall.com.cn/" class="white">加入HiAll</a>
+<span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/thread-150495-1-1.html" class="white">广告合作</a> <span class="pdlr4">|</span> <a href="/info/about.php" class="white">关于我们</a> <span class="pdlr4">|</span> <a href="/info/sitemap.php" class="white">网站地图</a></div>		<div class="foot_mid aligncenter white"> 网站相关问题请联系：010-82601802 || 企业服务请联系：010-82600684</div>
+		<div class="foot_bot aligncenter white">Copyright HiAll
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP备10021013号
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP证090110号
+			<span class="pdlr"></span><span class="pdlr"></span>京公网安备11010802010560号
+		</div>
+	</div>
+</div>
+<!-- Baidu Analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F56dda118cbb3220435957635a699495b' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- Baidu Analytics -->
+</body>
+</html>
+

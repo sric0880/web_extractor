@@ -12,26 +12,37 @@
 
 class OutputConsole: public Output{
 public:
+	OutputConsole(){
+		f= fopen("output_console.txt","w");
+	}
+	virtual ~OutputConsole(){
+		fclose(f);
+	}
 	void output(const Data& entry){
 		if (entry.company != NULL)
-			printf("company:%s\n", entry.company);
+			fprintf(f,"company:%s\n", entry.company);
 		if (entry.position != NULL)
-			printf("position:%s\n", entry.position);
+			fprintf(f,"position:%s\n", entry.position);
 		if (entry.publish_time != NULL)
-			printf("publish_time:%s\n", entry.publish_time);
+			fprintf(f,"publish_time:%s\n", entry.publish_time);
 		if (entry.workplace != NULL)
-			printf("workplace:%s\n", entry.workplace);
+			fprintf(f,"workplace:%s\n", entry.workplace);
 		if (entry.need_num != 0)
-			printf("need_num:%d\n", entry.need_num);
+			fprintf(f,"need_num:%d\n", entry.need_num);
 		if (entry.email != NULL)
-			printf("email:%s\n", entry.email);
+			fprintf(f,"email:%s\n", entry.email);
 		if (entry.tel != NULL)
-			printf("tel:%s\n", entry.tel);
+			fprintf(f,"tel:%s\n", entry.tel);
 		if (entry.skills != NULL)
-			printf("skills:%s\n", entry.skills);
+			fprintf(f,"skills:%s\n", entry.skills);
 		if(entry.raw_text!=NULL)
-			printf("raw_text:%s\n", entry.raw_text);
+			fprintf(f,"raw_text:%s\n", entry.raw_text);
+		if(urls[entry.id]!="")
+			fprintf(f,"url:%s\n", urls[entry.id].c_str());
+		fprintf(f,"\n");
 	}
+private:
+	FILE * f;
 };
 
 

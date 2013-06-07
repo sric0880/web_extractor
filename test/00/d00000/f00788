@@ -1,0 +1,817 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<title>北京凌阳爱普科技有限公司2013招聘-全职推荐</title>
+<head>
+<meta property="qc:admins" content="35413136776011446375636" />
+<meta http-equiv="keywords" content="2013校园招聘,HiAll,招聘,校园招聘,全职职位,实习职位,大学生求职,应届生求职"/>
+<meta http-equiv="description" content="HiAll，为应届毕业生或在校生提供最新、最全、最可靠的全职、实习招聘信息、宣讲会信息与各种求职资讯与资料，成为联动学生与雇主的纽带，覆盖北京、上海、广州、海外等地区。" />
+<meta name="generator" content="HiAll2.0" />
+<meta name="author" content="HiAll" />
+<meta name="copyright" content="2004-2012 HiAll." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<script src="http://file.hiall.com.cn/newhiall/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/jquery.validate.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/utils.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/u1.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frame/page.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/main.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frontpage/frontpage.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/manage.css" />
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2560481-2']);
+  _gaq.push(['_setDomainName', '.hiall.com.cn']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Google Analytics -->
+</head>
+<body>
+<div id="head">
+	<div id="headbody">
+		<div class="top">
+			<a href="/" class="head_logo floatleft"></a>
+			<div class="mid floatleft">
+			<form method="post" action="/search/infos.php">
+				<input type="text" class="head_search_input gray floatleft" maxlength="10" value="职位信息 如：管理培训生" id="searchkey" name="searchkey" onclick="if(this.value == '职位信息 如：管理培训生') this.value='';" onblur="if(this.value=='') this.value='职位信息 如：管理培训生';"/>
+				<div class="head_search_select gray pointer floatleft">
+					<div class="floatleft">
+						<div class="absolute">
+							<div class="relative head_search_select_optionbox" style="display:none; z-index:10;">
+								<ul class="head_search_select_option" id="choosecity-list">
+																<li id="r0">全部</li>
+																<li id="r1">北京</li>
+																<li id="r2">上海</li>
+																<li id="r40">广州</li>
+																<li id="r41">深圳</li>
+															</ul>
+							</div>
+						</div>
+					</div>
+					<span id="choosecity">全部</span>
+				</div>
+				<input type="hidden" name="regionid" id="regionid" value="0">
+				<input type="hidden" name="op" id="op" value="headersearch">
+				<input  type="button" class="button_head_search pointer floatleft" onclick="javascript:headerSearch(this);" />
+			</div>
+			</form>
+			<div class="right floatright">
+				<div class="head_greenicon_box floatleft">
+											<p><span class="white">个人用户</span></p>
+						<p><a href="/collect/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="http://bbs.hiall.com.cn/register_hiall.php" class="white">注册</a></p>		
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="head_blueicon_box floatleft">
+										<p><a class="white">企业用户</a></p>
+					<p><a href="/users/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="/users/register.php" class="white">注册</a></p>
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="vspacer floatleft"></div>
+				<div class="floatleft">
+					<p><a href="/info/about.php#t2" class="white">查看企业</p><p>服务项目</a></p>
+				</div>
+				<div class="vspacer floatleft"></div>
+			</div>
+		</div>
+		<div class="clear"></div>
+		<div class="bottom">
+
+<!--<div style="position:relative;">-->
+<ul class="head_nav floatleft">
+	<li hidefocus="true" ><a href="/" hidefocus="true">首页</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://bbs.hiall.com.cn" target="_blank" hidefocus="true">BBS</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true"  class="active"><a href="/info/" hidefocus="true">全职推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/part.php" hidefocus="true">实习推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/" hidefocus="true" target="_blank">宣讲会</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://www.hiall.com.cn/2011" hidefocus="true" target="_blank" class="menu_red">HiAll雇主专区</a></li>
+	<li hidefocus="true" class="fg"></li>
+    <!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/calendar/" hidefocus="true" target="_blank">2012校招日程</a></li>-->
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/special.php" hidefocus="true">专业招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/company/" hidefocus="true">名企招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/expire.php" hidefocus="true">申请截止</a></li>
+	<li hidefocus="true" class="fg"></li>
+    <li hidefocus="true"  style='padding-left:0px;'><a href="http://bbs.hiall.com.cn/forum-1054-1.html" hidefocus="true" target="_blank" style="color:red">2013名企求职礼包</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://wenda.hiall.com.cn/" hidefocus="true" target="_blank">HiAll一问一答</a></li>
+	<!--<li hidefocus="true" ><a href="http://edu.hiall.com.cn/" hidefocus="true" target="_blank">求职指导</a></li>-->
+	<!--<li hidefocus="true" ><a href="http://miaosha.hiall.com.cn/" hidefocus="true" target="_blank">职业秒杀</a></li>
+	<li hidefocus="true" class="fg"></li>-->
+	<!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/yinhang/" hidefocus="true" target="_blank" style="color:red">2012银行校园招聘</a></li>-->
+</ul>
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>
+<div id="loginfloat" style="background:red;psotion:absolute;display:none;">
+	<div class="fav_topbox floatleft">
+		<p class="h22"><span class="or b">登录后可以个性化你的收藏哦！</span><span class="gray">（用HiAll bbs账号直接登录）</span><span class="gray"><a href="javascript:;" onclick="closeCollect();">关闭</a></span></p>
+		<div class="spacer"></div>
+		<form method="post" accept-charset="GB2312" name="login" id="loginform1" class="gateform" action="http://bbs.hiall.com.cn/logging.php?action=login&amp;loginsubmit=yes">
+		<input type="hidden" name="formhash" value="e9f7b113" />
+		<input type="hidden" name="referer" id="referer" value="http://www.hiall.com.cn/collect/index.php" />
+		<div>
+			<p class="h22"><span>用户名：</span><span><input type="text" class="required normalinput grayborder" size="14" name="username" id="username1" title="用户名称不能为空！" /></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/register_hiall.php" class="gray underline">新用户注册</a></span><h3 id="returnmessage"></h3></p>
+			<div class="spacer"></div>
+			<p class="h22"><span>密&nbsp;&nbsp;码：</span><span><input type="password" class="required normalinput grayborder" size="14"  id="password4" name="password" title="密码不能为空！"/></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/logging.php?action=login" class="gray underline">忘记密码?</a></span></p>
+			<div class="spacer"></div>
+			<p class="fav_login_button h22"><input type="button" onclick="return ajaxpost('username1', 'password4', 'loginform1', 'returnmessage', 'returnmessage', 'onerror');" value="登  录"  class="button_or_2c white"/><span class="pdlr4"></span><a href="http://bbs.hiall.com.cn/register_hiall.php"><button class="button_or_5c white">新用户注册</button></a></p>
+		</div>
+		</form>
+	</div>
+</div>
+<div id="body">
+	<p class="h22 txtindent1 gray">当前位置：<a href='/'>首页</a> &gt; <a href='/info/'>全职推荐</a> &gt; 北京凌阳爱普科技有限公司2013招聘</p>
+	<!--<div class="bigbg reborder">-->
+    <div class="bigbg reborder" style="overflow:auto; _height:1%;">
+		<div id="leftcolumn" class="floatleft">
+            <div class="leftcolumn">
+				<p class="leftcolumn_title font14 b deepblack">行业分类</p>
+<ul class="left_nav">
+		<li><a href="/info/?businesses=1" >计算机•互联网•通信</a></li>
+		<li><a href="/info/?businesses=2" >电器•电子•家电</a></li>
+		<li><a href="/info/?businesses=3" >金融•投资•证券</a></li>
+		<li><a href="/info/?businesses=4" >咨询•财会•法律</a></li>
+		<li><a href="/info/?businesses=5" >贸易•消费•进出口</a></li>
+		<li><a href="/info/?businesses=6" >制药•生物•医疗</a></li>
+		<li><a href="/info/?businesses=7" >工业制造•能源•原材料</a></li>
+		<li><a href="/info/?businesses=8" >房地产•建筑•工程建设</a></li>
+		<li><a href="/info/?businesses=9" >广告•会展•公关</a></li>
+		<li><a href="/info/?businesses=10" >物流•仓储•运输</a></li>
+		<li><a href="/info/?businesses=11" >教育•培训•科研•院校</a></li>
+		<li><a href="/info/?businesses=12" >政府•公共事业•非盈利机构</a></li>
+		<li><a href="/info/?businesses=13" >服务业</a></li>
+		<li><a href="/info/?businesses=14" >农林牧渔•环保</a></li>
+		<li><a href="/info/?businesses=15" >跨领域经营 </a></li>
+		<li><a href="/info/?businesses=16" >其他</a></li>
+		<li><a href="/info/?businesses=17" >机械•自动化•仪器仪表行•重工业</a></li>
+		<li><a href="/info/?businesses=18" >汽车•摩托车行业 </a></li>
+		<li><a href="/info/?businesses=19" >旅游•酒店•餐饮服务</a></li>
+		<li><a href="/info/?businesses=20" >物业管理•商业中心</a></li>
+		<li><a href="/info/?businesses=21" >快速消费品(食品•饮料•日化•烟酒等)</a></li>
+		<li><a href="/info/?businesses=22" >家居•室内设计•装潢</a></li>
+		<li><a href="/info/?businesses=23" >石油•化工•采掘•冶炼</a></li>
+		<li><a href="/info/?businesses=24" >耐用消费品(服饰•纺织•家具）</a></li>
+		<li><a href="/info/?businesses=25" >媒体•文化传播•出版•影视</a></li>
+		<li><a href="/info/?businesses=26" >芯片•电子技术•半导体</a></li>
+		<li><a href="/info/?businesses=27" >批发•零售</a></li>
+	</ul>
+
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<p class="leftcolumn_title font14 b deepblack">热门公司推荐</p>
+<ul class="left_topcompany">
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1033-1.html">中国石化集团公司</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-212-1.html">中金(CICC)</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-183-1.html">英特尔（intel）</a></h1></li>
+	<li><h1><a href="http://www.hiall.com.cn/bbs/forum-188-1.html">联合利华Unilever</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-249-1.html">箭牌中国</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1241-1.html">完美时空</a></h1></li>
+</ul>			</div>
+			
+			
+		</div>
+		<div id="midcolumn" class="floatleft">
+			<div class="topnews">	
+	<div class="left floatleft lightblue">站内新闻</div>
+	<div class="right floatleft ">
+		<div class="floatleft">
+			<div class="absolute zindex200">
+				<a href="javascript:preMsg();" class="icon_arrow_blue_up relative floatleft" id="icon_arrow_blue_up"></a>
+			</div>
+		</div>
+		<div class="floatright">
+			<div class="absolute zindex200">
+				<a href="javascript:nextMsg();" class="icon_arrow_blue_down relative floatleft" id="icon_arrow_blue_down"></a>
+			</div>
+		</div>
+		<ul class="topnews_list" id="topnews_list" style="top:0px;">
+		<li id="msg_show"><a href="http://e.weibo.com/1801762575/zh96Xguz8" target="_blank" class="lightgray">关注HiAll校园招聘微信公众号：HiAllxyzhaopin，二维码在此，快来拍我！</a></li>					
+		</ul>
+		<ul style="display:none;">
+					<li id="msg_0"><a href="http://e.weibo.com/1801762575/zh96Xguz8" target="_blank" class="lightgray">关注HiAll校园招聘微信公众号：HiAllxyzhaopin，二维码在此，快来拍我！</a></li>			
+				</ul>
+		<input type="hidden" id="msg_count" value="1" />
+	</div>
+	<div class="clear"></div>
+</div>
+			<div class="clear spacer"></div>
+<div style="margin:5px 0px 0px 25px;">
+
+<script type="text/javascript"> var cpro_id = 'u249066'; </script>
+<script type="text/javascript" src="http://cpro.baidu.com/cpro/ui/c.js"></script>
+</div>
+			<div class="jobbox">
+				<div class="spacer"></div>
+				<div class="job_maininfo">
+					<h1 class="b font14">
+											北京凌阳爱普科技有限公司   
+						</h1>
+					<h1>所属行业：计算机•互联网•通信</h1>
+					<div class="spacer"></div>
+                    <div>
+                       	<div class="button_job floatleft">
+							<div class="button_right"><a href="/company/cid-20847.html" class="icon_jobbutton_ck blue">查看公司详情</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+																		<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn">信息修改/删除</a></div>
+						</div>
+                        <div class="clear"></div>
+                            
+                    </div>
+                    <div class="spacer"></div>
+                    <div class="spacer"></div>
+                    <div>
+                        <div class="floatleft">
+                        <!-- Baidu Button BEGIN -->
+                        <div id="bdshare" class="bdshare_b" style="line-height: 12px;"><img src="http://bdimg.share.baidu.com/static/images/type-button-1.jpg" />
+                            <a class="shareCount"></a>
+                        </div>
+                        <script type="text/javascript" id="bdshare_js" data="type=button" ></script>
+                        <script type="text/javascript" id="bdshell_js"></script>
+                        <script type="text/javascript">
+                            document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+                        </script>
+                        <!-- Baidu Button END -->
+                        </div>
+                    </div>
+                    				</div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<p>
+								</p>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="job_detail">
+					<h1 class="positiontitle">北京凌阳爱普科技有限公司2013招聘</h1>
+					<div class="spacer"></div>
+					<div class="spacer4"></div>
+						<p>
+该职位已发布超过<span class="pdlr or">73</span>天
+
+						<span class="pdlr"></span><span>编号：271073</span>
+						<span class="pdlr"></span></p>
+					<div class="spacer"></div>
+					<p>						
+						<span>工作地区：北京/深圳/成都/其他</span>
+						<span class="pdlr"></span>
+						<span>更新时间：2013-05-15</span>
+					</p>
+<div style="border-top:1px solid #C3DBE8; margin-top: 8px;"></div>
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<div style="overflow:auto;">
+						<p align="left" style="text-align: left; line-height: 150%; text-indent: 21pt"><span style="line-height: 150%; font-family: 宋体">北京凌阳爱普科技有限公司系全球第十二大</span><span style="line-height: 150%; font-family: Verdana">IC</span><span style="line-height: 150%; font-family: 宋体">设计公司</span><span style="line-height: 150%; font-family: Verdana">-</span><span style="line-height: 150%; font-family: 宋体">台湾凌阳科技（</span><span style="line-height: 150%; font-family: Verdana">sunplus</span><span style="line-height: 150%; font-family: 宋体">）在大陆投资设立的子公司，前身为成立于</span><span style="line-height: 150%; font-family: Verdana">2001</span><span style="line-height: 150%; font-family: 宋体">年的凌阳科技大学计划。在竞争日益激烈的高新技术行业，凌阳爱普彰显除强大的竞争力，具备良好的发展前景。</span><span style="line-height: 150%; font-family: Verdana"><br />
+</span><span style="line-height: 150%; font-family: 宋体">从大学计划成立以来，以</span><span style="line-height: 150%; font-family: Verdana">&ldquo;</span><span style="line-height: 150%; font-family: 宋体">为中国数码教育尽份心力</span><span style="line-height: 150%; font-family: Verdana">&rdquo;</span><span style="line-height: 150%; font-family: 宋体">的宗旨，积极致力于高校的公益教育推广活动，如今已在全国</span><span style="line-height: 150%; font-family: Verdana">400</span><span style="line-height: 150%; font-family: 宋体">余所高校共建嵌入式和单片机实验室。</span><span style="line-height: 150%; font-family: Verdana"><br />
+</span><span style="line-height: 150%; font-family: 宋体">随着凌阳大学计划影响力的不断增大，在原有</span><span style="line-height: 150%; font-family: Verdana">16</span><span style="line-height: 150%; font-family: 宋体">位单片机推广、</span><span style="line-height: 150%; font-family: Verdana">8</span><span style="line-height: 150%; font-family: 宋体">位及</span><span style="line-height: 150%; font-family: Verdana">16</span><span style="line-height: 150%; font-family: 宋体">位工业级单片机芯片方案开发等业务的基础上，产品逐渐发展，于</span><span style="line-height: 150%; font-family: Verdana">07</span><span style="line-height: 150%; font-family: 宋体">年向高校及业界隆重推出了凌阳</span><span style="line-height: 150%; font-family: Verdana">32</span><span style="line-height: 150%; font-family: 宋体">位嵌入式实验设备</span><span style="line-height: 150%; font-family: Verdana">&mdash;SPCE3200</span><span style="line-height: 150%; font-family: 宋体">实验设备，为高校的嵌入式教学提供更为丰富的教学资源及更完善的服务。同时，也相继推出了针对于高校应届毕业生的电子人才网站以及嵌入式培训项目。</span><span style="line-height: 150%; font-family: Verdana"><br />
+</span><span style="line-height: 150%; font-family: 宋体">从创立之日起，凌阳爱普便将</span><span style="line-height: 150%; font-family: Verdana">&quot;</span><span style="line-height: 150%; font-family: 宋体">助力客户、塑造一流、服务社会、报效祖国</span><span style="line-height: 150%; font-family: Verdana">&quot;</span><span style="line-height: 150%; font-family: 宋体">作为公司的奋斗目标，积极履行自己对社会所承担的义务，为中国电子科技的发展做出贡献。</span></p>
+<p align="left" style="text-align: left; line-height: 150%; text-indent: 21pt"><span style="line-height: 150%; font-family: 宋体">针对目前的人才培养及就业形势，凌阳爱普科技有限公司还提供了电子工程师培训，电子人才中介服务项目，为高校学生及想从事嵌入式行业人士提供技术培训及更好的就业机会。 </span></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">凌阳教育嵌入式培训</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%; text-indent: 21pt"><span style="line-height: 150%; font-family: 宋体; color: black">凌阳教育嵌入式培训，<span>&ldquo;</span>全国唯一原厂嵌入式培训<span>&rdquo;</span>，<span>&ldquo;</span>全国唯一按班公布学员就业去向机构<span>&rdquo;</span>。截止<span>2012</span>年<span>12</span>月，凌阳教育嵌入式培训已经连续<span>38</span>期<span>100%</span>就业，在<span>&ldquo;</span>中国教育盛典<span>&rdquo;</span>中分别荣膺<span>&ldquo;2008</span>年中国十大品牌<span>IT</span>教育机构<span>&rdquo;</span>、<span>&ldquo;2009</span>年度最具就业竞争力<span>IT</span>教育机构<span>&rdquo;</span>、&ldquo;<span>2011</span>年新华网年度最具创新力品牌职业教育机构&rdquo;荣誉称号。</span></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">凌阳教育嵌入式培训<span>&mdash;&mdash;</span>课程体系</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%; text-indent: 21pt"><span style="line-height: 150%; font-family: 宋体; color: black">专业课程<span>&mdash;&mdash;</span>包括嵌入式<span>C</span>语言高级编程、<span>Linux</span>操作系统、<span>Linux</span>系统基础编程、<span>Linux</span>系统网络编程、<span>C </span>及<span>GUI</span>开发、<span>ARM</span>体系、嵌入式<span>Linux</span>平台、嵌入式驱动八大章节。<span><br />
+</span>职业课程<span>&mdash;&mdash;</span>包括个性修炼、职业心态、时间管理、商务礼仪、积极沟通、团队合作、人际关系、职业规划等内容。</span></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">凌阳教育嵌入式培训<span>&mdash;&mdash;</span>就业保证</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%; text-indent: -18pt; margin-left: 36.05pt; tab-stops: list 36.05pt"><span style="line-height: 150%; font-family: 宋体; color: black"><span>1、<span style="font: 7pt &quot;Times New Roman&quot;; font-size-adjust: none; font-stretch: normal"> </span></span></span><span style="line-height: 150%; font-family: 宋体; color: black">凌阳教育学员试听一周满意后签订就业协议，保证<span>100%</span>就业（绝非推荐就业）。 </span></p>
+<p align="left" style="text-align: left; line-height: 150%; text-indent: -18pt; margin-left: 36.05pt; tab-stops: list 36.05pt"><span style="line-height: 150%; font-family: 宋体; color: black"><span>2、<span style="font: 7pt &quot;Times New Roman&quot;; font-size-adjust: none; font-stretch: normal"> </span></span></span><span style="line-height: 150%; font-family: 宋体; color: black">凌阳教育就业实行<span>&ldquo;</span>双<span>100%</span>制度<span>&rdquo;</span>，保证所有学员<span>100%</span>就业，保证所有学员<span>100%</span>满意就业。</span></p>
+<p align="left" style="text-align: left; line-height: 150%; text-indent: -18pt; margin-left: 36.05pt; tab-stops: list 36.05pt"><span style="line-height: 150%; font-family: 宋体; color: black"><span>3、<span style="font: 7pt &quot;Times New Roman&quot;; font-size-adjust: none; font-stretch: normal"> </span></span></span><span style="line-height: 150%; font-family: 宋体; color: black">凌阳教育<span>&mdash;&mdash;</span>全国唯一按班公布学员就业去向诚信机构。</span></p>
+<p align="left" style="text-align: left; line-height: 150%; margin-left: 18.05pt"><span style="line-height: 150%; font-family: 宋体; color: black">地址：北京市海淀区上地信息产业基地中黎科技园<span>1</span>号楼<span>3</span>层<span>A</span>段</span></p>
+<p align="left" style="text-align: left; line-height: 150%; text-indent: 42pt"><span style="line-height: 150%; font-family: 宋体; color: black">广东省深圳市高新技术产业园南区<span>T2-A-a</span></span></p>
+<p align="left" style="text-align: left; line-height: 150%; margin-left: 18.05pt"><span style="line-height: 150%; font-family: 宋体; color: black">邮编： <span>100085</span></span></p>
+<p align="left" style="text-align: left; line-height: 150%; margin-left: 18.05pt"><span style="line-height: 150%; font-family: 宋体; color: black">电话：（<span>010</span>）<span>62981113</span></span></p>
+<p align="left" style="text-align: left; line-height: 150%; margin-left: 18.05pt"><span style="line-height: 150%; font-family: 宋体; color: black">传真：（<span>010</span>）<span>62981113-2992</span></span></p>
+<p>&nbsp;</p>
+<p style="line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">福利待遇</span></b></p>
+<p>
+<table border="1" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td width="80" style="padding-bottom: 0cm; padding-left: 0cm; width: 59.75pt; padding-right: 0cm; padding-top: 0cm">
+            <p align="center" style="text-align: center; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">项<span><span> </span></span>目</span></b></p>
+            </td>
+            <td width="476" style="padding-bottom: 0cm; padding-left: 0cm; width: 357.05pt; padding-right: 0cm; padding-top: 0cm">
+            <p align="center" style="text-align: center; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">内<span><span> </span></span>容</span></b></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="80" style="padding-bottom: 0cm; padding-left: 0cm; width: 59.75pt; padding-right: 0cm; padding-top: 0cm">
+            <p align="left" style="text-align: left; line-height: 150%"><span style="line-height: 150%; font-family: 宋体; color: black">工作时间</span></p>
+            </td>
+            <td width="476" style="padding-bottom: 0cm; padding-left: 0cm; width: 357.05pt; padding-right: 0cm; padding-top: 0cm">
+            <p align="left" style="text-align: left; line-height: 150%"><span style="line-height: 150%; font-family: 宋体; color: black">5</span><span style="line-height: 150%; font-family: 宋体; color: black">天<span>8</span>小时工作制，提供住宿。 </span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="80" style="padding-bottom: 0cm; padding-left: 0cm; width: 59.75pt; padding-right: 0cm; padding-top: 0cm">
+            <p align="left" style="text-align: left; line-height: 150%"><span style="line-height: 150%; font-family: 宋体; color: black">保<span> </span>险</span></p>
+            </td>
+            <td width="476" style="padding-bottom: 0cm; padding-left: 0cm; width: 357.05pt; padding-right: 0cm; padding-top: 0cm">
+            <p align="left" style="text-align: left; line-height: 150%"><span style="line-height: 150%; font-family: 宋体; color: black">五险一金，额外为每位员工办理意外伤害保险、重大疾病保险，提供每两年一次大型健康体检</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="80" style="padding-bottom: 0cm; padding-left: 0cm; width: 59.75pt; padding-right: 0cm; padding-top: 0cm">
+            <p align="left" style="text-align: left; line-height: 150%"><span style="line-height: 150%; font-family: 宋体; color: black">休<span> </span>假</span></p>
+            </td>
+            <td width="476" style="padding-bottom: 0cm; padding-left: 0cm; width: 357.05pt; padding-right: 0cm; padding-top: 0cm">
+            <p align="left" style="text-align: left; line-height: 150%"><span style="line-height: 150%; font-family: 宋体; color: black">1</span><span style="line-height: 150%; font-family: 宋体; color: black">、享国家规定各类假别外，享有婚假、产假、陪产假，丧假等；含各类假别礼金及慰问金</span></p>
+            <p align="left" style="text-align: left; line-height: 150%"><span style="line-height: 150%; font-family: 宋体; color: black">2</span><span style="line-height: 150%; font-family: 宋体; color: black">、服务满一年后，享有<span>5</span>天带薪年假</span></p>
+            </td>
+        </tr>
+        <tr style="height: 15.8pt">
+            <td width="80" style="padding-bottom: 0cm; padding-left: 0cm; width: 59.75pt; padding-right: 0cm; height: 15.8pt; padding-top: 0cm">
+            <p align="left" style="text-align: left; line-height: 150%"><span style="line-height: 150%; font-family: 宋体; color: black">薪<span><span> </span></span>金</span></p>
+            </td>
+            <td width="476" style="padding-bottom: 0cm; padding-left: 0cm; width: 357.05pt; padding-right: 0cm; height: 15.8pt; padding-top: 0cm">
+            <p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; color: black">享每年调薪及年终奖金</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="80" style="padding-bottom: 0cm; padding-left: 0cm; width: 59.75pt; padding-right: 0cm; padding-top: 0cm">
+            <p align="left" style="text-align: left; line-height: 150%"><span style="line-height: 150%; font-family: 宋体; color: black">文康活动</span></p>
+            </td>
+            <td width="476" style="padding-bottom: 0cm; padding-left: 0cm; width: 357.05pt; padding-right: 0cm; padding-top: 0cm">
+            <p><span>1</span><span style="font-family: 宋体">、公司每年举行一次大型的旅游活动</span></p>
+            <p><span>2</span><span style="font-family: 宋体">、公司成立乒乓球﹑羽毛球各类社团</span></p>
+            <p><span>3</span><span style="font-family: 宋体">、中秋、元旦等传统节日的庆祝活动</span></p>
+            <p><span>4</span><span style="font-family: 宋体">、尾牙大型晚会</span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</p>
+<p style="line-height: 150%">&nbsp;</p>
+<p style="line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">关于我们</span></b></p>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; color: black">1</span><span style="line-height: 150%; font-family: 宋体; color: black">、我们没有办公室政治，你完全可以按照自己的方式做事，处处感受到自由和被信任。 </span></p>
+<p style="line-height: 150%; text-indent: 15.75pt"><span style="line-height: 150%; font-family: 宋体; color: black">2</span><span style="line-height: 150%; font-family: 宋体; color: black">、我们没有权威，只有真理，你可以随时随地与任何人讨论问题，处处感受到简单和平的沟通。 </span></p>
+<p style="line-height: 150%; text-indent: 15.75pt"><span style="line-height: 150%; font-family: 宋体; color: black">3</span><span style="line-height: 150%; font-family: 宋体; color: black">、我们年轻的氛围，让每一位同仁都充满朝气，你会发现在凌阳教育工作的每一天都如此有趣。 </span></p>
+<p style="line-height: 150%; text-indent: 15.75pt"><span style="line-height: 150%; font-family: 宋体; color: black">4</span><span style="line-height: 150%; font-family: 宋体; color: black">、我们都始终认为我们还是一个处于创业阶段的小破公司，我们很年轻，但我们不知天高地厚、梦想伟大。 </span></p>
+<p style="line-height: 150%; text-indent: 10.5pt"><span style="line-height: 150%; font-family: 宋体; color: black">5</span><span style="line-height: 150%; font-family: 宋体; color: black">、我们希望给你的，不仅仅是一份工作，更是一份事业，甚至，是一种生活方式，一段精彩人生。</span></p>
+<p style="line-height: 150%; text-indent: 10.5pt">&nbsp;</p>
+<p style="line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">特别说明</span></b></p>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; color: black">1</span><span style="line-height: 150%; font-family: 宋体; color: black">、如果你有激情有梦想，并能持之以恒坚持不懈，想成就一番事业，请选择我们。</span></p>
+<p style="line-height: 150%; text-indent: 5.25pt"><span style="line-height: 150%; font-family: 宋体; color: black">2</span><span style="line-height: 150%; font-family: 宋体; color: black">、如果你只是寻找一份工作，信奉平平淡淡也是真，那我们会祝福你，但咱们没有携手的缘分。</span></p>
+<p style="line-height: 150%">&nbsp;</p>
+<p align="center" style="text-align: center; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: blue; font-size: 14pt">2013</span></b><b><span style="line-height: 150%; font-family: 宋体; color: blue; font-size: 14pt">年北京凌阳爱普科技有限公司校园招聘信息</span></b></p>
+<p style="line-height: 150%">&nbsp;</p>
+<p style="line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: blue">招聘职位如下：</span></b></p>
+<p style="line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体">销售代表</span></b></p>
+<p style="line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体">招聘人数：若干 </span></b></p>
+<p style="line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体">工作地点：北京、<a class="word_link" href="http://www.jobyun.com/s_%B3%A4%C9%B3" target="_blank">长沙</a>、长春、沈阳、南昌、合肥、南京、深圳、南宁、郑州、<a class="word_link" href="http://www.2yearjob.com/wuhan/" target="_blank">武汉</a>、西安、福州</span></b></p>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; color: black">任职要求：<span><br />
+1</span>、男生，统招大专、本科及以上学历，电子、计算机或市场营销等相关专业<span><br />
+2</span>、诚实勤奋，有创业激情想成就事业者；<span><br />
+3</span>、性格外向，良好的沟通能力和亲和力，可承受强压工作者；<span><br />
+4</span>、在校做过销售类勤工俭学工作，担任过班干部或社团干部者；<span> <br />
+5</span>、市场拓展能力强，具有较强的陌生拜访及挖掘客户能力；</span></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">课程顾问</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">招聘人数：<span>4</span>人</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">工作地点：北京海淀、四川<a class="word_link" href="http://www.2yearjob.com/chengdu/" target="_blank">成都</a>、广东深圳</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><span style="line-height: 150%; font-family: 宋体; color: black">任职要求：</span></p>
+<p style="line-height: 150%; text-indent: -18pt; margin-left: 18pt; tab-stops: list 18.0pt"><span><span>1、<span style="font: 7pt &quot;Times New Roman&quot;; font-size-adjust: none; font-stretch: normal"> </span></span></span><span>2013</span><span style="font-family: 宋体">年应届毕业生，大专以上学历，身体健康，<b>女生优先</b>；</span></p>
+<p style="line-height: 150%; text-indent: -18pt; margin-left: 18pt; tab-stops: list 18.0pt"><span style="line-height: 150%"><span>2、<span style="font: 7pt &quot;Times New Roman&quot;; font-size-adjust: none; font-stretch: normal"> </span></span></span><span style="font-family: 宋体">具备良好的沟通技巧和说服能力，较强的学习能力，有良好责任心、事业心、进取心和团队合作精神；</span></p>
+<p style="line-height: 150%; text-indent: -18pt; margin-left: 18pt; tab-stops: list 18.0pt"><span style="line-height: 150%"><span>3、<span style="font: 7pt &quot;Times New Roman&quot;; font-size-adjust: none; font-stretch: normal"> </span></span></span><span style="font-family: 宋体">善于把握交谈对象的心理活动，有极强的洞察力；</span></p>
+<p style="line-height: 150%; text-indent: -18pt; margin-left: 18pt; tab-stops: list 18.0pt"><span style="line-height: 150%"><span>4、<span style="font: 7pt &quot;Times New Roman&quot;; font-size-adjust: none; font-stretch: normal"> </span></span></span><span style="font-family: 宋体">具备出色的学习能力：有学习意识及意愿、头脑聪明灵活、能够快速掌握相关知识技能；</span></p>
+<p style="line-height: 150%; text-indent: -18pt; margin-left: 18pt; tab-stops: list 18.0pt"><span style="line-height: 150%"><span>5、<span style="font: 7pt &quot;Times New Roman&quot;; font-size-adjust: none; font-stretch: normal"> </span></span></span><span style="font-family: 宋体">具备较强的韧性能够承受工作压力：在压力下很好的调节能力、能承受挫折；</span></p>
+<p style="line-height: 150%; text-indent: -18pt; margin-left: 18pt; tab-stops: list 18.0pt"><span style="line-height: 150%"><span>6、<span style="font: 7pt &quot;Times New Roman&quot;; font-size-adjust: none; font-stretch: normal"> </span></span></span><span style="font-family: 宋体">热爱教育培训事业</span><span> ,</span><span style="font-family: 宋体">对销售类工作感兴趣，有良好的职业道德；</span></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">嵌入式开发工程师</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">招聘人数：若干</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">工作地点：北京海淀</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><span style="line-height: 150%; font-family: 宋体; color: black">任职要求：</span></p>
+<p align="left" style="text-align: left; line-height: 150%"><span style="line-height: 150%; font-family: 宋体; color: black">1</span><span style="line-height: 150%; font-family: 宋体; color: black">、精通<span>C</span>语言及<span>C </span>及相关开发工具<span><br />
+2</span>、熟悉<span>java</span>语言开发，有<span>j2ME</span>开发经验者优先<span><br />
+3</span>、熟悉<span>Linux</span>环境使用与编程<span><br />
+4</span>、对硬件接口、嵌入式软件设计有一定的了解<span><br />
+5</span>、有单片机编程经验者优先<span><br />
+5</span>、参加电子竞赛且获奖者优先<span><br />
+6</span>、有一定英文阅读能力<span><br />
+7</span>、具有出色的工作责任心、团队沟通管理能力和敬业精神，能够适应高强度工作<span><br />
+8</span>、本科以上学历，电子、计算机类等相关专业在校学生。</span></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体">Android</span></b><b><span style="line-height: 150%; font-family: 宋体">应用工程师</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">招聘人数：若干</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">工作地点：北京海淀</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><span style="line-height: 150%; font-family: 宋体; color: black">任职要求：</span><span style="line-height: 150%; font-size: 9pt"><br />
+</span><span style="line-height: 150%; font-family: 宋体">1</span><span style="line-height: 150%; font-family: 宋体">、本科及以上学历，计算机、电子或相关专业<span><br />
+2</span>、<span><a class="word_link" href="http://zhiwei.yingjiesheng.com/java/" target="_blank">Java</a></span>基本功扎实，<span>Android</span>平台<span>1</span>年以上产品开发经验<span><br />
+3</span>、熟悉<span>Android</span>应用开发框架，能独立开发高性能的<span>Android</span>应用<span><br />
+4</span>、熟悉<span>Android</span>环境下<span> UI</span>、数据库开发<span><br />
+5</span>、熟悉<span>Android</span>环境下<span>Socket</span>通信、<span>HTTP</span>编程<span><br />
+6</span>、对数据结构、基本算法熟练掌握，并具备基本的算法设计能力 <span><br />
+7</span>、有授课、演讲经验者优先<span><br />
+8</span>、有<span>Android</span>系统及平台开发经验者优先。<span><br />
+9</span>、作事积极主动，具有高度的责任感与团队合作精神，有良好的沟通能力</span></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体">硬件测试工程师</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">招聘人数：若干</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">工作地点：北京海淀</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><span style="line-height: 150%; font-family: 宋体; color: black">任职要求：</span></p>
+<p align="left" style="text-align: left; line-height: 150%"><span style="line-height: 150%; font-family: 宋体; color: black">1</span><span style="line-height: 150%; font-family: 宋体; color: black">、有电子及相关专业，本科以上学历；<span><br />
+2</span>、工作态度积极，责任心强，良好的团队合作精神<span><br />
+3</span>、有电子电器生产焊接经验者优先</span></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体">就业专员</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">招聘人数：<span>3</span>人</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">工作地点：深圳、成都、北京</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><span style="line-height: 150%; font-family: 宋体; color: black">任职要求：<span><br />
+1.</span>大专以上学历，人力资源或计算机、电子相关专业；<span><br />
+2.</span>有较好的组织策划及沟通协调能力；<span><br />
+3.</span>较强的文字表达能力和演讲能力，能够对学员进行指导和培训； <span><br />
+4.</span>有良好的职业形象和亲和力，并能承受一定的工作压力；<span><br />
+5.</span>有爱心，有明显的意愿在教育培训行业发展，在人力资源管理方面提升愿望的优先。</span></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体">班级管理师</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">招聘人数：<span>1</span>人</span></b></p>
+<p align="left" style="text-align: left"><b><span style="font-family: 宋体; color: black">工作地点：北京海淀</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><span style="line-height: 150%; font-family: 宋体">任职要求：<span><br />
+1</span>、熟悉计算机行业，热爱培训事业，对职业教育有独特的见解；<span><br />
+2</span>、工作细致、责任心强，具备良好的职业素养；<span><br />
+3</span>、良好的书面、口头表达能力，工作条理性强，应变能力、协调、沟通控制能力好；<span><br />
+4</span>、良好的学习能力，善于与人交流，非常强的亲和力；<span><br />
+5</span>、能承受压力，踏实本分，吃苦耐劳，可适应加班；<span><br />
+6</span>、良好的服务意识和协作精神。</span></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">商务助理</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">招聘人数：<span>1</span>人</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">工作地点：北京海淀</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><span style="line-height: 150%; font-family: 宋体; color: black">任职要求：<span><br />
+1</span>、<span>2013</span>年本科应届毕业生 <span><br />
+2</span>、性格外向，良好的沟通能力和亲和力； <span><br />
+3</span>、诚实勤奋，可以经受一定的工作压力者； <span><br />
+4</span>、本科以上学历，电子类等相关专业； <span><br />
+5</span>、在校期间有做过销售类勤工俭学工作； <span><br />
+6</span>、担任过班干部或社团负责人，组织过集体活动；</span></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">区域销售代表</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">招聘人数：若干</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">工作地点：<a class="word_link" href="http://www.2yearjob.com/lanzhou/" target="_blank">兰州</a>、南昌、南宁、沈阳</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">任职要求<span>:</span></span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><span style="line-height: 150%; font-family: 宋体; color: black">1</span><span style="line-height: 150%; font-family: 宋体; color: black">、性格外向，良好的沟通能力和亲和力； <span><br />
+2</span>、诚实勤奋，可以经受一定的工作压力者； <span><br />
+3</span>、本科以上学历，电子类等相关专业；有一定单片机、嵌入式基础； <span><br />
+4</span>、在校期间有做过销售类勤工俭学工作； <span><br />
+5</span>、担任过班干部或社团负责人，组织过集体活动；<span> <br />
+6</span>、能够适应长期出差； <span><br />
+7</span>、参加电子竞赛且获奖者优先；<span><br />
+8</span>、实际工作地点根据工作需要进行安排，平时在驻地工作，寒暑假在北京工作； </span></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体">网站编辑</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">招聘人数：若干</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">工作地点：北京海淀</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><span style="line-height: 150%; font-family: 宋体; color: black">任职要求：</span></p>
+<p align="left" style="text-align: left; line-height: 150%"><span style="line-height: 150%; font-family: 宋体; color: black">1</span><span style="line-height: 150%; font-family: 宋体; color: black">、编辑、出版、新闻、中文等相关专业大专及以上学历。</span></p>
+<p align="left" style="text-align: left; line-height: 150%"><span style="line-height: 150%; font-family: 宋体; color: black">2</span><span style="line-height: 150%; font-family: 宋体; color: black">、文字功底扎实，具有较强的新闻敏感性和新闻选择能力，善于信息搜索与编辑整理，具有较强的选题、策划、采编能力，能撰写原创文章；</span></p>
+<p align="left" style="text-align: left; line-height: 150%"><span style="line-height: 150%; font-family: 宋体; color: black">3</span><span style="line-height: 150%; font-family: 宋体; color: black">、具有网站和论坛的运营经验，能够独立策划、组织线上线下活动；</span></p>
+<p align="left" style="text-align: left; line-height: 150%"><span style="line-height: 150%; font-family: 宋体; color: black">4</span><span style="line-height: 150%; font-family: 宋体; color: black">、熟练操作<span>photoshop</span>、<span>dreamweaver</span>等设计软件，了解网站开发、运行及维护的相关知识。</span></p>
+<p align="left" style="text-align: left; line-height: 150%"><span style="line-height: 150%; font-family: 宋体; color: black">5</span><span style="line-height: 150%; font-family: 宋体; color: black">、有教育行业相关工作经验者优先。</span></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体">市场专员</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">招聘人数：<span>1</span>人</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><b><span style="line-height: 150%; font-family: 宋体; color: black">工作地点：北京海淀</span></b></p>
+<p align="left" style="text-align: left; line-height: 150%"><span style="line-height: 150%; font-family: 宋体; color: black">任职要求： <span><br />
+1</span>、对市场营销工作有较深刻认知；<span><br />
+2</span>、有较强的市场感知能力，敏锐地把握市场动态、市场方向的能力；<span><br />
+3</span>、有密切的媒体合作关系，具备大型活动的现场管理能力； <span><br />
+4</span>、工作努力，积极进取，良好的沟通、协调、组织能力； <span><br />
+5</span>、高度的工作热情，良好的团队合作精神； <span><br />
+6</span>、较强的观察力和应变能力。<span><br />
+7</span>、电子类相关专业优先。<span><br />
+8</span>、有教学设备市场经验优先</span></p>
+<p><b><span style="font-family: 宋体">阳教育嵌入式培训生</span></b></p>
+<p><span style="font-family: 宋体">任务要求：</span><span><br />
+</span><span style="font-family: 宋体">接受凌阳教育为期四个月嵌入式培训，培训后</span><span>100%</span><span style="font-family: 宋体">保证就业</span><span><br />
+</span><span style="font-family: 宋体">凌阳教育，</span><span>&ldquo;</span><span style="font-family: 宋体">全国唯一原厂嵌入式培训</span><span>&rdquo;</span><span style="font-family: 宋体">，截止</span><span>2012</span><span style="font-family: 宋体">年</span><span>7</span><span style="font-family: 宋体">月，凌阳教育嵌入式培训已经连续</span><span>38</span><span style="font-family: 宋体">期</span><span>100%</span><span style="font-family: 宋体">就业，在</span><span>2008</span><span style="font-family: 宋体">年、</span><span>2009</span><span style="font-family: 宋体">年、</span><span>2010</span><span style="font-family: 宋体">年、</span><span>2011</span><span style="font-family: 宋体">年，凌阳教育连续四年荣膺新浪</span><span>&ldquo;</span><span style="font-family: 宋体">中国十大品牌</span><span>IT</span><span style="font-family: 宋体">教育机构</span><span>&rdquo;</span><span style="font-family: 宋体">、</span><span>&ldquo;</span><span style="font-family: 宋体">最具就业竞争力</span><span>IT</span><span style="font-family: 宋体">教育机构</span><span>&rdquo;</span><span style="font-family: 宋体">、搜狐</span><span>&ldquo;</span><span style="font-family: 宋体">中国十大品牌</span><span>IT</span><span style="font-family: 宋体">培训机构</span><span>&rdquo;</span><span style="font-family: 宋体">、网易</span><span>&ldquo;</span><span style="font-family: 宋体">中国十大</span><span>IT</span><span style="font-family: 宋体">教育品牌</span><span>&rdquo;</span><span style="font-family: 宋体">和新华网</span><span>&ldquo;2011</span><span style="font-family: 宋体">年度最具创新力品牌职业教育机构</span><span>&rdquo;</span><span style="font-family: 宋体">荣誉称号，缔造了中国嵌入式培训领域，唯一荣获四大主流媒体共同认可和表彰</span><span>&ldquo;IT</span><span style="font-family: 宋体">职业教育品牌</span><span>&rdquo;</span><span style="font-family: 宋体">。</span></p>
+<p><span style="font-family: 宋体">专业课程：经过国际国内知名</span><span>IT</span><span style="font-family: 宋体">厂商认证，按照企业的项目管理制度和</span><span style="font-family: Arial; color: rgb(51,51,51)"><a href="http://www.jobui.com/joblists/-项目开发/"><span style="font-family: 宋体; color: rgb(51,51,51); text-decoration: none; text-underline: none"><span><u>项目开发</u></span></span></a></span><span style="font-family: 宋体">方式开展。</span><span><br />
+</span><span style="font-family: 宋体">职业素质课程：通过系统的拓展训练、团队活动、商业实战、性格测评、职业规划等活动，让学员具备企业所需的职业素质。</span><span><br />
+</span><b><span style="font-family: 宋体">基本要求：</span><span><br />
+</span></b><span>1</span><span style="font-family: 宋体">、计算机、电子、自动化、信息工程等相关专业</span><span><br />
+2</span><span style="font-family: 宋体">、大学专科及专科以上学历</span><span><br />
+3</span><span style="font-family: 宋体">、流程：报名－笔试－面试－签订培训协议－</span><span>100%</span><span style="font-family: 宋体">就业</span><span><br />
+4</span><span style="font-family: 宋体">、待</span> <span style="font-family: 宋体">遇：</span> <span style="font-family: 宋体">学员毕业后薪水</span><span>4500&mdash;&mdash;6000</span><span style="font-family: 宋体">元</span><span>/</span><span style="font-family: 宋体">月</span><span><br />
+</span><span style="font-family: 宋体">备注：</span><span><br />
+</span><span style="font-family: 宋体">我们学习时间：周一－周六</span><span>8:00-21:30</span><span style="font-family: 宋体">（不能适应高压者请慎重考虑）</span><span><br />
+</span><span style="font-family: 宋体">我们学习环境：凌阳公司内部，完全企业环境（企业文化的熏陶是我们学员的重要特色）</span><span><br />
+</span><span style="font-family: 宋体">我们上课方式：学员以凌阳公司新人身份参加培训（公司的规章制度让我们的学员更具职业素质）</span><span><br />
+</span><span style="font-family: 宋体">我们培训承诺：我们能承诺的就是我们能做到的（培训要讲良心，要对得起学员父母的血汗钱）</span><span><br />
+</span><span style="font-family: 宋体">我们学习地点：北京市海淀区上地信息产业基地中黎科技园一号楼三层（欢迎实地考察参观）</span></p>
+<p><span style="font-family: 宋体">深圳南山科技园清华研究园对面</span></p>
+<h2><span style="font-family: 黑体">联系方式</span></h2>
+<p style="line-height: 150%; background: white; vertical-align: top"><b><span style="line-height: 150%; font-family: 宋体; color: black">E-mail</span></b><b><span style="line-height: 150%; font-family: 宋体; color: black">：<span><a href="mailto:18620852467@163.com">18620852467@163.com</a><span> </span>shixing.chen@sunplusapp.com</span></span></b></p>
+<p style="line-height: 150%; background: white; vertical-align: top"><b><span style="line-height: 150%; font-family: 宋体; color: black">公司网址：</span></b></p>
+<p style="line-height: 150%; background: white; vertical-align: top"><b><span style="line-height: 150%; font-family: 宋体; color: black">凌阳科技<span>:<a href="http://www.sunplus.com/">www.sunplus.com</a> </span></span></b></p>
+<p style="line-height: 150%; background: white; vertical-align: top"><b><span style="line-height: 150%; font-family: 宋体; color: black">凌阳爱普<span>:www.sunplusapp.com</span></span></b></p>
+<p style="line-height: 150%; background: white; vertical-align: top"><b><span style="line-height: 150%; font-family: 宋体; color: black">凌阳教育<span>:www.sunplusedu.com</span></span></b></p>					</div>
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<p ><a href="http://wenda60.com" target="_blank" style="font-size:14px; color:#2B68E9">>>练练该公司的招聘笔试题 </a><script type="text/javascript"><!--
+google_ad_client = "ca-pub-9486753476951928";
+/* 底部广告 */
+google_ad_slot = "1009061790";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p> 					
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<div>
+						<div class="floatleft">
+                        <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_b" style="line-height: 12px;"><img src="http://bdimg.share.baidu.com/static/images/type-button-1.jpg" />
+                                <a class="shareCount"></a>
+                           
+						  </div>
+                        <script type="text/javascript" id="bdshare_js" data="type=button" ></script>
+                        <script type="text/javascript" id="bdshell_js"></script>
+                        <script type="text/javascript">
+                            document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+                        </script>
+                        <!-- Baidu Button END -->
+						</div>
+						<div class="button_job_or floatleft">
+							<!--<div class="button_right"><a href="javascript:;" onclick="collect(2, 271073);" class="icon_jobbutton_sc white">我要收藏</a></div>-->
+				  </div>
+                            <div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+						<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn" class="icon_jobbutton_p">举报错误信息</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+						<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn">信息修改/删除</a></div>
+						</div>
+						<div class="clear"></div>
+			  </div>
+		  </div>
+				<div class="spacer"></div>
+				<div class="spacer">
+</div>
+<!--
+				<div class="grayline"></div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="pdlr">
+					<div>
+						<span class="floatleft font14  b">同行业的职位</span>
+						<span class="floatright pdlr"></span>
+					</div>
+					<div class="clear spacer"></div>
+					<ul class="ul_bluedisc underline">
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277293.html" class="blue" title="高薪诚聘销售精英" target="_blank">高薪诚聘销售精英</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277084.html" class="blue" title="网络兼职" target="_blank">网络兼职</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277049.html" class="blue" title="行政助理兼前台" target="_blank">行政助理兼前台</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277038.html" class="blue" title="肇庆市华盈信息科技有限公司招聘网站编辑（网页设计）" target="_blank">肇庆市华盈信息科技有限公司招聘网站编辑（网页设计）</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276955.html" class="blue" title="医生管理" target="_blank">医生管理</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276954.html" class="blue" title="医学编辑/医药编辑" target="_blank">医学编辑/医药编辑</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276953.html" class="blue" title="销售代表" target="_blank">销售代表</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276952.html" class="blue" title="平面设计师" target="_blank">平面设计师</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276951.html" class="blue" title="儿童插画师" target="_blank">儿童插画师</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276648.html" class="blue" title="向自由想象致敬，小米2013春季校招（全职&实习）霸气启动！" target="_blank">向自由想象致敬，小米2013春季校招（全职&实习）霸气</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											
+					</ul>
+				</div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="grayline"></div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+								<div class="pdlr">
+					<div>
+						<span class="floatleft font14  b">相同公司职位</span>
+						<span class="floatright pdlr"></span>
+					</div>
+					<div class="clear spacer"></div>
+					<ul class="ul_bluedisc underline">
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_273075.html" class="blue" title="北京凌阳爱普科技有限公司2013招聘" target="_blank">北京凌阳爱普科技有限公司2013招聘</a></div>
+							<span class="floatright gray pdlr">04-02</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_271073.html" class="blue" title="北京凌阳爱普科技有限公司2013招聘" target="_blank">北京凌阳爱普科技有限公司2013招聘</a></div>
+							<span class="floatright gray pdlr">05-15</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_73745.html" class="blue" title="北京凌阳爱普科技有限公司招聘实习生" target="_blank">北京凌阳爱普科技有限公司招聘实习生</a></div>
+							<span class="floatright gray pdlr">10-02</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_69088.html" class="blue" title="北京凌阳爱普科技有限公司招聘嵌入式开发实习生" target="_blank">北京凌阳爱普科技有限公司招聘嵌入式开发实习生</a></div>
+							<span class="floatright gray pdlr">07-14</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_68460.html" class="blue" title="北京凌阳爱普科技有限公司招聘实习生" target="_blank">北京凌阳爱普科技有限公司招聘实习生</a></div>
+							<span class="floatright gray pdlr">07-12</span>
+							<div class="clear"></div>
+						</li>
+											
+					</ul>
+				</div>
+							</div>
+			<div class="clear spacer"></div>
+			<div class="spacer"></div>
+			<div class="spacer"></div>
+-->
+			<div class="spacer"></div>
+		</div>
+        
+		<div class="clear"></div>
+	</div>
+    
+    <div id="rightcolumn" class="floatleft">
+            <div class="rightcolumn" style="padding:0px;">
+                <div>
+			 <script type="text/javascript"><!--
+            google_ad_client = "ca-pub-9486753476951928";
+            /* 职位广告 */
+            google_ad_slot = "3598731756";
+            google_ad_width = 200;
+            google_ad_height = 200;
+            //-->
+            </script>
+            <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+				
+				    <div class="rightcolumn_title font14 b deepblack">该公司最新招聘信息</div>
+                    <div class="rightcolumn_title font14 b deepblack"><a href="/company/cid-20847.html ">点击查看全部</a></div>
+					<div class="spacer"></div>
+					<ul class="ul_bluedisc right_ul_bluedisc underline">
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_273075.html" class="blue">北京凌阳爱普科技有限公司2013招聘</a></div>
+						<span class="pdlr4 floatright">04-02</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_271073.html" class="blue">北京凌阳爱普科技有限公司2013招聘</a></div>
+						<span class="pdlr4 floatright">03-15</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_73745.html" class="blue">北京凌阳爱普科技有限公司招聘实习生</a></div>
+						<span class="pdlr4 floatright">08-02</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_69088.html" class="blue">北京凌阳爱普科技有限公司招聘嵌入式开发实习生</a></div>
+						<span class="pdlr4 floatright">07-14</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_68460.html" class="blue">北京凌阳爱普科技有限公司招聘实习生</a></div>
+						<span class="pdlr4 floatright">07-12</span>
+						<div class="clear"></div>
+						</li>							
+										</ul>
+				</div>
+		   </div>
+           <div class="rightcolumn" style="padding:0px;">
+                <div>
+				
+				    <div class="rightcolumn_title font14 b deepblack">同行业最新招聘信息</div>
+                    
+					<div class="spacer"></div>
+					<ul class="ul_bluedisc right_ul_bluedisc underline">
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277293.html" class="blue" title="高薪诚聘销售精英" target="_blank">高薪诚聘销售精英</a></div>
+							<span class="floatright gray pdlr">05-22</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277084.html" class="blue" title="网络兼职" target="_blank">网络兼职</a></div>
+							<span class="floatright gray pdlr">05-20</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277049.html" class="blue" title="行政助理兼前台" target="_blank">行政助理兼前台</a></div>
+							<span class="floatright gray pdlr">05-20</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277038.html" class="blue" title="肇庆市华盈信息科技有限公司招聘网站编辑（网页设计）" target="_blank">肇庆市华盈信息科技有限公司招聘网站编辑（网页设计）</a></div>
+							<span class="floatright gray pdlr">05-18</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276955.html" class="blue" title="医生管理" target="_blank">医生管理</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276954.html" class="blue" title="医学编辑/医药编辑" target="_blank">医学编辑/医药编辑</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276953.html" class="blue" title="销售代表" target="_blank">销售代表</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276952.html" class="blue" title="平面设计师" target="_blank">平面设计师</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276951.html" class="blue" title="儿童插画师" target="_blank">儿童插画师</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276648.html" class="blue" title="向自由想象致敬，小米2013春季校招（全职&实习）霸气启动！" target="_blank">向自由想象致敬，小米2013春季校招（全职&实习）霸气</a></div>
+							<span class="floatright gray pdlr">05-14</span>
+							<div class="clear"></div>
+						</li>							
+										</ul>
+				</div>
+		   </div>
+           <div class="rightcolumn">
+				<div class="spacer"></div>
+	
+								
+		   </div>
+		   <div class="spacer"></div>
+				
+    </div>
+</div>
+<iframe id="collection" name="collection" style="width:0px;height:0px;"></iframe>
+<div id="foot">
+	<div class="footbody">
+		<div class="foot_top aligncenter white"> <a href="http://www.hiall.com.cn/" class="white">HiAll校园招聘</a> <span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/" class="white">HiAll论坛</a> 
+
+<span class="pdlr4">|</span> <a href="http://wenda.hiall.com.cn/" class="white">HiAll一问一答</a>
+
+<span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/forum-744-1.html" class="white">校园招聘求职大礼包</a> <span class="pdlr4">|</span> <a href="http://hr.hiall.com.cn/" class="white">加入HiAll</a>
+<span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/thread-150495-1-1.html" class="white">广告合作</a> <span class="pdlr4">|</span> <a href="/info/about.php" class="white">关于我们</a> <span class="pdlr4">|</span> <a href="/info/sitemap.php" class="white">网站地图</a></div>		<div class="foot_mid aligncenter white"> 网站相关问题请联系：010-82601802 || 企业服务请联系：010-82600684</div>
+		<div class="foot_bot aligncenter white">Copyright HiAll
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP备10021013号
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP证090110号
+			<span class="pdlr"></span><span class="pdlr"></span>京公网安备11010802010560号
+		</div>
+	</div>
+</div>
+<!-- Baidu Analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F56dda118cbb3220435957635a699495b' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- Baidu Analytics -->
+</body>
+</html>
+

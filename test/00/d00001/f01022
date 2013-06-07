@@ -1,0 +1,610 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<title>珠海全志科技股份有限公司2013招聘-全职推荐</title>
+<head>
+<meta property="qc:admins" content="35413136776011446375636" />
+<meta http-equiv="keywords" content="2013校园招聘,HiAll,招聘,校园招聘,全职职位,实习职位,大学生求职,应届生求职"/>
+<meta http-equiv="description" content="HiAll，为应届毕业生或在校生提供最新、最全、最可靠的全职、实习招聘信息、宣讲会信息与各种求职资讯与资料，成为联动学生与雇主的纽带，覆盖北京、上海、广州、海外等地区。" />
+<meta name="generator" content="HiAll2.0" />
+<meta name="author" content="HiAll" />
+<meta name="copyright" content="2004-2012 HiAll." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<script src="http://file.hiall.com.cn/newhiall/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/jquery.validate.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/utils.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/u1.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frame/page.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/main.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frontpage/frontpage.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/manage.css" />
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2560481-2']);
+  _gaq.push(['_setDomainName', '.hiall.com.cn']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Google Analytics -->
+</head>
+<body>
+<div id="head">
+	<div id="headbody">
+		<div class="top">
+			<a href="/" class="head_logo floatleft"></a>
+			<div class="mid floatleft">
+			<form method="post" action="/search/infos.php">
+				<input type="text" class="head_search_input gray floatleft" maxlength="10" value="职位信息 如：管理培训生" id="searchkey" name="searchkey" onclick="if(this.value == '职位信息 如：管理培训生') this.value='';" onblur="if(this.value=='') this.value='职位信息 如：管理培训生';"/>
+				<div class="head_search_select gray pointer floatleft">
+					<div class="floatleft">
+						<div class="absolute">
+							<div class="relative head_search_select_optionbox" style="display:none; z-index:10;">
+								<ul class="head_search_select_option" id="choosecity-list">
+																<li id="r0">全部</li>
+																<li id="r1">北京</li>
+																<li id="r2">上海</li>
+																<li id="r40">广州</li>
+																<li id="r41">深圳</li>
+															</ul>
+							</div>
+						</div>
+					</div>
+					<span id="choosecity">全部</span>
+				</div>
+				<input type="hidden" name="regionid" id="regionid" value="0">
+				<input type="hidden" name="op" id="op" value="headersearch">
+				<input  type="button" class="button_head_search pointer floatleft" onclick="javascript:headerSearch(this);" />
+			</div>
+			</form>
+			<div class="right floatright">
+				<div class="head_greenicon_box floatleft">
+											<p><span class="white">个人用户</span></p>
+						<p><a href="/collect/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="http://bbs.hiall.com.cn/register_hiall.php" class="white">注册</a></p>		
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="head_blueicon_box floatleft">
+										<p><a class="white">企业用户</a></p>
+					<p><a href="/users/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="/users/register.php" class="white">注册</a></p>
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="vspacer floatleft"></div>
+				<div class="floatleft">
+					<p><a href="/info/about.php#t2" class="white">查看企业</p><p>服务项目</a></p>
+				</div>
+				<div class="vspacer floatleft"></div>
+			</div>
+		</div>
+		<div class="clear"></div>
+		<div class="bottom">
+
+<!--<div style="position:relative;">-->
+<ul class="head_nav floatleft">
+	<li hidefocus="true" ><a href="/" hidefocus="true">首页</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://bbs.hiall.com.cn" target="_blank" hidefocus="true">BBS</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true"  class="active"><a href="/info/" hidefocus="true">全职推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/part.php" hidefocus="true">实习推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/" hidefocus="true" target="_blank">宣讲会</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://www.hiall.com.cn/2011" hidefocus="true" target="_blank" class="menu_red">HiAll雇主专区</a></li>
+	<li hidefocus="true" class="fg"></li>
+    <!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/calendar/" hidefocus="true" target="_blank">2012校招日程</a></li>-->
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/special.php" hidefocus="true">专业招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/company/" hidefocus="true">名企招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/expire.php" hidefocus="true">申请截止</a></li>
+	<li hidefocus="true" class="fg"></li>
+    <li hidefocus="true"  style='padding-left:0px;'><a href="http://bbs.hiall.com.cn/forum-1054-1.html" hidefocus="true" target="_blank" style="color:red">2013名企求职礼包</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://wenda.hiall.com.cn/" hidefocus="true" target="_blank">HiAll一问一答</a></li>
+	<!--<li hidefocus="true" ><a href="http://edu.hiall.com.cn/" hidefocus="true" target="_blank">求职指导</a></li>-->
+	<!--<li hidefocus="true" ><a href="http://miaosha.hiall.com.cn/" hidefocus="true" target="_blank">职业秒杀</a></li>
+	<li hidefocus="true" class="fg"></li>-->
+	<!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/yinhang/" hidefocus="true" target="_blank" style="color:red">2012银行校园招聘</a></li>-->
+</ul>
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>
+<div id="loginfloat" style="background:red;psotion:absolute;display:none;">
+	<div class="fav_topbox floatleft">
+		<p class="h22"><span class="or b">登录后可以个性化你的收藏哦！</span><span class="gray">（用HiAll bbs账号直接登录）</span><span class="gray"><a href="javascript:;" onclick="closeCollect();">关闭</a></span></p>
+		<div class="spacer"></div>
+		<form method="post" accept-charset="GB2312" name="login" id="loginform1" class="gateform" action="http://bbs.hiall.com.cn/logging.php?action=login&amp;loginsubmit=yes">
+		<input type="hidden" name="formhash" value="e9f7b113" />
+		<input type="hidden" name="referer" id="referer" value="http://www.hiall.com.cn/collect/index.php" />
+		<div>
+			<p class="h22"><span>用户名：</span><span><input type="text" class="required normalinput grayborder" size="14" name="username" id="username1" title="用户名称不能为空！" /></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/register_hiall.php" class="gray underline">新用户注册</a></span><h3 id="returnmessage"></h3></p>
+			<div class="spacer"></div>
+			<p class="h22"><span>密&nbsp;&nbsp;码：</span><span><input type="password" class="required normalinput grayborder" size="14"  id="password4" name="password" title="密码不能为空！"/></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/logging.php?action=login" class="gray underline">忘记密码?</a></span></p>
+			<div class="spacer"></div>
+			<p class="fav_login_button h22"><input type="button" onclick="return ajaxpost('username1', 'password4', 'loginform1', 'returnmessage', 'returnmessage', 'onerror');" value="登  录"  class="button_or_2c white"/><span class="pdlr4"></span><a href="http://bbs.hiall.com.cn/register_hiall.php"><button class="button_or_5c white">新用户注册</button></a></p>
+		</div>
+		</form>
+	</div>
+</div>
+<div id="body">
+	<p class="h22 txtindent1 gray">当前位置：<a href='/'>首页</a> &gt; <a href='/info/'>全职推荐</a> &gt; 珠海全志科技股份有限公司2013招聘</p>
+	<!--<div class="bigbg reborder">-->
+    <div class="bigbg reborder" style="overflow:auto; _height:1%;">
+		<div id="leftcolumn" class="floatleft">
+            <div class="leftcolumn">
+				<p class="leftcolumn_title font14 b deepblack">行业分类</p>
+<ul class="left_nav">
+		<li><a href="/info/?businesses=1" >计算机•互联网•通信</a></li>
+		<li><a href="/info/?businesses=2" >电器•电子•家电</a></li>
+		<li><a href="/info/?businesses=3" >金融•投资•证券</a></li>
+		<li><a href="/info/?businesses=4" >咨询•财会•法律</a></li>
+		<li><a href="/info/?businesses=5" >贸易•消费•进出口</a></li>
+		<li><a href="/info/?businesses=6" >制药•生物•医疗</a></li>
+		<li><a href="/info/?businesses=7" >工业制造•能源•原材料</a></li>
+		<li><a href="/info/?businesses=8" >房地产•建筑•工程建设</a></li>
+		<li><a href="/info/?businesses=9" >广告•会展•公关</a></li>
+		<li><a href="/info/?businesses=10" >物流•仓储•运输</a></li>
+		<li><a href="/info/?businesses=11" >教育•培训•科研•院校</a></li>
+		<li><a href="/info/?businesses=12" >政府•公共事业•非盈利机构</a></li>
+		<li><a href="/info/?businesses=13" >服务业</a></li>
+		<li><a href="/info/?businesses=14" >农林牧渔•环保</a></li>
+		<li><a href="/info/?businesses=15" >跨领域经营 </a></li>
+		<li><a href="/info/?businesses=16" >其他</a></li>
+		<li><a href="/info/?businesses=17" >机械•自动化•仪器仪表行•重工业</a></li>
+		<li><a href="/info/?businesses=18" >汽车•摩托车行业 </a></li>
+		<li><a href="/info/?businesses=19" >旅游•酒店•餐饮服务</a></li>
+		<li><a href="/info/?businesses=20" >物业管理•商业中心</a></li>
+		<li><a href="/info/?businesses=21" >快速消费品(食品•饮料•日化•烟酒等)</a></li>
+		<li><a href="/info/?businesses=22" >家居•室内设计•装潢</a></li>
+		<li><a href="/info/?businesses=23" >石油•化工•采掘•冶炼</a></li>
+		<li><a href="/info/?businesses=24" >耐用消费品(服饰•纺织•家具）</a></li>
+		<li><a href="/info/?businesses=25" >媒体•文化传播•出版•影视</a></li>
+		<li><a href="/info/?businesses=26" >芯片•电子技术•半导体</a></li>
+		<li><a href="/info/?businesses=27" >批发•零售</a></li>
+	</ul>
+
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<p class="leftcolumn_title font14 b deepblack">热门公司推荐</p>
+<ul class="left_topcompany">
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1033-1.html">中国石化集团公司</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-212-1.html">中金(CICC)</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-183-1.html">英特尔（intel）</a></h1></li>
+	<li><h1><a href="http://www.hiall.com.cn/bbs/forum-188-1.html">联合利华Unilever</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-249-1.html">箭牌中国</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1241-1.html">完美时空</a></h1></li>
+</ul>			</div>
+			
+			
+		</div>
+		<div id="midcolumn" class="floatleft">
+			<div class="topnews">	
+	<div class="left floatleft lightblue">站内新闻</div>
+	<div class="right floatleft ">
+		<div class="floatleft">
+			<div class="absolute zindex200">
+				<a href="javascript:preMsg();" class="icon_arrow_blue_up relative floatleft" id="icon_arrow_blue_up"></a>
+			</div>
+		</div>
+		<div class="floatright">
+			<div class="absolute zindex200">
+				<a href="javascript:nextMsg();" class="icon_arrow_blue_down relative floatleft" id="icon_arrow_blue_down"></a>
+			</div>
+		</div>
+		<ul class="topnews_list" id="topnews_list" style="top:0px;">
+		<li id="msg_show"><a href="http://e.weibo.com/1801762575/zh96Xguz8" target="_blank" class="lightgray">关注HiAll校园招聘微信公众号：HiAllxyzhaopin，二维码在此，快来拍我！</a></li>					
+		</ul>
+		<ul style="display:none;">
+					<li id="msg_0"><a href="http://e.weibo.com/1801762575/zh96Xguz8" target="_blank" class="lightgray">关注HiAll校园招聘微信公众号：HiAllxyzhaopin，二维码在此，快来拍我！</a></li>			
+				</ul>
+		<input type="hidden" id="msg_count" value="1" />
+	</div>
+	<div class="clear"></div>
+</div>
+			<div class="clear spacer"></div>
+<div style="margin:5px 0px 0px 25px;">
+
+<script type="text/javascript"> var cpro_id = 'u249066'; </script>
+<script type="text/javascript" src="http://cpro.baidu.com/cpro/ui/c.js"></script>
+</div>
+			<div class="jobbox">
+				<div class="spacer"></div>
+				<div class="job_maininfo">
+					<h1 class="b font14">
+											珠海全志科技  
+													<span class="pdlr"><img src="http://www.hiall.com.cn/images/icon/icon_top_default.gif" /></span>
+						</h1>
+					<h1>所属行业：计算机•互联网•通信/电器•电子•家电</h1>
+					<div class="spacer"></div>
+                    <div>
+                       	<div class="button_job floatleft">
+							<div class="button_right"><a href="/company/cid-28931.html" class="icon_jobbutton_ck blue">查看公司详情</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+																		<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn">信息修改/删除</a></div>
+						</div>
+                        <div class="clear"></div>
+                            
+                    </div>
+                    <div class="spacer"></div>
+                    <div class="spacer"></div>
+                    <div>
+                        <div class="floatleft">
+                        <!-- Baidu Button BEGIN -->
+                        <div id="bdshare" class="bdshare_b" style="line-height: 12px;"><img src="http://bdimg.share.baidu.com/static/images/type-button-1.jpg" />
+                            <a class="shareCount"></a>
+                        </div>
+                        <script type="text/javascript" id="bdshare_js" data="type=button" ></script>
+                        <script type="text/javascript" id="bdshell_js"></script>
+                        <script type="text/javascript">
+                            document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+                        </script>
+                        <!-- Baidu Button END -->
+                        </div>
+                    </div>
+                    				</div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<p>
+								</p>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="job_detail">
+					<h1 class="positiontitle">珠海全志科技股份有限公司2013招聘</h1>
+					<div class="spacer"></div>
+					<div class="spacer4"></div>
+						<p>
+该职位已发布超过<span class="pdlr or">139</span>天
+
+						<span class="pdlr"></span><span>编号：265413</span>
+						<span class="pdlr"></span></p>
+					<div class="spacer"></div>
+					<p>						
+						<span>工作地区：珠海</span>
+						<span class="pdlr"></span>
+						<span>更新时间：2013-03-15</span>
+					</p>
+<div style="border-top:1px solid #C3DBE8; margin-top: 8px;"></div>
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<div style="overflow:auto;">
+						<p>&nbsp;珠海全志科技股份有限公司招聘简章</p>
+<div>一、公司简介</div>
+<div>&nbsp; &nbsp; 珠海全志科技成立于2007年，是由多位具有深厚SoC产品设计背景和上市企业成功运作经验的资深团队创立的高科技企业，专业从事超大规模系统级芯片（SoC）设计和嵌入式软件技术研发，在低功耗、数模混合设计及软、硬件配套设计方面处于业内领先水平。先后获得&ldquo;国家高新技术企业&rdquo;、&ldquo;国家双软认证企业&rdquo;、 国务院工信部&ldquo;中国芯&rdquo;最具潜质奖、 &nbsp;国务院工信部&ldquo;中国芯&rdquo;最佳市场表现奖、 &nbsp;珠海市最具成长性软件企业、 &nbsp; 广东省软件业务收入前百家企业 &nbsp;等多项荣誉。公司秉承&ldquo;客户导向、创新发展、善用人才、肯定奉献、成果共享&rdquo;的价值观，&ldquo;诚信、创新、高效、协作、担当&rdquo;是全志的企业文化。</div>
+<div>&nbsp; &nbsp; 自成立以来，全志立足于战略性新兴产业，致力于成为新一代信息终端领域所需关键SoC技术的主要引领者。为此全志在研发团队建设上倾注大量心血，已经培养出一支300余人规模的高学历专业研发团队,由多位拥有丰富科技研发与产业应用经验的行业专家级核心技术骨干带领。全志研发团队在超大规模低功耗、数模混合电路设计，嵌入式软件设计领域拥有深厚的技术沉淀，并形成了强大的研发实力。</div>
+<div>&nbsp; &nbsp; 全志在产品研发领域的辛勤耕耘换来了丰硕的成果，至2011年中已先后成功研制出2大类别，共9个系列的芯片，全部拥有自主知识产权，已累计申请并被受理70余项发明专利。目前全志的产品广泛应用于智能移动多媒体产品，家庭智能高清播放器，车载多媒体控制系统，安全监控设备等多个领域。作为核心产品应用的高清智能多媒体系列芯片，以其广泛的适用性，高性能，低功耗，低成本的优势，配合公司完善的嵌入式软件配套能力，已成功占据该行业市场60%以上份额。公司最新推出投入量产的A1X系列芯片，采用创新的视频技术，以及突破性的&ldquo;众核&rdquo;技术，拥有强大的高清多媒体及网络处理性能，支持最新3D显示，支持2160P超高清视频解码及1080P高清编码，技术指标处于业内顶尖水平。全志目前在研项目进度理想，未来公司的产品将满足更多新一代智能终端领域应用的需要，开拓更广阔的市场应用。</div>
+<div>&nbsp; &nbsp; 公司在追求技术创新与领先的过程中，重视下游客户的实际需求，建立了完善的技术服务体系，以专业化的完整解决方案服务赢得了产业链众多客户的信赖和好评。公司除了可以为客户提供多元化的专业技术服务以满足创新功能要求外，还可以利用公司完善的产业链整合能力，提供整体解决方案，以快速提高客户的整机产品推出效率，并大大降低客户的生产成本。公司在发展过程中以稳定的产品质量、优秀的产品性能、完善的客户服务、大量灵活多样的应用方案与国、内外众多厂商建立了长期良好的合作伙伴关系，公司业务获得迅速的发展，目前在深圳，香港等地建立了业务网点。</div>
+<div>二、招聘流程</div>
+<div>&nbsp; 全志科技校园招聘正式启动，欢迎2013届本科及以上学历应届毕业生投递简历！</div>
+<div>&nbsp;所有职位都实行网上投递简历，每人同时申请最多2个职位，请在简历中注明申请的第一意向职位和第二意向职位排序，并注明职位方向。</div>
+<div>通过简历注册您可以：</div>
+<div>&nbsp;</div>
+<div>1. &nbsp; &nbsp;提前获得全志校招招聘组的优先关注和帮助。</div>
+<div>&nbsp;</div>
+<div>2. &nbsp; &nbsp;通过与全志校招招聘组的沟通，更全面了解本次校招信息。</div>
+<div>&nbsp;</div>
+<div>（一） &nbsp; &nbsp; &nbsp; &nbsp; 简历投递</div>
+<div>&nbsp;</div>
+<div>&nbsp;登陆全志科技官方网站：http://www.allwinnertech.com, 进入&quot;校园招聘&quot;专栏，详细认真阅读招聘职位描述，在所选择的职位下方点击&ldquo;我要应聘&rdquo;，按要求填写个人信息并提交简历（不真实的信息将会影响面试结果）。</div>
+<div>&nbsp;</div>
+<div>（二） &nbsp; &nbsp; &nbsp; &nbsp; 笔试</div>
+<div>&nbsp;</div>
+<div>简历通过筛选的，我们将通知笔试，毕业生接到笔试通知后，请持相关证件准时到指定考场参加笔试，我们将及时向通过笔试的同学发出面试通知。</div>
+<div>&nbsp;</div>
+<div>（三） &nbsp; &nbsp; &nbsp; &nbsp; 面试</div>
+<div>&nbsp;</div>
+<div>接到面试通知后，请持相关证件准时参加面试；面试分为一面技术面试、二面综合面试，我们将及时通知每轮面试结果。</div>
+<div>&nbsp;</div>
+<div>（四） &nbsp; &nbsp; &nbsp; &nbsp; 签约洽谈</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; 请持相关证件前往签约洽谈，在充分沟通的前提下，本着&quot;双向选择&quot;的原则，签订三方协议。</div>
+<div>三、招聘职位</div>
+<div>NO.027 技术支持工程师</div>
+<div>&nbsp;</div>
+<div>职责概述：系统设计、PCB布局和Layout、仿真、技术支持。</div>
+<div>&nbsp;</div>
+<div>职位方向：系统研发设计、解决客户技术应用问题。</div>
+<div>&nbsp;</div>
+<div>任职资格：</div>
+<div>&nbsp;</div>
+<div>u &nbsp; &nbsp; &nbsp; 本科、硕士学历，电子类相关专业；</div>
+<div>u &nbsp; &nbsp; &nbsp; 熟悉一种PCB绘制EDA软件；</div>
+<div>u &nbsp; &nbsp; &nbsp; 熟悉使用基本的测量仪器，如示波器等；</div>
+<div>u &nbsp; &nbsp; &nbsp; 具备基本模拟 / 数字电路理论基础</div>
+<div>u &nbsp; &nbsp; &nbsp; 有参加过各种电子设计竞赛的经历或亲自设计过电子产品者优先</div>
+<div>u &nbsp; &nbsp; &nbsp;有较好的沟通能力和团队合作能力。</div>
+<div>NO.031 软件设计工程师（紧急）</div>
+<div>&nbsp;</div>
+<div>职责概述：负责软件研发设计工作。</div>
+<div>&nbsp;</div>
+<div>职位方向：</div>
+<div>&nbsp;</div>
+<div>u &nbsp; &nbsp; &nbsp; linux系统开发（驱动、移植，优化，工具、bootloader，多核/OpenCL）</div>
+<div>u &nbsp; &nbsp; &nbsp; Android系统开发（网络通讯，多媒体，图形/OpenGL，识别，安全）</div>
+<div>u &nbsp; &nbsp; &nbsp; Android，IOS应用开发(java, framework开发，应用开发，网络客户端，游戏)</div>
+<div>u &nbsp; &nbsp; &nbsp; Web开发（前端设计，web服务，html5，数据库, &nbsp;jQuery, javascript）</div>
+<div>u &nbsp; &nbsp; &nbsp; 自动化测试系统开发</div>
+<div>任职资格：</div>
+<div>&nbsp;</div>
+<div>u &nbsp; &nbsp; &nbsp; 本科、硕士、博士学历，计算机软件，体系结构，通信/信息工程/自动化/测量仪器、应用数学等相关专业；</div>
+<div>u &nbsp; &nbsp; &nbsp; 精通C/C 编程；</div>
+<div>u &nbsp; &nbsp; &nbsp; 软件基础知识扎实，编程相关概念清晰；</div>
+<div>u &nbsp; &nbsp; &nbsp;思维逻辑清晰，编程风格规范，勤学好研。</div>
+<div>NO.037 IC数字设计工程师</div>
+<div>&nbsp;</div>
+<div>职责概述：从事超大规模数字集成电路内部的逻辑设计和验证，包括EDA工具的使用。</div>
+<div>&nbsp;</div>
+<div>职位方向：数字电路系统设计及FPGA验证、图象处理和视频加强、协议栈研发、无线通信基带设计等。</div>
+<div>&nbsp;</div>
+<div>任职资格：</div>
+<div>&nbsp;</div>
+<div>u &nbsp; &nbsp; &nbsp; 硕士、博士学历，微电子或电子相关专业；</div>
+<div>u &nbsp; &nbsp; &nbsp; 熟练掌握Verilog及多种EDA tool，熟悉ASIC研发；</div>
+<div>u &nbsp; &nbsp; &nbsp; 有较完整的数字电路设计项目设计与验证经验；</div>
+<div>u &nbsp; &nbsp; &nbsp; 了解Audio、Video、CPU、通讯、信号处理或纠错码设计；</div>
+<div>u &nbsp; &nbsp; &nbsp;有良好的持续学习的意识，沟通及团队合作能力。</div>
+<div>NO.039 IC模拟设计工程师</div>
+<div>&nbsp;</div>
+<div>职责概述：从事模拟集成电路与系统的规格制定、电路设计、版图规划与检查、电路验证、实际产品的优化。</div>
+<div>&nbsp;</div>
+<div>职位方向：SERDES、ADC/DAC、PLL、PMU、RF等电路的研发设计。</div>
+<div>&nbsp;</div>
+<div>任职资格：</div>
+<div>&nbsp;</div>
+<div>u &nbsp; &nbsp; &nbsp; 硕士、博士学历，微电子或物理相关专业。</div>
+<div>u &nbsp; &nbsp; &nbsp; 熟悉半导体器件物理、CMOS集成电路制造工艺，集成电路设计（数字、模拟）；</div>
+<div>u &nbsp; &nbsp; &nbsp;熟练掌握相关EDA工具，Matlab 或 C、Verilog 、VHDL语言，有实际项目经验及动手能力。</div>
+<div>NO.043 IC版图设计工程师</div>
+<div>&nbsp;</div>
+<div>职责概述：从事IC 版图设计。</div>
+<div>&nbsp;</div>
+<div>职位方向：IC版图物理布局和实现。</div>
+<div>&nbsp;</div>
+<div>任职资格：</div>
+<div>&nbsp;</div>
+<div>u &nbsp; &nbsp; &nbsp; 本科、硕士学历，电子科技与技术、微电子或物理相关专业；</div>
+<div>u &nbsp; &nbsp; &nbsp; 熟悉半导体器件物理、CMOS集成电路制造工艺，集成电路设计（数字、模拟）；</div>
+<div>u &nbsp; &nbsp; &nbsp; 掌握主流EDA工具的使用；</div>
+<div>u &nbsp; &nbsp; &nbsp;责任心强，工作踏实，严谨细致。</div>
+<div>NO.045 IC CAD工程师</div>
+<div>&nbsp;</div>
+<div>职责概述：从事超大规模集成电路的自动布局布线，完善IC流程。</div>
+<div>&nbsp;</div>
+<div>职位方向：IC CAD设计。</div>
+<div>&nbsp;</div>
+<div>任职资格：</div>
+<div>&nbsp;</div>
+<div>u &nbsp; &nbsp; &nbsp; 本科、硕士、博士学历，微电子或物理相关专业；</div>
+<div>u &nbsp; &nbsp; &nbsp; 拥有扎实的硬件电路基础知识；</div>
+<div>u &nbsp; &nbsp; &nbsp; 熟练掌握多种EDA Tools；</div>
+<div>u &nbsp; &nbsp; &nbsp; 掌握Verilog、TCL、Perl、C语言；</div>
+<div>u &nbsp; &nbsp; &nbsp;具有后端APR经验。</div>
+<div>NO.048 &nbsp;系统设计工程师</div>
+<div>&nbsp;</div>
+<div>职责概述：负责IC相关的系统设计工作</div>
+<div>&nbsp;</div>
+<div>职位方向：IC内部模块和架构的规格制定、FPGA验证、工程样品验证、内部模块的驱动开发、应用电路图设计等研发工作。</div>
+<div>&nbsp;</div>
+<div>任职资格：</div>
+<div>&nbsp;</div>
+<div>u &nbsp; &nbsp; &nbsp; 本科、硕士、博士学历，电子类等相关专业；</div>
+<div>u &nbsp; &nbsp; &nbsp; 具备基本模拟 / 数字电路理论基础；</div>
+<div>u &nbsp; &nbsp; &nbsp; 精通C 或C 语言；</div>
+<div>u &nbsp; &nbsp; &nbsp; 具有良好的团队合作精神及沟通、协调能力；</div>
+<div>u &nbsp; &nbsp; &nbsp; 基本良好英语阅读和书写能力。</div>
+<div>NO.051 算法设计工程师</div>
+<div>&nbsp;</div>
+<div>职责概述：从事音视频编解码，音频处理、图像处理、智能识别、网络传输等算法的开发、移植、应用、IC验证等工作。</div>
+<div>&nbsp;</div>
+<div>职位方向： 音视频编解码，音频处理、图像处理、智能识别、多媒体中间件、多媒体网络协议。</div>
+<div>&nbsp;</div>
+<div>任职资格：</div>
+<div>&nbsp;</div>
+<div>u &nbsp; &nbsp; &nbsp; 硕士、博士学历，数学、物理、信号处理、通信、电子、模式识别等相关专业；</div>
+<div>u &nbsp; &nbsp; &nbsp; 熟练使用C/C 、Matlab等编程工具；</div>
+<div>u &nbsp; &nbsp; &nbsp; 具有良好的软件编程设计习惯；</div>
+<div>u &nbsp; &nbsp; &nbsp; 具有良好的数学功底，掌握数字信号处理基础；</div>
+<div>u &nbsp; &nbsp; &nbsp; 有音视频相关算法研究与开发经验者优先；</div>
+<div>u &nbsp; &nbsp; &nbsp; 具有良好的团队合作精神及自我激励能力；</div>
+<div>u &nbsp; &nbsp; &nbsp; 具有较好的英文阅读与书写能力。</div>
+<div>NO.057 测试开发工程师</div>
+<div>&nbsp;</div>
+<div>职责概述：从事芯片工程测试系统的开发和完成芯片的测试任务</div>
+<div>&nbsp;</div>
+<div>职位方向：SoC 产品测试。</div>
+<div>&nbsp;</div>
+<div>任职资格：</div>
+<div>&nbsp;</div>
+<div>u &nbsp; &nbsp; &nbsp; 本科、硕士学历，电子、自动化、测量仪器相关专业；</div>
+<div>u &nbsp; &nbsp; &nbsp; 熟悉模拟、数字电路知识，有一定的电路开发经验；</div>
+<div>u &nbsp; &nbsp; &nbsp; 熟悉VC/VB等编程语言；</div>
+<div>u &nbsp; &nbsp; &nbsp; 熟练使用Protel /ORCAD进行PCB原理设计；</div>
+<div>u &nbsp; &nbsp; &nbsp; 责任心强，工作踏实，严谨细致。</div>
+<div>&nbsp;</div>
+<div>说明：以上职位均招聘应届毕业生多名，每个职位下设多个职位方向，公司将根据您的意愿及特长优势，安排您在最适合的职位方向。应聘者投递简历时请注明应聘职位名称及职位方向，并注明是否服从职位方向调剂安排。</div>					</div>
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<p ><a href="http://wenda60.com" target="_blank" style="font-size:14px; color:#2B68E9">>>练练该公司的招聘笔试题 </a><script type="text/javascript"><!--
+google_ad_client = "ca-pub-9486753476951928";
+/* 底部广告 */
+google_ad_slot = "1009061790";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p> 					
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<div>
+						<div class="floatleft">
+                        <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_b" style="line-height: 12px;"><img src="http://bdimg.share.baidu.com/static/images/type-button-1.jpg" />
+                                <a class="shareCount"></a>
+                           
+						  </div>
+                        <script type="text/javascript" id="bdshare_js" data="type=button" ></script>
+                        <script type="text/javascript" id="bdshell_js"></script>
+                        <script type="text/javascript">
+                            document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+                        </script>
+                        <!-- Baidu Button END -->
+						</div>
+						<div class="button_job_or floatleft">
+							<!--<div class="button_right"><a href="javascript:;" onclick="collect(2, 265413);" class="icon_jobbutton_sc white">我要收藏</a></div>-->
+				  </div>
+                            <div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+						<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn" class="icon_jobbutton_p">举报错误信息</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+						<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn">信息修改/删除</a></div>
+						</div>
+						<div class="clear"></div>
+			  </div>
+		  </div>
+				<div class="spacer"></div>
+				<div class="spacer">
+</div>
+<!--
+				<div class="grayline"></div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="pdlr">
+					<div>
+						<span class="floatleft font14  b">同行业的职位</span>
+						<span class="floatright pdlr"></span>
+					</div>
+					<div class="clear spacer"></div>
+					<ul class="ul_bluedisc underline">
+											
+					</ul>
+				</div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="grayline"></div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+								<div class="pdlr">
+					<div>
+						<span class="floatleft font14  b">相同公司职位</span>
+						<span class="floatright pdlr"></span>
+					</div>
+					<div class="clear spacer"></div>
+					<ul class="ul_bluedisc underline">
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_265413.html" class="blue" title="珠海全志科技股份有限公司2013招聘" target="_blank">珠海全志科技股份有限公司2013招聘</a></div>
+							<span class="floatright gray pdlr">03-15</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_91248.html" class="blue" title="[广东]珠海全志科技2011校园招聘" target="_blank">[广东]珠海全志科技2011校园招聘</a></div>
+							<span class="floatright gray pdlr">11-30</span>
+							<div class="clear"></div>
+						</li>
+											
+					</ul>
+				</div>
+							</div>
+			<div class="clear spacer"></div>
+			<div class="spacer"></div>
+			<div class="spacer"></div>
+-->
+			<div class="spacer"></div>
+		</div>
+        
+		<div class="clear"></div>
+	</div>
+    
+    <div id="rightcolumn" class="floatleft">
+            <div class="rightcolumn" style="padding:0px;">
+                <div>
+			 <script type="text/javascript"><!--
+            google_ad_client = "ca-pub-9486753476951928";
+            /* 职位广告 */
+            google_ad_slot = "3598731756";
+            google_ad_width = 200;
+            google_ad_height = 200;
+            //-->
+            </script>
+            <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+				
+				    <div class="rightcolumn_title font14 b deepblack">该公司最新招聘信息</div>
+                    <div class="rightcolumn_title font14 b deepblack"><a href="/company/cid-28931.html ">点击查看全部</a></div>
+					<div class="spacer"></div>
+					<ul class="ul_bluedisc right_ul_bluedisc underline">
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_265413.html" class="blue">珠海全志科技股份有限公司2013招聘</a></div>
+						<span class="pdlr4 floatright">01-09</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_91248.html" class="blue">[广东]珠海全志科技2011校园招聘</a></div>
+						<span class="pdlr4 floatright">09-30</span>
+						<div class="clear"></div>
+						</li>							
+										</ul>
+				</div>
+		   </div>
+           <div class="rightcolumn" style="padding:0px;">
+                <div>
+				
+				    <div class="rightcolumn_title font14 b deepblack">同行业最新招聘信息</div>
+                    
+					<div class="spacer"></div>
+					<ul class="ul_bluedisc right_ul_bluedisc underline">
+										</ul>
+				</div>
+		   </div>
+           <div class="rightcolumn">
+				<div class="spacer"></div>
+	
+								
+		   </div>
+		   <div class="spacer"></div>
+				
+    </div>
+</div>
+<iframe id="collection" name="collection" style="width:0px;height:0px;"></iframe>
+<div id="foot">
+	<div class="footbody">
+		<div class="foot_top aligncenter white"> <a href="http://www.hiall.com.cn/" class="white">HiAll校园招聘</a> <span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/" class="white">HiAll论坛</a> 
+
+<span class="pdlr4">|</span> <a href="http://wenda.hiall.com.cn/" class="white">HiAll一问一答</a>
+
+<span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/forum-744-1.html" class="white">校园招聘求职大礼包</a> <span class="pdlr4">|</span> <a href="http://hr.hiall.com.cn/" class="white">加入HiAll</a>
+<span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/thread-150495-1-1.html" class="white">广告合作</a> <span class="pdlr4">|</span> <a href="/info/about.php" class="white">关于我们</a> <span class="pdlr4">|</span> <a href="/info/sitemap.php" class="white">网站地图</a></div>		<div class="foot_mid aligncenter white"> 网站相关问题请联系：010-82601802 || 企业服务请联系：010-82600684</div>
+		<div class="foot_bot aligncenter white">Copyright HiAll
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP备10021013号
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP证090110号
+			<span class="pdlr"></span><span class="pdlr"></span>京公网安备11010802010560号
+		</div>
+	</div>
+</div>
+<!-- Baidu Analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F56dda118cbb3220435957635a699495b' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- Baidu Analytics -->
+</body>
+</html>
+

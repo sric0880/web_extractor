@@ -33,6 +33,7 @@ void TemplateHiall::match_workplace(Data& entry,const string& str){
 	if (i != string::npos) {
 		i += (keyword.length());
 		int j = str.find_first_of(" ", i);
+		// printf("workplace:%d,%d,%d\n", i,j,str.length());
 		string r = str.substr(i, j - i);
 		int len = r.length();
 		entry.workplace = new char[len + 1];
@@ -44,8 +45,10 @@ void TemplateHiall::match_company(Data& entry,const string& str){
 	string r;
 	if (((found = str.find("招聘")) != string::npos || (found = str.find("诚招"))
 			!= string::npos || (found = str.find("诚聘")) != string::npos)) {
+		// printf("company:%d,%d\n", found,str.length());
 		r = str.substr(0, found);
 	}else if((found = str.find("公司")) != string::npos){
+		// printf("company:%d,%d\n", found+6,str.length());
 		r = str.substr(0, found+6);
 	}
 	trim(r);
@@ -68,17 +71,22 @@ void TemplateHiall::match_position(Data& entry,const string& str){
 			found<title_tail&&
 			(end = str.find_first_of("-",found))!=string::npos){
 		size_t len = end-found-6;
-		string r = str.substr(found+6,len);
-		trim(r);
-		len = r.length();
 		if(len!=0){
-			algorithm::to_lower(r);
-			boost::regex re("\\s+");
-			r = regex_replace(r,re,"\n");
-			NLPIR_AddUserWord(r.c_str());//标题中提取的职位名称保存到用户词典中
-			NLPIR_SaveTheUsrDic();
-			entry.position = new char[len + 1];
-			strcpy(entry.position, r.c_str());
+			// printf("position:%d,%d,%d\n", found+6,end,str.length());
+			string r = str.substr(found+6,len);
+			trim(r);
+			if(r!=""){
+				algorithm::to_lower(r);
+				boost::regex re("\\s+");
+				r = regex_replace(r,re,"\n");
+				NLPIR_AddUserWord(r.c_str());//标题中提取的职位名称保存到用户词典中
+				NLPIR_SaveTheUsrDic();
+				entry.position = new char[len + 1];
+				strcpy(entry.position, r.c_str());
+			}
+			else{
+				Template::match_position(entry,str);
+			}
 		}
 		else{
 			Template::match_position(entry,str);

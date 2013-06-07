@@ -1,0 +1,769 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<title>[全国]北京金和软件股份有限公司2011校园招聘-全职推荐</title>
+<head>
+<meta property="qc:admins" content="35413136776011446375636" />
+<meta http-equiv="keywords" content="2013校园招聘,HiAll,招聘,校园招聘,全职职位,实习职位,大学生求职,应届生求职"/>
+<meta http-equiv="description" content="HiAll，为应届毕业生或在校生提供最新、最全、最可靠的全职、实习招聘信息、宣讲会信息与各种求职资讯与资料，成为联动学生与雇主的纽带，覆盖北京、上海、广州、海外等地区。" />
+<meta name="generator" content="HiAll2.0" />
+<meta name="author" content="HiAll" />
+<meta name="copyright" content="2004-2012 HiAll." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<script src="http://file.hiall.com.cn/newhiall/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/jquery.validate.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/utils.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/u1.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frame/page.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/main.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frontpage/frontpage.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/manage.css" />
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2560481-2']);
+  _gaq.push(['_setDomainName', '.hiall.com.cn']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Google Analytics -->
+</head>
+<body>
+<div id="head">
+	<div id="headbody">
+		<div class="top">
+			<a href="/" class="head_logo floatleft"></a>
+			<div class="mid floatleft">
+			<form method="post" action="/search/infos.php">
+				<input type="text" class="head_search_input gray floatleft" maxlength="10" value="职位信息 如：管理培训生" id="searchkey" name="searchkey" onclick="if(this.value == '职位信息 如：管理培训生') this.value='';" onblur="if(this.value=='') this.value='职位信息 如：管理培训生';"/>
+				<div class="head_search_select gray pointer floatleft">
+					<div class="floatleft">
+						<div class="absolute">
+							<div class="relative head_search_select_optionbox" style="display:none; z-index:10;">
+								<ul class="head_search_select_option" id="choosecity-list">
+																<li id="r0">全部</li>
+																<li id="r1">北京</li>
+																<li id="r2">上海</li>
+																<li id="r40">广州</li>
+																<li id="r41">深圳</li>
+															</ul>
+							</div>
+						</div>
+					</div>
+					<span id="choosecity">全部</span>
+				</div>
+				<input type="hidden" name="regionid" id="regionid" value="0">
+				<input type="hidden" name="op" id="op" value="headersearch">
+				<input  type="button" class="button_head_search pointer floatleft" onclick="javascript:headerSearch(this);" />
+			</div>
+			</form>
+			<div class="right floatright">
+				<div class="head_greenicon_box floatleft">
+											<p><span class="white">个人用户</span></p>
+						<p><a href="/collect/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="http://bbs.hiall.com.cn/register_hiall.php" class="white">注册</a></p>		
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="head_blueicon_box floatleft">
+										<p><a class="white">企业用户</a></p>
+					<p><a href="/users/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="/users/register.php" class="white">注册</a></p>
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="vspacer floatleft"></div>
+				<div class="floatleft">
+					<p><a href="/info/about.php#t2" class="white">查看企业</p><p>服务项目</a></p>
+				</div>
+				<div class="vspacer floatleft"></div>
+			</div>
+		</div>
+		<div class="clear"></div>
+		<div class="bottom">
+
+<!--<div style="position:relative;">-->
+<ul class="head_nav floatleft">
+	<li hidefocus="true" ><a href="/" hidefocus="true">首页</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://bbs.hiall.com.cn" target="_blank" hidefocus="true">BBS</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true"  class="active"><a href="/info/" hidefocus="true">全职推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/part.php" hidefocus="true">实习推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/" hidefocus="true" target="_blank">宣讲会</a></li>
+	<li hidefocus="true" class="fg"></li>
+
+    <!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/calendar/" hidefocus="true" target="_blank">2012校招日程</a></li>-->
+	<li hidefocus="true" ><a href="/info/special.php" hidefocus="true">专业招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/company/" hidefocus="true">名企招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/expire.php" hidefocus="true">申请截止</a></li>
+	<li hidefocus="true" class="fg"></li>
+    <li hidefocus="true"  style='padding-left:0px;'><a href="http://bbs.hiall.com.cn/forum-1054-1.html" hidefocus="true" target="_blank" >2013名企求职礼包</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://wenda.hiall.com.cn/" hidefocus="true" target="_blank">HiAll一问一答</a></li>
+		<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://maker.wenda60.com/" hidefocus="true" target="_blank" style="color:red" class="menu_red">KnewMaker</a></li>
+	<!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/2011/" hidefocus="true" target="_blank" class="menu_red">KnewMaker</a></li>-->
+	<!--<li hidefocus="true" ><a href="http://edu.hiall.com.cn/" hidefocus="true" target="_blank">求职指导</a></li>-->
+	<!--<li hidefocus="true" ><a href="http://miaosha.hiall.com.cn/" hidefocus="true" target="_blank">职业秒杀</a></li>
+	<li hidefocus="true" class="fg"></li>-->
+	<!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/yinhang/" hidefocus="true" target="_blank" style="color:red">2012银行校园招聘</a></li>-->
+</ul>
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>
+<div id="loginfloat" style="background:red;psotion:absolute;display:none;">
+	<div class="fav_topbox floatleft">
+		<p class="h22"><span class="or b">登录后可以个性化你的收藏哦！</span><span class="gray">（用HiAll bbs账号直接登录）</span><span class="gray"><a href="javascript:;" onclick="closeCollect();">关闭</a></span></p>
+		<div class="spacer"></div>
+		<form method="post" accept-charset="GB2312" name="login" id="loginform1" class="gateform" action="http://bbs.hiall.com.cn/logging.php?action=login&amp;loginsubmit=yes">
+		<input type="hidden" name="formhash" value="e9f7b113" />
+		<input type="hidden" name="referer" id="referer" value="http://www.hiall.com.cn/collect/index.php" />
+		<div>
+			<p class="h22"><span>用户名：</span><span><input type="text" class="required normalinput grayborder" size="14" name="username" id="username1" title="用户名称不能为空！" /></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/register_hiall.php" class="gray underline">新用户注册</a></span><h3 id="returnmessage"></h3></p>
+			<div class="spacer"></div>
+			<p class="h22"><span>密&nbsp;&nbsp;码：</span><span><input type="password" class="required normalinput grayborder" size="14"  id="password4" name="password" title="密码不能为空！"/></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/logging.php?action=login" class="gray underline">忘记密码?</a></span></p>
+			<div class="spacer"></div>
+			<p class="fav_login_button h22"><input type="button" onclick="return ajaxpost('username1', 'password4', 'loginform1', 'returnmessage', 'returnmessage', 'onerror');" value="登  录"  class="button_or_2c white"/><span class="pdlr4"></span><a href="http://bbs.hiall.com.cn/register_hiall.php"><button class="button_or_5c white">新用户注册</button></a></p>
+		</div>
+		</form>
+	</div>
+</div>
+<div id="body">
+	<p class="h22 txtindent1 gray">当前位置：<a href='/'>首页</a> &gt; <a href='/info/'>全职推荐</a> &gt; [全国]北京金和软件股份有限公司2011校园招聘</p>
+	<!--<div class="bigbg reborder">-->
+    <div class="bigbg reborder" style="overflow:auto; _height:1%;">
+		<div id="leftcolumn" class="floatleft">
+            <div class="leftcolumn">
+				<p class="leftcolumn_title font14 b deepblack">行业分类</p>
+<ul class="left_nav">
+		<li><a href="/info/?businesses=1" >计算机•互联网•通信</a></li>
+		<li><a href="/info/?businesses=2" >电器•电子•家电</a></li>
+		<li><a href="/info/?businesses=3" >金融•投资•证券</a></li>
+		<li><a href="/info/?businesses=4" >咨询•财会•法律</a></li>
+		<li><a href="/info/?businesses=5" >贸易•消费•进出口</a></li>
+		<li><a href="/info/?businesses=6" >制药•生物•医疗</a></li>
+		<li><a href="/info/?businesses=7" >工业制造•能源•原材料</a></li>
+		<li><a href="/info/?businesses=8" >房地产•建筑•工程建设</a></li>
+		<li><a href="/info/?businesses=9" >广告•会展•公关</a></li>
+		<li><a href="/info/?businesses=10" >物流•仓储•运输</a></li>
+		<li><a href="/info/?businesses=11" >教育•培训•科研•院校</a></li>
+		<li><a href="/info/?businesses=12" >政府•公共事业•非盈利机构</a></li>
+		<li><a href="/info/?businesses=13" >服务业</a></li>
+		<li><a href="/info/?businesses=14" >农林牧渔•环保</a></li>
+		<li><a href="/info/?businesses=15" >跨领域经营 </a></li>
+		<li><a href="/info/?businesses=16" >其他</a></li>
+		<li><a href="/info/?businesses=17" >机械•自动化•仪器仪表行•重工业</a></li>
+		<li><a href="/info/?businesses=18" >汽车•摩托车行业 </a></li>
+		<li><a href="/info/?businesses=19" >旅游•酒店•餐饮服务</a></li>
+		<li><a href="/info/?businesses=20" >物业管理•商业中心</a></li>
+		<li><a href="/info/?businesses=21" >快速消费品(食品•饮料•日化•烟酒等)</a></li>
+		<li><a href="/info/?businesses=22" >家居•室内设计•装潢</a></li>
+		<li><a href="/info/?businesses=23" >石油•化工•采掘•冶炼</a></li>
+		<li><a href="/info/?businesses=24" >耐用消费品(服饰•纺织•家具）</a></li>
+		<li><a href="/info/?businesses=25" >媒体•文化传播•出版•影视</a></li>
+		<li><a href="/info/?businesses=26" >芯片•电子技术•半导体</a></li>
+		<li><a href="/info/?businesses=27" >批发•零售</a></li>
+	</ul>
+
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<p class="leftcolumn_title font14 b deepblack">热门公司推荐</p>
+<ul class="left_topcompany">
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1033-1.html">中国石化集团公司</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-212-1.html">中金(CICC)</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-183-1.html">英特尔（intel）</a></h1></li>
+	<li><h1><a href="http://www.hiall.com.cn/bbs/forum-188-1.html">联合利华Unilever</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-249-1.html">箭牌中国</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1241-1.html">完美时空</a></h1></li>
+</ul>			</div>
+			
+			
+		</div>
+		<div id="midcolumn" class="floatleft">
+			<div class="topnews">	
+	<div class="left floatleft lightblue">站内新闻</div>
+	<div class="right floatleft ">
+		<div class="floatleft">
+			<div class="absolute zindex200">
+				<a href="javascript:preMsg();" class="icon_arrow_blue_up relative floatleft" id="icon_arrow_blue_up"></a>
+			</div>
+		</div>
+		<div class="floatright">
+			<div class="absolute zindex200">
+				<a href="javascript:nextMsg();" class="icon_arrow_blue_down relative floatleft" id="icon_arrow_blue_down"></a>
+			</div>
+		</div>
+		<ul class="topnews_list" id="topnews_list" style="top:0px;">
+		<li id="msg_show"><a href="http://maker.wenda60.com" target="_blank" class="lightgray">【KnewMaker推荐】加入“创客”一族，感受电子DIY的魅力</a></li>					
+		</ul>
+		<ul style="display:none;">
+					<li id="msg_0"><a href="http://maker.wenda60.com" target="_blank" class="lightgray">【KnewMaker推荐】加入“创客”一族，感受电子DIY的魅力</a></li>			
+				</ul>
+		<input type="hidden" id="msg_count" value="1" />
+	</div>
+	<div class="clear"></div>
+</div>
+			<div class="clear spacer"></div>
+<div style="margin:5px 0px 0px 25px;">
+
+<script type="text/javascript"> var cpro_id = 'u249066'; </script>
+<script type="text/javascript" src="http://cpro.baidu.com/cpro/ui/c.js"></script>
+</div>
+			<div class="jobbox">
+				<div class="spacer"></div>
+				<div class="job_maininfo">
+					<h1 class="b font14">
+											北京金和软件股份有限公司  
+													<span class="pdlr"><img src="http://www.hiall.com.cn/images/icon/icon_top_default.gif" /></span>
+						</h1>
+					<h1>所属行业：计算机•互联网•通信</h1>
+					<div class="spacer"></div>
+                    <div>
+                       	<div class="button_job floatleft">
+							<div class="button_right"><a href="/company/cid-1055.html" class="icon_jobbutton_ck blue">查看公司详情</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+																		<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn">信息修改/删除</a></div>
+						</div>
+                        <div class="clear"></div>
+                            
+                    </div>
+                    <div class="spacer"></div>
+                    <div class="spacer"></div>
+                    <div>
+                        <div class="floatleft">
+                        <!-- Baidu Button BEGIN -->
+                        <div id="bdshare" class="bdshare_b" style="line-height: 12px;"><img src="http://bdimg.share.baidu.com/static/images/type-button-1.jpg" />
+                            <a class="shareCount"></a>
+                        </div>
+                        <script type="text/javascript" id="bdshare_js" data="type=button" ></script>
+                        <script type="text/javascript" id="bdshell_js"></script>
+                        <script type="text/javascript">
+                            document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+                        </script>
+                        <!-- Baidu Button END -->
+                        </div>
+                    </div>
+                    				</div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<p>
+								</p>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="job_detail">
+					<h1 class="positiontitle">[全国]北京金和软件股份有限公司2011校园招聘</h1>
+					<div class="spacer"></div>
+					<div class="spacer4"></div>
+						<p>
+该职位已发布超过<span class="pdlr or">821</span>天
+
+						<span class="pdlr"></span><span>编号：124242</span>
+						<span class="pdlr"></span></p>
+					<div class="spacer"></div>
+					<p>						
+						<span>工作地区：全国</span>
+						<span class="pdlr"></span>
+						<span>更新时间：2011-04-28</span>
+					</p>
+<div style="border-top:1px solid #C3DBE8; margin-top: 8px;"></div>
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<div style="overflow:auto;">
+						<h1 align="center" style="margin: 17pt 0cm 16.5pt; line-height: 26pt; text-align: center;"><span style="font-size: 16pt; font-family: 微软雅黑;"><font face="Calibri">北京金和软件股份有限公司招聘信息</font></span></h1>
+<p style="margin: 0cm 0cm 0pt; text-indent: 21pt; line-height: 26pt;" class="MsoNormal"><span style="font-family: 微软雅黑;"><font size="3"><font face="Calibri">北京金和软件股份有限公司始创于<span lang="EN-US">1994</span>年<span lang="EN-US">8</span>月，是中国最大的协同管理软件公司，总部位于北京中关村上地信息产业基地。金和软件作为微软全球金牌合作伙伴、<span lang="EN-US">IBM</span>、<span lang="EN-US">SAP</span>的全球战略合作伙伴，持续保持高速发展。目前，金和软件在全国<span lang="EN-US">35</span>个主要城市建有办事机构、全国主要客户<span lang="EN-US">14000</span>多家，业务覆盖全国<span lang="EN-US">31</span>个省市及港澳台地区，<span lang="EN-US">2007</span>年<span lang="EN-US">12</span>月<span lang="EN-US">27</span>日，金和软件成功登陆深圳证券交易所（股份代码：<span lang="EN-US">430024</span>），成为一家上市公众公司。</font></font></span></p>
+<p style="margin: 0cm 0cm 0pt; text-indent: 21pt; line-height: 26pt;" class="MsoNormal"><font size="3"><font face="Calibri"><span style="font-family: 微软雅黑;">金和软件专注于</span><span style="font-family: 微软雅黑;">企业内部运营管理研究和协同管理软件研发，全面提供具有自主知识产权的协同管理软件、咨询服务与解决方案，产品</span><span style="font-family: 微软雅黑;">拥有大型集团企业和行业应用解决方案、成长型企业内部运营管理平台、中小型企业协同办公软件、政府<span lang="EN-US">/</span>事业单位协同办公软件及精确管理研究院咨询服务等多条产品业务线，全面覆盖众多行业领域、企业规模和发展阶段。</span></font></font></p>
+<p style="margin: 0cm 0cm 0pt; text-indent: 21pt; line-height: 26pt;" class="MsoNormal"><span style="font-family: 微软雅黑;"><font size="3"><font face="Calibri">金 和软件致力于成为最受社会、客户、投资者和员工尊敬的公司，&ldquo;让所有企业都享受精确管理&rdquo;是金和人的崇高战略；&ldquo;所有人因为精确管理和精确管理的实现手段 即金和软件而快乐，人们所在的组织高效&rdquo;是金和人追求的伟大使命。金和人士气高涨、斗志昂扬，正在向&ldquo;成为世界上伟大的公司之一&rdquo;的目标而努力奋斗，开放 的金和、发展的金和期待着您的加盟。</font></font></span></p>
+<p style="margin: 0cm 0cm 0pt; line-height: 26pt;" class="MsoNormal"><b style=""><span style="color: black; font-family: 微软雅黑;"><font size="3"><font face="Calibri">金和荣誉</font></font></span></b></p>
+<p style="margin: 0cm 0cm 0pt 18pt; text-indent: -18pt; line-height: 26pt;" class="ListParagraph"><span lang="EN-US" style="font-family: 微软雅黑;"><span style=""><font size="3" face="Calibri">1、</font><span style="">? </span></span></span><span style="font-family: 微软雅黑;"><font size="3"><font face="Calibri">金和软件荣获国家高新技术企业认证；<span lang="EN-US"><span style="">? </span></span>北京市自主创新产品；</font></font></span></p>
+<p style="margin: 0cm 0cm 0pt; line-height: 26pt;" class="MsoNormal"><font size="3"><font face="Calibri"><span lang="EN-US" style="font-family: 微软雅黑;">2</span><span style="font-family: 微软雅黑;">、</span><span style="font-family: 微软雅黑;">金和软件荣获&ldquo;福布斯中国潜力企业排行榜（<span lang="EN-US">2010</span>） 第<span lang="EN-US">53</span>位&rdquo;；</span></font></font></p>
+<p style="margin: 0cm 0cm 0pt; line-height: 26pt;" class="MsoNormal"><font size="3"><font face="Calibri"><span lang="EN-US" style="font-family: 微软雅黑;">3</span><span style="font-family: 微软雅黑;">、金和软件获得&ldquo;<span lang="EN-US">CCTV 2007</span>年度最佳雇主<span lang="EN-US">50</span>强&rdquo;；</span></font></font></p>
+<p style="margin: 0cm 0cm 0pt; line-height: 26pt;" class="MsoNormal"><font size="3"><font face="Calibri"><span lang="EN-US" style="font-family: 微软雅黑;">4</span><span style="font-family: 微软雅黑;">、</span><span style="font-family: 微软雅黑;">金和软件获得&ldquo;<span lang="EN-US">CCTV</span>新财富十大&lsquo;成长之星&rsquo;&rdquo;；</span></font></font></p>
+<p style="margin: 0cm 0cm 0pt; line-height: 26pt;" class="MsoNormal"><font size="3"><font face="Calibri"><span lang="EN-US" style="font-family: 微软雅黑;">5</span><span style="font-family: 微软雅黑;">、金和软件获得&ldquo;<span lang="EN-US">IT</span>行业十大民族品牌&rdquo;称号；</span></font></font></p>
+<p style="margin: 0cm 0cm 0pt; line-height: 26pt;" class="MsoNormal"><font size="3"><font face="Calibri"><span lang="EN-US" style="font-family: 微软雅黑;">6</span><span style="font-family: 微软雅黑;">、</span><span style="font-family: 微软雅黑;">金和软件作为&ldquo;国礼&rdquo;赠予南美<span lang="EN-US">19</span>国，这也是中国历史上的第一次；</span></font></font></p>
+<p style="margin: 0cm 0cm 0pt; line-height: 26pt;" class="MsoNormal"><font size="3"><font face="Calibri"><span lang="EN-US" style="font-family: 微软雅黑;">7</span><span style="font-family: 微软雅黑;">、金和软件获得中关村&ldquo;瞪羚计划&rdquo;重点培育企业；</span></font></font></p>
+<p style="margin: 0cm 0cm 0pt; line-height: 28pt;" class="MsoNormal"><font size="3"><font face="Calibri"><span lang="EN-US" style="font-family: 微软雅黑;">8</span><span style="font-family: 微软雅黑;">、金和软件获得<span lang="EN-US">AAA</span>级信用单位资质认证；</span></font></font></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><strong><span style="font-size: 14pt; font-family: 微软雅黑;">北京金和软件股份有限公司<span lang="EN-US">2011</span>校园招聘需求</span></strong></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><strong><span style="font-size: 14pt; font-family: 微软雅黑;">校园招聘专员</span></strong></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><span style="font-family: 微软雅黑;"><font size="3" face="Calibri">岗位职责：</font><span lang="EN-US"><br />
+<font size="3" face="Calibri">1</font></span><font size="3" face="Calibri">、负责校园招聘计划制订、协调；</font><span lang="EN-US"><br />
+<font size="3" face="Calibri">2</font></span><font size="3" face="Calibri">、负责校园招聘宣讲、面试及其他管理工作；</font><span lang="EN-US"><br />
+<font size="3" face="Calibri">3</font></span><font size="3" face="Calibri">、负责校园公益活动推广、高校关系推动工作；</font><span lang="EN-US"><br />
+<font size="3" face="Calibri">4</font></span><font size="3"><font face="Calibri">、其他部门内工作</font></font></span></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><span style="font-family: 微软雅黑;"><font size="3" face="Calibri">岗位资格：</font><span lang="EN-US"><br />
+<font size="3" face="Calibri">1</font></span><font size="3" face="Calibri">、<span lang="EN-US">2011</span>年应届本科毕业生，致力于校园招聘、校园活动工作；</font><span lang="EN-US"><br />
+<font size="3" face="Calibri">2</font></span><font size="3" face="Calibri">、人力资源相关专业；</font><span lang="EN-US"><br />
+<font size="3" face="Calibri">3</font></span><font size="3" face="Calibri">、具有良好的沟通表达能力、演讲能力、协调能力；</font><span lang="EN-US"><br />
+<font size="3" face="Calibri">4</font></span><font size="3"><font face="Calibri">、有相关招聘、实习经验者优先考虑；</font></font></span></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><font size="3"><font face="Calibri"><span style="color: black; font-family: 微软雅黑;">简历投递：</span><span lang="EN-US" style="color: red; font-family: 微软雅黑;">campus</span></font><span lang="EN-US"><span style="color: red; font-family: 微软雅黑; text-decoration: none;">@jh0101.com</span></span></font><span lang="EN-US" style="font-family: 微软雅黑;"><br />
+</span><span style="color: black; font-family: 微软雅黑;"><font size="3" face="Calibri">邮件标题格式：所在城市<span lang="EN-US"> </span>学校<span lang="EN-US"> </span>应聘岗位<span lang="EN-US"> </span>专业<span lang="EN-US"> </span>姓名</font></span><span lang="EN-US" style="font-family: 微软雅黑;"><br />
+</span><font size="3"><span style="color: black; font-family: 微软雅黑;"><font face="Calibri">例如：</font><span class="ttag"><span style="font-family: 微软雅黑;">北京</span></span><span lang="EN-US"><font face="Calibri"> </font></span><span class="ttag"><span style="font-family: 微软雅黑;">中国</span></span><font face="Calibri">农业大学<span lang="EN-US"> </span>研发工程师<span lang="EN-US"> </span>软件工程<span lang="EN-US"> </span>张三</font></span></font></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><span style="font-family: 微软雅黑;"><font size="3"><font face="Calibri">官方网站：<a href="http://www.jh0101.com"><span lang="EN-US">www.jh0101.com</span></a></font></font></span></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><span style="font-family: 微软雅黑;"><font size="3"><font face="Calibri">官方播客：<a href="http://www.jinhepod.com"><span lang="EN-US">www.jinhepod.com</span></a></font></font></span></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><span style="font-family: 微软雅黑;"><font size="3" face="Calibri">金和学院：</font><font size="3"><font face="Calibri"><span lang="EN-US"><a href="http://www.jh-club.com/service/p/JHCollege">www.jh-club.com/service/p/JHCollege</a><br />
+</span><span style="color: black;">总部地址<span lang="EN-US">: </span>北京市海淀区上地南路<span lang="EN-US">57</span>号</span></font></font></span></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><span style="color: black; font-family: 微软雅黑;"><font size="3"><font face="Calibri">注：如有疑问请登录金和学院网络平台留言区进行留言，我们会进行及时处理，再次感谢同学们对金和软件招聘工作的关注和支持</font></font></span></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><strong><span lang="EN-US" style="font-size: 14pt; font-family: 微软雅黑;">Java</span></strong><strong><span style="font-size: 14pt; font-family: 微软雅黑;">研发工程师（武汉研发中心）</span></strong><span lang="EN-US" style="font-family: 微软雅黑;"><br />
+</span><span style="color: black; font-family: 微软雅黑;"><font size="3" face="Calibri">岗位职责：</font></span><span lang="EN-US" style="font-family: 微软雅黑;"><br />
+</span><span style="color: black; font-family: 微软雅黑;"><font size="3"><font face="Calibri">负责公司相关</font><span class="ttag"><span style="font-family: 微软雅黑;">软件</span></span><font face="Calibri">产品的代码开发工作。</font></font></span><span lang="EN-US" style="font-family: 微软雅黑;"><br />
+</span><span style="color: black; font-family: 微软雅黑;"><font size="3"><font face="Calibri">岗位资格：</font></font></span></p>
+<p style="margin: 0cm 0cm 0pt 18pt; text-indent: -18pt;" class="ListParagraph"><strong><span lang="EN-US" style="font-weight: normal; font-family: 微软雅黑;"><span style=""><font size="3">1、</font><span style="">? </span></span></span></strong><font size="3"><strong><span lang="EN-US" style="font-weight: normal; font-family: 微软雅黑;">2011</span></strong><strong><span style="font-weight: normal; font-family: 微软雅黑;">年应届本科、硕士毕业生</span></strong></font></p>
+<p style="margin: 0cm 0cm 0pt 18pt; text-indent: -18pt;" class="ListParagraph"><span lang="EN-US" style="color: black; font-family: 微软雅黑;"><span style=""><font size="3" face="Calibri">2、</font><span style="">? </span></span></span><span style="color: black; font-family: 微软雅黑;"><font size="3"><font face="Calibri">计算机科学与技术、软件工程、电子商务等计算机相关专业</font></font></span></p>
+<p style="margin: 0cm 0cm 0pt 18pt; text-indent: -18pt;" class="ListParagraph"><span lang="EN-US" style="color: black; font-family: 微软雅黑;"><span style=""><font size="3" face="Calibri">3、</font><span style="">? </span></span></span><font size="3"><font face="Calibri"><span style="color: black; font-family: 微软雅黑;">积极上进、团队观念强、</span><span style="font-family: 微软雅黑;">学习能力强、逻辑、创新思维能力强</span></font></font></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><span style="color: black; font-family: 微软雅黑;"><font size="3"><font face="Calibri">技术要求：</font></font></span></p>
+<p style="margin: 0cm 0cm 0pt 18pt; text-indent: -18pt;" class="ListParagraph"><span lang="EN-US" style="font-family: 微软雅黑;"><span style=""><font size="3" face="Calibri">1、</font><span style="">? </span></span></span><span style="font-family: 微软雅黑;"><font size="3"><font face="Calibri">熟悉<span lang="EN-US">java</span>架构设计与开发；</font></font></span></p>
+<p style="margin: 0cm 0cm 0pt 18pt; text-indent: -18pt;" class="ListParagraph"><span lang="EN-US" style="font-family: 微软雅黑;"><span style=""><font size="3" face="Calibri">2、</font><span style="">? </span></span></span><span style="font-family: 微软雅黑;"><font size="3"><font face="Calibri">熟悉<span lang="EN-US">Jsp Servlet JavaBean(MVC)</span>模式开发；</font></font></span></p>
+<p style="margin: 0cm 0cm 0pt 18pt; text-indent: -18pt;" class="ListParagraph"><span lang="EN-US" style="font-family: 微软雅黑;"><span style=""><font size="3" face="Calibri">3、</font><span style="">? </span></span></span><span style="font-family: 微软雅黑;"><font size="3"><font face="Calibri">熟悉基于<span lang="EN-US">Struts,Hibernate,Spring</span>等框架的<span lang="EN-US">B/S</span>架构开发；</font></font></span></p>
+<p style="margin: 0cm 0cm 0pt 18pt; text-indent: -18pt;" class="ListParagraph"><span lang="EN-US" style="font-family: 微软雅黑;"><span style=""><font size="3" face="Calibri">4、</font><span style="">? </span></span></span><span style="font-family: 微软雅黑;"><font size="3"><font face="Calibri">熟悉<span lang="EN-US">Tomcat</span>服务器；</font></font></span></p>
+<p style="margin: 0cm 0cm 0pt 18pt; text-indent: -18pt;" class="ListParagraph"><span lang="EN-US" style="font-family: 微软雅黑;"><span style=""><font size="3" face="Calibri">5、</font><span style="">? </span></span></span><span style="font-family: 微软雅黑;"><font size="3"><font face="Calibri">熟悉<span lang="EN-US">MS-SQL Server</span>或<span lang="EN-US">MySql</span>数据库；</font></font></span></p>
+<p style="margin: 0cm 0cm 0pt 18pt; text-indent: -18pt;" class="ListParagraph"><span lang="EN-US" style="font-family: 微软雅黑;"><span style=""><font size="3" face="Calibri">6、</font><span style="">? </span></span></span><span style="font-family: 微软雅黑;"><font size="3"><font face="Calibri">熟悉<span lang="EN-US">Java</span>常见开发工具如<span lang="EN-US"> MyEclipse</span>、<span lang="EN-US">Eclipse</span>；</font></font></span></p>
+<p style="margin: 0cm 0cm 0pt 18pt; text-indent: -18pt;" class="ListParagraph"><span lang="EN-US" style="font-family: 微软雅黑;"><span style=""><font size="3" face="Calibri">7、</font><span style="">? </span></span></span><span style="font-family: 微软雅黑;"><font size="3"><font face="Calibri">熟悉<span lang="EN-US">Html</span>编程语言、<span lang="EN-US"> JavaScript</span>脚本；</font></font></span></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 微软雅黑;">
+<p><font size="3" face="Calibri">?</font></p>
+</span></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><strong><span lang="EN-US" style="font-size: 14pt; font-family: 微软雅黑;">.net</span></strong><strong><span style="font-size: 14pt; font-family: 微软雅黑;">研发工程师（武汉研发中心）</span></strong><span lang="EN-US" style="font-family: 微软雅黑;"><br />
+</span><span style="color: black; font-family: 微软雅黑;"><font size="3" face="Calibri">岗位职责：</font></span><span lang="EN-US" style="font-family: 微软雅黑;"><br />
+</span><span style="color: black; font-family: 微软雅黑;"><font size="3"><font face="Calibri">负责公司相关</font><span class="ttag"><span style="font-family: 微软雅黑;">软件</span></span><font face="Calibri">产品的代码开发工作。</font></font></span><span lang="EN-US" style="font-family: 微软雅黑;"><br />
+</span><span style="color: black; font-family: 微软雅黑;"><font size="3"><font face="Calibri">岗位资格：</font></font></span></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><font size="3"><font face="Calibri"><span lang="EN-US" style="color: black; font-family: 微软雅黑;">1</span><span style="color: black; font-family: 微软雅黑;">、</span></font><strong><span lang="EN-US" style="font-weight: normal; font-family: 微软雅黑;">2011</span></strong><strong><span style="font-weight: normal; font-family: 微软雅黑;">年应届本科、硕士毕业生</span></strong></font></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><font size="3"><font face="Calibri"><span lang="EN-US" style="color: black; font-family: 微软雅黑;">2</span><span style="color: black; font-family: 微软雅黑;">、计算机科学与技术、软件工程、电子商务等计算机相关专业</span></font></font></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><font size="3"><font face="Calibri"><span lang="EN-US" style="color: black; font-family: 微软雅黑;">3</span><span style="color: black; font-family: 微软雅黑;">、积极上进、团队观念强、</span><span style="font-family: 微软雅黑;">学习能力强、逻辑、创新思维能力强</span></font></font></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><span style="font-family: 微软雅黑;"><font size="3"><font face="Calibri">技术要求：</font></font></span></p>
+<p style="margin: 0cm 0cm 0pt 21pt; text-indent: -21pt;" class="ListParagraph"><span lang="EN-US" style="font-family: 微软雅黑;"><span style=""><font size="3" face="Calibri">1、</font><span style="">??? </span></span></span><span style="font-family: 微软雅黑;"><font size="3"><font face="Calibri">有<span lang="EN-US">ASP.NET(C#)</span>开发经验，了解三层架构<span lang="EN-US">,</span>熟练使用<span lang="EN-US">vs2005</span>开发工具 </font></font></span></p>
+<p style="margin: 0cm 0cm 0pt 21pt; text-indent: -21pt;" class="ListParagraph"><span lang="EN-US" style="font-family: 微软雅黑;"><span style=""><font size="3" face="Calibri">2、</font><span style="">??? </span></span></span><span style="font-family: 微软雅黑;"><font size="3"><font face="Calibri">熟悉<span lang="EN-US">JavaScript</span>，<span lang="EN-US">HTML</span>，<span lang="EN-US">XML</span>，<span lang="EN-US">Ajax</span>等<span lang="EN-US">web</span>开发技术，了解<span lang="EN-US">JQuery</span>； </font></font></span></p>
+<p style="margin: 0cm 0cm 0pt 21pt; text-indent: -21pt;" class="ListParagraph"><span lang="EN-US" style="font-family: 微软雅黑;"><span style=""><font size="3" face="Calibri">3、</font><span style="">??? </span></span></span><font size="3"><span style="font-family: 宋体;">熟悉</span><span lang="EN-US"><font face="Calibri">.NET</font></span><span style="font-family: 宋体;">，精通</span><span lang="EN-US"><font face="Calibri">SQL</font></span><span style="font-family: 宋体;">语言，熟练掌握</span><span lang="EN-US"><font face="Calibri">SQL Server</font></span><span style="font-family: 宋体;">；</span></font></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><strong><span style="font-size: 14pt; font-family: 微软雅黑;">实施工程师 （全国各办事处）</span></strong><b><span lang="EN-US" style="color: darkorange; font-family: 微软雅黑;"><br />
+</span></b><span style="color: black; font-family: 微软雅黑;"><font size="3" face="Calibri">岗位职责：</font><span lang="EN-US"><br />
+<font size="3" face="Calibri">1</font></span><font size="3" face="Calibri">、负责对客户业务的分析、调研、总结，形成项目实施方案；</font><span lang="EN-US"><br />
+<font size="3" face="Calibri">2</font></span><font size="3"><font face="Calibri">、与</font><span class="ttag"><span style="font-family: 微软雅黑;">企业管理</span></span><font face="Calibri">层沟通，</font><span class="ttag"><span style="font-family: 微软雅黑;">解决</span></span><font face="Calibri">客户管理问题；</font></font><span lang="EN-US"><br />
+<font size="3" face="Calibri">3</font></span><font size="3"><font face="Calibri">、负责管理</font><span class="ttag"><span style="font-family: 微软雅黑;">软件</span></span><font face="Calibri">在客户方的上线、开发、培训以及推广；</font></font><span lang="EN-US"><br />
+<font size="3" face="Calibri">4</font></span><font size="3" face="Calibri">、负责对整个项目的基础管理规范工作</font></span><span lang="EN-US" style="font-family: 微软雅黑;"><br />
+</span><span style="color: black; font-family: 微软雅黑;"><font size="3" face="Calibri">岗位资格：</font><span lang="EN-US"><br />
+<font size="3" face="Calibri">1. 2011</font></span><font size="3" face="Calibri">年应届本科、硕士毕业生；</font><span lang="EN-US"><br />
+<font size="3" face="Calibri">2. </font></span><font size="3"><font face="Calibri">计算机科学与技术、软件工程、网络工程、、电子商务、信息管理与信息</font><span class="ttag"><span style="font-family: 微软雅黑;">系统</span></span><font face="Calibri">等计算机相关专业；</font></font><span lang="EN-US"><br />
+<font size="3" face="Calibri">3.</font></span><font size="3" face="Calibri">对软件开发具有浓厚的兴趣；</font><span lang="EN-US"><br />
+<font size="3" face="Calibri">4.</font></span><font size="3"><font face="Calibri">熟悉一定的<span lang="EN-US">.NET</span>、<span lang="EN-US">JAVA</span>、<span lang="EN-US">sqlserver</span></font><span class="ttag"><span style="font-family: 微软雅黑;">数据</span></span><font face="Calibri">库等开发语言知识；</font></font><span lang="EN-US"><br />
+<font size="3" face="Calibri">5.</font></span><font size="3" face="Calibri">具有良好的沟通表达能力和团队合作精神；</font><span lang="EN-US"><br />
+<font size="3" face="Calibri">6.</font></span><font size="3" face="Calibri">有相关的项目开发或者实习经验者优先；</font><span lang="EN-US"><br />
+</span><font size="3" face="Calibri">办事处分布地点：</font><span lang="EN-US"><br />
+</span><font size="3"><font face="Calibri">北京、</font><span class="ttag"><span style="font-family: 微软雅黑;">上海</span></span><font face="Calibri">、广州，深圳，天津，重庆，杭州，宁波，温州，台州，福州，泉州，厦门，南京，苏州，无锡，南通，常州，扬州，济南，青岛，烟台，大连，哈尔滨，石家庄，成都，西安，太原，郑州，合肥，南昌，长沙，武汉，昆明，南宁。</font></font><span lang="EN-US"><br />
+</span></span><b style=""><span style="font-size: 14pt; font-family: 微软雅黑;"><font face="Calibri">销售工程师（全国各办事处）</font></span></b><span lang="EN-US" style="font-family: 微软雅黑;"><br />
+</span><span style="font-family: 微软雅黑;"><font size="3" face="Calibri">岗位职责：</font><span lang="EN-US"><br />
+<font size="3" face="Calibri">1</font></span><font size="3" face="Calibri">、负责地方市场的开拓与资源的整合；</font></span></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><font size="3"><font face="Calibri"><span lang="EN-US" style="font-family: 微软雅黑;">2</span><span style="font-family: 微软雅黑;">、负责与客户管理层沟通，挖掘客户需求；</span></font></font></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 微软雅黑;"><font size="3" face="Calibri">3</font></span><span style="font-family: 微软雅黑;"><font size="3" face="Calibri">、负责软件产品的销售以及专业服务。</font><span lang="EN-US"><br />
+</span><font size="3" face="Calibri">岗位资格</font><span lang="EN-US"><font size="3" face="Calibri">:<br />
+</font></span></span><span lang="EN-US" style="color: black; font-family: 微软雅黑;"><font size="3" face="Calibri">1</font></span><span style="color: black; font-family: 微软雅黑;"><font size="3" face="Calibri">、<span lang="EN-US">2011</span>年应届本科毕业生；</font><span lang="EN-US"><br />
+<font size="3" face="Calibri">2</font></span><font size="3"><font face="Calibri">、计算机科学与技术、软件工程、网络工程、信息管理与信息</font><span class="ttag"><span style="font-family: 微软雅黑;">系统</span></span><font face="Calibri">等计算机相关专业；</font></font><span lang="EN-US"><br />
+</span></span><span lang="EN-US" style="font-family: 微软雅黑;"><font size="3" face="Calibri">3</font></span><span style="font-family: 微软雅黑;"><font size="3" face="Calibri">、对软件行业和企业管理知识以及销售工作具有浓厚的兴趣；</font><span lang="EN-US"><br />
+<font size="3" face="Calibri">4</font></span><font size="3"><font face="Calibri">、具备优秀的语言表达能力和逻辑思维能力；</font></font></span></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><span style="color: black; font-family: 微软雅黑;"><font size="3" face="Calibri">办事处分布地点：</font><span lang="EN-US"><br />
+</span><font size="3"><font face="Calibri">北京、</font><span class="ttag"><span style="font-family: 微软雅黑;">上海</span></span><font face="Calibri">、广州，深圳，天津，重庆，杭州，宁波，温州，台州，福州，泉州，厦门，南京，苏州，无锡，南通，常州，扬州，济南，青岛，烟台，大连，哈尔滨，石家庄，成都，西安，太原，郑州，合肥，南昌，长沙，武汉，昆明，南宁。</font></font><span lang="EN-US"><br />
+</span><font size="3" face="Calibri">简历投递：</font></span><span lang="EN-US"><span style="color: red; font-family: 微软雅黑; text-decoration: none;"><font size="3">campus@jh0101.com</font></span></span><span lang="EN-US" style="font-family: 微软雅黑;"><br />
+</span><span style="color: black; font-family: 微软雅黑;"><font size="3" face="Calibri">邮件标题格式：所在城市<span lang="EN-US"> </span>学校<span lang="EN-US"> </span>应聘岗位<span lang="EN-US"> </span>专业<span lang="EN-US"> </span>姓名</font><span lang="EN-US"><br />
+</span><font size="3" face="Calibri">例如：北京<span lang="EN-US"> </span>北京航空航天大学<span lang="EN-US"> </span>实施工程师<span lang="EN-US"> </span>软件工程<span lang="EN-US"> </span>张三</font></span><span lang="EN-US" style="font-family: 微软雅黑;"><br />
+</span><span style="font-family: 微软雅黑;"><font size="3" face="Calibri">官方网站：</font><font face="Calibri"><font size="3"><span lang="EN-US"><a href="http://www.jh0101.com">www.jh0101.com</a><br />
+</span>官方播客：</font></font><font face="Calibri"><font size="3"><span lang="EN-US"><a href="http://www.jinhepod.com">www.jinhepod.com</a><br />
+</span>金和学院：</font></font></span><span lang="EN-US"><a href="http://www.jh-club.com/service/p/JHCollege"><span style="font-family: 微软雅黑;"><font size="3">www.jh-club.com/service/p/JHCollege</font></span></a></span></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><span style="font-family: 微软雅黑;"><font size="3" face="Calibri">总部地址<span lang="EN-US">: </span>北京市海淀区上地南路<span lang="EN-US">57</span>号</font><span lang="EN-US"><br />
+</span><font size="3" face="Calibri">注：如有疑问请登录金和学院网络平台留言区进行留言，我们及时进行处理，再次感谢同学们对金和软件招聘工作的关注和支持</font></span></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><strong><span lang="EN-US" style="color: darkorange; font-family: 微软雅黑;">
+<p>&nbsp;</p>
+</span></strong></p>
+<p align="left" style="margin: 0cm 0cm 0pt; line-height: 19.2pt; text-align: left;" class="MsoNormal"><b style=""><span style="font-size: 14pt; font-family: 微软雅黑;"><font face="Calibri">校园大使活动</font></span></b><span lang="EN-US" style="color: yellowgreen; font-family: 微软雅黑;"><br />
+</span><span style="font-family: 微软雅黑;"><font size="3" face="Calibri">金 和校园大使，定位于在校大学生群体，旨在帮助大学生近距离接触企业，建立企业和学生群体之间的桥梁和枢纽；助力金和软件校园招聘和市场活动的规划和执行。 通过这样的经历和锻炼，您将有机会获得金和软件提供的专业化职场培训、寒暑期实习以及毕业后加盟金和成为正式员工的机会。</font><span lang="EN-US"><br />
+</span></span><span lang="EN-US"><a target="_blank" href="http://www.jh-club.com/service/bbs/attachment.php?aid=10574&amp;k=c3b33d56c29bd86bb869acfa987237ca&amp;t=1297996800&amp;nothumb=yes&amp;sid=55e6PSj5ZQyShntx93Zd4LA1bs+BKTVphsEbotaDYJoTzAo" title="11.gif"><b><span lang="EN-US" style="display: none; color: rgb(0, 102, 153); font-family: 微软雅黑; text-decoration: none;"><span lang="EN-US"><font size="3">下载</font></span></span></b></a></span><font size="3"><font face="Calibri"><span lang="EN-US" style="display: none; font-family: 微软雅黑;"> (48.09 KB)</span></font></font></p>
+<p align="left" style="background: none repeat scroll 0% 0% white; margin: 0cm 0cm 0pt; line-height: 19.2pt; text-align: left;" class="MsoNormal"><span lang="EN-US" style="display: none; font-family: 微软雅黑;"><font size="3"><font face="Calibri">2010-12-16 09:35</font></font></span></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><span style="color: rgb(51, 51, 51); font-family: 微软雅黑;"><font size="3" face="Calibri">【招募流程】</font><font size="3"><font face="Calibri"><span lang="EN-US"> <br />
+</span>即日起开始，分为在线投递简历</font></font></span><font size="3"><font face="Calibri"><span lang="EN-US" style="color: rgb(51, 51, 51);">&mdash;&mdash;</span><span style="color: rgb(51, 51, 51); font-family: 微软雅黑;">简历筛选</span><span lang="EN-US" style="color: rgb(51, 51, 51);">&mdash;&mdash;</span><span style="color: rgb(51, 51, 51); font-family: 微软雅黑;">电话面试</span><span lang="EN-US" style="color: rgb(51, 51, 51);">&mdash;&mdash;</span></font></font><span style="color: rgb(51, 51, 51); font-family: 微软雅黑;"><font size="3" face="Calibri">录用四个环节。</font><font size="3"><font face="Calibri"><span lang="EN-US"> <br />
+</span>【工作内容】</font></font><font size="3"><font face="Calibri"><span lang="EN-US"> <br />
+</span>主动了解所在学校的招聘信息发布流程和动态，负责金和软件<span lang="EN-US">2011</span>校园招聘在所在高校的推广宣传和与校方就业相关部门的沟通协调工作，服从金和软件校园招聘活动的各项工作安排。 </font></font></span></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><span lang="EN-US" style="color: rgb(51, 51, 51); font-family: 微软雅黑;"><br />
+</span><span style="color: rgb(51, 51, 51); font-family: 微软雅黑;"><font size="3" face="Calibri">【招募要求】</font><font size="3"><font face="Calibri"><span lang="EN-US"> <br />
+1</span>、<span lang="EN-US">2011~2013</span>年毕业、本科及以上学历在校生，高校所在地区和城市不限；</font></font><font size="3"><font face="Calibri"><span lang="EN-US"> <br />
+2</span>、具有较强的沟通表达能力和团队协作能力；</font></font><font size="3"><font face="Calibri"><span lang="EN-US"> <br />
+3</span>、积极主动、勇于承担责任、大方开朗；</font></font><font size="3"><font face="Calibri"><span lang="EN-US"> <br />
+4</span>、具有学生社团或学生会工作经验的同学优先考虑；</font></font><font size="3"><font face="Calibri"><span lang="EN-US"> <br />
+5</span>、了解所在学校和校区的专业、年级分布及校园就业指导部门相关情况</font></font><font size="3"><font face="Calibri"><span lang="EN-US"> <br />
+--</span>目前在北京的同学，经筛选录用后在可获得金和软件提供的总部的参观、培训和实习机会</font></font><font size="3"><font face="Calibri"><span lang="EN-US"> <br />
+--</span>邮件标题格式：<span lang="EN-US">2011</span>校园大使<span lang="EN-US">-</span>学校<span lang="EN-US">-</span>专业<span lang="EN-US">-</span>姓名</font></font><font size="3"><font face="Calibri"><span lang="EN-US"> <br />
+--</span>简历内容除了基本信息外还应包括：</font></font><font size="3"><font face="Calibri"><span lang="EN-US"> <br />
+1</span>、您简单的职业规划</font></font><font size="3"><font face="Calibri"><span lang="EN-US"> <br />
+2</span>、您所在高校校区的简要概况（包括专业分布、年级分布情况等信息） </font></font></span></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><span lang="EN-US" style="color: rgb(51, 51, 51); font-family: 微软雅黑;"><br />
+</span><span style="font-family: 微软雅黑;"><font size="3" face="Calibri">官方网站：</font><font face="Calibri"><font size="3"><span lang="EN-US"><a href="http://www.jh0101.com">www.jh0101.com</a><br />
+</span>官方播客：</font></font><font face="Calibri"><font size="3"><span lang="EN-US"><a href="http://www.jinhepod.com">www.jinhepod.com</a><br />
+</span>金和学院：</font></font></span><span lang="EN-US"><a href="http://www.jh-club.com/service/p/JHCollege"><span style="font-family: 微软雅黑;"><font size="3">www.jh-club.com/service/p/JHCollege</font></span></a></span></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><span style="font-family: 微软雅黑;"><font size="3" face="Calibri">总部地址<span lang="EN-US">: </span>北京市海淀区上地南路<span lang="EN-US">57</span>号</font><span lang="EN-US"><br />
+</span><font size="3" face="Calibri">注：如有疑问请登录金和学院网络平台留言区进行留言，我们会及时进行处理，再次感谢同学们对金和软件招聘工作的关注和支持</font></span></p>
+<p align="left" style="margin: 0cm 0cm 0pt; line-height: 16.8pt; text-align: left;" class="MsoNormal"><span lang="EN-US" style="color: rgb(51, 51, 51); font-family: Verdana;">
+<p>&nbsp;</p>
+</span></p>					</div>
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<p ><a href="http://wenda60.com" target="_blank" style="font-size:14px; color:#2B68E9">>>练练该公司的招聘笔试题 </a><script type="text/javascript"><!--
+google_ad_client = "ca-pub-9486753476951928";
+/* 底部广告 */
+google_ad_slot = "1009061790";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p> 					
+					<div class="spacer"></div>
+					<div class="spacer"></div>
+					<div>
+						<div class="floatleft">
+                        <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_b" style="line-height: 12px;"><img src="http://bdimg.share.baidu.com/static/images/type-button-1.jpg" />
+                                <a class="shareCount"></a>
+                           
+						  </div>
+                        <script type="text/javascript" id="bdshare_js" data="type=button" ></script>
+                        <script type="text/javascript" id="bdshell_js"></script>
+                        <script type="text/javascript">
+                            document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+                        </script>
+                        <!-- Baidu Button END -->
+						</div>
+						<div class="button_job_or floatleft">
+							<!--<div class="button_right"><a href="javascript:;" onclick="collect(2, 124242);" class="icon_jobbutton_sc white">我要收藏</a></div>-->
+				  </div>
+                            <div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+						<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn" class="icon_jobbutton_p">举报错误信息</a></div>
+						</div>
+						<div class="vspacer floatleft"></div>
+						<div class="vspacer floatleft"></div>
+						<div class="button_job floatleft">
+							<div class="button_right"><a href="mailto:niejiansong@corp.hiall.com.cn">信息修改/删除</a></div>
+						</div>
+						<div class="clear"></div>
+			  </div>
+		  </div>
+				<div class="spacer"></div>
+				<div class="spacer">
+</div>
+<!--
+				<div class="grayline"></div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="pdlr">
+					<div>
+						<span class="floatleft font14  b">同行业的职位</span>
+						<span class="floatright pdlr"></span>
+					</div>
+					<div class="clear spacer"></div>
+					<ul class="ul_bluedisc underline">
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277293.html" class="blue" title="高薪诚聘销售精英" target="_blank">高薪诚聘销售精英</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277084.html" class="blue" title="网络兼职" target="_blank">网络兼职</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277049.html" class="blue" title="行政助理兼前台" target="_blank">行政助理兼前台</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277038.html" class="blue" title="肇庆市华盈信息科技有限公司招聘网站编辑（网页设计）" target="_blank">肇庆市华盈信息科技有限公司招聘网站编辑（网页设计）</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276955.html" class="blue" title="医生管理" target="_blank">医生管理</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276954.html" class="blue" title="医学编辑/医药编辑" target="_blank">医学编辑/医药编辑</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276953.html" class="blue" title="销售代表" target="_blank">销售代表</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276952.html" class="blue" title="平面设计师" target="_blank">平面设计师</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276951.html" class="blue" title="儿童插画师" target="_blank">儿童插画师</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276648.html" class="blue" title="向自由想象致敬，小米2013春季校招（全职&实习）霸气启动！" target="_blank">向自由想象致敬，小米2013春季校招（全职&实习）霸气</a></div>
+							<span class="floatright gray pdlr"></span>
+							<div class="clear"></div>
+						</li>
+											
+					</ul>
+				</div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<div class="grayline"></div>
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+								<div class="pdlr">
+					<div>
+						<span class="floatleft font14  b">相同公司职位</span>
+						<span class="floatright pdlr"></span>
+					</div>
+					<div class="clear spacer"></div>
+					<ul class="ul_bluedisc underline">
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_254416.html" class="blue" title="北京金和软件股份有限公司招聘2013届实施类管理培训生" target="_blank">北京金和软件股份有限公司招聘2013届实施类管理培训生</a></div>
+							<span class="floatright gray pdlr">01-27</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_254415.html" class="blue" title="北京金和软件股份有限公司招聘人力资源实习生" target="_blank">北京金和软件股份有限公司招聘人力资源实习生</a></div>
+							<span class="floatright gray pdlr">01-27</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_248332.html" class="blue" title="北京金和软件股份有限公司招聘实习生" target="_blank">北京金和软件股份有限公司招聘实习生</a></div>
+							<span class="floatright gray pdlr">01-05</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_247760.html" class="blue" title="北京金和软件股份有限公司招聘2013届销售类管理培训生" target="_blank">北京金和软件股份有限公司招聘2013届销售类管理培训生</a></div>
+							<span class="floatright gray pdlr">01-02</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_247484.html" class="blue" title="北京金和软件股份有限公司招聘2013届实施类管理培训生" target="_blank">北京金和软件股份有限公司招聘2013届实施类管理培训生</a></div>
+							<span class="floatright gray pdlr">01-01</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_130958.html" class="blue" title="京金和软件股份有限公司2011招聘" target="_blank">京金和软件股份有限公司2011招聘</a></div>
+							<span class="floatright gray pdlr">06-02</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_124242.html" class="blue" title="[全国]北京金和软件股份有限公司2011校园招聘" target="_blank">[全国]北京金和软件股份有限公司2011校园招聘</a></div>
+							<span class="floatright gray pdlr">04-28</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_119601.html" class="blue" title="北京金和软件股份有限公司招聘研发工程师（北京、武汉）" target="_blank">北京金和软件股份有限公司招聘研发工程师（北京、武汉</a></div>
+							<span class="floatright gray pdlr">03-21</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_116253.html" class="blue" title="[全国]北京金和软件股份有限公司2011校园招聘" target="_blank">[全国]北京金和软件股份有限公司2011校园招聘</a></div>
+							<span class="floatright gray pdlr">03-05</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_114711.html" class="blue" title="金和软件2011校园招聘" target="_blank">金和软件2011校园招聘</a></div>
+							<span class="floatright gray pdlr">02-28</span>
+							<div class="clear"></div>
+						</li>
+											
+					</ul>
+				</div>
+							</div>
+			<div class="clear spacer"></div>
+			<div class="spacer"></div>
+			<div class="spacer"></div>
+-->
+			<div class="spacer"></div>
+		</div>
+        
+		<div class="clear"></div>
+	</div>
+    
+    <div id="rightcolumn" class="floatleft">
+            <div class="rightcolumn" style="padding:0px;">
+                <div>
+			 <script type="text/javascript"><!--
+            google_ad_client = "ca-pub-9486753476951928";
+            /* 职位广告 */
+            google_ad_slot = "3598731756";
+            google_ad_width = 200;
+            google_ad_height = 200;
+            //-->
+            </script>
+            <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+				
+				    <div class="rightcolumn_title font14 b deepblack">该公司最新招聘信息</div>
+                    <div class="rightcolumn_title font14 b deepblack"><a href="/company/cid-1055.html ">点击查看全部</a></div>
+					<div class="spacer"></div>
+					<ul class="ul_bluedisc right_ul_bluedisc underline">
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_254416.html" class="blue">北京金和软件股份有限公司招聘2013届实施类管理培训生</a></div>
+						<span class="pdlr4 floatright">11-27</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_254415.html" class="blue">北京金和软件股份有限公司招聘人力资源实习生</a></div>
+						<span class="pdlr4 floatright">11-27</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_248332.html" class="blue">北京金和软件股份有限公司招聘实习生</a></div>
+						<span class="pdlr4 floatright">11-05</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_247760.html" class="blue">北京金和软件股份有限公司招聘2013届销售类管理培训生</a></div>
+						<span class="pdlr4 floatright">11-02</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_247484.html" class="blue">北京金和软件股份有限公司招聘2013届实施类管理培训生</a></div>
+						<span class="pdlr4 floatright">11-01</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_130958.html" class="blue">京金和软件股份有限公司2011招聘</a></div>
+						<span class="pdlr4 floatright">04-02</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_124242.html" class="blue">[全国]北京金和软件股份有限公司2011校园招聘</a></div>
+						<span class="pdlr4 floatright">02-28</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_119601.html" class="blue">北京金和软件股份有限公司招聘研发工程师（北京、武汉）</a></div>
+						<span class="pdlr4 floatright">01-21</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_116253.html" class="blue">[全国]北京金和软件股份有限公司2011校园招聘</a></div>
+						<span class="pdlr4 floatright">01-05</span>
+						<div class="clear"></div>
+						</li>							
+										    <li>
+						<div class="floatleft list_lefttxt"><a href="/job/position_114711.html" class="blue">金和软件2011校园招聘</a></div>
+						<span class="pdlr4 floatright">12-28</span>
+						<div class="clear"></div>
+						</li>							
+										</ul>
+				</div>
+		   </div>
+           <div class="rightcolumn" style="padding:0px;">
+                <div>
+				
+				    <div class="rightcolumn_title font14 b deepblack">同行业最新招聘信息</div>
+                    
+					<div class="spacer"></div>
+					<ul class="ul_bluedisc right_ul_bluedisc underline">
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277293.html" class="blue" title="高薪诚聘销售精英" target="_blank">高薪诚聘销售精英</a></div>
+							<span class="floatright gray pdlr">05-22</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277084.html" class="blue" title="网络兼职" target="_blank">网络兼职</a></div>
+							<span class="floatright gray pdlr">05-20</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277049.html" class="blue" title="行政助理兼前台" target="_blank">行政助理兼前台</a></div>
+							<span class="floatright gray pdlr">05-20</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_277038.html" class="blue" title="肇庆市华盈信息科技有限公司招聘网站编辑（网页设计）" target="_blank">肇庆市华盈信息科技有限公司招聘网站编辑（网页设计）</a></div>
+							<span class="floatright gray pdlr">05-18</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276955.html" class="blue" title="医生管理" target="_blank">医生管理</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276954.html" class="blue" title="医学编辑/医药编辑" target="_blank">医学编辑/医药编辑</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276953.html" class="blue" title="销售代表" target="_blank">销售代表</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276952.html" class="blue" title="平面设计师" target="_blank">平面设计师</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276951.html" class="blue" title="儿童插画师" target="_blank">儿童插画师</a></div>
+							<span class="floatright gray pdlr">05-17</span>
+							<div class="clear"></div>
+						</li>							
+										    <li>
+							<div class="floatleft list_midcontent"><a href="/job/position_276648.html" class="blue" title="向自由想象致敬，小米2013春季校招（全职&实习）霸气启动！" target="_blank">向自由想象致敬，小米2013春季校招（全职&实习）霸气</a></div>
+							<span class="floatright gray pdlr">05-14</span>
+							<div class="clear"></div>
+						</li>							
+										</ul>
+				</div>
+		   </div>
+           <div class="rightcolumn">
+				<div class="spacer"></div>
+	
+								
+		   </div>
+		   <div class="spacer"></div>
+				
+    </div>
+</div>
+<iframe id="collection" name="collection" style="width:0px;height:0px;"></iframe>
+<div id="foot">
+	<div class="footbody">
+		<div class="foot_top aligncenter white"> <a href="http://www.hiall.com.cn/" class="white">HiAll校园招聘</a> <span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/" class="white">HiAll论坛</a> 
+
+<span class="pdlr4">|</span> <a href="http://wenda.hiall.com.cn/" class="white">HiAll一问一答</a>
+
+<span class="pdlr4">|</span> <a href="http://maker.wenda60.com/" class="white">KnewMaker</a>
+
+
+<span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/forum-744-1.html" class="white">校园招聘求职大礼包</a> <span class="pdlr4">|</span> <a href="http://hr.hiall.com.cn/" class="white">加入HiAll</a>
+<span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/thread-150495-1-1.html" class="white">广告合作</a> <span class="pdlr4">|</span> <a href="/info/about.php" class="white">关于我们</a> <span class="pdlr4">|</span> <a href="/info/sitemap.php" class="white">网站地图</a></div>		<div class="foot_mid aligncenter white"> 网站相关问题请联系：010-82601802 || 企业服务请联系：010-82600684</div>
+		<div class="foot_bot aligncenter white">Copyright HiAll
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP备10021013号
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP证090110号
+			<span class="pdlr"></span><span class="pdlr"></span>京公网安备11010802010560号
+		</div>
+	</div>
+</div>
+<!-- Baidu Analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F56dda118cbb3220435957635a699495b' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- Baidu Analytics -->
+</body>
+</html>
+

@@ -28,7 +28,7 @@ TextExtractor::~TextExtractor() {
 }
 
 string TextExtractor::extract(string html){
-//	printf("before:\n%s\n",html.c_str());
+	// printf("before:\n%s\n",html.c_str());
 	cmatch ma;
 	string title;
 	if(regex_search(html.c_str(),ma,e3))
@@ -38,7 +38,7 @@ string TextExtractor::extract(string html){
 		title = regex_replace(title,e2," ",match_default | format_all);
 	}
 	html = regex_replace(html,e,"",match_default | format_all);
-//	printf("after:\n%s\n",html.c_str());
+	// printf("after:\n%s\n",html.c_str());
 
 	int i;
 	vector<string> lines;
@@ -50,7 +50,7 @@ string TextExtractor::extract(string html){
 	{
 		lines[i] = regex_replace(lines[i],e2," ",match_default | format_all);
 		trim(lines[i]);
-//		printf("%s\n",lines[i].c_str());
+		// printf("%s\n",lines[i].c_str());
 	}
 	smatch mat;
 	//统计每一行的标点符号，标点符号给予超大的权重
@@ -70,10 +70,10 @@ string TextExtractor::extract(string html){
 		{
 			dist[i]+=lines[j].length();
 		}
-//		printf("%d\t",dist[i]);
+		// printf("%d\t",dist[i]);
 	}
-//	printf("\n");
-	int start_line,end_line;
+	// printf("\n");
+	int start_line=0,end_line=0;
 //	int max = 0;
 	for(i=0; i<num_lines-1; ++i){//求最大行块
 		if(dist[i]>_threshold){
@@ -95,12 +95,11 @@ string TextExtractor::extract(string html){
 			break;
 		}
 	}
-
 	//开始与结束位置前后各取20/10行为正文
 	start_line-=20;
 	end_line+=10;
 	if(start_line<0) start_line=0;
-	if(end_line>num_lines) end_line=num_lines;
+	if(end_line>num_lines-1) end_line=num_lines-1;
 	string res;
 	res.append(title);
 	res.append("^");

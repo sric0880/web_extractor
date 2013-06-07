@@ -1,0 +1,914 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<title>2013校园招聘-全职推荐-HiAll-为您提供最新、最全、最可靠的全职，校园招聘信息资讯汇总</title>
+<head>
+<meta property="qc:admins" content="35413136776011446375636" />
+<meta http-equiv="keywords" content="2013校园招聘,HiAll,招聘,校园招聘,全职职位,实习职位,大学生求职,应届生求职"/>
+<meta http-equiv="description" content="HiAll，为应届毕业生或在校生提供最新、最全、最可靠的全职、实习招聘信息、宣讲会信息与各种求职资讯与资料，成为联动学生与雇主的纽带，覆盖北京、上海、广州、海外等地区。" />
+<meta name="generator" content="HiAll2.0" />
+<meta name="author" content="HiAll" />
+<meta name="copyright" content="2004-2012 HiAll." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<script src="http://file.hiall.com.cn/newhiall/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/jquery.validate.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/utils.js" type="text/javascript"></script>
+<script src="http://file.hiall.com.cn/newhiall/js/u1.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frame/page.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/main.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/frontpage/frontpage.css" />
+<link rel="stylesheet" type="text/css" href="http://file.hiall.com.cn/newhiall/style/channels/manage.css" />
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2560481-2']);
+  _gaq.push(['_setDomainName', '.hiall.com.cn']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Google Analytics -->
+</head>
+<body>
+<div id="head">
+	<div id="headbody">
+		<div class="top">
+			<a href="/" class="head_logo floatleft"></a>
+			<div class="mid floatleft">
+			<form method="post" action="/search/infos.php">
+				<input type="text" class="head_search_input gray floatleft" maxlength="10" value="职位信息 如：管理培训生" id="searchkey" name="searchkey" onclick="if(this.value == '职位信息 如：管理培训生') this.value='';" onblur="if(this.value=='') this.value='职位信息 如：管理培训生';"/>
+				<div class="head_search_select gray pointer floatleft">
+					<div class="floatleft">
+						<div class="absolute">
+							<div class="relative head_search_select_optionbox" style="display:none; z-index:10;">
+								<ul class="head_search_select_option" id="choosecity-list">
+																<li id="r0">全部</li>
+																<li id="r1">北京</li>
+																<li id="r2">上海</li>
+																<li id="r40">广州</li>
+																<li id="r41">深圳</li>
+															</ul>
+							</div>
+						</div>
+					</div>
+					<span id="choosecity">全部</span>
+				</div>
+				<input type="hidden" name="regionid" id="regionid" value="0">
+				<input type="hidden" name="op" id="op" value="headersearch">
+				<input  type="button" class="button_head_search pointer floatleft" onclick="javascript:headerSearch(this);" />
+			</div>
+			</form>
+			<div class="right floatright">
+				<div class="head_greenicon_box floatleft">
+											<p><span class="white">个人用户</span></p>
+						<p><a href="/collect/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="http://bbs.hiall.com.cn/register_hiall.php" class="white">注册</a></p>		
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="head_blueicon_box floatleft">
+										<p><a class="white">企业用户</a></p>
+					<p><a href="/users/login.php" class="white">登陆</a><span class="white">&nbsp;|&nbsp;</span><a href="/users/register.php" class="white">注册</a></p>
+									</div>
+				<div class="vspacer floatleft"></div>
+				<div class="vspacer floatleft"></div>
+				<div class="floatleft">
+					<p><a href="/info/about.php#t2" class="white">查看企业</p><p>服务项目</a></p>
+				</div>
+				<div class="vspacer floatleft"></div>
+			</div>
+		</div>
+		<div class="clear"></div>
+		<div class="bottom">
+
+<!--<div style="position:relative;">-->
+<ul class="head_nav floatleft">
+	<li hidefocus="true" ><a href="/" hidefocus="true">首页</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://bbs.hiall.com.cn" target="_blank" hidefocus="true">BBS</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true"  class="active"><a href="/info/" hidefocus="true">全职推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/part.php" hidefocus="true">实习推荐</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/" hidefocus="true" target="_blank">宣讲会</a></li>
+	<li hidefocus="true" class="fg"></li>
+
+    <!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/speak/calendar/" hidefocus="true" target="_blank">2012校招日程</a></li>-->
+	<li hidefocus="true" ><a href="/info/special.php" hidefocus="true">专业招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/company/" hidefocus="true">名企招聘</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="/info/expire.php" hidefocus="true">申请截止</a></li>
+	<li hidefocus="true" class="fg"></li>
+    <li hidefocus="true"  style='padding-left:0px;'><a href="http://bbs.hiall.com.cn/forum-1054-1.html" hidefocus="true" target="_blank" >2013名企求职礼包</a></li>
+	<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://wenda.hiall.com.cn/" hidefocus="true" target="_blank">HiAll一问一答</a></li>
+		<li hidefocus="true" class="fg"></li>
+	<li hidefocus="true" ><a href="http://maker.wenda60.com/" hidefocus="true" target="_blank" style="color:red" class="menu_red">KnewMaker</a></li>
+	<!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/2011/" hidefocus="true" target="_blank" class="menu_red">KnewMaker</a></li>-->
+	<!--<li hidefocus="true" ><a href="http://edu.hiall.com.cn/" hidefocus="true" target="_blank">求职指导</a></li>-->
+	<!--<li hidefocus="true" ><a href="http://miaosha.hiall.com.cn/" hidefocus="true" target="_blank">职业秒杀</a></li>
+	<li hidefocus="true" class="fg"></li>-->
+	<!--<li hidefocus="true" ><a href="http://www.hiall.com.cn/yinhang/" hidefocus="true" target="_blank" style="color:red">2012银行校园招聘</a></li>-->
+</ul>
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>
+<div id="loginfloat" style="background:red;psotion:absolute;display:none;">
+	<div class="fav_topbox floatleft">
+		<p class="h22"><span class="or b">登录后可以个性化你的收藏哦！</span><span class="gray">（用HiAll bbs账号直接登录）</span><span class="gray"><a href="javascript:;" onclick="closeCollect();">关闭</a></span></p>
+		<div class="spacer"></div>
+		<form method="post" accept-charset="GB2312" name="login" id="loginform1" class="gateform" action="http://bbs.hiall.com.cn/logging.php?action=login&amp;loginsubmit=yes">
+		<input type="hidden" name="formhash" value="e9f7b113" />
+		<input type="hidden" name="referer" id="referer" value="http://www.hiall.com.cn/collect/index.php" />
+		<div>
+			<p class="h22"><span>用户名：</span><span><input type="text" class="required normalinput grayborder" size="14" name="username" id="username1" title="用户名称不能为空！" /></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/register_hiall.php" class="gray underline">新用户注册</a></span><h3 id="returnmessage"></h3></p>
+			<div class="spacer"></div>
+			<p class="h22"><span>密&nbsp;&nbsp;码：</span><span><input type="password" class="required normalinput grayborder" size="14"  id="password4" name="password" title="密码不能为空！"/></span><span class="pdlr"><a href="http://bbs.hiall.com.cn/logging.php?action=login" class="gray underline">忘记密码?</a></span></p>
+			<div class="spacer"></div>
+			<p class="fav_login_button h22"><input type="button" onclick="return ajaxpost('username1', 'password4', 'loginform1', 'returnmessage', 'returnmessage', 'onerror');" value="登  录"  class="button_or_2c white"/><span class="pdlr4"></span><a href="http://bbs.hiall.com.cn/register_hiall.php"><button class="button_or_5c white">新用户注册</button></a></p>
+		</div>
+		</form>
+	</div>
+</div>
+<div id="body">
+	<p class="h22 txtindent1 gray">当前位置：<a href="/">首页 </a> &gt; 全职推荐 &gt;
+	行业 【计算机•互联网•通信】 
+	城市 【所有】
+	属性 【普通企业】</p>
+	<div class="bigbg reborder">
+		<div id="leftcolumn" class="floatleft">
+			<div class="leftcolumn">
+				<p class="leftcolumn_title font14 b deepblack">行业分类</p>
+<ul class="left_nav">
+		<li><a href="?regions=0&tagid=1&businesses=1&content=" style="color:red;">计算机•互联网•通信</a></li>
+		<li><a href="?regions=0&tagid=1&businesses=2&content=" >电器•电子•家电</a></li>
+		<li><a href="?regions=0&tagid=1&businesses=3&content=" >金融•投资•证券</a></li>
+		<li><a href="?regions=0&tagid=1&businesses=4&content=" >咨询•财会•法律</a></li>
+		<li><a href="?regions=0&tagid=1&businesses=5&content=" >贸易•消费•进出口</a></li>
+		<li><a href="?regions=0&tagid=1&businesses=6&content=" >制药•生物•医疗</a></li>
+		<li><a href="?regions=0&tagid=1&businesses=7&content=" >工业制造•能源•原材料</a></li>
+		<li><a href="?regions=0&tagid=1&businesses=8&content=" >房地产•建筑•工程建设</a></li>
+		<li><a href="?regions=0&tagid=1&businesses=9&content=" >广告•会展•公关</a></li>
+		<li><a href="?regions=0&tagid=1&businesses=10&content=" >物流•仓储•运输</a></li>
+		<li><a href="?regions=0&tagid=1&businesses=11&content=" >教育•培训•科研•院校</a></li>
+		<li><a href="?regions=0&tagid=1&businesses=12&content=" >政府•公共事业•非盈利机构</a></li>
+		<li><a href="?regions=0&tagid=1&businesses=13&content=" >服务业</a></li>
+		<li><a href="?regions=0&tagid=1&businesses=14&content=" >农林牧渔•环保</a></li>
+		<li><a href="?regions=0&tagid=1&businesses=15&content=" >跨领域经营 </a></li>
+		<li><a href="?regions=0&tagid=1&businesses=16&content=" >其他</a></li>
+		<li><a href="?regions=0&tagid=1&businesses=17&content=" >机械•自动化•仪器仪表行•重工业</a></li>
+		<li><a href="?regions=0&tagid=1&businesses=18&content=" >汽车•摩托车行业 </a></li>
+		<li><a href="?regions=0&tagid=1&businesses=19&content=" >旅游•酒店•餐饮服务</a></li>
+		<li><a href="?regions=0&tagid=1&businesses=20&content=" >物业管理•商业中心</a></li>
+		<li><a href="?regions=0&tagid=1&businesses=21&content=" >快速消费品(食品•饮料•日化•烟酒等)</a></li>
+		<li><a href="?regions=0&tagid=1&businesses=22&content=" >家居•室内设计•装潢</a></li>
+		<li><a href="?regions=0&tagid=1&businesses=23&content=" >石油•化工•采掘•冶炼</a></li>
+		<li><a href="?regions=0&tagid=1&businesses=24&content=" >耐用消费品(服饰•纺织•家具）</a></li>
+		<li><a href="?regions=0&tagid=1&businesses=25&content=" >媒体•文化传播•出版•影视</a></li>
+		<li><a href="?regions=0&tagid=1&businesses=26&content=" >芯片•电子技术•半导体</a></li>
+		<li><a href="?regions=0&tagid=1&businesses=27&content=" >批发•零售</a></li>
+	</ul>
+
+				<div class="spacer"></div>
+				<div class="spacer"></div>
+				<p class="leftcolumn_title font14 b deepblack">热门公司推荐</p>
+<ul class="left_topcompany">
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1033-1.html">中国石化集团公司</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-212-1.html">中金(CICC)</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-183-1.html">英特尔（intel）</a></h1></li>
+	<li><h1><a href="http://www.hiall.com.cn/bbs/forum-188-1.html">联合利华Unilever</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-249-1.html">箭牌中国</a></h1></li>
+	<li><h1><a href="http://bbs.hiall.com.cn/forum-1241-1.html">完美时空</a></h1></li>
+</ul>			</div>
+<div style="margin-left:10px;">
+</div>
+		</div>
+		<div id="midcolumn" class="floatleft">
+			<div class="topnews">	
+	<div class="left floatleft lightblue">站内新闻</div>
+	<div class="right floatleft ">
+		<div class="floatleft">
+			<div class="absolute zindex200">
+				<a href="javascript:preMsg();" class="icon_arrow_blue_up relative floatleft" id="icon_arrow_blue_up"></a>
+			</div>
+		</div>
+		<div class="floatright">
+			<div class="absolute zindex200">
+				<a href="javascript:nextMsg();" class="icon_arrow_blue_down relative floatleft" id="icon_arrow_blue_down"></a>
+			</div>
+		</div>
+		<ul class="topnews_list" id="topnews_list" style="top:0px;">
+		<li id="msg_show"><a href="http://maker.wenda60.com" target="_blank" class="lightgray">【KnewMaker推荐】加入“创客”一族，感受电子DIY的魅力</a></li>					
+		</ul>
+		<ul style="display:none;">
+					<li id="msg_0"><a href="http://maker.wenda60.com" target="_blank" class="lightgray">【KnewMaker推荐】加入“创客”一族，感受电子DIY的魅力</a></li>			
+				</ul>
+		<input type="hidden" id="msg_count" value="1" />
+	</div>
+	<div class="clear"></div>
+</div>
+			<div class="clear spacer"></div>
+			<div class="quicksearchbox_deepblue" style="height:auto;">
+	<div id="quicksearch-city-hot">
+		<span class="b white">当前城市：</span>
+				<a href="?regions=0&tagid=1&businesses=1&content=" class="white active">全部</a>
+		<span class="pdlr4 white">|</span>
+				<a href="?regions=1&tagid=1&businesses=1&content=" class="white ">北京</a>
+		<span class="pdlr4 white">|</span>
+				<a href="?regions=2&tagid=1&businesses=1&content=" class="white ">上海</a>
+		<span class="pdlr4 white">|</span>
+				<a href="?regions=40&tagid=1&businesses=1&content=" class="white ">广州</a>
+		<span class="pdlr4 white">|</span>
+				<a href="?regions=41&tagid=1&businesses=1&content=" class="white ">深圳</a>
+		<span class="pdlr4 white">|</span>
+				<a href="javascript:;" class="white" id="enter-quicksearch-city-all">更多城市</a>
+	</div>
+	<div id="quicksearch-city-all" style="display:none;">
+		<div class="floatleft quicksearchbox_allcity_left"><span class="b white">所有城市：</span></div>
+		<div class="floatleft quicksearchbox_allcity_right">
+						
+			<a href="?regions=1&tagid=1&businesses=1&content=" class="white ">北京</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=2&tagid=1&businesses=1&content=" class="white ">上海</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=3&tagid=1&businesses=1&content=" class="white ">天津</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=4&tagid=1&businesses=1&content=" class="white ">重庆</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=5&tagid=1&businesses=1&content=" class="white ">河北</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=6&tagid=1&businesses=1&content=" class="white ">广东</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=7&tagid=1&businesses=1&content=" class="white ">山西</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=8&tagid=1&businesses=1&content=" class="white ">湖北</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=9&tagid=1&businesses=1&content=" class="white ">陕西</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=10&tagid=1&businesses=1&content=" class="white ">四川</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=11&tagid=1&businesses=1&content=" class="white ">辽宁</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=12&tagid=1&businesses=1&content=" class="white ">吉林</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=13&tagid=1&businesses=1&content=" class="white ">江苏</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=14&tagid=1&businesses=1&content=" class="white ">山东</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=15&tagid=1&businesses=1&content=" class="white ">浙江</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=16&tagid=1&businesses=1&content=" class="white ">安徽</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=17&tagid=1&businesses=1&content=" class="white ">黑龙江</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=18&tagid=1&businesses=1&content=" class="white ">福建</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=19&tagid=1&businesses=1&content=" class="white ">江西</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=20&tagid=1&businesses=1&content=" class="white ">河南</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=21&tagid=1&businesses=1&content=" class="white ">湖南</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=22&tagid=1&businesses=1&content=" class="white ">海南</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=23&tagid=1&businesses=1&content=" class="white ">贵州</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=24&tagid=1&businesses=1&content=" class="white ">云南</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=25&tagid=1&businesses=1&content=" class="white ">甘肃</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=26&tagid=1&businesses=1&content=" class="white ">青海</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=27&tagid=1&businesses=1&content=" class="white ">广西</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=28&tagid=1&businesses=1&content=" class="white ">内蒙古</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=29&tagid=1&businesses=1&content=" class="white ">西藏</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=30&tagid=1&businesses=1&content=" class="white ">宁夏</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=31&tagid=1&businesses=1&content=" class="white ">新疆</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=32&tagid=1&businesses=1&content=" class="white ">香港</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=33&tagid=1&businesses=1&content=" class="white ">澳门</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=34&tagid=1&businesses=1&content=" class="white ">台湾</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=35&tagid=1&businesses=1&content=" class="white ">石家庄</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=36&tagid=1&businesses=1&content=" class="white ">保定</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=39&tagid=1&businesses=1&content=" class="white ">全国</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=40&tagid=1&businesses=1&content=" class="white ">广州</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=41&tagid=1&businesses=1&content=" class="white ">深圳</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=42&tagid=1&businesses=1&content=" class="white ">武汉</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=43&tagid=1&businesses=1&content=" class="white ">美国</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=44&tagid=1&businesses=1&content=" class="white ">南京</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=45&tagid=1&businesses=1&content=" class="white ">西安</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=47&tagid=1&businesses=1&content=" class="white ">太原</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=48&tagid=1&businesses=1&content=" class="white ">沈阳</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=49&tagid=1&businesses=1&content=" class="white ">南宁</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=50&tagid=1&businesses=1&content=" class="white ">济南</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=51&tagid=1&businesses=1&content=" class="white ">贵阳</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=52&tagid=1&businesses=1&content=" class="white ">昆明</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=53&tagid=1&businesses=1&content=" class="white ">郑州</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=54&tagid=1&businesses=1&content=" class="white ">新加坡</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=55&tagid=1&businesses=1&content=" class="white ">重庆</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=56&tagid=1&businesses=1&content=" class="white ">杭州</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=57&tagid=1&businesses=1&content=" class="white ">苏州</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=58&tagid=1&businesses=1&content=" class="white ">青岛</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=59&tagid=1&businesses=1&content=" class="white ">大连</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=60&tagid=1&businesses=1&content=" class="white ">厦门</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=61&tagid=1&businesses=1&content=" class="white ">成都</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=62&tagid=1&businesses=1&content=" class="white ">无锡</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=63&tagid=1&businesses=1&content=" class="white ">哈尔滨</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=64&tagid=1&businesses=1&content=" class="white ">佳木斯</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=65&tagid=1&businesses=1&content=" class="white ">西宁</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=66&tagid=1&businesses=1&content=" class="white ">长沙</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=67&tagid=1&businesses=1&content=" class="white ">东莞</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=68&tagid=1&businesses=1&content=" class="white ">宁波</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=69&tagid=1&businesses=1&content=" class="white ">珠海</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=70&tagid=1&businesses=1&content=" class="white ">扬州</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=71&tagid=1&businesses=1&content=" class="white ">合肥</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=72&tagid=1&businesses=1&content=" class="white ">洛阳</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=73&tagid=1&businesses=1&content=" class="white ">国外</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=74&tagid=1&businesses=1&content=" class="white ">佛山</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=75&tagid=1&businesses=1&content=" class="white ">石家庄</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=76&tagid=1&businesses=1&content=" class="white ">其他</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=77&tagid=1&businesses=1&content=" class="white ">兰州</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=78&tagid=1&businesses=1&content=" class="white ">南昌</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=79&tagid=1&businesses=1&content=" class="white ">长春</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=80&tagid=1&businesses=1&content=" class="white ">贵州</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=81&tagid=1&businesses=1&content=" class="white ">乌鲁木齐</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=82&tagid=1&businesses=1&content=" class="white ">连云港</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=83&tagid=1&businesses=1&content=" class="white ">温州</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=84&tagid=1&businesses=1&content=" class="white ">海口</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=85&tagid=1&businesses=1&content=" class="white ">福州</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=86&tagid=1&businesses=1&content=" class="white ">常州</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=87&tagid=1&businesses=1&content=" class="white ">银川</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=88&tagid=1&businesses=1&content=" class="white ">南通</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=89&tagid=1&businesses=1&content=" class="white ">呼和浩特</a>
+			<span class="pdlr4 white">|</span>
+						
+			<a href="?regions=90&tagid=1&businesses=1&content=" class="white ">烟台</a>
+			<span class="pdlr4 white">|</span>
+						<a href="javascript:;" class="white" id="enter-quicksearch-city-hot">热门城市</a>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<div class="quicksearchbox_lightblue">
+	<span class="b blue">筛选条件：</span>
+	<a href="?regions=0&tagid=0&businesses=1&content=" class="blue ">所有</a>
+	<span class="pdlr4 blue">|</span>
+		<a href="?regions=0&tagid=1&businesses=1&content=" class="blue active">普通企业</a>				
+		<span class="pdlr4 blue">|</span>
+		<a href="?regions=0&tagid=2&businesses=1&content=" class="blue ">500强</a>				
+	</div>
+			<div class="spacer"></div>
+			<div class="spacer4"></div>
+			<div class="pdlr">
+				<div>
+				<div class="floatleft lightgray">共<span class="or pdlr4">12651</span>条相关内容：</div>
+				<div class="floatright">
+					<a href="part.php?regions=0&tagid=1&businesses=1&content=" class="icon_arrow_blue_right blue">查看实习推荐</a>
+					<span class="pdlr"></span>					
+				</div>
+				<div class="clear"></div>
+				</div>
+			</div>
+			<div class="spacer grayline"></div>
+			<div>
+				<div class="spacer"></div>
+				<div class="midcolumn_topc">
+	<ul class="ul_yellowdisc underline">
+			
+	</ul>
+</div>
+				<div class="spacer grayline"></div>
+			</div>
+<div style="margin-left:10px;">
+
+<script type="text/javascript"> var cpro_id = 'u153693'; </script>
+<script type="text/javascript" src="http://cpro.baidu.com/cpro/ui/c.js"></script>
+</div>
+			<div>
+				<div class="spacer"></div>
+				<div class="midcolumn_comc">
+					<ul class="ul_bluedisc underline">
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242951.html" class="blue" target="_blank">上海卓盼电子科技有限公司招聘管理培训生</a></div>
+							<span class="floatright gray pdlr">10-19</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242948.html" class="blue" target="_blank">上海北星商务咨询有限公司招聘美工</a></div>
+							<span class="floatright gray pdlr">10-19</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242945.html" class="blue" target="_blank">京睿科技（北京）有限公司招聘商务助理</a></div>
+							<span class="floatright gray pdlr">10-19</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242939.html" class="blue" target="_blank">新浪网2013校园招聘-新浪微博2013校园招聘-新浪2013校</a></div>
+							<span class="floatright gray pdlr">10-19</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242926.html" class="blue" target="_blank">上海维塔士电脑软件有限公司招聘 武汉大学专场 宣讲会</a></div>
+							<span class="floatright gray pdlr">10-19</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242914.html" class="blue" target="_blank">山东力创科技有限公司/山东力创赢芯集成电路有限公司2</a></div>
+							<span class="floatright gray pdlr">10-19</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242870.html" class="blue" target="_blank">上海达策信息技术有限公司招聘软件工程师</a></div>
+							<span class="floatright gray pdlr">10-19</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242858.html" class="blue" target="_blank">用友汽车信息科技（上海）有限公司招聘系统工程师</a></div>
+							<span class="floatright gray pdlr">10-19</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242850.html" class="blue" target="_blank">中应宜品（北京）服装有限公司招聘电子商务专员</a></div>
+							<span class="floatright gray pdlr">10-19</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242846.html" class="blue" target="_blank">天津青草环保科技有限公司2013招聘</a></div>
+							<span class="floatright gray pdlr">10-19</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242730.html" class="blue" target="_blank">上海朋源软件有限公司招聘上海朋源软件有限公司</a></div>
+							<span class="floatright gray pdlr">10-19</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242719.html" class="blue" target="_blank">上海蓝色之星科技有限公司招聘技术支持工程师</a></div>
+							<span class="floatright gray pdlr">10-19</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242715.html" class="blue" target="_blank">上海信行软件有限公司招聘产品运营助理</a></div>
+							<span class="floatright gray pdlr">10-19</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242713.html" class="blue" target="_blank">上海信行软件有限公司招聘软件研发工程师</a></div>
+							<span class="floatright gray pdlr">10-19</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242712.html" class="blue" target="_blank">上海信行软件有限公司招聘客户助理</a></div>
+							<span class="floatright gray pdlr">10-19</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242711.html" class="blue" target="_blank">上海信行软件有限公司招聘海外市场助理</a></div>
+							<span class="floatright gray pdlr">10-19</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242710.html" class="blue" target="_blank">上海信行软件有限公司招聘人事助理</a></div>
+							<span class="floatright gray pdlr">10-19</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242709.html" class="blue" target="_blank">上海北星商务咨询有限公司招聘美工设计</a></div>
+							<span class="floatright gray pdlr">10-19</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242696.html" class="blue" target="_blank">卡斯柯信号有限公司北京分公司招聘行政助理</a></div>
+							<span class="floatright gray pdlr">10-19</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242694.html" class="blue" target="_blank">华北计算技术研究所招聘物联网架构设计师</a></div>
+							<span class="floatright gray pdlr">10-19</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242683.html" class="blue" target="_blank">大亚科技集团有限公司2013校园招聘</a></div>
+							<span class="floatright gray pdlr">10-19</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242673.html" class="blue" target="_blank">阿诺（北京）精密工具有限公司2013招聘</a></div>
+							<span class="floatright gray pdlr">10-19</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242568.html" class="blue" target="_blank">北京市交通委系统所属事业单位2012招聘工作人员</a></div>
+							<span class="floatright gray pdlr">10-19</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242561.html" class="blue" target="_blank">暴风影音2013校园招聘 北京-宣讲会</a></div>
+							<span class="floatright gray pdlr">10-19</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242529.html" class="blue" target="_blank">OPPO 2013校园招聘 武汉大学宣讲会</a></div>
+							<span class="floatright gray pdlr">10-18</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242482.html" class="blue" target="_blank">易保网络技术(上海)有限公司招聘业务咨询</a></div>
+							<span class="floatright gray pdlr">10-18</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242455.html" class="blue" target="_blank">陕西至尊网络科技有限公司2013招聘</a></div>
+							<span class="floatright gray pdlr">10-18</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242437.html" class="blue" target="_blank">西安数据通信息技术有限公司2013招聘</a></div>
+							<span class="floatright gray pdlr">10-18</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242427.html" class="blue" target="_blank">济南依特浓电子科技公司2013招聘</a></div>
+							<span class="floatright gray pdlr">10-18</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242425.html" class="blue" target="_blank">广州微窝网络科技有限公司招聘Android开发工程师</a></div>
+							<span class="floatright gray pdlr">10-18</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242424.html" class="blue" target="_blank">广州微窝网络科技有限公司招聘iOS开发工程师</a></div>
+							<span class="floatright gray pdlr">10-18</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242423.html" class="blue" target="_blank">广州微窝网络科技有限公司招聘PHP开发工程师</a></div>
+							<span class="floatright gray pdlr">10-18</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242415.html" class="blue" target="_blank">北京中以嘉视科技发展有限公司招聘售前工程师</a></div>
+							<span class="floatright gray pdlr">10-18</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242414.html" class="blue" target="_blank">北京中以嘉视科技发展有限公司招聘技术支持工程师</a></div>
+							<span class="floatright gray pdlr">10-18</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242390.html" class="blue" target="_blank">上海达策信息技术有限公司招聘出纳员</a></div>
+							<span class="floatright gray pdlr">10-18</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242374.html" class="blue" target="_blank">上海众源网络有限公司（PPS网络电视）招聘华南/华北/</a></div>
+							<span class="floatright gray pdlr">10-18</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242345.html" class="blue" target="_blank">上海未来宽带技术及应用工程研究中心有限公司2013招聘</a></div>
+							<span class="floatright gray pdlr">10-18</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242167.html" class="blue" target="_blank">上海蓝色之星科技有限公司招聘渠道销售专员</a></div>
+							<span class="floatright gray pdlr">10-18</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242159.html" class="blue" target="_blank">上海车志网络科技有限公司招聘GPS监控平台软件工程师</a></div>
+							<span class="floatright gray pdlr">10-18</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242158.html" class="blue" target="_blank">上海车志网络科技有限公司招聘GPS 硬件工程师</a></div>
+							<span class="floatright gray pdlr">10-18</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242129.html" class="blue" target="_blank">趣游科技集团有限公司招聘海外市场专员</a></div>
+							<span class="floatright gray pdlr">10-18</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242097.html" class="blue" target="_blank">暴风影音2013招聘宣讲会 北京理工大学专场</a></div>
+							<span class="floatright gray pdlr">10-18</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242062.html" class="blue" target="_blank">长亮科技2013校园招聘</a></div>
+							<span class="floatright gray pdlr">10-18</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242043.html" class="blue" target="_blank">广州中望龙腾软件股份有限公司2013招聘</a></div>
+							<span class="floatright gray pdlr">10-18</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242025.html" class="blue" target="_blank">亿江科技发展有限公司2013招聘</a></div>
+							<span class="floatright gray pdlr">10-18</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_242011.html" class="blue" target="_blank">四方精创资讯有限公司2013招聘</a></div>
+							<span class="floatright gray pdlr">10-18</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_241994.html" class="blue" target="_blank">参加携程宣讲会 领取超级大奖</a></div>
+							<span class="floatright gray pdlr">10-17</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_241940.html" class="blue" target="_blank">恩赐电脑系统(北京)有限公司上海分公司招聘IT Technic</a></div>
+							<span class="floatright gray pdlr">10-17</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_241933.html" class="blue" target="_blank">东软集团（上海）有限公司招聘软件开发工程师</a></div>
+							<span class="floatright gray pdlr">10-17</span>
+							<div class="clear"></div>
+						</li>
+											<li>
+							<div class="floatleft list_midcontent"><a href="/job/position_241932.html" class="blue" target="_blank">东软集团（上海）有限公司招聘系统集成工程师</a></div>
+							<span class="floatright gray pdlr">10-17</span>
+							<div class="clear"></div>
+						</li>
+											
+					</ul>
+				</div>
+				<div class="spacer grayline"></div>
+			</div>			
+			<div class="spacer"></div>
+			<div class="pagination floatright">
+				<span class="pdlr4 lightgray">共 254 页</span><span class="pdlr4"></span><a href="?regions=0&tagid=1&businesses=1&content=&page=39">上一页</a><a href="?regions=0&tagid=1&businesses=1&content=&page=37">37</a><a href="?regions=0&tagid=1&businesses=1&content=&page=38">38</a><a href="?regions=0&tagid=1&businesses=1&content=&page=39">39</a><a href="?regions=0&tagid=1&businesses=1&content=&page=40">40</a><a href="?regions=0&tagid=1&businesses=1&content=&page=41">41</a><a href="?regions=0&tagid=1&businesses=1&content=&page=42">42</a><a href="?regions=0&tagid=1&businesses=1&content=&page=43">43</a><span class="pdlr4"></span><a href="?regions=0&tagid=1&businesses=1&content=&page=41">下一页</a><span class="pdlr4"></span><span class="pdlr4 lightgray">跳转到<input type="text" class="page" id="curpage" value="40" />页</span> <input type="button" class="button_go" onclick="javascript:gotoPage('curpage', 254, '?regions=0&tagid=1&businesses=1&content=&page')" /> <span class="pdlr4"></span>			</div>
+			<div class="clear spacer"></div>
+			<div class="spacer"></div>
+			<div class="spacer"></div>
+		</div>
+		<div id="rightcolumn" class="floatleft">
+			<div class="rightcolumn" style="padding:0px;">
+            <script type="text/javascript"><!--
+            google_ad_client = "ca-pub-9486753476951928";
+            /* 小方型广告 */
+            google_ad_slot = "3598731756";
+            google_ad_width = 200;
+            google_ad_height = 200;
+            //-->
+            </script>
+            <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+            </div>
+            <div class="rightcolumn"> 
+            <div style="margin-top:5px;">
+            </div>
+				<div>
+	<div class="rightcolumn_title font14 b deepblack">BBS热帖推荐</div>
+	<ul class="ul_arrow_gray_right ul_front_righttop underline">
+<li><a href="http://bbs.hiall.com.cn/thread-634963-1-1.html"_blank"><b>领导者如何更好的激励下属
+</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-634962-1-1.html"_blank"><b>创业学刘备，跳槽莫学吕布
+</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-634957-1-1.html"_blank"><b>4+3，制定人生方向标
+</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-634938-1-1.html"_blank"><b>如何让“海归”顺利靠岸
+</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-634937-1-1.html"_blank"><b>毕业生简历常见七大误区
+</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-634384-1-1.html"_blank"><b>2013考研全程手册
+</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-633889-1-1.html"_blank"><b>不做职场办公室的这5类人</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-633888-1-1.html"_blank"><b>为什么我的公司没有人才？ </b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-633646-1-1.html"_blank"><b>如何让职场菜鸟快速成熟 </b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-633877-1-1.html"_blank"><b>大学毕业，要学会让自己慢慢成长</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-633855-1-1.html"_blank"><b>大学生如何提高自己的人格魅力 </b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-633854-1-1.html"_blank"><b>心态改变一切，信念成就未来 </b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-633645-1-1.html"_blank"><b>如何处理好职场的“烫手山芋”</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-633643-1-1.html"_blank"><b>分享五个励志故事</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-633642-1-1.html"_blank"><b>探寻幸福企业的密码</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-633641-1-1.html"_blank"><b>给90后求职、心态的几点建议</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-632769-1-1.html"_blank"><b>感悟——今天你微笑了吗？</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-632768-1-1.html"_blank"><b>设定目标，专注自己的领域</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-632766-1-1.html"><b>大学生刚入公司脱颖而出的四个对策</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-632749-1-1.html"_blank"><b>你了解最佳的职场相处距离吗？</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-632744-1-1.html"_blank"><b>职场女性不容忽视的4个心理疾病</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-630822-1-1.html"_blank"><b>大学生创业都有那些方向</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-630856-1-1.html"_blank"><b>揭大学生求职遭遇“羊群”阻碍现象？</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-630390-1-2.html"_blank"><b>您去面试时要避免出现的六个小动作</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-630128-1-2.html"_blank"><b>在路上的80后PE从业者 以金融的方式参与创业</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-630334-1-2.html"_blank"><b>大学生刚毕业参加工作的优劣势分析</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-630651-1-1.html"_blank"><b>做自己还是演自己？</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-630649-1-1.html"_blank"><b>如何控制你的生活？</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-630643-1-1.html"_blank"><b>没考上研究生带来职业更多的可能性</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-630642-1-1.html"_blank"><b>迈向职场的一小步和一大步</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-630363-1-1.html"_blank"><b>TOP10:大学生就业十大“死里逃生” </b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-630329-1-1.html"_blank"><b>毕业生职场不该在乎的八件事</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-630325-1-1.html"_blank"><b>毕业生必读：职场打拼九大必胜心法</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-630322-1-1.html" target="_blank"><b>怎么做好创业规划</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-630115-1-1.html"_blank"><b>大学生初入职场致命的几句话</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-630101-1-1.html"_blank"><b>二本女求职经历</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-630069-1-1.html" target="_blank"><b>二本学生成功应聘国企、世界500强的求职经历</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-630065-1-1.html" target="_blank"><b>吐血的面试经验</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-623456-1-1.html" target="_blank"><b>三国人物的职业发展观</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-623453-1-1.html" target="_blank"><b>大学四年后明白的一百件事</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-629823-1-1.html" target="_blank"><b>创业投资须注意的四大禁忌</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-629864-1-1.html" target="_blank"><b>大学生混好职场必看的20部电影</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-629882-1-1.html" target="_blank"><b>不算面经的面经</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-629896-1-1.html" target="_blank"><b>2012年还没有offer的迷茫求职者</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-629897-1-1.html" target="_blank"><b>我们一起追过的Offer
+</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-629898-1-1.html" target="_blank"><b>2012献给正在奋斗或是即将踏入就业大潮的学生们</b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-622239-1-1.html" target="_blank"><b>揭秘2012校园招聘薪酬待遇</b></a></li>
+<li><a href="http://present.hiall.com.cn/" target="_blank"><b>2012校园招聘求职大礼包</b></a></li>
+<li><a href="http://zhaopin.hiall.com.cn/weibo/" target="_blank"><b>史上最全的名企招聘微博集合 </b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-562026-1-1.html" target="_blank"><b>名企2012校园招聘网申截止汇总 </b></a></li>
+<li><a href="http://bbs.hiall.com.cn/thread-558119-1-1.html" target="_blank"><b>名企2012校园招聘进程表汇总</b></a></li>
+<li><a href="http://qiuzhi.hiall.com.cn" target="_blank"><b>2012大学生求职指南</b></a></li>
+</ul></div>			</div>
+			
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<div id="foot">
+	<div class="footbody">
+		<div class="foot_top aligncenter white"> <a href="http://www.hiall.com.cn/" class="white">HiAll校园招聘</a> <span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/" class="white">HiAll论坛</a> 
+
+<span class="pdlr4">|</span> <a href="http://wenda.hiall.com.cn/" class="white">HiAll一问一答</a>
+
+<span class="pdlr4">|</span> <a href="http://maker.wenda60.com/" class="white">KnewMaker</a>
+
+
+<span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/forum-744-1.html" class="white">校园招聘求职大礼包</a> <span class="pdlr4">|</span> <a href="http://hr.hiall.com.cn/" class="white">加入HiAll</a>
+<span class="pdlr4">|</span> <a href="http://bbs.hiall.com.cn/thread-150495-1-1.html" class="white">广告合作</a> <span class="pdlr4">|</span> <a href="/info/about.php" class="white">关于我们</a> <span class="pdlr4">|</span> <a href="/info/sitemap.php" class="white">网站地图</a></div>		<div class="foot_mid aligncenter white"> 网站相关问题请联系：010-82601802 || 企业服务请联系：010-82600684</div>
+		<div class="foot_bot aligncenter white">Copyright HiAll
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP备10021013号
+			<span class="pdlr"></span><span class="pdlr"></span>京ICP证090110号
+			<span class="pdlr"></span><span class="pdlr"></span>京公网安备11010802010560号
+		</div>
+	</div>
+</div>
+<!-- Baidu Analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F56dda118cbb3220435957635a699495b' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- Baidu Analytics -->
+</body>
+</html>
