@@ -71,8 +71,8 @@ void TemplatePongo::match_position(Data& entry,const string& str){
 		int len = r.length();
 		if (len != 0) {
 			algorithm::to_lower(r);
-			NLPIR_AddUserWord(r.c_str());//标题中提取的职位名称保存到用户词典中
-			NLPIR_SaveTheUsrDic();
+			// NLPIR_AddUserWord(r.c_str());//标题中提取的职位名称保存到用户词典中
+			// NLPIR_SaveTheUsrDic();
 			entry.position = new char[len + 1];
 			strcpy(entry.position, r.c_str());
 		}
