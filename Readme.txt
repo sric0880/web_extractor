@@ -8,6 +8,7 @@
 安装mysql并启动mysql service
 	/lib所有文件加入到/usr/local/lib下 /include下的h文件move到/usr/local/include下
 
+现在mysql中创建数据库 名称叫做：interninfo
 将interninfo.sql导入mysql数据库中
 
 运行：
