@@ -51,10 +51,11 @@ void OutputMysql::output(const Data& entry) {
 		prep_stmt->setString(7, entry.workplace);
 	else
 		prep_stmt->setString(7, "");
-	if (entry.publish_time != NULL)
-		prep_stmt->setString(8, entry.publish_time);
+	if (entry.publish_time != NULL){
+		prep_stmt->setDateTime(8, entry.publish_time);
+	}
 	else
-		prep_stmt->setString(8, "");
+		prep_stmt->setString(8, "0000-00-00");
 	if (entry.raw_text != NULL)
 		prep_stmt->setString(9, entry.raw_text);
 	else

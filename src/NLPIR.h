@@ -18,11 +18,20 @@
  * Notes:
  *                
  ****************************************************************************/
-#if !defined(__NLPIR_2013_LIB_INCLUDED__)
+
+#ifndef __NLPIR_2013_LIB_INCLUDED__
 #define __NLPIR_2013_LIB_INCLUDED__
 
-#ifdef __linux
-	#define NLPIR_API 
+#if defined(__APPLE__) && defined(__GNUC__)
+#  define Q_OS_MAC
+#elif defined(__MACOSX__)
+#  define Q_OS_MAC
+#elif defined(macintosh)
+#  define Q_OS_MAC
+#endif
+
+#if defined(__linux)||defined(Q_OS_MAC)
+	#define NLPIR_API  
 #else
 #ifdef NLPIR_EXPORTS
 #ifdef CSHARP_API
@@ -425,7 +434,7 @@ NLPIR_API int NLPIR_SetPOSmap(int nPOSmap);
 *  History    : 
 *              1.create 2005-11-10
 *********************************************************************/
-#ifdef __linux
+#if defined(__linux)||defined(Q_OS_MAC)
 class  CNLPIR {
 #else
 class  __declspec(dllexport) CNLPIR {

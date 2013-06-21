@@ -1,6 +1,6 @@
 CC = g++
-INCLUDES = -I/usr/include -I/usr/include/c++/4.7 -I/usr/local/include
-LIBDIR = -L/usr/local/lib
+INCLUDES = -I/usr/include -I/usr/local/include
+LIBDIR = -L/usr/lib -L/usr/local/lib
 LIB = -lpthread -lboost_regex -lNLPIR -lmysqlclient -lmysqlcppconn
 OUTDIR = ./obj
 OBJ = HtmlProcessor.o TextExtractor.o test.o \
@@ -10,11 +10,12 @@ OBJ = HtmlProcessor.o TextExtractor.o test.o \
 	TemplatePongo.o TemplateHiall.o
 
 OPTIONS = -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++0x
+#OPTIONS = $(OPTIONS0) $(BITS)
 
 all: init web_extractor
 
 web_extractor: $(OBJ)
-	$(CC) $(OUTDIR)/Dictionary.o \
+	$(CC) $(BITS) $(OUTDIR)/Dictionary.o \
 	$(OUTDIR)/DuplicateRemoval.o $(OUTDIR)/InfoExtractor.o \
 	$(OUTDIR)/OutputMysql.o $(OUTDIR)/Template.o \
 	$(OUTDIR)/TemplateHiall.o $(OUTDIR)/TemplatePongo.o \

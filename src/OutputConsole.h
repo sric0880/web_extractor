@@ -22,7 +22,7 @@ public:
 		if (entry.company != NULL)
 			fprintf(f,"company:%s\n", entry.company);
 		if (entry.position != NULL)
-			fprintf(f,"position:%s\n", entry.position);
+			fprintf(f,"position:%s ", entry.position);
 		if (entry.publish_time != NULL)
 			fprintf(f,"publish_time:%s\n", entry.publish_time);
 		if (entry.workplace != NULL)

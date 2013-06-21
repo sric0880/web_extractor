@@ -26,16 +26,12 @@ DuplicateRemoval::DuplicateRemoval()
 		fingerprint[simhash]=docid;
 	}
 	in.close();
+	out.open(FILE_NAME, ofstream::out|ofstream::app);
 }
 
 DuplicateRemoval::~DuplicateRemoval() {
 	//write to file
-	ofstream out;
-	out.open(FILE_NAME, ofstream::out);
-	for(auto& w:fingerprint) {
-		out<<w.first<<" "<<w.second<<"\n";
-	}
-	out.flush();
+	fingerprint.clear();
 	out.close();
 }
 
@@ -73,6 +69,8 @@ bool DuplicateRemoval::is_duplicate(string str){
 	if(_hamming_distance(fp)>2){
 		int docid = fingerprint.size();
 		fingerprint[fp] = docid;
+		out<<fp<<" "<<docid<<"\n";
+		out.flush();
 		return false;
 	}else
 		return true;

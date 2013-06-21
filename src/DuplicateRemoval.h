@@ -14,7 +14,6 @@
 #include <fstream>
 #include <sstream>
 #include <bitset>
-#include "NLPIR.h"
 #include <limits.h>
 using namespace std;
 typedef unsigned long long size_m;
@@ -27,6 +26,7 @@ private:
 	unordered_map<size_m,int> fingerprint;//document finger print
 	int _hamming_distance(size_m &hash);
 	size_m hash_fn(string x);
+	ofstream out;
 //	inline bool _pos_filter(int pos_id);
 };
 //const int POS_LEN = 14;
